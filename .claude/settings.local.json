@@ -43,7 +43,10 @@
       "Bash(python -c \"from src.rag import expand_query, retrieve, answer_query, DEFAULT_RETRIEVE_K_PER_QUERY, EXPAND_QUERY_VERSIONS; print\\('OK: imports válidos, EXPAND_QUERY_VERSIONS=', EXPAND_QUERY_VERSIONS, 'DEFAULT_RETRIEVE_K_PER_QUERY=', DEFAULT_RETRIEVE_K_PER_QUERY\\)\")",
       "Bash(./.venv/Scripts/python.exe -c \"from src.rag import expand_query, retrieve, answer_query, DEFAULT_RETRIEVE_K_PER_QUERY, EXPAND_QUERY_VERSIONS; print\\('OK: imports válidos, EXPAND_QUERY_VERSIONS=', EXPAND_QUERY_VERSIONS, 'DEFAULT_RETRIEVE_K_PER_QUERY=', DEFAULT_RETRIEVE_K_PER_QUERY\\)\")",
       "Bash(python tests/qa_consultas_coloquiales.py pre)",
-      "Skill(using-superpowers)"
+      "Skill(using-superpowers)",
+      "PowerShell(Get-ChildItem *)",
+      "PowerShell(Get-ChildItem -Path \"C:\\\\Users\\\\edu20\\\\Documents\\\\Legis\" -Depth 0 | Where-Object { $_.Extension -match '\\\\.\\(html|md|txt\\)$' -or !$_.Extension } | Select-Object Name, @{Name=\"Type\";Expression={if\\($_.PSIsContainer\\){\"DIR\"}else{$_.Extension}}})",
+      "Bash(grep -E '\\\\.\\(html|md|txt\\)$')"
     ]
   }
 }
