@@ -1,0 +1,38 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+*.egg-info/
+.pytest_cache/
+
+# Env y secretos
+.env
+.env.local
+.streamlit/secrets.toml
+
+# Vector DB persistido (regenerable con `python src/ingest.py`)
+chroma_db/
+
+# Corpus crudo (PDFs originales — pesado, descargable de fuentes oficiales)
+corpus/raw/*
+!corpus/raw/.gitkeep
+
+# Corpus procesado (regenerable)
+corpus/processed/*
+!corpus/processed/.gitkeep
+
+# Cachés locales
+.cache/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Sistema operativo
+.DS_Store
+Thumbs.db

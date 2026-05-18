@@ -1,0 +1,1899 @@
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover" />
+<title>Legis — El precedente exacto, en segundos.</title>
+<meta name="description" content="IA legal para despachos laboralistas en México. Encuentra jurisprudencia SCJN y cita artículos exactos de la LFT en segundos." />
+<meta name="theme-color" content="#185FA5" />
+
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600;700;800&display=swap" rel="stylesheet" />
+
+<style>
+/* ============================================================
+   LEGIS — Landing  (identidad: app oficial, fondo blanco, #185FA5)
+   ============================================================ */
+
+*,*::before,*::after { box-sizing:border-box; margin:0; padding:0; }
+
+:root {
+  /* Color base */
+  --bg:            #FFFFFF;
+  --bg-soft:       #FAFAFB;
+  --surface:       #F5F5F7;
+  --surface-2:     #FFFFFF;
+  --surface-3:     #EEF0F4;
+
+  /* Marca */
+  --primary:       #185FA5;
+  --primary-dark:  #0C447C;
+  --primary-soft:  #E6F1FB;
+  --primary-soft-2:#D6E7F7;
+
+  /* Texto */
+  --text:          #1A1A2E;
+  --text-2:        #4A5060;
+  --text-muted:    #6B7280;
+  --text-faint:    #9CA3AF;
+
+  /* Bordes */
+  --border:        #E5E7EB;
+  --border-2:      #D1D5DB;
+  --border-strong: #B8BEC7;
+
+  /* Estado */
+  --warn-bg:       #FAEEDA;
+  --warn-text:     #633806;
+  --warn-border:   #F3DDB1;
+  --success:       #16A34A;
+  --danger:        #DC2626;
+
+  /* Type */
+  --font-sans: "Inter", system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
+  --font-mono: ui-monospace, "SF Mono", Menlo, Consolas, monospace;
+
+  /* Motion */
+  --ease: cubic-bezier(.2,.7,.2,1);
+  --ease-out: cubic-bezier(.16,1,.3,1);
+
+  /* Layout */
+  --maxw: 1180px;
+  --gutter: clamp(20px, 4vw, 40px);
+  --radius: 12px;
+  --radius-lg: 16px;
+
+  /* Sombras suaves para fondo claro */
+  --shadow-sm: 0 1px 2px rgba(16,24,40,0.04);
+  --shadow-md: 0 4px 12px -2px rgba(16,24,40,0.06), 0 2px 4px -2px rgba(16,24,40,0.04);
+  --shadow-lg: 0 12px 32px -8px rgba(16,24,40,0.10), 0 4px 12px -4px rgba(16,24,40,0.05);
+  --shadow-xl: 0 24px 60px -16px rgba(24,95,165,0.18), 0 8px 24px -8px rgba(16,24,40,0.08);
+}
+
+html { scroll-behavior:smooth; -webkit-text-size-adjust:100%; }
+body {
+  background: var(--bg);
+  color: var(--text);
+  font-family: var(--font-sans);
+  font-feature-settings: "cv11", "ss01";
+  font-weight: 400;
+  line-height: 1.55;
+  letter-spacing: -0.005em;
+  overflow-x: hidden;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+/* Atmósfera muy sutil — un wash azul detrás del hero, nada más */
+body::before {
+  content:"";
+  position: fixed;
+  inset: 0;
+  z-index: -1;
+  background:
+    radial-gradient(900px 500px at 80% -10%, rgba(24,95,165,0.07), transparent 60%),
+    radial-gradient(700px 500px at 10% 10%, rgba(24,95,165,0.04), transparent 60%);
+  pointer-events:none;
+}
+
+a { color: inherit; text-decoration:none; }
+button { font: inherit; cursor:pointer; }
+img,svg { display:block; max-width:100%; }
+
+::selection { background: var(--primary-soft); color: var(--primary-dark); }
+
+/* ============================================================
+   LAYOUT
+   ============================================================ */
+.container {
+  width:100%;
+  max-width: var(--maxw);
+  margin: 0 auto;
+  padding-inline: var(--gutter);
+}
+.section { padding-block: clamp(72px, 11vw, 130px); position:relative; }
+.section.soft { background: var(--bg-soft); border-block: 1px solid var(--border); }
+.section-head { max-width: 760px; margin: 0 auto clamp(44px,6vw,72px); text-align:center; }
+
+.eyebrow {
+  display: inline-flex;
+  align-items: center;
+  gap: 8px;
+  font-size: 12px;
+  font-weight: 600;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--primary);
+  padding: 6px 12px;
+  border: 1px solid var(--primary-soft-2);
+  border-radius: 999px;
+  background: var(--primary-soft);
+  margin-bottom: 20px;
+}
+.eyebrow .dot {
+  width: 6px; height: 6px; border-radius:50%;
+  background: var(--primary);
+  animation: pulse 2s ease-in-out infinite;
+}
+@keyframes pulse {
+  0%,100% { opacity:1; transform:scale(1); }
+  50% { opacity:.45; transform:scale(.8); }
+}
+
+h1,h2,h3 { font-weight: 700; letter-spacing: -0.02em; line-height: 1.12; color: var(--text); }
+h2 { font-size: clamp(30px, 4.2vw, 48px); }
+h2 .accent, h1 .accent { color: var(--primary); }
+h3 { font-size: clamp(18px, 1.7vw, 21px); font-weight: 600; }
+.lead {
+  font-size: clamp(16px, 1.4vw, 18px);
+  color: var(--text-2);
+  line-height: 1.6;
+}
+
+/* ============================================================
+   BUTTONS
+   ============================================================ */
+.btn {
+  display: inline-flex; align-items:center; justify-content:center;
+  gap: 8px;
+  padding: 11px 18px;
+  border-radius: 10px;
+  border: 1px solid transparent;
+  font-size: 14.5px;
+  font-weight: 600;
+  letter-spacing: -0.005em;
+  transition: all .18s var(--ease);
+  white-space: nowrap;
+}
+.btn-primary {
+  background: var(--primary);
+  color: #fff;
+  box-shadow: 0 1px 2px rgba(24,95,165,0.25), 0 4px 12px -4px rgba(24,95,165,0.4);
+}
+.btn-primary:hover {
+  background: #134E89;
+  transform: translateY(-1px);
+  box-shadow: 0 2px 4px rgba(24,95,165,0.3), 0 8px 20px -4px rgba(24,95,165,0.5);
+}
+.btn-primary:active { transform: translateY(0); }
+.btn-ghost {
+  background: #fff;
+  color: var(--text);
+  border-color: var(--border-2);
+  box-shadow: var(--shadow-sm);
+}
+.btn-ghost:hover { background: var(--surface); border-color: var(--border-strong); }
+.btn-lg { padding: 13px 22px; font-size: 15px; border-radius: 11px; }
+.btn .arrow { transition: transform .2s var(--ease); }
+.btn:hover .arrow { transform: translateX(2px); }
+
+/* ============================================================
+   BRAND MARK (balanza, como la app)
+   ============================================================ */
+.brand-mark {
+  width: 28px; height: 28px;
+  border-radius: 8px;
+  background: var(--primary);
+  display:inline-flex; align-items:center; justify-content:center;
+  position: relative;
+  box-shadow: 0 2px 6px -2px rgba(24,95,165,0.45);
+  color: #fff;
+  flex-shrink: 0;
+}
+.brand-mark svg { width: 18px; height: 18px; }
+
+/* ============================================================
+   NAV
+   ============================================================ */
+.nav {
+  position: sticky; top: 0; z-index: 50;
+  backdrop-filter: blur(12px) saturate(150%);
+  -webkit-backdrop-filter: blur(12px) saturate(150%);
+  background: rgba(255,255,255,0.82);
+  border-bottom: 1px solid var(--border);
+}
+.nav-inner {
+  display:flex; align-items:center; justify-content:space-between;
+  height: 64px;
+}
+.brand {
+  display:flex; align-items:center; gap: 10px;
+  font-weight: 700;
+  letter-spacing: -0.02em;
+  font-size: 18px;
+  color: var(--primary);
+}
+.nav-links {
+  display:flex; align-items:center; gap: 30px;
+  list-style:none;
+}
+.nav-links a {
+  color: var(--text-2);
+  font-size: 14px;
+  font-weight: 500;
+  transition: color .15s var(--ease);
+}
+.nav-links a:hover { color: var(--primary); }
+.nav-cta { display:flex; align-items:center; gap: 12px; }
+@media (max-width: 820px) {
+  .nav-links { display:none; }
+}
+
+/* ============================================================
+   HERO
+   ============================================================ */
+.hero { padding-block: clamp(60px, 9vw, 100px) clamp(40px, 6vw, 80px); position: relative; overflow:hidden; }
+.hero-inner { display:grid; grid-template-columns: 1.05fr 1fr; gap: clamp(36px, 6vw, 72px); align-items:center; }
+@media (max-width: 980px) {
+  .hero-inner { grid-template-columns: 1fr; gap: 52px; text-align:center; }
+  .hero-eyebrow-wrap { justify-content:center; display:flex; }
+}
+
+.hero-eyebrow {
+  display:inline-flex; align-items:center; gap: 10px;
+  padding: 6px 6px 6px 6px;
+  background: #fff;
+  border: 1px solid var(--border);
+  border-radius: 999px;
+  font-size: 13px;
+  color: var(--text-2);
+  margin-bottom: 24px;
+  box-shadow: var(--shadow-sm);
+}
+.hero-eyebrow .tag {
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  padding: 3px 9px;
+  border-radius: 999px;
+  background: var(--primary-soft);
+  color: var(--primary-dark);
+}
+.hero-eyebrow .label { padding-right: 8px; }
+
+.hero h1 {
+  font-size: clamp(38px, 5.8vw, 62px);
+  font-weight: 700;
+  letter-spacing: -0.03em;
+  line-height: 1.05;
+  margin-bottom: 22px;
+  color: var(--text);
+}
+.hero h1 .accent { color: var(--primary); }
+
+.hero .lead { max-width: 540px; font-size: clamp(16px, 1.55vw, 19px); margin-bottom: 32px; color: var(--text-2); }
+@media (max-width: 980px) { .hero .lead { margin-inline:auto; } }
+.hero-ctas { display:flex; gap: 12px; flex-wrap:wrap; }
+@media (max-width: 980px) { .hero-ctas { justify-content:center; } }
+
+.hero-meta {
+  display:flex; align-items:center; gap: 16px;
+  margin-top: 28px;
+  font-size: 13px;
+  color: var(--text-muted);
+}
+@media (max-width: 980px) { .hero-meta { justify-content:center; flex-wrap:wrap; } }
+.hero-meta .sep { width:4px; height:4px; border-radius:50%; background: var(--border-2); }
+.hero-meta .check { color: var(--success); }
+
+/* ---------- Mockup hero (app simulada — fondo blanco) ---------- */
+.hero-mockup-wrap { position:relative; }
+.hero-glow {
+  position: absolute;
+  inset: -8% -10%;
+  background:
+    radial-gradient(60% 60% at 50% 50%, rgba(24,95,165,0.18), transparent 70%);
+  filter: blur(40px);
+  z-index: 0;
+  pointer-events:none;
+}
+.app-mockup {
+  position: relative;
+  z-index: 1;
+  background: #FFFFFF;
+  border: 1px solid var(--border);
+  border-radius: 16px;
+  overflow: hidden;
+  box-shadow: var(--shadow-xl);
+  transform: perspective(1800px) rotateX(1.5deg) rotateY(-2.5deg);
+  animation: heroFloat 8s ease-in-out infinite;
+}
+@keyframes heroFloat {
+  0%,100% { transform: perspective(1800px) rotateX(1.5deg) rotateY(-2.5deg) translateY(0); }
+  50%     { transform: perspective(1800px) rotateX(1.5deg) rotateY(-2.5deg) translateY(-6px); }
+}
+.app-bar {
+  display:flex; align-items:center; gap:8px;
+  padding: 10px 14px;
+  background: var(--surface);
+  border-bottom: 1px solid var(--border);
+}
+.app-dot { width:10px; height:10px; border-radius:50%; background: #D1D5DB; }
+.app-dot:nth-child(1) { background:#FF5F57; }
+.app-dot:nth-child(2) { background:#FEBC2E; }
+.app-dot:nth-child(3) { background:#28C840; }
+.app-url {
+  margin-left: 14px;
+  font-family: var(--font-mono);
+  font-size: 11px;
+  color: var(--text-muted);
+  padding: 4px 10px;
+  background: #fff;
+  border-radius: 6px;
+  border: 1px solid var(--border);
+}
+/* ---- App mockup: replica fiel de frontend/index.html ---- */
+.app-body { display:grid; grid-template-columns: 220px 1fr; min-height: 430px; }
+.app-side {
+  border-right: 1px solid var(--border);
+  padding: 16px 14px;
+  background: var(--surface);
+  display:flex; flex-direction:column; gap: 10px;
+}
+.app-side-brand {
+  display:flex; align-items:center; gap:8px;
+  font-size: 18px; font-weight: 700;
+  color: var(--primary-dark);
+  padding: 0 4px;
+  letter-spacing: -0.01em;
+}
+.app-side-brand .scale-glyph { font-size: 22px; color: var(--primary); line-height: 1; }
+.app-side-tagline {
+  font-size: 10.5px;
+  color: var(--text-muted);
+  padding: 0 4px;
+  margin-bottom: 8px;
+  line-height: 1.4;
+}
+.app-side-section {
+  font-size: 10px;
+  font-weight: 600;
+  color: var(--text-muted);
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  padding: 0 4px;
+  margin-top: 6px;
+}
+.app-side-stat {
+  background: #fff;
+  border: 1px solid var(--border);
+  border-radius: 6px;
+  padding: 7px 9px;
+  display: flex;
+  align-items: center;
+  gap: 8px;
+}
+.app-side-stat .num {
+  font-size: 16px;
+  font-weight: 700;
+  color: var(--primary);
+  font-variant-numeric: tabular-nums;
+  line-height: 1;
+  min-width: 2.4ch;
+  text-align: right;
+  flex-shrink: 0;
+}
+.app-side-stat .lbl {
+  font-size: 10.5px;
+  color: var(--text);
+  line-height: 1.3;
+}
+.app-side-source {
+  display:flex; align-items:center; gap: 6px;
+  font-size: 11px;
+  color: var(--text);
+  padding: 2px 4px;
+}
+.app-side-source .ok { color: #22A06B; font-weight: 700; }
+
+/* ---- Chat / respuesta (replica del flujo real) ---- */
+.app-chat {
+  padding: 18px 20px;
+  display:flex; flex-direction:column;
+  gap: 12px;
+  background: #fff;
+  min-width: 0;
+}
+.chat-user {
+  align-self:flex-end;
+  max-width: 80%;
+  background: var(--primary);
+  color: #fff;
+  font-size: 12.5px;
+  padding: 9px 13px;
+  border-radius: 14px 14px 4px 14px;
+  font-weight: 500;
+  line-height: 1.45;
+  box-shadow: 0 1px 2px rgba(24,95,165,0.18);
+}
+.chat-ai {
+  background: #fff;
+  border: 1px solid var(--border);
+  font-size: 12.5px;
+  color: var(--text);
+  padding: 13px 14px;
+  border-radius: 10px;
+  line-height: 1.55;
+  box-shadow: var(--shadow-sm);
+}
+.chat-ai p { margin-bottom: 8px; }
+.chat-ai p:last-child { margin-bottom: 0; }
+.chat-ai strong { color: var(--text); font-weight:600; }
+.cita-inline {
+  display:inline-block;
+  font-size: 11px;
+  font-weight: 600;
+  color: var(--primary-dark);
+  padding: 1px 6px;
+  border-radius: 4px;
+  background: var(--primary-soft);
+  font-family: var(--font-sans);
+  letter-spacing: -0.005em;
+  margin: 0 1px;
+  white-space: nowrap;
+}
+
+/* Barra de confianza inline (como frontend/index.html) */
+.chat-confidence {
+  display:flex; align-items:center; gap: 8px;
+  margin-top: 4px;
+  padding: 7px 10px;
+  background: var(--bg-soft);
+  border: 1px solid var(--border);
+  border-radius: 6px;
+}
+.chat-confidence .lbl {
+  font-size: 10.5px;
+  font-weight: 600;
+  color: var(--text-muted);
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+}
+.chat-confidence .bar {
+  flex: 1;
+  height: 5px;
+  background: var(--border);
+  border-radius: 999px;
+  overflow: hidden;
+  min-width: 40px;
+}
+.chat-confidence .fill {
+  height: 100%;
+  background: linear-gradient(90deg, var(--primary), #2C7BC8);
+  border-radius: 999px;
+}
+.chat-confidence .badge {
+  font-size: 10px;
+  font-weight: 700;
+  padding: 2px 7px;
+  border-radius: 999px;
+  background: #EAF3DE;
+  color: #27500A;
+  letter-spacing: 0.02em;
+}
+.chat-confidence .pct {
+  font-size: 10.5px;
+  font-weight: 600;
+  color: var(--text-muted);
+  font-variant-numeric: tabular-nums;
+}
+
+@media (max-width: 600px) {
+  .app-mockup { transform: none; animation:none; }
+  .app-body { grid-template-columns: 1fr; min-height: auto; }
+  .app-side { display:none; }
+}
+
+/* ============================================================
+   TRUST
+   ============================================================ */
+.trust {
+  padding-block: 36px;
+  border-top: 1px solid var(--border);
+  border-bottom: 1px solid var(--border);
+  background: var(--bg-soft);
+}
+.trust-inner { display:flex; align-items:center; justify-content:space-between; flex-wrap:wrap; gap: 20px; }
+.trust-label {
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: 0.1em;
+  text-transform: uppercase;
+  color: var(--text-muted);
+}
+.trust-logos { display:flex; align-items:center; gap: 32px; flex-wrap:wrap; }
+.trust-logo {
+  font-size: 13px; color: var(--text-2);
+  letter-spacing: -0.005em;
+  display:inline-flex; align-items:center; gap: 6px;
+}
+.trust-logo strong { font-weight: 700; color: var(--primary); }
+.trust-logo .sep { color: var(--text-faint); }
+
+/* ============================================================
+   PROBLEMA
+   ============================================================ */
+.pain-grid { display:grid; grid-template-columns: repeat(3, 1fr); gap: 18px; }
+@media (max-width: 900px) { .pain-grid { grid-template-columns: 1fr; } }
+
+.pain-card {
+  position:relative;
+  background: var(--surface-2);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-lg);
+  padding: 26px;
+  transition: all .22s var(--ease);
+  box-shadow: var(--shadow-sm);
+}
+.pain-card:hover {
+  border-color: var(--primary-soft-2);
+  transform: translateY(-2px);
+  box-shadow: var(--shadow-md);
+}
+.pain-icon {
+  width: 42px; height: 42px;
+  border-radius: 10px;
+  background: var(--primary-soft);
+  border: 1px solid var(--primary-soft-2);
+  display:flex; align-items:center; justify-content:center;
+  margin-bottom: 18px;
+  color: var(--primary);
+}
+.pain-icon svg { width: 20px; height: 20px; }
+.pain-card h3 { margin-bottom: 8px; color: var(--text); }
+.pain-card p { color: var(--text-2); font-size: 14.5px; line-height: 1.6; }
+.pain-stat {
+  display:flex;
+  align-items: center;
+  gap: 8px;
+  margin-top: 18px;
+  font-size: 12.5px;
+  color: var(--text-muted);
+  padding-top: 14px;
+  border-top: 1px dashed var(--border);
+}
+.pain-stat strong { color: var(--primary); font-weight:700; }
+.pain-stat .bullet { width: 5px; height: 5px; border-radius: 50%; background: var(--primary); }
+
+.problem-headline {
+  text-align:center;
+  max-width: 880px;
+  margin: 0 auto 32px;
+}
+.problem-headline h2 {
+  font-size: clamp(30px, 4.6vw, 50px);
+  letter-spacing: -0.025em;
+  color: var(--text);
+}
+.problem-headline h2 .num {
+  color: var(--primary);
+  font-weight: 800;
+}
+
+/* ============================================================
+   DEMO ANIMADA
+   ============================================================ */
+.demo-shell {
+  position: relative;
+  max-width: 920px;
+  margin: 0 auto;
+  background: #FFFFFF;
+  border: 1px solid var(--border);
+  border-radius: 18px;
+  overflow: hidden;
+  box-shadow: var(--shadow-xl);
+}
+.demo-bar {
+  display:flex; align-items:center; gap: 8px;
+  padding: 12px 16px;
+  border-bottom: 1px solid var(--border);
+  background: var(--surface);
+}
+.demo-bar .demo-title {
+  font-family: var(--font-mono);
+  font-size: 11.5px;
+  color: var(--text-muted);
+  margin-left: 12px;
+  letter-spacing: 0.02em;
+}
+.demo-bar .demo-status {
+  margin-left:auto;
+  display:flex; align-items:center; gap: 6px;
+  font-size: 11.5px;
+  color: var(--text-muted);
+  font-weight: 500;
+}
+.demo-bar .demo-status .dot {
+  width:8px; height:8px; border-radius:50%;
+  background: var(--success);
+  box-shadow: 0 0 0 3px rgba(22,163,74,0.15);
+}
+
+.demo-body { padding: 26px 26px 30px; min-height: 380px; background: #fff; }
+
+/* === INPUT === */
+.demo-input {
+  display:flex; align-items:flex-start; gap: 12px;
+  padding: 14px 16px;
+  border: 1px solid var(--border);
+  background: var(--bg-soft);
+  border-radius: 12px;
+  margin-bottom: 18px;
+}
+.demo-input-icon {
+  flex-shrink:0;
+  width: 28px; height: 28px;
+  border-radius: 8px;
+  background: var(--primary);
+  display:flex; align-items:center; justify-content:center;
+  font-weight: 700;
+  font-size: 13px;
+  color: #fff;
+}
+.demo-input-text {
+  flex: 1;
+  font-size: 14.5px;
+  color: var(--text);
+  line-height: 1.55;
+  min-height: 22px;
+  position: relative;
+  font-weight: 500;
+}
+.demo-input-text::after {
+  content:"|";
+  display: inline-block;
+  margin-left: 2px;
+  color: var(--primary);
+  animation: blink 1s steps(2,end) infinite;
+}
+@keyframes blink { 50% { opacity: 0; } }
+
+.demo-typed { display: inline; }
+.demo-typed-inner {
+  display: inline-block;
+  overflow: hidden;
+  vertical-align: bottom;
+  white-space: nowrap;
+  max-width: 0;
+  animation: typing 2.2s steps(80, end) forwards;
+  animation-delay: .4s;
+}
+@keyframes typing { to { max-width: 100%; } }
+
+/* === PROCESSING === */
+.demo-processing {
+  display:flex; flex-direction:column; gap: 10px;
+  padding: 14px 16px;
+  border: 1px solid var(--border);
+  background: var(--bg-soft);
+  border-radius: 12px;
+  margin-bottom: 18px;
+  opacity: 0;
+  transform: translateY(6px);
+  animation: fadeIn .4s var(--ease-out) forwards;
+  animation-delay: 2.8s;
+}
+.proc-row {
+  display:flex; align-items:center; gap: 10px;
+  font-size: 13px;
+  color: var(--text-2);
+  opacity: 0;
+  transform: translateX(-8px);
+  animation: procRow .5s var(--ease-out) forwards;
+}
+.proc-row:nth-child(1) { animation-delay: 3.0s; }
+.proc-row:nth-child(2) { animation-delay: 3.7s; }
+.proc-row:nth-child(3) { animation-delay: 4.4s; }
+@keyframes procRow { to { opacity:1; transform: translateX(0); } }
+.proc-row .check {
+  width: 16px; height: 16px;
+  flex-shrink:0;
+  display:flex; align-items:center; justify-content:center;
+  border-radius: 50%;
+  background: rgba(22,163,74,0.12);
+  color: var(--success);
+  font-size: 11px;
+  font-weight: 700;
+  opacity: 0;
+  animation: checkIn .3s var(--ease-out) forwards;
+}
+.proc-row:nth-child(1) .check { animation-delay: 3.5s; }
+.proc-row:nth-child(2) .check { animation-delay: 4.2s; }
+.proc-row:nth-child(3) .check { animation-delay: 4.9s; }
+@keyframes checkIn {
+  from { opacity:0; transform:scale(.5); }
+  to   { opacity:1; transform:scale(1); }
+}
+.proc-row .spin {
+  width: 14px; height: 14px;
+  border: 2px solid var(--primary-soft-2);
+  border-top-color: var(--primary);
+  border-radius: 50%;
+  flex-shrink:0;
+  animation: spin 0.8s linear infinite;
+}
+@keyframes spin { to { transform: rotate(360deg); } }
+.proc-row .label { color: var(--text); font-weight: 500; }
+.proc-row .meta { margin-left:auto; color: var(--text-muted); font-size: 11.5px; font-family: var(--font-mono); }
+
+/* === RESPONSE === */
+.demo-response {
+  border: 1px solid var(--border);
+  background: #fff;
+  border-radius: 12px;
+  padding: 18px 20px;
+  opacity: 0;
+  transform: translateY(8px);
+  animation: fadeIn .5s var(--ease-out) forwards;
+  animation-delay: 5.4s;
+  box-shadow: var(--shadow-sm);
+}
+@keyframes fadeIn { to { opacity:1; transform: translateY(0); } }
+.demo-response-head {
+  display:flex; align-items:center; gap: 8px;
+  margin-bottom: 14px;
+  font-size: 12.5px;
+  color: var(--text-muted);
+  font-weight: 600;
+}
+.demo-response-head .brand-mark {
+  width: 20px; height: 20px; border-radius: 5px;
+}
+.demo-response-head .brand-mark svg { width: 12px; height: 12px; }
+.demo-response-head .name { color: var(--primary); font-weight: 700; }
+.demo-response-head .timer {
+  margin-left:auto;
+  color: var(--success);
+  font-weight: 600;
+  display:inline-flex; align-items:center; gap: 4px;
+}
+.demo-response-head .timer::before {
+  content:""; width:6px; height:6px; border-radius:50%; background: var(--success);
+}
+
+.demo-response p {
+  color: var(--text);
+  font-size: 14.5px;
+  line-height: 1.6;
+  margin-bottom: 14px;
+}
+.demo-response p strong { color: var(--text); font-weight: 700; }
+
+.demo-response p { margin-bottom: 10px; }
+.demo-response p:last-of-type { margin-bottom: 14px; }
+
+.demo-citas {
+  display:flex; flex-wrap:wrap; gap: 6px;
+  padding-top: 12px;
+  border-top: 1px dashed var(--border);
+}
+.demo-citas .label {
+  font-size: 11px;
+  font-weight: 600;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  color: var(--text-muted);
+  width: 100%;
+  margin-bottom: 6px;
+}
+.demo-citas .cita {
+  display:inline-flex; align-items:center;
+  font-size: 11.5px;
+  font-weight: 600;
+  color: var(--primary-dark);
+  padding: 4px 10px;
+  border-radius: 6px;
+  background: var(--primary-soft);
+  border: 1px solid var(--primary-soft-2);
+}
+
+/* Confianza inline en la demo (replica frontend/index.html) */
+.demo-confidence {
+  display:flex; align-items:center; gap: 10px;
+  margin-top: 14px;
+  padding: 9px 12px;
+  background: var(--bg-soft);
+  border: 1px solid var(--border);
+  border-radius: 8px;
+}
+.demo-confidence .conf-lbl {
+  font-size: 11px;
+  font-weight: 600;
+  color: var(--text-muted);
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+}
+.demo-confidence .conf-bar {
+  flex: 1;
+  height: 6px;
+  background: var(--border);
+  border-radius: 999px;
+  overflow: hidden;
+  min-width: 60px;
+}
+.demo-confidence .conf-fill {
+  height: 100%;
+  background: linear-gradient(90deg, var(--primary), #2C7BC8);
+  border-radius: 999px;
+}
+.demo-confidence .conf-badge {
+  font-size: 11px;
+  font-weight: 700;
+  padding: 3px 9px;
+  border-radius: 999px;
+  background: #EAF3DE;
+  color: #27500A;
+  letter-spacing: 0.02em;
+}
+.demo-confidence .conf-pct {
+  font-size: 12px;
+  font-weight: 600;
+  color: var(--text-muted);
+  font-variant-numeric: tabular-nums;
+}
+
+/* ============================================================
+   CORPUS
+   ============================================================ */
+.corpus-grid {
+  display: grid;
+  grid-template-columns: repeat(4, 1fr);
+  gap: 14px;
+}
+@media (max-width: 900px) { .corpus-grid { grid-template-columns: repeat(2, 1fr); } }
+@media (max-width: 480px) { .corpus-grid { grid-template-columns: 1fr; } }
+
+.stat {
+  position:relative;
+  background: var(--surface-2);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  padding: 26px 22px;
+  text-align: left;
+  box-shadow: var(--shadow-sm);
+  transition: border-color .2s var(--ease);
+}
+.stat:hover { border-color: var(--primary-soft-2); }
+.stat-num {
+  font-size: clamp(32px, 4vw, 44px);
+  font-weight: 800;
+  letter-spacing: -0.035em;
+  color: var(--primary);
+  line-height: 1;
+  font-variant-numeric: tabular-nums;
+  margin-bottom: 10px;
+}
+.stat-num .suf { color: var(--primary); font-size: .6em; vertical-align: super; font-weight: 600; }
+.stat-label {
+  font-size: 13.5px;
+  color: var(--text-muted);
+  line-height: 1.5;
+}
+.stat-label strong { color: var(--text); font-weight: 600; }
+
+/* ============================================================
+   CASOS DE USO
+   ============================================================ */
+.uses-grid {
+  display:grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 16px;
+}
+@media (max-width: 900px) { .uses-grid { grid-template-columns: repeat(2, 1fr); } }
+@media (max-width: 560px) { .uses-grid { grid-template-columns: 1fr; } }
+
+.use-card {
+  position:relative;
+  padding: 22px;
+  background: var(--surface-2);
+  border: 1px solid var(--border);
+  border-radius: var(--radius);
+  transition: all .2s var(--ease);
+  box-shadow: var(--shadow-sm);
+}
+.use-card:hover {
+  border-color: var(--primary-soft-2);
+  background: #fff;
+  transform: translateY(-2px);
+  box-shadow: var(--shadow-md);
+}
+.use-card.featured {
+  background: linear-gradient(135deg, var(--primary-soft) 0%, #fff 100%);
+  border-color: var(--primary-soft-2);
+}
+
+.use-head {
+  display:flex; align-items:center; justify-content:space-between;
+  margin-bottom: 14px;
+}
+.use-icon {
+  width: 36px; height: 36px;
+  border-radius: 9px;
+  background: var(--primary-soft);
+  border: 1px solid var(--primary-soft-2);
+  display:flex; align-items:center; justify-content:center;
+  color: var(--primary);
+}
+.use-icon svg { width: 18px; height: 18px; }
+.use-tag {
+  font-family: var(--font-mono);
+  font-size: 11px;
+  color: var(--text-faint);
+  font-weight: 500;
+  letter-spacing: 0.04em;
+}
+.use-card h3 {
+  font-size: 17px;
+  font-weight: 700;
+  margin-bottom: 6px;
+  letter-spacing: -0.015em;
+  color: var(--text);
+}
+.use-card p { font-size: 13.5px; color: var(--text-2); line-height: 1.55; }
+
+/* ============================================================
+   PRICING
+   ============================================================ */
+.pricing-grid {
+  display:grid;
+  grid-template-columns: repeat(3, 1fr);
+  gap: 18px;
+  align-items: stretch;
+}
+@media (max-width: 900px) { .pricing-grid { grid-template-columns: 1fr; max-width: 480px; margin: 0 auto; } }
+
+.price-card {
+  position: relative;
+  background: var(--surface-2);
+  border: 1px solid var(--border);
+  border-radius: var(--radius-lg);
+  padding: 30px 26px;
+  display:flex; flex-direction:column;
+  transition: border-color .2s var(--ease);
+  box-shadow: var(--shadow-sm);
+}
+.price-card:hover { border-color: var(--border-strong); }
+.price-card.featured {
+  border-color: var(--primary);
+  background:
+    linear-gradient(180deg, var(--primary-soft) 0%, #fff 30%);
+  box-shadow: 0 0 0 1px var(--primary), var(--shadow-lg);
+  transform: translateY(-4px);
+}
+.price-badge {
+  position: absolute;
+  top: -12px; left: 50%;
+  transform: translateX(-50%);
+  font-size: 11px;
+  font-weight: 700;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  padding: 5px 12px;
+  background: var(--primary);
+  color: #fff;
+  border-radius: 999px;
+  box-shadow: 0 4px 12px -4px rgba(24,95,165,0.4);
+}
+.price-name {
+  font-size: 13px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--text-muted);
+  margin-bottom: 6px;
+}
+.price-card.featured .price-name { color: var(--primary); }
+.price-desc { font-size: 13.5px; color: var(--text-muted); margin-bottom: 22px; }
+.price-amount {
+  display:flex; align-items:baseline; gap: 6px;
+  margin-bottom: 4px;
+}
+.price-amount .num {
+  font-size: 42px;
+  font-weight: 800;
+  letter-spacing: -0.035em;
+  color: var(--text);
+  line-height: 1;
+  font-variant-numeric: tabular-nums;
+}
+.price-card.featured .price-amount .num { color: var(--primary); }
+.price-amount .cur {
+  font-size: 13px;
+  color: var(--text-muted);
+  font-weight: 600;
+}
+.price-period { font-size: 13px; color: var(--text-muted); margin-bottom: 22px; }
+.price-list { list-style:none; display:flex; flex-direction:column; gap: 10px; margin-bottom: 26px; flex:1; }
+.price-list li {
+  display:flex; align-items:flex-start; gap: 10px;
+  font-size: 13.5px;
+  color: var(--text-2);
+}
+.price-list li svg {
+  flex-shrink:0; width: 16px; height: 16px;
+  margin-top: 2px;
+  color: var(--primary);
+}
+.price-cta { width: 100%; }
+
+/* ============================================================
+   ADVERTENCIA LEGAL
+   ============================================================ */
+.warn-banner {
+  margin-top: 36px;
+  background: var(--warn-bg);
+  border: 1px solid var(--warn-border);
+  color: var(--warn-text);
+  padding: 14px 18px;
+  border-radius: 12px;
+  font-size: 13.5px;
+  line-height: 1.55;
+  display:flex; align-items:flex-start; gap: 12px;
+  max-width: 760px;
+  margin-inline: auto;
+}
+.warn-banner svg { flex-shrink:0; width:18px; height:18px; margin-top: 2px; color: var(--warn-text); }
+.warn-banner strong { font-weight: 700; }
+
+/* ============================================================
+   CTA FINAL
+   ============================================================ */
+.cta-final {
+  position:relative;
+  background: linear-gradient(180deg, var(--primary-soft) 0%, #fff 100%);
+  border: 1px solid var(--primary-soft-2);
+  border-radius: var(--radius-lg);
+  padding: clamp(36px, 5.5vw, 60px);
+  display:grid;
+  grid-template-columns: 1.05fr 1fr;
+  gap: clamp(28px, 4.5vw, 52px);
+  align-items: center;
+  overflow: hidden;
+  box-shadow: var(--shadow-md);
+}
+@media (max-width: 900px) {
+  .cta-final { grid-template-columns: 1fr; text-align:center; }
+}
+.cta-text { position:relative; z-index:1; }
+.cta-text h2 {
+  font-size: clamp(26px, 3.2vw, 38px);
+  letter-spacing: -0.025em;
+  margin-bottom: 14px;
+  color: var(--text);
+}
+.cta-text h2 .accent { color: var(--primary); }
+.cta-text p { color: var(--text-2); font-size: 15px; line-height:1.6; }
+.cta-text .badge {
+  display:inline-flex; align-items:center; gap:8px;
+  margin-top: 20px;
+  padding: 7px 13px;
+  border-radius: 999px;
+  font-size: 12.5px;
+  font-weight: 600;
+  color: var(--primary-dark);
+  background: #fff;
+  border: 1px solid var(--primary-soft-2);
+}
+.cta-text .badge .num { font-weight: 800; letter-spacing: 0.02em; }
+
+/* === FORM === */
+.cta-form {
+  position:relative; z-index:1;
+  display:flex; flex-direction:column; gap: 12px;
+  background: #fff;
+  border: 1px solid var(--border);
+  border-radius: 14px;
+  padding: 24px;
+  box-shadow: var(--shadow-md);
+}
+.field { display:flex; flex-direction:column; gap: 6px; }
+.field label {
+  font-size: 12px;
+  font-weight: 600;
+  color: var(--text);
+  letter-spacing: -0.005em;
+}
+.field input {
+  width: 100%;
+  padding: 11px 14px;
+  background: #fff;
+  border: 1px solid var(--border-2);
+  border-radius: 9px;
+  color: var(--text);
+  font-family: var(--font-sans);
+  font-size: 14px;
+  transition: border-color .15s var(--ease), box-shadow .15s var(--ease);
+}
+.field input:focus {
+  outline: none;
+  border-color: var(--primary);
+  box-shadow: 0 0 0 3px var(--primary-soft);
+}
+.field input::placeholder { color: var(--text-faint); }
+.cta-form .field-grid { display:grid; grid-template-columns: 1fr 1fr; gap: 12px; }
+@media (max-width: 460px) { .cta-form .field-grid { grid-template-columns: 1fr; } }
+.cta-form .btn-primary { margin-top: 4px; }
+.fine-print {
+  font-size: 11.5px;
+  color: var(--text-muted);
+  text-align: center;
+  margin-top: 4px;
+}
+.plan-hint {
+  font-size: 12.5px;
+  color: var(--primary-dark);
+  background: var(--primary-soft);
+  border: 1px solid var(--primary-soft-2);
+  padding: 8px 12px;
+  border-radius: 8px;
+  margin-top: 4px;
+}
+.plan-hint strong { font-weight: 700; }
+.form-status {
+  font-size: 13px;
+  text-align: center;
+  margin-top: 4px;
+  min-height: 18px;
+  line-height: 1.4;
+}
+.form-status.success {
+  color: var(--success);
+  font-weight: 600;
+}
+.form-status.error {
+  color: var(--danger);
+  font-weight: 500;
+}
+.form-status.loading {
+  color: var(--text-muted);
+}
+.cta-form.is-success input,
+.cta-form.is-success button {
+  pointer-events: none;
+  opacity: 0.6;
+}
+
+/* ============================================================
+   FOOTER
+   ============================================================ */
+.footer {
+  border-top: 1px solid var(--border);
+  padding-block: 36px 28px;
+  margin-top: 56px;
+  background: var(--bg-soft);
+}
+.footer-inner {
+  display:flex; align-items:center; justify-content:space-between;
+  flex-wrap:wrap; gap: 20px;
+}
+.footer-brand { display:flex; align-items:center; gap: 10px; font-weight:700; font-size: 16px; color: var(--primary); }
+.footer-meta {
+  display:flex; align-items:center; gap: 20px;
+  font-size: 13px;
+  color: var(--text-muted);
+}
+.footer-meta a:hover { color: var(--primary); }
+.footer-legal {
+  font-size: 12px; color: var(--text-muted); text-align:center;
+  margin-top: 22px; padding-top: 22px; border-top: 1px solid var(--border);
+  max-width: 740px; margin-inline: auto;
+}
+
+/* ============================================================
+   REVEAL ON SCROLL
+   ============================================================ */
+.reveal { opacity: 0; transform: translateY(18px); transition: opacity .7s var(--ease-out), transform .7s var(--ease-out); }
+.reveal.in { opacity: 1; transform: translateY(0); }
+.reveal-stagger > * { opacity: 0; transform: translateY(14px); transition: opacity .6s var(--ease-out), transform .6s var(--ease-out); }
+.reveal-stagger.in > * { opacity:1; transform: translateY(0); }
+.reveal-stagger.in > *:nth-child(1) { transition-delay: .04s; }
+.reveal-stagger.in > *:nth-child(2) { transition-delay: .10s; }
+.reveal-stagger.in > *:nth-child(3) { transition-delay: .16s; }
+.reveal-stagger.in > *:nth-child(4) { transition-delay: .22s; }
+.reveal-stagger.in > *:nth-child(5) { transition-delay: .28s; }
+.reveal-stagger.in > *:nth-child(6) { transition-delay: .34s; }
+
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+  .app-mockup { transform: none; }
+}
+</style>
+</head>
+<body>
+
+<!-- ICON DEFS -->
+<svg width="0" height="0" style="position:absolute" aria-hidden="true">
+  <defs>
+    <symbol id="i-scale" viewBox="0 0 24 24"><path fill="currentColor" d="M12 2a1 1 0 0 1 1 1v.5h6.5a.75.75 0 0 1 0 1.5h-1.18l2.36 6.5A.75.75 0 0 1 20 12c0 1.66-1.57 3-3.5 3S13 13.66 13 12c0-.09.02-.17.05-.25L15.41 5H13v15h3.25a.75.75 0 0 1 0 1.5h-8.5a.75.75 0 0 1 0-1.5H11V5H8.59l2.36 6.75A.75.75 0 0 1 11 12c0 1.66-1.57 3-3.5 3S4 13.66 4 12a.75.75 0 0 1 .04-.25L6.43 5H5.25a.75.75 0 0 1 0-1.5H11V3a1 1 0 0 1 1-1Zm-4.5 5.36L5.86 12h3.28L7.5 7.36Zm9 0L14.86 12h3.28L16.5 7.36Z"/></symbol>
+  </defs>
+</svg>
+
+<!-- ========== NAV ========== -->
+<nav class="nav">
+  <div class="container nav-inner">
+    <a href="#" class="brand">
+      <span class="brand-mark"><svg><use href="#i-scale"/></svg></span>
+      Legis
+    </a>
+    <ul class="nav-links">
+      <li><a href="#problema">Problema</a></li>
+      <li><a href="#solucion">Demo</a></li>
+      <li><a href="#corpus">Corpus</a></li>
+      <li><a href="#casos">Casos de uso</a></li>
+      <li><a href="#precios">Precios</a></li>
+    </ul>
+    <div class="nav-cta">
+      <a href="#acceso" class="btn btn-primary">
+        Acceso gratuito
+        <svg class="arrow" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M13 5l7 7-7 7"/></svg>
+      </a>
+    </div>
+  </div>
+</nav>
+
+<!-- ========== HERO ========== -->
+<section class="hero">
+  <div class="container hero-inner">
+    <div>
+      <div class="hero-eyebrow-wrap">
+        <div class="hero-eyebrow">
+          <span class="tag">Beta</span>
+          <span class="label">Para despachos laboralistas en México</span>
+        </div>
+      </div>
+
+      <h1>
+        El poder legal de una firma grande, <span class="accent">al alcance de tu despacho.</span>
+      </h1>
+
+      <p class="lead">
+        Legis encuentra jurisprudencia de la SCJN y cita artículos exactos
+        de la LFT en segundos. Sin buscar manualmente.
+      </p>
+
+      <div class="hero-ctas">
+        <a href="#acceso" class="btn btn-primary btn-lg">
+          Solicitar acceso gratuito
+          <svg class="arrow" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M13 5l7 7-7 7"/></svg>
+        </a>
+        <a href="#solucion" class="btn btn-ghost btn-lg">
+          Ver demo
+        </a>
+      </div>
+
+      <div class="hero-meta">
+        <span><span class="check">✓</span> Acceso beta gratuito</span>
+        <span class="sep"></span>
+        <span><span class="check">✓</span> Sin compromiso</span>
+        <span class="sep"></span>
+        <span><span class="check">✓</span> Setup en minutos</span>
+      </div>
+    </div>
+
+    <!-- MOCKUP DE LA APP — replica fiel de frontend/index.html -->
+    <div class="hero-mockup-wrap">
+      <div class="hero-glow"></div>
+      <div class="app-mockup">
+        <div class="app-bar">
+          <span class="app-dot"></span>
+          <span class="app-dot"></span>
+          <span class="app-dot"></span>
+          <span class="app-url">app.legis.mx</span>
+        </div>
+        <div class="app-body">
+          <aside class="app-side">
+            <div class="app-side-brand">
+              <span class="scale-glyph">⚖</span>
+              Legis
+            </div>
+            <div class="app-side-tagline">El precedente exacto, en segundos.</div>
+
+            <div class="app-side-section">Corpus indexado</div>
+            <div class="app-side-stat"><span class="num" data-stat="leyes">5</span><span class="lbl">Leyes indexadas</span></div>
+            <div class="app-side-stat"><span class="num" data-stat="juris">—</span><span class="lbl">Jurisprudencias obligatorias</span></div>
+            <div class="app-side-stat"><span class="num" data-stat="tesis">—</span><span class="lbl">Tesis de apoyo</span></div>
+
+            <div class="app-side-section">Fuentes activas</div>
+            <div class="app-side-source"><span class="ok">✓</span> LFT 2026</div>
+            <div class="app-side-source"><span class="ok">✓</span> CPEUM — Art. 123</div>
+            <div class="app-side-source"><span class="ok">✓</span> Tesis SCJN</div>
+          </aside>
+
+          <div class="app-chat">
+            <div class="chat-user">¿Cómo calcular la liquidación?</div>
+            <div class="chat-ai">
+              <p>La liquidación por despido injustificado se compone de tres conceptos:</p>
+              <p><strong>1. Indemnización constitucional:</strong> tres meses de salario integrado <span class="cita-inline">[LFT Art. 48]</span>.</p>
+              <p><strong>2. Prima de antigüedad:</strong> doce días de salario por año, topada a dos salarios mínimos <span class="cita-inline">[LFT Art. 162]</span>.</p>
+              <p><strong>3. Partes proporcionales:</strong> aguinaldo, vacaciones y prima vacacional <span class="cita-inline">[LFT Art. 80]</span> <span class="cita-inline">[LFT Art. 87]</span>.</p>
+            </div>
+            <div class="chat-confidence">
+              <span class="lbl">Confianza</span>
+              <div class="bar"><div class="fill" style="width:78%"></div></div>
+              <span class="badge">Alta</span>
+              <span class="pct">78%</span>
+            </div>
+          </div>
+        </div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ========== TRUST ========== -->
+<section class="trust">
+  <div class="container trust-inner">
+    <span class="trust-label">Fuentes verificadas</span>
+    <div class="trust-logos">
+      <span class="trust-logo"><strong>SCJN</strong> <span class="sep">·</span> Semanario Judicial</span>
+      <span class="trust-logo"><strong>LFT</strong> <span class="sep">·</span> actualizada 05.2026</span>
+      <span class="trust-logo"><strong>IMSS</strong> <span class="sep">·</span> criterios vigentes</span>
+      <span class="trust-logo"><strong>DOF</strong> <span class="sep">·</span> publicaciones oficiales</span>
+    </div>
+  </div>
+</section>
+
+<!-- ========== PROBLEMA ========== -->
+<section class="section soft" id="problema">
+  <div class="container">
+    <div class="section-head reveal">
+      <span class="eyebrow"><span class="dot"></span>El problema</span>
+      <div class="problem-headline">
+        <h2>Un abogado pierde <span class="num">8–15 horas</span> semanales buscando jurisprudencia manualmente.</h2>
+      </div>
+      <p class="lead">Tiempo que no factura. Casos que tardan más. Precedentes que se quedan sin encontrar.</p>
+    </div>
+
+    <div class="pain-grid reveal-stagger">
+      <article class="pain-card">
+        <div class="pain-icon">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="12" cy="12" r="10"/><polyline points="12 6 12 12 16 14"/></svg>
+        </div>
+        <h3>Búsquedas eternas</h3>
+        <p>Abrir el Semanario Judicial, filtrar por tema, leer tesis enteras solo para descubrir que ninguna aplica. Repetir.</p>
+        <div class="pain-stat"><span class="bullet"></span> Horas que <strong>no se facturan</strong>, repetidas por cada caso</div>
+      </article>
+
+      <article class="pain-card">
+        <div class="pain-icon">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M14 2H6a2 2 0 0 0-2 2v16a2 2 0 0 0 2 2h12a2 2 0 0 0 2-2V8z"/><polyline points="14 2 14 8 20 8"/><line x1="9" y1="15" x2="15" y2="15"/></svg>
+        </div>
+        <h3>Citas imprecisas</h3>
+        <p>Verificar cada artículo y tesis lleva tiempo que rara vez sobra. El riesgo de citar un criterio derogado o de confundir tesis aislada con jurisprudencia obligatoria es real.</p>
+        <div class="pain-stat"><span class="bullet"></span> Un solo criterio mal citado <strong>desarma un escrito</strong></div>
+      </article>
+
+      <article class="pain-card">
+        <div class="pain-icon">
+          <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><line x1="12" y1="1" x2="12" y2="23"/><path d="M17 5H9.5a3.5 3.5 0 0 0 0 7h5a3.5 3.5 0 0 1 0 7H6"/></svg>
+        </div>
+        <h3>Desventaja competitiva</h3>
+        <p>Las firmas grandes tienen pasantes dedicados a investigación. Tu despacho compite contra eso con menos manos y el mismo reloj.</p>
+        <div class="pain-stat"><span class="bullet"></span> <strong>Mismo tiempo</strong>, menos manos para investigar</div>
+      </article>
+    </div>
+  </div>
+</section>
+
+<!-- ========== SOLUCIÓN — DEMO ANIMADA ========== -->
+<section class="section" id="solucion">
+  <div class="container">
+    <div class="section-head reveal">
+      <span class="eyebrow"><span class="dot"></span>La solución</span>
+      <h2>Pregunta en lenguaje natural.<br /><span class="accent">Respuesta con citas verificadas.</span></h2>
+      <p class="lead">Legis combina los textos completos de la LFT con la base completa de jurisprudencia laboral de la SCJN. Cada respuesta viene con los artículos y tesis exactas, listas para copiar al escrito.</p>
+    </div>
+
+    <div class="demo-shell reveal">
+      <div class="demo-bar">
+        <span class="app-dot"></span>
+        <span class="app-dot"></span>
+        <span class="app-dot"></span>
+        <span class="demo-title">legis › consulta en vivo</span>
+        <span class="demo-status"><span class="dot"></span> conectado</span>
+      </div>
+      <div class="demo-body">
+
+        <div class="demo-input">
+          <div class="demo-input-icon">A</div>
+          <div class="demo-input-text">
+            <span class="demo-typed">
+              <span class="demo-typed-inner">¿Procede la reinstalación de un trabajador con más de 20 años de antigüedad?</span>
+            </span>
+          </div>
+        </div>
+
+        <div class="demo-processing">
+          <div class="proc-row">
+            <span class="spin"></span>
+            <span class="label">Expandiendo consulta en términos jurídicos…</span>
+            <span class="meta">3 reformulaciones</span>
+          </div>
+          <div class="proc-row">
+            <span class="spin"></span>
+            <span class="label">Recuperando candidatos de LFT, CPEUM y tesis SCJN…</span>
+            <span class="meta">doble carril</span>
+          </div>
+          <div class="proc-row">
+            <span class="spin"></span>
+            <span class="label">Re-ranqueando con cross-encoder…</span>
+            <span class="meta">top 5</span>
+          </div>
+        </div>
+
+        <div class="demo-response">
+          <div class="demo-response-head">
+            <span class="brand-mark"><svg><use href="#i-scale"/></svg></span>
+            <span class="name">Legis</span>
+            <span class="timer">resuelto en 3.4s</span>
+          </div>
+          <p><strong>Excepción a la reinstalación por antigüedad mayor a 20 años.</strong></p>
+          <p>El patrón puede negarse a reinstalar cubriendo las indemnizaciones del <span class="cita-inline">[LFT Art. 50]</span>, en los supuestos del <span class="cita-inline">[LFT Art. 49]</span>: trabajadores de confianza, eventuales, domésticos, o con antigüedad menor a un año. <strong>Para trabajadores de planta con más de veinte años de servicio, la negativa solo procede si se acredita causa que haga imposible el cumplimiento normal de la relación laboral.</strong></p>
+          <p>La carga de la prueba recae sobre el patrón. La SCJN ha sostenido que la sola alegación de pérdida de confianza no basta.</p>
+          <div class="demo-citas">
+            <span class="label">Fundamento</span>
+            <span class="cita">[LFT Art. 48]</span>
+            <span class="cita">[LFT Art. 49]</span>
+            <span class="cita">[LFT Art. 50]</span>
+            <span class="cita">[SCJN J: 2a./J. 24/2018]</span>
+          </div>
+          <div class="demo-confidence">
+            <span class="conf-lbl">Confianza</span>
+            <div class="conf-bar"><div class="conf-fill" style="width:82%"></div></div>
+            <span class="conf-badge">Alta</span>
+            <span class="conf-pct">82%</span>
+          </div>
+        </div>
+
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ========== CORPUS ========== -->
+<section class="section soft" id="corpus">
+  <div class="container">
+    <div class="section-head reveal">
+      <span class="eyebrow"><span class="dot"></span>El corpus</span>
+      <h2>Todo el derecho laboral mexicano.<br /><span class="accent">Indexado. Verificado. Vigente.</span></h2>
+    </div>
+
+    <div class="corpus-grid reveal-stagger">
+      <div class="stat">
+        <div class="stat-num"><span data-stat="tesis_total">3,452</span></div>
+        <div class="stat-label">Tesis <strong>SCJN laborales</strong> indexadas y filtradas por materia</div>
+      </div>
+      <div class="stat">
+        <div class="stat-num"><span data-stat="juris">1,143</span></div>
+        <div class="stat-label">Jurisprudencias <strong>obligatorias</strong> distinguidas de las aisladas</div>
+      </div>
+      <div class="stat">
+        <div class="stat-num">100<span class="suf">%</span></div>
+        <div class="stat-label"><strong>LFT, CPEUM, LSS y LFTSE</strong> al 01 de mayo de 2026</div>
+      </div>
+      <div class="stat">
+        <div class="stat-num">&lt; 5s</div>
+        <div class="stat-label">Tiempo promedio de <strong>respuesta con citas</strong> verificadas</div>
+      </div>
+    </div>
+  </div>
+</section>
+
+<!-- ========== CASOS DE USO ========== -->
+<section class="section" id="casos">
+  <div class="container">
+    <div class="section-head reveal">
+      <span class="eyebrow"><span class="dot"></span>Casos de uso</span>
+      <h2>Lo que ya estás haciendo,<br /><span class="accent">en una fracción del tiempo.</span></h2>
+    </div>
+
+    <div class="uses-grid reveal-stagger">
+      <article class="use-card">
+        <div class="use-head">
+          <div class="use-icon">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><rect x="3" y="3" width="18" height="18" rx="2"/><path d="M8 12h8M8 16h5M8 8h8"/></svg>
+          </div>
+          <span class="use-tag">01</span>
+        </div>
+        <h3>Cálculo de liquidación</h3>
+        <p>Indemnización constitucional, primas, vacaciones y aguinaldo. Con el desglose exacto y los artículos que lo respaldan.</p>
+      </article>
+
+      <article class="use-card">
+        <div class="use-head">
+          <div class="use-icon">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><circle cx="11" cy="11" r="8"/><path d="M21 21l-4.35-4.35"/></svg>
+          </div>
+          <span class="use-tag">02</span>
+        </div>
+        <h3>Búsqueda de jurisprudencia</h3>
+        <p>Encuentra tesis aplicables al caso por hechos, no por palabras clave. Vinculantes filtradas de aisladas automáticamente.</p>
+      </article>
+
+      <article class="use-card">
+        <div class="use-head">
+          <div class="use-icon">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 20h9"/><path d="M16.5 3.5a2.121 2.121 0 1 1 3 3L7 19l-4 1 1-4z"/></svg>
+          </div>
+          <span class="use-tag">03</span>
+        </div>
+        <h3>Redacción de contratos</h3>
+        <p>Cláusulas conformes a la última reforma laboral. Plantillas que se adaptan al puesto, jornada y modalidad de tu trabajador.</p>
+      </article>
+
+      <article class="use-card">
+        <div class="use-head">
+          <div class="use-icon">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M21 16V8a2 2 0 0 0-1-1.73l-7-4a2 2 0 0 0-2 0l-7 4A2 2 0 0 0 3 8v8a2 2 0 0 0 1 1.73l7 4a2 2 0 0 0 2 0l7-4A2 2 0 0 0 21 16z"/><polyline points="3.27 6.96 12 12.01 20.73 6.96"/></svg>
+          </div>
+          <span class="use-tag">04</span>
+        </div>
+        <h3>Outsourcing post-2021</h3>
+        <p>Reglas REPSE, servicios especializados, responsabilidad solidaria. Lo que sí se puede tercerizar y lo que no.</p>
+      </article>
+
+      <article class="use-card">
+        <div class="use-head">
+          <div class="use-icon">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 12a9 9 0 1 0 9-9 9.75 9.75 0 0 0-6.74 2.74L3 8"/><path d="M3 3v5h5"/></svg>
+          </div>
+          <span class="use-tag">05</span>
+        </div>
+        <h3>Reinstalación</h3>
+        <p>Procedencia, excepciones y cuantificación de salarios caídos. Con los precedentes que decantan el criterio actual.</p>
+      </article>
+
+      <article class="use-card featured">
+        <div class="use-head">
+          <div class="use-icon">
+            <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M12 2v4M12 18v4M4.93 4.93l2.83 2.83M16.24 16.24l2.83 2.83M2 12h4M18 12h4M4.93 19.07l2.83-2.83M16.24 7.76l2.83-2.83"/></svg>
+          </div>
+          <span class="use-tag">+</span>
+        </div>
+        <h3>Y cualquier otro tema laboral</h3>
+        <p>Acoso, discriminación, enfermedad profesional, sindicatos, conflictos colectivos. Pregúntale como le preguntarías a un asociado senior.</p>
+      </article>
+    </div>
+  </div>
+</section>
+
+<!-- ========== PRICING ========== -->
+<section class="section soft" id="precios">
+  <div class="container">
+    <div class="section-head reveal">
+      <span class="eyebrow"><span class="dot"></span>Planes</span>
+      <h2>Precios por despacho,<br /><span class="accent">no por hora de pasante.</span></h2>
+      <p class="lead">Sin contratos largos. Cancela cuando quieras. Todos los planes incluyen el corpus completo de jurisprudencia laboral.</p>
+    </div>
+
+    <div class="pricing-grid reveal-stagger">
+
+      <article class="price-card">
+        <div class="price-name">Independiente</div>
+        <div class="price-desc">Para abogados que practican solos</div>
+        <div class="price-amount"><span class="num">$500</span><span class="cur">MXN</span></div>
+        <div class="price-period">por usuario · al mes</div>
+        <ul class="price-list">
+          <li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg> Corpus completo: LFT, CPEUM, LSS y tesis SCJN</li>
+          <li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg> Respuestas con citas verificables del artículo o tesis exactos</li>
+          <li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg> Distinción automática entre jurisprudencia obligatoria y tesis aislada</li>
+          <li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg> Historial de consultas en tu navegador</li>
+        </ul>
+        <button type="button" class="btn btn-ghost btn-lg price-cta" data-plan="independiente">Solicitar acceso</button>
+      </article>
+
+      <article class="price-card featured">
+        <span class="price-badge">Más elegido</span>
+        <div class="price-name">Estudio</div>
+        <div class="price-desc">Para despachos de hasta 5 abogados</div>
+        <div class="price-amount"><span class="num">$1,500</span><span class="cur">MXN</span></div>
+        <div class="price-period">al mes · hasta 5 usuarios</div>
+        <ul class="price-list">
+          <li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg> Todo lo del plan Independiente, para los 5 usuarios</li>
+          <li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg> Acceso compartido con la cuenta del despacho</li>
+          <li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg> Onboarding 1-a-1 con el equipo de Legis</li>
+          <li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg> Soporte por WhatsApp en horas hábiles</li>
+        </ul>
+        <button type="button" class="btn btn-primary btn-lg price-cta" data-plan="estudio">Solicitar acceso</button>
+      </article>
+
+      <article class="price-card">
+        <div class="price-name">Firma</div>
+        <div class="price-desc">Para más de 5 usuarios o necesidades específicas</div>
+        <div class="price-amount"><span class="num">A medida</span></div>
+        <div class="price-period">precio por despacho</div>
+        <ul class="price-list">
+          <li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg> Todo lo del plan Estudio</li>
+          <li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg> Usuarios ilimitados</li>
+          <li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg> Facturación consolidada y soporte priorizado</li>
+          <li><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.5" stroke-linecap="round" stroke-linejoin="round"><polyline points="20 6 9 17 4 12"/></svg> Plazos de pago a medida</li>
+        </ul>
+        <button type="button" class="btn btn-ghost btn-lg price-cta" data-plan="firma">Hablar con ventas</button>
+      </article>
+
+    </div>
+
+    <div class="warn-banner reveal">
+      <svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M10.29 3.86L1.82 18a2 2 0 0 0 1.71 3h16.94a2 2 0 0 0 1.71-3L13.71 3.86a2 2 0 0 0-3.42 0z"/><line x1="12" y1="9" x2="12" y2="13"/><line x1="12" y1="17" x2="12.01" y2="17"/></svg>
+      <span><strong>Advertencia legal.</strong> Las respuestas son orientativas. El criterio jurídico final corresponde al abogado responsable del caso. Verifica siempre la vigencia de las fuentes citadas.</span>
+    </div>
+  </div>
+</section>
+
+<!-- ========== CTA FINAL ========== -->
+<section class="section" id="acceso">
+  <div class="container">
+    <div class="cta-final reveal">
+      <div class="cta-text">
+        <h2>Acceso gratuito para los primeros <span class="accent">10 despachos.</span></h2>
+        <p>Cuéntanos sobre tu práctica y te damos acceso completo a Legis durante el periodo beta. Sin compromiso, sin tarjeta.</p>
+        <div class="badge">
+          <span class="num">07 / 10</span> despachos en la cohorte beta
+        </div>
+      </div>
+
+      <form id="waitlist-form" class="cta-form" novalidate>
+        <input type="hidden" name="plan" value="" />
+        <input type="hidden" name="source" value="landing" />
+        <div class="field">
+          <label for="f-nombre">Nombre</label>
+          <input id="f-nombre" name="nombre" type="text" placeholder="Lic. María Fernández" required minlength="2" />
+        </div>
+        <div class="field">
+          <label for="f-despacho">Despacho</label>
+          <input id="f-despacho" name="despacho" type="text" placeholder="Fernández &amp; Asociados" required minlength="2" />
+        </div>
+        <div class="field-grid">
+          <div class="field">
+            <label for="f-email">Email</label>
+            <input id="f-email" name="email" type="email" placeholder="m.fernandez@…" required />
+          </div>
+          <div class="field">
+            <label for="f-wa">WhatsApp</label>
+            <input id="f-wa" name="whatsapp" type="tel" placeholder="+52 55 1234 5678" required minlength="8" />
+          </div>
+        </div>
+        <div id="waitlist-plan-hint" class="plan-hint" hidden>
+          Plan seleccionado: <strong data-plan-label></strong>
+        </div>
+        <button type="submit" class="btn btn-primary btn-lg" id="waitlist-submit">
+          <span data-default>Solicitar acceso gratuito</span>
+          <svg class="arrow" width="16" height="16" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M5 12h14M13 5l7 7-7 7"/></svg>
+        </button>
+        <p id="waitlist-status" class="form-status" role="status" aria-live="polite"></p>
+        <p class="fine-print">Te contactamos en menos de 24 horas hábiles.</p>
+      </form>
+    </div>
+  </div>
+</section>
+
+<!-- ========== FOOTER ========== -->
+<footer class="footer">
+  <div class="container">
+    <div class="footer-inner">
+      <div class="footer-brand">
+        <span class="brand-mark"><svg><use href="#i-scale"/></svg></span>
+        Legis
+      </div>
+      <div class="footer-meta">
+        <a href="#">Privacidad</a>
+        <a href="#">Términos</a>
+        <a href="mailto:hola@legis.mx">hola@legis.mx</a>
+      </div>
+    </div>
+    <div class="footer-legal">
+      Legis es una herramienta de asistencia para profesionales del derecho. No constituye asesoría legal. © 2026 Legis · Hecho en México.
+    </div>
+  </div>
+</footer>
+
+<script>
+/* Reveal on scroll */
+(function () {
+  if (!('IntersectionObserver' in window)) {
+    document.querySelectorAll('.reveal, .reveal-stagger').forEach(el => el.classList.add('in'));
+    return;
+  }
+  const io = new IntersectionObserver((entries) => {
+    entries.forEach(e => {
+      if (e.isIntersecting) {
+        e.target.classList.add('in');
+        io.unobserve(e.target);
+      }
+    });
+  }, { threshold: 0.15, rootMargin: '0px 0px -60px 0px' });
+  document.querySelectorAll('.reveal, .reveal-stagger').forEach(el => io.observe(el));
+})();
+
+/* Demo en loop infinito — re-arma las animaciones cada 10.5s */
+(function () {
+  const shell = document.querySelector('.demo-shell');
+  if (!shell) return;
+  const body = shell.querySelector('.demo-body');
+  const original = body.innerHTML;
+  setInterval(() => { body.innerHTML = original; }, 10500);
+})();
+
+/* Stats reales del corpus desde /api/stats. Si no hay API, mantiene los
+ * valores estáticos del HTML (que ya reflejan el corpus actual). */
+(function () {
+  const targets = document.querySelectorAll('[data-stat]');
+  if (!targets.length) return;
+  const nf = new Intl.NumberFormat('es-MX');
+  fetch('/api/stats', { headers: { 'Accept': 'application/json' } })
+    .then(r => r.ok ? r.json() : null)
+    .then(stats => {
+      if (!stats || typeof stats !== 'object') return;
+      const juris = stats.juris || 0;
+      const tesisAisladas = stats.tesis || 0;
+      const leyes = Math.max(0, (stats.documents || 0) - juris - tesisAisladas);
+      const map = {
+        leyes,
+        juris,
+        tesis: tesisAisladas,
+        tesis_total: juris + tesisAisladas,
+      };
+      targets.forEach(el => {
+        const key = el.getAttribute('data-stat');
+        if (!(key in map)) return;
+        const v = map[key];
+        if (typeof v === 'number' && v > 0) el.textContent = nf.format(v);
+      });
+    })
+    .catch(() => { /* sin API: dejar los valores estáticos del HTML */ });
+})();
+
+/* Botones de plan: prellenan el plan oculto y hacen scroll al formulario */
+(function () {
+  const PLAN_LABEL = {
+    independiente: 'Independiente — $500 MXN/usuario al mes',
+    estudio: 'Estudio — $1,500 MXN al mes (hasta 5 usuarios)',
+    firma: 'Firma — precio a medida',
+  };
+  const form = document.getElementById('waitlist-form');
+  if (!form) return;
+  const planInput = form.querySelector('input[name="plan"]');
+  const sourceInput = form.querySelector('input[name="source"]');
+  const hint = document.getElementById('waitlist-plan-hint');
+  const hintLabel = hint && hint.querySelector('[data-plan-label]');
+
+  document.querySelectorAll('[data-plan]').forEach(btn => {
+    btn.addEventListener('click', (e) => {
+      e.preventDefault();
+      const plan = btn.getAttribute('data-plan');
+      if (plan && plan in PLAN_LABEL) {
+        planInput.value = plan;
+        sourceInput.value = 'pricing_' + plan;
+        if (hint && hintLabel) {
+          hintLabel.textContent = PLAN_LABEL[plan];
+          hint.hidden = false;
+        }
+      }
+      const target = document.getElementById('acceso');
+      if (target) target.scrollIntoView({ behavior: 'smooth', block: 'start' });
+      setTimeout(() => {
+        const first = form.querySelector('input[name="nombre"]');
+        if (first) first.focus();
+      }, 600);
+    });
+  });
+})();
+
+/* Formulario waitlist — POST a Formspree con estados loading/success/error */
+(function () {
+  const FORMSPREE_ENDPOINT = 'https://formspree.io/f/maqkydrw';
+  const form = document.getElementById('waitlist-form');
+  if (!form) return;
+  const submitBtn = document.getElementById('waitlist-submit');
+  const statusEl = document.getElementById('waitlist-status');
+  const planHint = document.getElementById('waitlist-plan-hint');
+  const labelEl = submitBtn.querySelector('[data-default]');
+  const defaultLabel = labelEl.textContent;
+
+  function setStatus(kind, message) {
+    statusEl.className = 'form-status ' + (kind || '');
+    statusEl.textContent = message || '';
+  }
+
+  function resetButton() {
+    submitBtn.disabled = false;
+    labelEl.textContent = defaultLabel;
+  }
+
+  form.addEventListener('submit', async (e) => {
+    e.preventDefault();
+    if (!form.checkValidity()) {
+      form.reportValidity();
+      return;
+    }
+
+    const data = new FormData(form);
+    const payload = {
+      nombre: (data.get('nombre') || '').toString().trim(),
+      despacho: (data.get('despacho') || '').toString().trim(),
+      email: (data.get('email') || '').toString().trim(),
+      whatsapp: (data.get('whatsapp') || '').toString().trim(),
+      plan: (data.get('plan') || '').toString(),
+      source: (data.get('source') || 'landing').toString(),
+    };
+
+    submitBtn.disabled = true;
+    labelEl.textContent = 'Enviando…';
+    setStatus('loading', '');
+
+    try {
+      const res = await fetch(FORMSPREE_ENDPOINT, {
+        method: 'POST',
+        headers: {
+          'Content-Type': 'application/json',
+          'Accept': 'application/json',
+        },
+        body: JSON.stringify(payload),
+      });
+
+      if (res.ok) {
+        form.reset();
+        if (planHint) planHint.hidden = true;
+        resetButton();
+        setStatus(
+          'success',
+          '✅ Solicitud recibida. Te contactaremos en menos de 24 horas.'
+        );
+        return;
+      }
+
+      let detail = 'No pudimos registrar tu solicitud. Verifica que el email y el WhatsApp sean correctos e inténtalo de nuevo.';
+      try {
+        const errBody = await res.json();
+        if (errBody && Array.isArray(errBody.errors) && errBody.errors.length) {
+          const campos = errBody.errors
+            .map(err => (err && err.field) ? err.field : null)
+            .filter(Boolean);
+          if (campos.length) {
+            detail = 'Revisa los siguientes campos: ' + campos.join(', ') + '.';
+          }
+        } else if (errBody && typeof errBody.error === 'string' && errBody.error) {
+          detail = 'No pudimos registrar tu solicitud. Inténtalo de nuevo en unos minutos.';
+        }
+      } catch (_) { /* sin cuerpo JSON */ }
+      resetButton();
+      setStatus('error', detail);
+    } catch (err) {
+      resetButton();
+      setStatus(
+        'error',
+        'No hay conexión con el servidor. Escríbenos a hola@legis.mx mientras tanto.'
+      );
+    }
+  });
+})();
+</script>
+
+</body>
+</html>

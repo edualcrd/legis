@@ -1,0 +1,197 @@
+# Legis — Asistente Laboral con IA para Despachos en México
+
+## Contexto del negocio
+
+SaaS de IA para despachos laboralistas pequeños en México (2-10 abogados).
+El producto resuelve consultas de jurisprudencia de la SCJN, Ley Federal del
+Trabajo y criterios del IMSS en segundos — trabajo que hoy le toma al abogado
+horas de búsqueda manual.
+
+**Cliente ideal:** Despacho laboral de 2-5 abogados en CDMX, Monterrey o
+Guadalajara. Factura $30,000-$150,000 MXN/mes. No tiene herramientas de IA.
+Pierde 8-15 horas semanales en búsqueda de jurisprudencia.
+
+**Precio:** $500 MXN/mes por usuario. Plan Estudio (hasta 5 usuarios): $1,500 MXN/mes.
+
+**Propuesta de valor:** "El precedente exacto, en segundos."
+
+**Dominio:** legis.mx / legis.ai
+
+---
+
+## Stack técnico
+
+| Capa | Tecnología | Razón |
+|---|---|---|
+| RAG | LlamaIndex | Madurez, documentación, integración con ChromaDB |
+| Vectores | ChromaDB (local) | Gratis, sin latencia de red, suficiente para MVP |
+| LLM | claude-haiku-4-5 | Costo mínimo (~$5/mes en validación), rápido |
+| Interfaz | FastAPI + React (SPA single-file vía CDN, sin build step) | Migrado desde Streamlit en fase de scaffolding |
+| Hosting | Render (free tier) | $0 en fase de validación |
+
+---
+
+## Estructura del proyecto
+
+```
+legal-ai-mexico/
+├── CLAUDE.md                  # Este archivo — contexto permanente
+├── skills/
+│   ├── legal-rag.md           # Cómo manejar contenido legal mexicano
+│   ├── corpus-ingest.md       # Cómo procesar PDFs legales
+│   ├── legal-prompts.md       # Biblioteca de prompts por caso de uso
+│   └── qa-legal.md            # Casos de prueba con respuesta esperada
+├── corpus/
+│   ├── raw/                   # PDFs y .txt originales descargados
+│   └── processed/             # archivos limpios listos para indexar
+├── src/
+│   ├── api.py                 # FastAPI: /api/query, /api/stats + sirve frontend
+│   ├── ingest.py              # Indexación del corpus
+│   ├── rag.py                 # Lógica de recuperación y respuesta
+│   ├── prompts.py             # System prompts centralizados
+│   └── utils.py               # Funciones auxiliares
+├── frontend/
+│   └── index.html             # SPA React single-file (CDN, sin build step)
+├── scripts/
+│   ├── descargar_leyes.py     # LFT, CPEUM, LSS, LFTSE, criterios IMSS
+│   └── listar_tesis_sjf.py    # Tesis SCJN laborales del API público SJF
+├── tests/
+│   └── casos_reales.py        # Pruebas con consultas reales de abogados
+├── requirements.txt
+├── .env.example
+└── README.md
+```
+
+---
+
+## Fuentes del corpus legal (fase 1)
+
+| Fuente | URL | Contenido |
+|---|---|---|
+| SCJN — Semanario Judicial | sjf.scjn.gob.mx | Tesis y jurisprudencia laboral |
+| Cámara de Diputados | diputados.gob.mx/LeyesBiblio | LFT completa actualizada |
+| IMSS | imss.gob.mx | Criterios normativos vigentes |
+| STPS | stps.gob.mx | Laudos y normativa laboral |
+
+**Meta corpus fase 1:** 500+ documentos indexados antes del primer demo.
+
+---
+
+## Casos de uso prioritarios (fase 1)
+
+Estos 5 casos resuelven el 80% de las consultas de un despacho laboral:
+
+1. **Cálculo de liquidación** — partes proporcionales, 3 meses, 20 días por año
+2. **Búsqueda de jurisprudencia** — tesis SCJN por tema o supuesto específico
+3. **Redacción de contratos** — contrato individual de trabajo por tipo de relación
+4. **Criterios IMSS** — outsourcing, bases de cotización, multas
+5. **Procedencia de reinstalación** — análisis con precedentes aplicables
+
+---
+
+## Convenciones de código
+
+- **Idioma:** código en inglés, comentarios y mensajes de error en español
+- **Errores:** siempre en español claro — los mensajes los ve el abogado, no un dev
+- **Docstrings:** obligatorios en todas las funciones
+- **Typing:** usar type hints en Python en toda función nueva
+- **Logs:** usar `logging`, nunca `print()` en producción
+
+```python
+# ✅ Correcto
+def search_jurisprudencia(query: str, top_k: int = 5) -> list[dict]:
+    """
+    Busca tesis relevantes en el corpus indexado.
+    
+    Args:
+        query: Consulta en lenguaje natural del abogado
+        top_k: Número de documentos a recuperar
+    
+    Returns:
+        Lista de chunks con contenido y metadatos de fuente
+    """
+
+# ❌ Incorrecto
+def search(q):
+    print("buscando...")
+```
+
+---
+
+## Reglas críticas del dominio legal
+
+Estas reglas son NO negociables. Un error legal destruye la confianza del cliente:
+
+1. **NUNCA inventar artículos.** Si el corpus no tiene la respuesta, decirlo
+   explícitamente: *"No encontré información suficiente en los documentos
+   disponibles para responder esta consulta."*
+
+2. **SIEMPRE citar la fuente exacta:** número de tesis, artículo de ley,
+   fecha de criterio. Formato: `[LFT Art. 123]` o `[SCJN Tesis: 2a./J. 45/2019]`
+
+3. **NUNCA dar consejo legal definitivo.** El asistente informa y facilita —
+   el criterio jurídico final es siempre del abogado.
+
+4. **Distinguir jurisprudencia obligatoria de tesis aislada.** Una tesis
+   aislada no es jurisprudencia. Indicarlo siempre en la respuesta.
+
+5. **Verificar vigencia.** Si un artículo fue reformado, indicar la fecha
+   de la última reforma disponible en el corpus.
+
+---
+
+## Definition of Done
+
+Una funcionalidad está completa cuando:
+
+- [ ] Pasa los casos de prueba en `tests/casos_reales.py`
+- [ ] Cita fuente exacta en cada respuesta
+- [ ] No alucina información legal en 20 pruebas consecutivas
+- [ ] Responde en menos de 5 segundos
+- [ ] El mensaje de error (si aplica) está en español claro
+- [ ] Tiene docstring completo
+
+---
+
+## Agentes y sus responsabilidades
+
+Cuando trabajes en este proyecto, adopta el rol indicado:
+
+| Rol | Cuándo usarlo | Responsabilidad |
+|---|---|---|
+| **Arquitecto** | Inicio de cada módulo nuevo | Diseña antes de codificar |
+| **Ing. de datos** | Todo lo relacionado con corpus | ingest.py, limpieza de PDFs |
+| **Backend dev** | RAG, API, lógica de negocio | rag.py, prompts.py, api.py |
+| **Frontend dev** | Interfaz de usuario | frontend/index.html (SPA React vía CDN) |
+| **QA legal** | Antes de cualquier demo | Prueba con casos reales, detecta alucinaciones |
+
+**Cómo invocar un agente:**
+> "Actúa como [rol]. Lee el CLAUDE.md y [instrucción específica]."
+
+---
+
+## Estado actual del proyecto
+
+| Fase | Estado | Descripción |
+|---|---|---|
+| Corpus | 🟡 En curso | Scripts listos (descargar_leyes.py, listar_tesis_sjf.py); falta ejecutar |
+| Ingestión | ✅ Completo | src/ingest.py soporta PDF (PyMuPDF) y TXT; chunking respeta artículos |
+| RAG core | ✅ Completo | src/rag.py: bge-m3 → ChromaDB → bge-reranker-v2-m3 → Haiku 4.5 |
+| Interfaz MVP | ✅ Completo | Reemplazada por FastAPI + React SPA (migración v2) |
+| Interfaz v2 | ✅ Completo | src/api.py + frontend/index.html (React vía CDN, sin build) |
+| QA fase 1 | ⬜ Pendiente | 20 casos de prueba reales — stubs en tests/casos_reales.py |
+| Primer demo | ⬜ Pendiente | 3 despachos piloto en CDMX |
+
+Actualiza este bloque al completar cada fase.
+
+---
+
+## Decisiones técnicas tomadas (log)
+
+_Registra aquí cada decisión importante para no repetir la discusión._
+
+| Fecha | Decisión | Razón |
+|---|---|---|
+| Inicio | ChromaDB local sobre Pinecone | Costo $0 en validación |
+| Inicio | Haiku sobre Sonnet | 10x más barato, suficiente para MVP |
+| Inicio | Streamlit sobre React | Lanzar en días, no semanas |
