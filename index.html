@@ -1225,6 +1225,12 @@ h3 { font-size: clamp(18px, 1.7vw, 21px); font-weight: 600; }
   .app-mockup { transform: none; }
 }
 </style>
+
+<script>
+  if (window.location.hash) {
+    history.replaceState(null, '', window.location.pathname + window.location.search);
+  }
+</script>
 </head>
 <body>
 
@@ -1892,6 +1898,25 @@ h3 { font-size: clamp(18px, 1.7vw, 21px); font-weight: 600; }
         'No hay conexión con el servidor. Escríbenos a hola@legis.mx mientras tanto.'
       );
     }
+  });
+})();
+
+/* Scroll suave para enlaces internos — evita que la URL cambie a /#seccion */
+(function () {
+  document.addEventListener('click', (e) => {
+    const a = e.target.closest('a[href^="#"]');
+    if (!a) return;
+    if (e.button !== 0 || e.metaKey || e.ctrlKey || e.shiftKey || e.altKey) return;
+
+    const hash = a.getAttribute('href');
+    e.preventDefault();
+
+    if (hash === '#' || hash === '') {
+      window.scrollTo({ top: 0, behavior: 'smooth' });
+      return;
+    }
+    const target = document.querySelector(hash);
+    if (target) target.scrollIntoView({ behavior: 'smooth', block: 'start' });
   });
 })();
 </script>
