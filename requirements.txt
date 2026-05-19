@@ -11,6 +11,9 @@ llama-index-postprocessor-sbert-rerank>=0.3,<0.4
 # === Vector DB ===
 chromadb>=0.5,<0.6
 
+# === BM25 (carril léxico) ===
+rank-bm25>=0.2.2,<0.3
+
 # === Embeddings + reranker (locales, gratis) ===
 sentence-transformers>=3.0,<4.0
 torch>=2.2,<3.0

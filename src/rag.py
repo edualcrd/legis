@@ -27,6 +27,7 @@ from __future__ import annotations
 import json
 import math
 import re
+import time
 from dataclasses import dataclass
 from typing import Any
 
@@ -34,9 +35,10 @@ import anthropic
 import chromadb
 from chromadb.api.models.Collection import Collection
 from llama_index.embeddings.huggingface import HuggingFaceEmbedding
+from rank_bm25 import BM25Okapi
 from sentence_transformers import CrossEncoder
 
-from src.prompts import SYSTEM_PROMPT_BASE
+from src.prompts import EXPAND_QUERY_SYSTEM_PROMPT, SYSTEM_PROMPT_BASE
 from src.utils import Settings, get_logger, load_config
 
 logger = get_logger(__name__)
@@ -61,6 +63,19 @@ LLM_TEMPERATURE: float = 0.0
 EXPAND_QUERY_VERSIONS: int = 3
 EXPAND_QUERY_MAX_TOKENS: int = 256
 
+# Carril BM25: top-k léxico por keyword exacta. Rescata consultas coloquiales
+# que la similitud semántica de bge-m3 no acerca a los términos técnicos
+# (ej. "cuánto me toca" → "indemnización", "liquidación" en Arts. 48/50 LFT).
+DEFAULT_RETRIEVE_K_BM25_LANE: int = 10
+
+# Tokenización para BM25 en español legal: solo letras Unicode + dígitos,
+# sin stemming (preserva "patrón" vs "patronal") y sin stopwords (preserva
+# "no", "sin", "con" que cambian sentido jurídico). MISMA función para
+# corpus indexado y para la query — invariante crítico.
+_BM25_TOKEN_PATTERN: re.Pattern[str] = re.compile(
+    r"[\wáéíóúñü]+", re.UNICODE,
+)
+
 # Umbral defensivo: si TODOS los top chunks tienen score < este logit,
 # el contexto es claramente tangencial y devolvemos la respuesta canónica
 # de "no encontré" sin invocar al LLM (evita alucinación silenciosa y
@@ -79,6 +94,21 @@ LAW_TYPES: frozenset[str] = frozenset({"ley_federal", "constitucion"})
 LAW_QUOTA: int = 2
 LAW_SCORE_FLOOR: float = -1.5
 
+# Boost aditivo post-reranker para imponer la jerarquía legal mexicana
+# (Constitución > Ley federal > Jurisprudencia obligatoria > Tesis aislada).
+# El cross-encoder bge-reranker-v2-m3 no conoce esa jerarquía y tiende a
+# premiar tesis SCJN cuyos rúbricas coinciden léxicamente con la consulta,
+# desplazando artículos LFT/CPEUM al fondo del top-K. Sumamos una constante
+# al rerank_score (NO multiplicamos: los scores son logits no acotados y
+# multiplicar negativos los hunde más, agravando el bug). Valores
+# calibrados contra fase A de QA: +0.8 mueve un Art. LFT con score -0.4
+# a +0.4, superando a una tesis tangencial con score +0.3. La cuota
+# LAW_QUOTA + LAW_SCORE_FLOOR sigue operando sobre el score boosteado,
+# rescatando ley marginalmente bajo el piso (consistente con la intención
+# original de la cuota: dar piso semántico a la promoción).
+LAW_RERANK_BOOST: float = 1.2
+MANDATORY_JURISPRUDENCIA_BOOST: float = 0.3
+
 NO_ENCONTRE_CANONICAL: str = (
     "## Respuesta\n\n"
     "No encontré información suficiente en el corpus disponible para "
@@ -88,37 +118,6 @@ NO_ENCONTRE_CANONICAL: str = (
     "## Advertencia\n\n"
     "Esta respuesta es orientativa. El criterio jurídico final corresponde "
     "al abogado responsable del caso."
-)
-_EXPAND_QUERY_SYSTEM_PROMPT: str = (
-    "Eres un experto en derecho laboral mexicano. Tu tarea es reformular "
-    "una consulta coloquial de un abogado en 3 versiones, cada una dirigida "
-    "a un tipo distinto de fuente, para maximizar la cobertura de un "
-    "sistema de recuperación vectorial sobre LFT, CPEUM y tesis SCJN.\n\n"
-    "DICCIONARIO COLOQUIAL → TÉCNICO (úsalo cuando aplique):\n"
-    "- freelancer / independiente / por proyecto → subordinación, "
-    "elementos de la relación de trabajo Art. 20 LFT, presunción Art. 21 LFT\n"
-    "- embarazada / embarazo → estado de gravidez, fuero de maternidad, "
-    "estabilidad reforzada, Art. 170 LFT, Art. 133-XV LFT, Art. 123 Apartado A V CPEUM\n"
-    "- liquidación / finiquito / cuánto le toca → indemnización constitucional, "
-    "tres meses, veinte días por año, prima de antigüedad, Art. 48 LFT, Art. 50 LFT, Art. 162 LFT\n"
-    "- abandono → rescisión sin responsabilidad patronal, Art. 47-X LFT\n"
-    "- despido → terminación de relación laboral, Art. 47 LFT, Art. 48 LFT\n"
-    "- reinstalación → acción de reinstalación, Art. 48 LFT, Art. 49 LFT\n"
-    "- aguinaldo → prestación anual mínima, Art. 87 LFT\n"
-    "- vacaciones → período vacacional, Art. 76 LFT, Art. 77 LFT, Art. 80 LFT\n"
-    "- outsourcing / subcontratación → servicios especializados, Art. 15 LFT, Art. 15-A LSS\n\n"
-    "GENERA EXACTAMENTE 3 REFORMULACIONES con estos roles fijos:\n"
-    "1. ORIENTADA A LFT: una oración breve con el/los número(s) de artículo "
-    "predecible(s) del/los punto(s) anterior(es). Ejemplo: "
-    "'Indemnización por despido injustificado Art. 48 LFT y prima de antigüedad Art. 162 LFT'.\n"
-    "2. ORIENTADA A SCJN: pregunta con palabras clave que aparecerían en el "
-    "rubro de una tesis o jurisprudencia laboral. Ejemplo: "
-    "'Criterios SCJN sobre estabilidad laboral reforzada de trabajadora embarazada y carga de la prueba'.\n"
-    "3. CONCEPTO JURÍDICO GENÉRICO: la consulta original traducida a "
-    "vocabulario técnico, sin referencias específicas. Ejemplo: "
-    "'Elementos constitutivos de la relación de trabajo: subordinación, dependencia, salario'.\n\n"
-    "Devuelve SOLO un JSON array con 3 strings, sin explicación, sin "
-    "Markdown, sin texto adicional."
 )
 # Captura el primer arreglo JSON en la respuesta — tolera prólogo o ```json fences.
 _JSON_ARRAY_PATTERN = re.compile(r"\[.*\]", re.DOTALL)
@@ -131,15 +130,49 @@ _collection: Collection | None = None
 _anthropic_client: anthropic.Anthropic | None = None
 _config: Settings | None = None
 
+# Singletons del carril BM25. Se construyen una sola vez por proceso en
+# `_get_bm25_index()` leyendo el corpus completo desde ChromaDB. Mismo
+# contrato que `_collection`: si ingest.py modifica el corpus, hay que
+# reiniciar el servidor para que BM25 vea los cambios.
+_bm25_index: BM25Okapi | None = None
+_bm25_chunk_ids: list[str] | None = None
+_bm25_texts: list[str] | None = None
+_bm25_metadatas: list[dict[str, Any]] | None = None
+
 
 @dataclass
 class RetrievedChunk:
-    """Chunk recuperado de ChromaDB, opcionalmente reranqueado."""
+    """
+    Chunk recuperado de ChromaDB, opcionalmente reranqueado.
+
+    Campos:
+        text: Texto del chunk tal como se indexó.
+        metadata: Metadatos verificables del chunk (source, doc_id,
+            article, page, type, mandatory, etc. — ver ingest.py).
+        distance: Distancia coseno al embedding de la query (menor =
+            más similar). Vale `float("inf")` cuando el chunk solo
+            vino del carril BM25 (sin pasar por similitud vectorial);
+            en ese caso el orden final lo resuelve `rerank_score`.
+        rerank_score: Score EFECTIVO usado para ordenar (logit del
+            cross-encoder + boost de jerarquía legal aplicado en
+            `rerank()`). None mientras el chunk está en el pool crudo.
+            Es el score que ven los umbrales (DEFENSIVE_RELEVANCE_THRESHOLD,
+            LAW_SCORE_FLOOR), la sigmoid de confianza y `_describe_relevance`.
+        raw_rerank_score: Logit crudo del cross-encoder bge-reranker-v2-m3
+            antes del boost. None mientras el chunk está en el pool crudo.
+            Útil para trazabilidad/QA: permite distinguir si un chunk subió
+            por mérito propio o por la jerarquía legal.
+        bm25_score: Score BM25 (sólo presente si el chunk apareció en el
+            carril léxico). Sirve para trazabilidad y depuración de QA;
+            no afecta el orden final.
+    """
 
     text: str
     metadata: dict[str, Any]
     distance: float
     rerank_score: float | None = None
+    raw_rerank_score: float | None = None
+    bm25_score: float | None = None
 
 
 def _get_config() -> Settings:
@@ -191,6 +224,86 @@ def _get_anthropic_client() -> anthropic.Anthropic:
         config = _get_config()
         _anthropic_client = anthropic.Anthropic(api_key=config.anthropic_api_key)
     return _anthropic_client
+
+
+# === Tokenización e índice BM25 (carril léxico) ===
+
+def _tokenize_es(text: str) -> list[str]:
+    """
+    Tokeniza texto en español para indexación/consulta BM25.
+
+    Lowercase + extracción de tokens Unicode alfanuméricos. Sin stemming
+    (preserva "patrón" vs "patronal") y sin stopwords (preserva "no",
+    "sin", "con", que cambian sentido jurídico). Debe usarse la MISMA
+    función para el corpus indexado y para la query — invariante crítico.
+
+    Args:
+        text: Texto crudo (chunk del corpus o consulta del abogado).
+
+    Returns:
+        Lista de tokens en minúsculas; lista vacía si el texto no contiene
+        caracteres alfanuméricos.
+    """
+    return _BM25_TOKEN_PATTERN.findall(text.lower())
+
+
+def _get_bm25_index() -> tuple[
+    BM25Okapi | None,
+    list[str],
+    list[str],
+    list[dict[str, Any]],
+]:
+    """
+    Construye y cachea el índice BM25 sobre todos los chunks del corpus.
+
+    Carga única por proceso (mismo contrato que `_get_collection`): si
+    `ingest.py` modifica el corpus tras el arranque, hay que reiniciar
+    el servidor para que el carril BM25 vea los cambios.
+
+    Si la colección está vacía (corpus no ingestado), devuelve `(None,
+    [], [], [])` y registra un warning — el carril BM25 se salta sin
+    romper `retrieve()`. Cuando el primer chunk sea indexado y el
+    servidor se reinicie, el índice se construye en la primera consulta.
+
+    Returns:
+        Tupla `(índice, chunk_ids, textos, metadatos)`, con listas
+        paralelas por posición. `índice` es `None` si el corpus está
+        vacío.
+    """
+    global _bm25_index, _bm25_chunk_ids, _bm25_texts, _bm25_metadatas
+
+    if _bm25_chunk_ids is not None:
+        return _bm25_index, _bm25_chunk_ids, _bm25_texts or [], _bm25_metadatas or []
+
+    collection = _get_collection()
+    data = collection.get(include=["documents", "metadatas"])
+    ids = data.get("ids", []) or []
+    documents = data.get("documents", []) or []
+    metadatas = data.get("metadatas", []) or []
+
+    if not ids:
+        logger.warning(
+            "Corpus vacío al construir índice BM25; carril léxico deshabilitado "
+            "hasta el próximo reinicio tras ingestar.",
+        )
+        _bm25_index = None
+        _bm25_chunk_ids = []
+        _bm25_texts = []
+        _bm25_metadatas = []
+        return _bm25_index, _bm25_chunk_ids, _bm25_texts, _bm25_metadatas
+
+    t0 = time.perf_counter()
+    tokenized_corpus = [_tokenize_es(doc) for doc in documents]
+    _bm25_index = BM25Okapi(tokenized_corpus)
+    _bm25_chunk_ids = list(ids)
+    _bm25_texts = list(documents)
+    _bm25_metadatas = [m or {} for m in metadatas]
+    elapsed = time.perf_counter() - t0
+    logger.info(
+        "Índice BM25 construido: %d chunks tokenizados en %.2fs",
+        len(tokenized_corpus), elapsed,
+    )
+    return _bm25_index, _bm25_chunk_ids, _bm25_texts, _bm25_metadatas
 
 
 # === Formato de citas (skills/legal-rag.md §2) ===
@@ -295,7 +408,7 @@ def expand_query(query: str) -> list[str]:
             model=config.llm_model,
             max_tokens=EXPAND_QUERY_MAX_TOKENS,
             temperature=LLM_TEMPERATURE,
-            system=_EXPAND_QUERY_SYSTEM_PROMPT,
+            system=EXPAND_QUERY_SYSTEM_PROMPT,
             messages=[{"role": "user", "content": f"Consulta: {query}"}],
         )
     except anthropic.APIError as exc:
@@ -410,38 +523,103 @@ def _merge_chroma_results(
     return added, total_raw
 
 
+def _merge_bm25_results(
+    top_ids: list[str],
+    top_scores: list[float],
+    texts_by_id: dict[str, str],
+    metas_by_id: dict[str, dict[str, Any]],
+    best_by_id: dict[str, RetrievedChunk],
+) -> int:
+    """
+    Fusiona el top-N del carril BM25 en `best_by_id`.
+
+    Los scores BM25 no son comparables con las distancias coseno de los
+    carriles vectoriales (uno es similitud creciente, la otra es
+    distancia decreciente), así que esta función NO compite por "menor
+    distancia": solo añade chunks nuevos al pool y anota `bm25_score`
+    en los que ya estaban (trazabilidad para QA). El orden final lo
+    resuelve `rerank()` con cross-encoder scores comparables entre los
+    tres carriles.
+
+    Los chunks añadidos llevan `distance=float("inf")` como placeholder
+    no-comparable: si el reranker se desactivara, quedarían al final del
+    `sorted` por distancia. Con el reranker activado (caso normal), el
+    `rerank_score` sobrescribe el orden y `distance=inf` es irrelevante.
+
+    Args:
+        top_ids: chunk_ids del top-N BM25, en orden de score descendente.
+        top_scores: Scores BM25 paralelos a `top_ids`.
+        texts_by_id: Mapa chunk_id → texto del chunk (de los singletons).
+        metas_by_id: Mapa chunk_id → metadatos del chunk.
+        best_by_id: Acumulador mutado en sitio (compartido con
+            `_merge_chroma_results`).
+
+    Returns:
+        Número de chunks NUEVOS añadidos al pool (no contabiliza los que
+        solo recibieron anotación de `bm25_score`).
+    """
+    added = 0
+    for chunk_id, score in zip(top_ids, top_scores):
+        existing = best_by_id.get(chunk_id)
+        if existing is None:
+            best_by_id[chunk_id] = RetrievedChunk(
+                text=texts_by_id.get(chunk_id, ""),
+                metadata=metas_by_id.get(chunk_id, {}),
+                distance=float("inf"),
+                bm25_score=score,
+            )
+            added += 1
+        else:
+            existing.bm25_score = score
+    return added
+
+
 def retrieve(
     query: str | list[str],
     top_k: int = DEFAULT_RETRIEVE_K,
     law_lane_k: int = DEFAULT_RETRIEVE_K_LAW_LANE,
+    bm25_lane_k: int = DEFAULT_RETRIEVE_K_BM25_LANE,
 ) -> list[RetrievedChunk]:
     """
-    Recupera candidatos en dos carriles y los fusiona.
+    Recupera candidatos en tres carriles y los fusiona.
 
     Carril 1 — semántico (clásico): top-K por similitud coseno sobre todo
     el corpus, sin filtros. Captura tesis SCJN cuyas rúbricas se parecen
     a la consulta y artículos de ley que bge-m3 acerca semánticamente.
 
-    Carril 2 — normativo (nuevo): top-`law_lane_k` adicionales por query,
+    Carril 2 — normativo: top-`law_lane_k` adicionales por query,
     forzando `where={"type": {"$in": LAW_TYPES}}`. Garantiza que el pool
     SIEMPRE contenga candidatos de LFT/CPEUM, incluso cuando bge-m3 los
     descarta por similitud frente a tesis (problema diagnosticado en
     tests/output/qa_comparativo_quota.md). El reranker decide después si
     son relevantes; al menos tiene la oportunidad de verlos.
 
-    Ambos carriles se fusionan deduplicando por chunk_id y conservando
-    la menor distancia observada (best-evidence cuando un mismo chunk
-    aparece desde varias queries o carriles).
+    Carril 3 — BM25 léxico: top-`bm25_lane_k` por keyword exacto sobre la
+    query ORIGINAL únicamente (no las expansiones, que ya inyectan
+    números de artículo y producirían falsos positivos al match
+    literalmente "Art" y "48"). Rescata consultas coloquiales como
+    "cuánto me toca" → matchea literalmente "indemnización"/"liquidación"
+    en Arts. 48/50 LFT, donde bge-m3 no acerca lo suficiente.
+
+    Los carriles 1 y 2 se fusionan por menor distancia coseno (mejor
+    evidencia). El carril 3 se fusiona aditivamente: solo añade chunks
+    nuevos al pool (con `distance=inf` como placeholder no-comparable) y
+    anota `bm25_score` en los que ya estaban. El reranker resuelve el
+    orden final con cross-encoder scores comparables entre los 3.
 
     Args:
         query: Consulta en lenguaje natural, o lista de reformulaciones.
         top_k: Candidatos por query del carril semántico.
         law_lane_k: Candidatos por query del carril normativo. Usa 0 para
-            desactivarlo (degrada al comportamiento clásico de un carril).
+            desactivarlo.
+        bm25_lane_k: Top-N del carril BM25 sobre la query original. Usa 0
+            para desactivarlo (degrada al pipeline previo de dos carriles).
 
     Returns:
-        Lista de RetrievedChunk con texto, metadatos y distancia coseno
-        (la menor entre las queries/carriles que recuperaron ese chunk).
+        Lista de RetrievedChunk con texto, metadatos, distancia coseno y
+        opcionalmente bm25_score. Ordenada por distancia ascendente (los
+        chunks que solo vinieron de BM25 quedan al final con
+        `distance=inf`; el reranker reordena después por rerank_score).
     """
     queries: list[str] = [query] if isinstance(query, str) else list(query)
 
@@ -478,20 +656,74 @@ def retrieve(
             normative_added,
         )
 
+    # Carril 3 — BM25 léxico (solo sobre la query ORIGINAL).
+    bm25_added = 0
+    if bm25_lane_k > 0:
+        bm25, bm25_ids, bm25_texts, bm25_metas = _get_bm25_index()
+        original_query = queries[0]
+        tokenized_query = _tokenize_es(original_query)
+        if bm25 is None:
+            logger.warning("Carril BM25: corpus no indexado, omitido")
+        elif not tokenized_query:
+            logger.warning(
+                "Carril BM25: query vacía tras tokenizar (%r), omitido",
+                original_query,
+            )
+        else:
+            scores = bm25.get_scores(tokenized_query)
+            top_indices = sorted(
+                range(len(scores)),
+                key=lambda i: scores[i],
+                reverse=True,
+            )[:bm25_lane_k]
+            top_ids = [bm25_ids[i] for i in top_indices]
+            top_scores = [float(scores[i]) for i in top_indices]
+            texts_by_id = {bm25_ids[i]: bm25_texts[i] for i in top_indices}
+            metas_by_id = {
+                bm25_ids[i]: bm25_metas[i] for i in top_indices
+            }
+            bm25_added = _merge_bm25_results(
+                top_ids, top_scores, texts_by_id, metas_by_id, best_by_id,
+            )
+            logger.info(
+                "Carril BM25: %d chunks únicos añadidos al pool "
+                "(top-%d sobre query original)",
+                bm25_added, bm25_lane_k,
+            )
+
     chunks = sorted(best_by_id.values(), key=lambda c: c.distance)
 
-    if len(queries) == 1:
-        logger.info(
-            "Pool final: %d candidatos únicos (semántico + normativo)",
-            len(chunks),
-        )
-    else:
-        logger.info(
-            "Pool final: %d candidatos únicos (semántico: %d, "
-            "normativo añadidos: %d, %d queries)",
-            len(chunks), semantic_unique, normative_added, len(queries),
-        )
+    logger.info(
+        "Pool final: %d candidatos únicos (semántico: %d, "
+        "normativo añadidos: %d, BM25 añadidos: %d, %d %s)",
+        len(chunks), semantic_unique, normative_added, bm25_added,
+        len(queries), "query" if len(queries) == 1 else "queries",
+    )
     return chunks
+
+
+def _hierarchy_boost(metadata: dict[str, Any]) -> float:
+    """
+    Devuelve el boost aditivo a sumar al logit del cross-encoder según la
+    jerarquía legal mexicana (Constitución > Ley federal > Jurisprudencia
+    obligatoria > Tesis aislada).
+
+    Aditivo y no multiplicativo: los logits del reranker pueden ser
+    negativos, y multiplicar un negativo por >1 lo hunde más — invirtiendo
+    el efecto deseado. La suma siempre desplaza hacia arriba.
+
+    Args:
+        metadata: Metadatos del chunk (claves `type` y `mandatory`).
+
+    Returns:
+        Float a sumar al rerank_score crudo. 0.0 cuando no aplica boost.
+    """
+    chunk_type = metadata.get("type")
+    if chunk_type in LAW_TYPES:
+        return LAW_RERANK_BOOST
+    if chunk_type == "jurisprudencia" and metadata.get("mandatory"):
+        return MANDATORY_JURISPRUDENCIA_BOOST
+    return 0.0
 
 
 def rerank(
@@ -504,13 +736,23 @@ def rerank(
     """
     Reordena con cross-encoder bge-reranker-v2-m3 y devuelve los top-K.
 
-    Aplica una cuota suave: si en el top-K natural hay menos de `law_quota`
-    chunks de tipo ley primaria (LAW_TYPES), promueve los mejores chunks
-    ley del pool restante cuyo rerank_score supere `law_score_floor`,
-    desplazando los no-ley con menor score. Esto corrige el sesgo del
-    cross-encoder a favor de tesis SCJN cuando el rubro coincide
-    léxicamente con la consulta — sin ampliar top_k ni inyectar ruido
-    (chunks bajo el piso no se promueven).
+    Aplica DOS mecanismos para imponer la jerarquía legal mexicana:
+
+    1. Boost aditivo de jerarquía (NUEVO):
+        - ley_federal / constitucion → rerank_score + LAW_RERANK_BOOST (+0.8)
+        - jurisprudencia con mandatory=True → + MANDATORY_JURISPRUDENCIA_BOOST (+0.3)
+        - tesis (T) y demás tipos → sin cambio
+       El logit crudo del cross-encoder se preserva en `raw_rerank_score`
+       para trazabilidad; el `rerank_score` es el score EFECTIVO post-boost
+       que el resto del pipeline usa (sort, umbrales, sigmoid de confianza,
+       descripción cualitativa). Aditivo, no multiplicativo: los logits
+       pueden ser negativos y un multiplicador los hunde más.
+
+    2. Cuota suave (existente): si tras el boost siguen faltando chunks
+       ley primaria en el top-K natural (`law_in_top < law_quota`),
+       promueve los mejores chunks ley del pool restante cuyo rerank_score
+       boosteado supere `law_score_floor`, desplazando los no-ley con
+       menor score. Sin ampliar top_k ni inyectar ruido.
 
     Args:
         query: Misma consulta usada en `retrieve`.
@@ -518,11 +760,12 @@ def rerank(
         top_k: Número de chunks que llegan al LLM (típicamente 5).
         law_quota: Mínimo de chunks tipo ley_federal/constitucion en el
             top-K. Usa 0 para desactivar la cuota.
-        law_score_floor: Score mínimo (logit) que debe tener un chunk ley
-            para ser promovido. Evita inyectar artículos irrelevantes.
+        law_score_floor: Score mínimo (logit BOOSTEADO) que debe tener un
+            chunk ley para ser promovido. Evita inyectar artículos
+            irrelevantes.
 
     Returns:
-        Top-K chunks ordenados por rerank_score descendente.
+        Top-K chunks ordenados por rerank_score (post-boost) descendente.
     """
     if not chunks:
         return []
@@ -531,8 +774,24 @@ def rerank(
     pairs = [(query, c.text) for c in chunks]
     scores = reranker.predict(pairs)
 
+    law_boosted = 0
+    juris_boosted = 0
     for chunk, score in zip(chunks, scores):
-        chunk.rerank_score = float(score)
+        raw = float(score)
+        chunk.raw_rerank_score = raw
+        boost = _hierarchy_boost(chunk.metadata)
+        chunk.rerank_score = raw + boost
+        if boost == LAW_RERANK_BOOST:
+            law_boosted += 1
+        elif boost == MANDATORY_JURISPRUDENCIA_BOOST:
+            juris_boosted += 1
+
+    logger.info(
+        "Boost jerarquía: %d chunks ley primaria (+%.2f), %d jurisprudencia "
+        "obligatoria (+%.2f)",
+        law_boosted, LAW_RERANK_BOOST,
+        juris_boosted, MANDATORY_JURISPRUDENCIA_BOOST,
+    )
 
     all_sorted = sorted(
         chunks, key=lambda c: c.rerank_score or 0.0, reverse=True,
