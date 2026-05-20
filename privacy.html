@@ -7,6 +7,23 @@
 <meta name="description" content="Aviso de Privacidad simplificado de Legis conforme a la LFPDPPP. Datos personales recabados a través del formulario de acceso beta." />
 <meta name="theme-color" content="#185FA5" />
 
+<!-- Tema: fija data-theme antes de pintar (anti-FOUC). Clave compartida con la
+     app y la landing: localStorage 'legis_theme'. -->
+<script>
+  (function () {
+    try {
+      var t = localStorage.getItem("legis_theme");
+      if (t !== "light" && t !== "dark") {
+        t = (window.matchMedia && window.matchMedia("(prefers-color-scheme: dark)").matches)
+          ? "dark" : "light";
+      }
+      document.documentElement.dataset.theme = t;
+    } catch (e) {
+      document.documentElement.dataset.theme = "light";
+    }
+  })();
+</script>
+
 <link rel="icon" type="image/svg+xml" href="favicon.svg" />
 <link rel="preconnect" href="https://fonts.googleapis.com" />
 <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
@@ -25,6 +42,18 @@
     --border:        #E5E7EB;
   }
 
+  :root[data-theme="dark"] {
+    --primary:       #4D94D6;
+    --primary-dark:  #9CC6EA;
+    --primary-soft:  rgba(77,148,214,0.16);
+    --bg:            #0E1421;
+    --bg-soft:       #18212F;
+    --text:          #E6ECF3;
+    --text-2:        #B9C2CF;
+    --text-muted:    #8A95A5;
+    --border:        #2A3548;
+  }
+
   * { box-sizing: border-box; }
   html, body { margin: 0; padding: 0; }
   body {
@@ -34,6 +63,7 @@
     font-size: 16px;
     line-height: 1.65;
     -webkit-font-smoothing: antialiased;
+    transition: background-color .3s ease, color .3s ease;
   }
 
   a { color: var(--primary); text-decoration: none; }
