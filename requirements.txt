@@ -1,23 +1,16 @@
 # Python 3.11
 # Pinneo por mayor.menor para evitar breaking changes pero permitir parches.
 
-# === RAG core ===
-llama-index>=0.12,<0.13
-llama-index-vector-stores-chroma>=0.4,<0.5
-llama-index-embeddings-huggingface>=0.4,<0.5
-llama-index-llms-anthropic>=0.6,<0.7
-llama-index-postprocessor-sbert-rerank>=0.3,<0.4
-
 # === Vector DB ===
 chromadb>=0.5,<0.6
 
 # === BM25 (carril léxico) ===
 rank-bm25>=0.2.2,<0.3
 
-# === Embeddings + reranker (locales, gratis) ===
-sentence-transformers>=3.0,<4.0
-torch>=2.2,<3.0
-transformers>=4.40,<5.0
+# === Embeddings + reranker (Voyage AI por API) ===
+# Reemplazan a bge-m3 + bge-reranker-v2-m3 locales: sin torch ni modelos
+# pesados, la imagen baja de ~varios GB a ~200 MB y corre en Render free tier.
+voyageai>=0.3,<1.0
 
 # === PDF parsing ===
 pymupdf>=1.24,<2.0
@@ -28,6 +21,11 @@ anthropic>=0.42,<1.0
 # === API (FastAPI + Uvicorn sirve la SPA React) ===
 fastapi>=0.110,<1.0
 uvicorn[standard]>=0.27,<1.0
+
+# === Auth beta (magic link) ===
+supabase>=2.0,<3.0
+resend>=2.0,<3.0
+pyjwt>=2.8,<3.0
 
 # === Utils ===
 python-dotenv>=1.0,<2.0

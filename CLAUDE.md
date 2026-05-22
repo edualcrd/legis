@@ -23,11 +23,14 @@ Pierde 8-15 horas semanales en búsqueda de jurisprudencia.
 
 | Capa | Tecnología | Razón |
 |---|---|---|
-| RAG | LlamaIndex | Madurez, documentación, integración con ChromaDB |
-| Vectores | ChromaDB (local) | Gratis, sin latencia de red, suficiente para MVP |
+| Embeddings | Voyage `voyage-3` (API) | Sin modelos locales → imagen ligera que cabe en Render (migrado desde bge-m3 local, 2026-05-23) |
+| Vectores | ChromaDB (local, horneado en la imagen Docker) | Gratis, sin latencia de red; corpus estático de solo lectura |
+| Reranker | Voyage `rerank-2.5` (API) | top-20 → top-5 (migrado desde bge-reranker-v2-m3 local, 2026-05-23) |
+| Léxico | BM25 (rank-bm25, en memoria) | Carril de keyword exacto para consultas coloquiales |
 | LLM | claude-haiku-4-5 | Costo mínimo (~$5/mes en validación), rápido |
 | Interfaz | FastAPI + React (SPA single-file vía CDN, sin build step) | Migrado desde Streamlit en fase de scaffolding |
-| Hosting | Render (free tier) | $0 en fase de validación |
+| Auth | Magic link (Supabase + Resend + JWT) | Acceso por invitación al beta; `/api/query` protegido |
+| Hosting | Render (free tier, Docker) | Bajo costo en validación; posible solo tras quitar torch/modelos locales |
 
 ---
 
@@ -45,18 +48,23 @@ legal-ai-mexico/
 │   ├── raw/                   # PDFs y .txt originales descargados
 │   └── processed/             # archivos limpios listos para indexar
 ├── src/
-│   ├── api.py                 # FastAPI: /api/query, /api/stats + sirve frontend
-│   ├── ingest.py              # Indexación del corpus
-│   ├── rag.py                 # Lógica de recuperación y respuesta
+│   ├── api.py                 # FastAPI: /api/query, /api/stats, /api/auth/*, /auth, /health + sirve frontend
+│   ├── auth.py                # Magic link: Supabase + Resend + JWT (lógica; rutas en api.py)
+│   ├── ingest.py              # Indexación del corpus (embeddings vía Voyage)
+│   ├── rag.py                 # Recuperación + rerank (Voyage) + respuesta
 │   ├── prompts.py             # System prompts centralizados
-│   └── utils.py               # Funciones auxiliares
+│   └── utils.py               # Config tipada (.env) y logger
 ├── frontend/
-│   └── index.html             # SPA React single-file (CDN, sin build step)
+│   └── index.html             # SPA React single-file (CDN, sin build step); login + app
 ├── scripts/
 │   ├── descargar_leyes.py     # LFT, CPEUM, LSS, LFTSE, criterios IMSS
 │   └── listar_tesis_sjf.py    # Tesis SCJN laborales del API público SJF
 ├── tests/
 │   └── casos_reales.py        # Pruebas con consultas reales de abogados
+├── supabase_schema.sql        # Esquema de las tablas usuarios + magic_tokens
+├── Dockerfile                 # Imagen de despliegue (python:3.11-slim)
+├── render.yaml                # Blueprint de Render (servicio web Docker)
+├── .dockerignore
 ├── requirements.txt
 ├── .env.example
 └── README.md
@@ -175,12 +183,14 @@ Cuando trabajes en este proyecto, adopta el rol indicado:
 | Fase | Estado | Descripción |
 |---|---|---|
 | Corpus | 🟡 En curso | Scripts listos (descargar_leyes.py, listar_tesis_sjf.py); falta ejecutar |
-| Ingestión | ✅ Completo | src/ingest.py soporta PDF (PyMuPDF) y TXT; chunking respeta artículos |
-| RAG core | ✅ Completo | src/rag.py: bge-m3 → ChromaDB → bge-reranker-v2-m3 → Haiku 4.5 |
-| Interfaz MVP | ✅ Completo | Reemplazada por FastAPI + React SPA (migración v2) |
+| Ingestión | ✅ Completo | src/ingest.py soporta PDF (PyMuPDF) y TXT; embeddings vía Voyage API |
+| RAG core | ✅ Completo | src/rag.py: voyage-3 → ChromaDB → rerank-2.5 → Haiku 4.5 (migrado de bge-* locales el 2026-05-23) |
 | Interfaz v2 | ✅ Completo | src/api.py + frontend/index.html (React vía CDN, sin build) |
-| QA fase 1 | ⬜ Pendiente | 20 casos de prueba reales — stubs en tests/casos_reales.py |
-| Primer demo | ⬜ Pendiente | 3 despachos piloto en CDMX |
+| Auth beta | ✅ Código completo | Magic link (Supabase + Resend + JWT); `/api/query` protegido. Falta: crear tablas, env vars, verificar dominio en Resend |
+| Re-indexado Voyage | ⬜ Pendiente | Correr `python src/ingest.py` con `VOYAGE_API_KEY` antes de desplegar (el chroma_db actual es bge-m3, incompatible) |
+| Despliegue Render | 🟡 Archivos listos | Dockerfile + render.yaml + .dockerignore; falta `docker build` y configurar el servicio |
+| QA fase 1 | ⬜ Pendiente | 20 casos reales — stubs en tests/; RE-CORRER tras el cambio de reranker |
+| Primer demo | ⬜ Pendiente | Primer usuario beta: Pedro (abogado laboralista, CDMX) |
 
 Actualiza este bloque al completar cada fase.
 
@@ -195,3 +205,8 @@ _Registra aquí cada decisión importante para no repetir la discusión._
 | Inicio | ChromaDB local sobre Pinecone | Costo $0 en validación |
 | Inicio | Haiku sobre Sonnet | 10x más barato, suficiente para MVP |
 | Inicio | Streamlit sobre React | Lanzar en días, no semanas |
+| 2026-05-23 | Embeddings + rerank a Voyage API (voyage-3 + rerank-2.5); se elimina torch/sentence-transformers/transformers/llama-index | El stack local (~4-6 GB RAM) no cabía en Render free tier (512 MB); la imagen baja a ~200 MB |
+| 2026-05-23 | Convertir `relevance_score [0,1]` de Voyage a logit (inverse-sigmoid) en `_relevance_to_logit` | Preservar las constantes calibradas del reranker (LAW_RERANK_BOOST, umbrales, sigmoid de confianza) sin reescribirlas |
+| 2026-05-23 | Auth por magic link: Supabase + Resend + JWT | Acceso por invitación al beta sin construir login con contraseñas |
+| 2026-05-23 | Proteger `/api/query` en backend (no solo gating de pantalla) | Que nadie con la URL pública gaste la cuota de Haiku |
+| 2026-05-23 | Despliegue en Render con Docker; índice ChromaDB horneado en la imagen | Imagen reproducible; corpus estático, sin disco persistente de pago |

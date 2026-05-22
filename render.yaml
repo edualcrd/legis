@@ -1,0 +1,41 @@
+# Blueprint de Render para Legis (servicio web Docker).
+# Despliega con: dashboard de Render → New → Blueprint → apunta a este repo.
+# Las variables marcadas `sync: false` se configuran como secretos en el
+# dashboard (no se versionan aquí).
+
+services:
+  - type: web
+    name: legis
+    runtime: docker
+    dockerfilePath: ./Dockerfile
+    dockerContext: .
+    plan: free            # Ligero tras migrar a Voyage; sube de plan si hace falta.
+    region: oregon
+    healthCheckPath: /health
+    autoDeploy: true
+    envVars:
+      # --- Secretos (configurar en el dashboard de Render) ---
+      - key: ANTHROPIC_API_KEY
+        sync: false
+      - key: VOYAGE_API_KEY
+        sync: false
+      - key: RESEND_API_KEY
+        sync: false
+      - key: SUPABASE_URL
+        sync: false
+      - key: SUPABASE_KEY
+        sync: false
+      - key: ADMIN_API_KEY
+        sync: false
+      - key: SESSION_SECRET
+        generateValue: true   # Render genera un secreto aleatorio seguro.
+      # --- URL pública (base del magic link). Ajusta al dominio real. ---
+      - key: APP_BASE_URL
+        sync: false
+      # --- Valores no secretos ---
+      - key: RESEND_FROM_EMAIL
+        value: onboarding@resend.dev
+      - key: CHROMA_PERSIST_DIR
+        value: /app/chroma_db
+      - key: LOG_LEVEL
+        value: INFO

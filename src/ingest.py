@@ -3,16 +3,21 @@ Indexa el corpus legal (PDFs en corpus/raw/) en ChromaDB.
 
 Pipeline:
     PDF (PyMuPDF) → chunking respetando límites de artículo
-        → BAAI/bge-m3 (embeddings locales) → ChromaDB persistente
+        → Voyage voyage-3 (embeddings vía API) → ChromaDB persistente
 
 Aplica las reglas de:
     - skills/legal-rag.md §6 (chunking, nunca cortar artículo)
     - skills/corpus-ingest.md §2 (convención de nombres)
     - skills/corpus-ingest.md §3 (metadatos obligatorios por chunk)
 
-El reranker (BAAI/bge-reranker-v2-m3) NO se usa aquí — es un componente
-de query time. Se aplica en src/rag.py al reordenar los top-K de
-ChromaDB antes de pasar al LLM.
+El reranker (Voyage rerank-2.5) NO se usa aquí — es un componente de query
+time. Se aplica en src/rag.py al reordenar los top-K de ChromaDB antes de
+pasar al LLM.
+
+IMPORTANTE: los embeddings deben generarse con el MISMO modelo que usa
+src/rag.py al consultar (config.embed_model). Si cambias de modelo de
+embeddings hay que RE-INDEXAR todo el corpus: los vectores viejos no son
+comparables con los nuevos.
 
 Uso:
     python src/ingest.py
@@ -28,7 +33,7 @@ from typing import Any
 
 import chromadb
 import fitz  # PyMuPDF
-from llama_index.embeddings.huggingface import HuggingFaceEmbedding
+import voyageai
 
 from src.utils import get_logger, load_config
 
@@ -368,7 +373,7 @@ def chunk_by_articles(
 def index_corpus(
     raw_dir: Path,
     persist_dir: Path,
-    embed_model_name: str = "BAAI/bge-m3",
+    embed_model_name: str = "voyage-3",
     collection_name: str = COLLECTION_NAME,
 ) -> int:
     """
@@ -380,7 +385,7 @@ def index_corpus(
     Args:
         raw_dir: Directorio con los PDFs originales del corpus legal.
         persist_dir: Directorio donde ChromaDB persiste el índice.
-        embed_model_name: Modelo HuggingFace para embeddings (default bge-m3).
+        embed_model_name: Modelo de embeddings de Voyage (default voyage-3).
         collection_name: Nombre de la colección en ChromaDB.
 
     Returns:
@@ -413,11 +418,11 @@ def index_corpus(
     )
 
     logger.info(
-        "Cargando modelo de embeddings %s (la primera vez descarga ~2.2 GB)...",
-        embed_model_name,
+        "Inicializando cliente Voyage para embeddings (%s)...", embed_model_name,
     )
-    embed_model = HuggingFaceEmbedding(model_name=embed_model_name)
-    logger.info("Modelo de embeddings listo")
+    config = load_config()
+    voyage = voyageai.Client(api_key=config.voyage_api_key)
+    logger.info("Cliente Voyage listo")
 
     persist_dir.mkdir(parents=True, exist_ok=True)
     logger.info("Conectando a ChromaDB en %s", persist_dir)
@@ -461,9 +466,9 @@ def index_corpus(
             for batch_start in range(0, len(chunks), EMBED_BATCH_SIZE):
                 batch = chunks[batch_start:batch_start + EMBED_BATCH_SIZE]
                 texts = [c.text for c in batch]
-                embeddings = embed_model.get_text_embedding_batch(
-                    texts, show_progress=False,
-                )
+                embeddings = voyage.embed(
+                    texts, model=embed_model_name, input_type="document",
+                ).embeddings
                 collection.upsert(
                     ids=[c.chunk_id for c in batch],
                     embeddings=embeddings,

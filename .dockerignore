@@ -1,0 +1,47 @@
+# Reduce el contexto de build y evita meter secretos/archivos pesados en la
+# imagen. NOTA: chroma_db/ NO se ignora aquí (sí lo ignora .gitignore), porque
+# el índice debe viajar dentro de la imagen.
+
+# Entornos y cachés de Python
+.venv/
+venv/
+env/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+*.egg-info/
+
+# Secretos y entorno local
+.env
+.env.local
+
+# Git y metadatos
+.git/
+.gitignore
+.claude/
+
+# Corpus crudo: solo se usa para construir el índice, no en runtime (pesado)
+corpus/raw/
+corpus/processed/
+
+# Datos locales y logs
+data/
+*.log
+
+# Pruebas y documentación de QA
+tests/
+
+# Landing comercial y assets no servidos por la app principal
+index.html
+privacy.html
+favicon.svg
+
+# Documentación / notas
+README.md
+CLAUDE.md
+skills/
+supabase_schema.sql
+
+# SO
+.DS_Store
+Thumbs.db

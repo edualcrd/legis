@@ -3,9 +3,9 @@ Pipeline RAG de Legis: recuperación, reranking y generación de respuestas lega
 
 Flujo (alineado con skills/legal-rag.md):
     consulta del abogado
-        → BAAI/bge-m3 (embedding de la query)
+        → Voyage voyage-3 (embedding de la query, vía API)
         → ChromaDB top-20 (similitud coseno sobre `legis_corpus`)
-        → BAAI/bge-reranker-v2-m3 top-5 (cross-encoder)
+        → Voyage rerank-2.5 top-5 (reranker vía API)
         → claude-haiku-4-5 con SYSTEM_PROMPT_BASE (prompts.py)
         → respuesta en Markdown con la estructura de legal-rag.md §4
 
@@ -16,10 +16,12 @@ Reglas no negociables aplicadas (skills/legal-rag.md §5):
       cuando no hay respaldo en el contexto.
     - Distinción J vs T propagada al LLM vía el campo "Carácter" del contexto.
 
-Los modelos pesados (bge-m3, bge-reranker-v2-m3, cliente Anthropic) se cargan
-una sola vez por proceso vía singletons lazy. Esto importa para Streamlit:
-una vez calientes, cada consulta solo paga ~1s de embed + ~300ms de rerank
-+ latencia del LLM.
+Embeddings y reranking corren por API (Voyage), no con modelos locales: la
+imagen de despliegue se mantiene ligera (sin torch) y cabe en Render. El
+reranker de Voyage devuelve relevance_score en [0,1]; `_relevance_to_logit`
+lo convierte a la escala logit que esperan los boosts y umbrales calibrados
+(ver `rerank()` y `_relevance_to_logit`). El cliente Voyage y el de Anthropic
+se inicializan una sola vez por proceso vía singletons lazy.
 """
 
 from __future__ import annotations
@@ -33,10 +35,9 @@ from typing import Any
 
 import anthropic
 import chromadb
+import voyageai
 from chromadb.api.models.Collection import Collection
-from llama_index.embeddings.huggingface import HuggingFaceEmbedding
 from rank_bm25 import BM25Okapi
-from sentence_transformers import CrossEncoder
 
 from src.prompts import EXPAND_QUERY_SYSTEM_PROMPT, SYSTEM_PROMPT_BASE
 from src.utils import Settings, get_logger, load_config
@@ -124,8 +125,7 @@ _JSON_ARRAY_PATTERN = re.compile(r"\[.*\]", re.DOTALL)
 
 # === Singletons lazy ===
 
-_embed_model: HuggingFaceEmbedding | None = None
-_reranker: CrossEncoder | None = None
+_voyage_client: voyageai.Client | None = None
 _collection: Collection | None = None
 _anthropic_client: anthropic.Anthropic | None = None
 _config: Settings | None = None
@@ -182,24 +182,45 @@ def _get_config() -> Settings:
     return _config
 
 
-def _get_embed_model() -> HuggingFaceEmbedding:
-    global _embed_model
-    if _embed_model is None:
+def _get_voyage_client() -> voyageai.Client:
+    """
+    Devuelve el cliente de Voyage AI (embeddings + rerank), inicializado una
+    sola vez por proceso. Reemplaza a los antiguos singletons de bge-m3 y
+    bge-reranker-v2-m3 locales: ya no se cargan modelos pesados en memoria.
+    """
+    global _voyage_client
+    if _voyage_client is None:
         config = _get_config()
-        logger.info("Cargando modelo de embeddings %s...", config.embed_model)
-        _embed_model = HuggingFaceEmbedding(model_name=config.embed_model)
-        logger.info("Modelo de embeddings listo")
-    return _embed_model
+        logger.info(
+            "Inicializando cliente Voyage (embeddings: %s, rerank: %s)...",
+            config.embed_model, config.rerank_model,
+        )
+        _voyage_client = voyageai.Client(api_key=config.voyage_api_key)
+        logger.info("Cliente Voyage listo")
+    return _voyage_client
 
 
-def _get_reranker() -> CrossEncoder:
-    global _reranker
-    if _reranker is None:
-        config = _get_config()
-        logger.info("Cargando reranker %s...", config.rerank_model)
-        _reranker = CrossEncoder(config.rerank_model)
-        logger.info("Reranker listo")
-    return _reranker
+def _relevance_to_logit(relevance_score: float) -> float:
+    """
+    Convierte el relevance_score de Voyage (p ∈ [0,1]) a un logit sin acotar.
+
+    El reranker local previo (bge-reranker-v2-m3) devolvía logits sin acotar,
+    y todas las constantes del pipeline (LAW_RERANK_BOOST,
+    MANDATORY_JURISPRUDENCIA_BOOST, los umbrales DEFENSIVE_RELEVANCE_THRESHOLD /
+    LAW_SCORE_FLOOR / _describe_relevance y la sigmoid de _estimate_confidence)
+    están calibradas en esa escala. Voyage devuelve probabilidades
+    normalizadas, así que aplicamos el inverso de la sigmoid
+    (logit = ln(p / (1 - p))) con clamp en los extremos para evitar ±inf. Así
+    toda la lógica calibrada sigue siendo válida sin reescribir constantes.
+
+    Args:
+        relevance_score: Score de relevancia de Voyage en [0, 1].
+
+    Returns:
+        Logit equivalente (float sin acotar).
+    """
+    p = min(max(float(relevance_score), 1e-6), 1.0 - 1e-6)
+    return math.log(p / (1.0 - p))
 
 
 def _get_collection() -> Collection:
@@ -623,10 +644,13 @@ def retrieve(
     """
     queries: list[str] = [query] if isinstance(query, str) else list(query)
 
-    embed_model = _get_embed_model()
+    voyage = _get_voyage_client()
     collection = _get_collection()
+    config = _get_config()
 
-    embeddings = [embed_model.get_query_embedding(q) for q in queries]
+    embeddings = voyage.embed(
+        queries, model=config.embed_model, input_type="query",
+    ).embeddings
 
     best_by_id: dict[str, RetrievedChunk] = {}
 
@@ -734,7 +758,11 @@ def rerank(
     law_score_floor: float = LAW_SCORE_FLOOR,
 ) -> list[RetrievedChunk]:
     """
-    Reordena con cross-encoder bge-reranker-v2-m3 y devuelve los top-K.
+    Reordena con el reranker de Voyage (rerank-2.5) y devuelve los top-K.
+
+    Voyage devuelve relevance_score en [0,1]; `_relevance_to_logit` lo convierte
+    a la escala logit del antiguo cross-encoder local, de modo que los boosts y
+    umbrales calibrados (abajo) siguen siendo válidos sin tocarlos.
 
     Aplica DOS mecanismos para imponer la jerarquía legal mexicana:
 
@@ -770,9 +798,19 @@ def rerank(
     if not chunks:
         return []
 
-    reranker = _get_reranker()
-    pairs = [(query, c.text) for c in chunks]
-    scores = reranker.predict(pairs)
+    voyage = _get_voyage_client()
+    config = _get_config()
+    documents = [c.text for c in chunks]
+    reranking = voyage.rerank(
+        query, documents, model=config.rerank_model, top_k=len(documents),
+    )
+    # Voyage devuelve los resultados ordenados por relevancia, cada uno con su
+    # índice original (`.index`) y `relevance_score` en [0,1]. Reconstruimos un
+    # array alineado con `chunks` y lo convertimos a logit para preservar la
+    # escala que esperan los boosts y umbrales calibrados.
+    scores = [0.0] * len(chunks)
+    for result in reranking.results:
+        scores[result.index] = _relevance_to_logit(result.relevance_score)
 
     law_boosted = 0
     juris_boosted = 0

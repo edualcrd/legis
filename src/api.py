@@ -26,13 +26,22 @@ from datetime import datetime, timezone
 from pathlib import Path
 from typing import Literal
 
-from fastapi import FastAPI, HTTPException
+from fastapi import Depends, FastAPI, Header, HTTPException, Query
 from fastapi.responses import FileResponse
 from fastapi.staticfiles import StaticFiles
 from pydantic import BaseModel, Field
 
+from src.auth import (
+    add_user,
+    consume_magic_token,
+    create_magic_token,
+    is_authorized_email,
+    issue_session,
+    send_magic_link,
+    verify_session,
+)
 from src.rag import answer_query, get_corpus_stats
-from src.utils import get_logger
+from src.utils import get_logger, load_config
 
 logger = get_logger(__name__)
 
@@ -118,6 +127,38 @@ class WaitlistResponse(BaseModel):
     message: str
 
 
+# Regex de email compartido: permisivo pero descarta basura obvia.
+_EMAIL_PATTERN = r"^[^\s@]+@[^\s@]+\.[^\s@]+$"
+
+
+class RequestAccessIn(BaseModel):
+    """Cuerpo de POST /api/auth/request-access."""
+
+    email: str = Field(..., min_length=5, max_length=200, pattern=_EMAIL_PATTERN)
+
+
+class MessageOut(BaseModel):
+    """Respuesta genérica con un mensaje en español."""
+
+    message: str
+
+
+class VerifyOut(BaseModel):
+    """Respuesta de GET /api/auth/verify."""
+
+    valid: bool
+    email: str | None = None
+    session_token: str | None = None
+    reason: str | None = None
+
+
+class AddUserIn(BaseModel):
+    """Cuerpo de POST /api/auth/add-user (solo admin, con API key)."""
+
+    email: str = Field(..., min_length=5, max_length=200, pattern=_EMAIL_PATTERN)
+    api_key: str = Field(..., min_length=1, max_length=200)
+
+
 # === App ===
 
 app = FastAPI(
@@ -130,27 +171,65 @@ app = FastAPI(
 )
 
 
+def require_session(authorization: str | None = Header(default=None)) -> str:
+    """
+    Dependencia que exige un JWT de sesión válido para acceder a rutas
+    protegidas. Lee el header `Authorization: Bearer <token>`, lo valida con
+    `verify_session` y devuelve el email autenticado. Responde 401 (en español)
+    si falta el token, está malformado, expiró o la firma no es válida.
+
+    Args:
+        authorization: Valor del header Authorization inyectado por FastAPI.
+
+    Returns:
+        El email del usuario autenticado.
+
+    Raises:
+        HTTPException: 401 si no hay una sesión válida.
+    """
+    if not authorization or not authorization.lower().startswith("bearer "):
+        raise HTTPException(
+            status_code=401,
+            detail="Falta el token de sesión. Inicia sesión para continuar.",
+        )
+    token = authorization.split(" ", 1)[1].strip()
+    email = verify_session(token)
+    if not email:
+        raise HTTPException(
+            status_code=401,
+            detail="Tu sesión expiró o no es válida. Vuelve a iniciar sesión.",
+        )
+    return email
+
+
 @app.post(
     "/api/query",
     response_model=QueryResponse,
     responses={
         400: {"model": ErrorResponse, "description": "Consulta inválida"},
+        401: {"model": ErrorResponse, "description": "Sesión inválida o ausente"},
         503: {"model": ErrorResponse, "description": "Corpus aún no indexado"},
         500: {"model": ErrorResponse, "description": "Error interno (LLM o RAG)"},
     },
     tags=["RAG"],
     summary="Responde una consulta legal con citas verificables",
 )
-def post_query(req: QueryRequest) -> QueryResponse:
+def post_query(
+    req: QueryRequest,
+    email: str = Depends(require_session),
+) -> QueryResponse:
     """
     Ejecuta el pipeline RAG completo y devuelve la respuesta con fuentes.
 
+    Protegida: requiere un JWT de sesión válido (header Authorization: Bearer).
+
     Errores:
         - 400: consulta vacía o malformada
+        - 401: sesión inválida o ausente
         - 503: ChromaDB no inicializado o corpus vacío (ejecutar `python src/ingest.py`)
         - 500: fallo del LLM o error inesperado
     """
-    logger.info("POST /api/query — query: %s", req.query[:120])
+    logger.info("POST /api/query — usuario: %s, query: %s", email, req.query[:120])
     try:
         result = answer_query(
             req.query,
@@ -242,6 +321,109 @@ def post_waitlist(req: WaitlistRequest) -> WaitlistResponse:
         ok=True,
         message="Solicitud recibida. Te contactamos en menos de 24 horas hábiles.",
     )
+
+
+# === Autenticación beta (magic link) ===
+
+@app.post(
+    "/api/auth/request-access",
+    response_model=MessageOut,
+    tags=["Auth"],
+    summary="Solicita un magic link de acceso",
+)
+def request_access(req: RequestAccessIn) -> MessageOut:
+    """
+    Si el email está autorizado y activo, genera un token de un solo uso y
+    envía el magic link por correo (Resend).
+
+    Por seguridad (anti-enumeración) responde SIEMPRE el mismo mensaje, exista
+    o no el usuario: así un tercero no puede descubrir qué correos están dados
+    de alta probando direcciones.
+    """
+    generic = MessageOut(
+        message="Si tu correo está autorizado, recibirás un enlace de acceso en breve.",
+    )
+    try:
+        if is_authorized_email(req.email):
+            token = create_magic_token(req.email)
+            send_magic_link(req.email, token)
+            logger.info("Magic link solicitado y enviado: %s", req.email)
+        else:
+            logger.info("Solicitud de acceso de email NO autorizado: %s", req.email)
+    except RuntimeError as exc:
+        raise HTTPException(status_code=500, detail=str(exc)) from exc
+    return generic
+
+
+@app.get(
+    "/api/auth/verify",
+    response_model=VerifyOut,
+    tags=["Auth"],
+    summary="Verifica un magic token y emite la sesión",
+)
+def verify(token: str = Query(..., min_length=1)) -> VerifyOut:
+    """
+    Consume el token del magic link (lo marca usado). Si es válido, emite un
+    JWT de sesión y lo devuelve junto al email; si no, devuelve la razón.
+    """
+    try:
+        valid, email, reason = consume_magic_token(token)
+    except RuntimeError as exc:
+        raise HTTPException(status_code=500, detail=str(exc)) from exc
+
+    if not valid or not email:
+        return VerifyOut(valid=False, reason=reason)
+
+    session_token = issue_session(email)
+    return VerifyOut(valid=True, email=email, session_token=session_token)
+
+
+@app.post(
+    "/api/auth/add-user",
+    response_model=MessageOut,
+    responses={403: {"model": ErrorResponse, "description": "API key inválida"}},
+    tags=["Auth"],
+    summary="Añade un usuario autorizado (solo admin)",
+)
+def post_add_user(req: AddUserIn) -> MessageOut:
+    """
+    Inserta un email en la tabla `usuarios`. Operación de administrador:
+    requiere la ADMIN_API_KEY del entorno. Idempotente.
+    """
+    config = load_config()
+    if not config.admin_api_key or req.api_key != config.admin_api_key:
+        raise HTTPException(
+            status_code=403, detail="API key de administrador inválida.",
+        )
+    try:
+        add_user(req.email)
+    except RuntimeError as exc:
+        raise HTTPException(status_code=500, detail=str(exc)) from exc
+    return MessageOut(message="Usuario añadido")
+
+
+@app.get("/auth", include_in_schema=False)
+def get_auth_page() -> FileResponse:
+    """
+    Sirve la SPA para que procese el `?token` del magic link.
+
+    Sin esta ruta, GET /auth caería al StaticFiles montado en "/" y devolvería
+    404 (no existe auth/index.html). Aquí devolvemos el index.html de la SPA,
+    que en el cliente lee el token de la URL y llama a /api/auth/verify.
+    """
+    index = FRONTEND_DIR / "index.html"
+    if not index.exists():
+        raise HTTPException(status_code=404, detail="Frontend no encontrado")
+    return FileResponse(index, media_type="text/html")
+
+
+@app.get("/health", include_in_schema=False)
+def health() -> dict[str, str]:
+    """
+    Health check ligero para Render. No toca Supabase, Anthropic ni Voyage:
+    solo confirma que el proceso responde.
+    """
+    return {"status": "ok"}
 
 
 # === Landing comercial (separada de la SPA) ===
