@@ -13,8 +13,6 @@ env/
 .env.local
 .streamlit/secrets.toml
 
-# Vector DB persistido (regenerable con `python src/ingest.py`)
-chroma_db/
 
 # Corpus crudo (PDFs originales — pesado, descargable de fuentes oficiales)
 corpus/raw/*
