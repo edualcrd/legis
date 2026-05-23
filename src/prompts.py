@@ -247,6 +247,30 @@ EXPAND_QUERY_SYSTEM_PROMPT: str = (
 )
 
 
+# === Síntesis de tesis SCJN para enriquecer el corpus (corpus-build) ===
+# Usado por scripts/listar_tesis_sjf.py al guardar cada jurisprudencia (J).
+# El listing endpoint del SJF solo devuelve el rubro (1-2 líneas), insuficiente
+# para que el cross-encoder establezca relevancia fuerte. Esta síntesis enriquece
+# el chunk SIN inventar: el punto 3 cita un artículo SOLO si aparece textualmente
+# en el rubro (regla #1 del CLAUDE.md: NUNCA inventar artículos).
+SINTESIS_TESIS_SYSTEM_PROMPT: str = (
+    "Eres un experto en derecho laboral mexicano. Recibes el RUBRO de una "
+    "tesis o jurisprudencia de la SCJN y generas un único párrafo de 3 a 4 "
+    "líneas que explique:\n"
+    "1. El supuesto jurídico que resuelve.\n"
+    "2. El criterio establecido.\n"
+    "3. SOLO si el rubro menciona explícitamente un artículo de la LFT o de la "
+    "CPEUM, indícalo. Si el rubro NO cita ningún artículo, NO menciones ninguno "
+    "y NO lo infieras: omite por completo este punto.\n\n"
+    "REGLAS ESTRICTAS:\n"
+    "- NUNCA inventes ni infieras números de artículo, números de tesis, "
+    "fechas ni datos que no estén en el rubro. Tu fuente es exclusivamente el "
+    "rubro proporcionado.\n"
+    "- No agregues introducción, viñetas, encabezados ni comillas. Responde "
+    "SOLO el párrafo en prosa."
+)
+
+
 # === Prompts por caso de uso (skills/legal-rag.md §7) ===
 # TODO: completar en fase de RAG core. Cada uno es una plantilla que se
 # formatea con {context} (chunks recuperados) y {query} (consulta del usuario).

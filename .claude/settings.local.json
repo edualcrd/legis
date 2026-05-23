@@ -57,7 +57,20 @@
       "PowerShell($env:PYTHONIOENCODING='utf-8'; python C:\\\\Users\\\\edu20\\\\AppData\\\\Local\\\\Temp\\\\test_boost.py)",
       "PowerShell(python -m py_compile src\\\\prompts.py)",
       "Bash(node -e ' *)",
-      "Bash(npm --version)"
+      "Bash(npm --version)",
+      "Bash(python *)",
+      "Bash(powershell *)",
+      "Bash(Get-ChildItem -Path . -Recurse -Include \"*.html\")",
+      "Bash(Select-Object FullName)",
+      "Bash(Get-ChildItem -Path \"C:\\\\Users\\\\edu20\\\\Documents\\\\Legis\" -Recurse -File)",
+      "Bash(echo \"=== EXIT: $? ===\")",
+      "Bash(npm ls *)",
+      "Bash(npm install *)",
+      "Bash(echo \"=== install exit: $? ===\")",
+      "Bash(node *)",
+      "Bash(git checkout *)",
+      "Bash(git add *)",
+      "Bash(git commit *)"
     ]
   }
 }

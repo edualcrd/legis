@@ -1,0 +1,35 @@
+2026-05-21 10:40:52 | INFO    | listar_tesis_sjf | Backfill de síntesis sobre 1143 jurisprudencias (J)
+2026-05-21 10:40:52 | INFO    | listar_tesis_sjf | Modelo: claude-haiku-4-5-20251001 | etiqueta: TEXTO_SINTETICO
+2026-05-21 10:40:54 | INFO    | listar_tesis_sjf |   [1/1143] enriquecidas: 1 | ya tenían: 0 | fallidas: 0
+2026-05-21 10:40:57 | INFO    | listar_tesis_sjf |   [2/1143] enriquecidas: 2 | ya tenían: 0 | fallidas: 0
+2026-05-21 10:40:59 | INFO    | listar_tesis_sjf |   [3/1143] enriquecidas: 3 | ya tenían: 0 | fallidas: 0
+2026-05-21 10:42:58 | INFO    | listar_tesis_sjf |   [50/1143] enriquecidas: 50 | ya tenían: 0 | fallidas: 0
+2026-05-21 10:45:05 | INFO    | listar_tesis_sjf |   [100/1143] enriquecidas: 100 | ya tenían: 0 | fallidas: 0
+2026-05-21 10:47:04 | INFO    | listar_tesis_sjf |   [150/1143] enriquecidas: 150 | ya tenían: 0 | fallidas: 0
+2026-05-21 10:49:03 | INFO    | listar_tesis_sjf |   [200/1143] enriquecidas: 200 | ya tenían: 0 | fallidas: 0
+2026-05-21 10:51:03 | INFO    | listar_tesis_sjf |   [250/1143] enriquecidas: 250 | ya tenían: 0 | fallidas: 0
+2026-05-21 10:53:13 | INFO    | listar_tesis_sjf |   [300/1143] enriquecidas: 300 | ya tenían: 0 | fallidas: 0
+2026-05-21 10:55:15 | INFO    | listar_tesis_sjf |   [350/1143] enriquecidas: 350 | ya tenían: 0 | fallidas: 0
+2026-05-21 10:57:18 | INFO    | listar_tesis_sjf |   [400/1143] enriquecidas: 400 | ya tenían: 0 | fallidas: 0
+2026-05-21 10:59:15 | INFO    | listar_tesis_sjf |   [450/1143] enriquecidas: 450 | ya tenían: 0 | fallidas: 0
+2026-05-21 11:01:21 | INFO    | listar_tesis_sjf |   [500/1143] enriquecidas: 500 | ya tenían: 0 | fallidas: 0
+2026-05-21 11:03:15 | INFO    | listar_tesis_sjf |   [550/1143] enriquecidas: 550 | ya tenían: 0 | fallidas: 0
+2026-05-21 11:05:19 | INFO    | listar_tesis_sjf |   [600/1143] enriquecidas: 600 | ya tenían: 0 | fallidas: 0
+2026-05-21 11:07:19 | INFO    | listar_tesis_sjf |   [650/1143] enriquecidas: 650 | ya tenían: 0 | fallidas: 0
+2026-05-21 11:09:20 | INFO    | listar_tesis_sjf |   [700/1143] enriquecidas: 700 | ya tenían: 0 | fallidas: 0
+2026-05-21 11:11:34 | INFO    | listar_tesis_sjf |   [750/1143] enriquecidas: 750 | ya tenían: 0 | fallidas: 0
+2026-05-21 11:13:41 | INFO    | listar_tesis_sjf |   [800/1143] enriquecidas: 800 | ya tenían: 0 | fallidas: 0
+2026-05-21 11:15:45 | INFO    | listar_tesis_sjf |   [850/1143] enriquecidas: 850 | ya tenían: 0 | fallidas: 0
+2026-05-21 11:17:51 | INFO    | listar_tesis_sjf |   [900/1143] enriquecidas: 900 | ya tenían: 0 | fallidas: 0
+2026-05-21 11:19:58 | INFO    | listar_tesis_sjf |   [950/1143] enriquecidas: 950 | ya tenían: 0 | fallidas: 0
+2026-05-21 11:21:58 | INFO    | listar_tesis_sjf |   [1000/1143] enriquecidas: 1000 | ya tenían: 0 | fallidas: 0
+2026-05-21 11:24:08 | INFO    | listar_tesis_sjf |   [1050/1143] enriquecidas: 1050 | ya tenían: 0 | fallidas: 0
+2026-05-21 11:26:20 | INFO    | listar_tesis_sjf |   [1100/1143] enriquecidas: 1100 | ya tenían: 0 | fallidas: 0
+2026-05-21 11:28:08 | INFO    | listar_tesis_sjf | ============================================================
+2026-05-21 11:28:08 | INFO    | listar_tesis_sjf | Backfill completo
+2026-05-21 11:28:08 | INFO    | listar_tesis_sjf |   Enriquecidas nuevas:  1143
+2026-05-21 11:28:08 | INFO    | listar_tesis_sjf |   Ya tenían síntesis:   0
+2026-05-21 11:28:08 | INFO    | listar_tesis_sjf |   Sin rubro:            0
+2026-05-21 11:28:08 | INFO    | listar_tesis_sjf |   Fallidas (API):       0
+2026-05-21 11:28:08 | INFO    | listar_tesis_sjf | 
+2026-05-21 11:28:08 | INFO    | listar_tesis_sjf | Siguiente paso: ejecuta `python src/ingest.py` para reindexar.
