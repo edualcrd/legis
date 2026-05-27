@@ -70,7 +70,20 @@
       "Bash(node *)",
       "Bash(git checkout *)",
       "Bash(git add *)",
-      "Bash(git commit *)"
+      "Bash(git commit *)",
+      "PowerShell(Test-Path *)",
+      "PowerShell($py = if \\(Test-Path \".\\\\.venv\\\\Scripts\\\\python.exe\"\\) { \".\\\\.venv\\\\Scripts\\\\python.exe\" } else { \"python\" }; \"Usando: $py\"; & $py -c \"import chromadb; s = chromadb.Settings\\(anonymized_telemetry=False\\); print\\('chromadb.Settings OK, telemetry =', s.anonymized_telemetry\\); import ast; ast.parse\\(open\\('src/rag.py', encoding='utf-8'\\).read\\(\\)\\); print\\('rag.py parse OK'\\)\")",
+      "PowerShell($py = \".\\\\.venv\\\\Scripts\\\\python.exe\"; & $py -c \"import src.rag as r; print\\('import src.rag OK'\\); print\\('globals BM25 restantes:', [n for n in vars\\(r\\) if n.startswith\\('_bm25'\\)]\\)\"; \"---\"; & $py -c \"import psutil; print\\('psutil OK', psutil.__version__\\)\")",
+      "PowerShell($py = \".\\\\.venv\\\\Scripts\\\\python.exe\"; & $py -m pip install --quiet psutil; if \\($?\\) { & $py -c \"import psutil; print\\('psutil instalado', psutil.__version__\\)\" })",
+      "PowerShell($py = \".\\\\.venv\\\\Scripts\\\\python.exe\"; & $py _mem_probe.py)",
+      "PowerShell($py = \".\\\\.venv\\\\Scripts\\\\python.exe\"; & $py _import_probe.py)",
+      "PowerShell($py = \".\\\\.venv\\\\Scripts\\\\python.exe\"; & $py _voyage_probe.py)",
+      "PowerShell($py = \".\\\\.venv\\\\Scripts\\\\python.exe\"; \"=== voyageai requiere ===\"; & $py -m pip show voyageai | Select-String -Pattern \"^\\(Name|Version|Requires\\):\"; \"=== torch: quién lo requiere ===\"; & $py -m pip show torch | Select-String -Pattern \"^\\(Name|Required-by\\):\"; \"=== sentence-transformers ===\"; & $py -m pip show sentence-transformers | Select-String -Pattern \"^\\(Name|Required-by\\):\"; \"=== transformers ===\"; & $py -m pip show transformers | Select-String -Pattern \"^\\(Name|Required-by\\):\"; \"=== langchain-core ===\"; & $py -m pip show langchain-core | Select-String -Pattern \"^\\(Name|Required-by\\):\")",
+      "PowerShell($py = \".\\\\.venv\\\\Scripts\\\\python.exe\"; & $py _clean_probe.py)",
+      "PowerShell($py = \".\\\\.venv\\\\Scripts\\\\python.exe\"; \"=== huggingface_hub ===\"; & $py -m pip show huggingface_hub | Select-String -Pattern \"^\\(Name|Required-by\\):\"; \"=== tokenizers ===\"; & $py -m pip show tokenizers | Select-String -Pattern \"^\\(Name|Requires|Required-by\\):\"; \"=== langchain-text-splitters ===\"; & $py -m pip show langchain-text-splitters | Select-String -Pattern \"^\\(Name|Requires\\):\")",
+      "PowerShell($py = \".\\\\.venv\\\\Scripts\\\\python.exe\"; & $py _bm25_func_test.py)",
+      "PowerShell($py = \".\\\\.venv\\\\Scripts\\\\python.exe\"; \"===== MODO envvar \\(ANONYMIZED_TELEMETRY=False\\) =====\"; & $py _telemetry_test.py envvar; \"`n===== MODO constructor \\(Settings\\) =====\"; & $py _telemetry_test.py constructor)",
+      "PowerShell(git *)"
     ]
   }
 }

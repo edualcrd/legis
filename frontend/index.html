@@ -1163,7 +1163,7 @@
     // === Helpers ===
 
     function confidenceDescriptor(value) {
-      if (value >= 0.95) return { label: "Alta", cssClass: "alta" };
+      if (value >= 0.75) return { label: "Alta", cssClass: "alta" };
       if (value >= 0.5) return { label: "Media", cssClass: "media" };
       return { label: "Baja", cssClass: "baja" };
     }
