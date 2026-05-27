@@ -34,7 +34,7 @@ from src.utils import Settings, get_logger, load_config
 logger = get_logger(__name__)
 
 # Vigencia del magic link y de la sesión.
-MAGIC_TOKEN_EXPIRY_HOURS: int = 24
+MAGIC_TOKEN_EXPIRY_DAYS: int = 7
 SESSION_EXPIRY_DAYS: int = 7
 JWT_ALGORITHM: str = "HS256"
 
@@ -152,7 +152,7 @@ def create_magic_token(email: str) -> str:
     """
     normalized = email.strip().lower()
     token = uuid.uuid4().hex
-    expira_at = datetime.now(timezone.utc) + timedelta(hours=MAGIC_TOKEN_EXPIRY_HOURS)
+    expira_at = datetime.now(timezone.utc) + timedelta(days=MAGIC_TOKEN_EXPIRY_DAYS)
 
     supabase = _get_supabase()
     try:
@@ -294,7 +294,7 @@ def _magic_link_html(link: str) -> str:
   <h2 style="color: #185FA5;">⚖ Legis</h2>
   <p>Hola,</p>
   <p>Recibimos una solicitud de acceso a <strong>Legis</strong> con este correo.
-     Entra con el siguiente enlace (válido por {MAGIC_TOKEN_EXPIRY_HOURS} horas):</p>
+     Entra con el siguiente enlace (válido por {MAGIC_TOKEN_EXPIRY_DAYS} días):</p>
   <p style="margin: 28px 0;">
     <a href="{link}"
        style="background: #185FA5; color: #fff; padding: 12px 24px; border-radius: 8px;

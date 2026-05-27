@@ -34,3 +34,6 @@ corpus/processed/*
 # Sistema operativo
 .DS_Store
 Thumbs.db
+
+# Notas personales (no versionar — solo local)
+/GLOSARIO.md
