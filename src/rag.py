@@ -134,10 +134,14 @@ _config: Settings | None = None
 # `_get_bm25_index()` leyendo el corpus completo desde ChromaDB. Mismo
 # contrato que `_collection`: si ingest.py modifica el corpus, hay que
 # reiniciar el servidor para que BM25 vea los cambios.
+#
+# Solo persisten el índice (estadísticas BM25, sin texto crudo) y los
+# chunk_ids alineados por posición. El texto y los metadatos del corpus NO
+# se mantienen residentes: en `retrieve()` se re-piden por id a ChromaDB solo
+# para los ~10 top hits del carril, evitando decenas de MB de strings
+# residentes para siempre en el free tier de Render (512 MB).
 _bm25_index: BM25Okapi | None = None
 _bm25_chunk_ids: list[str] | None = None
-_bm25_texts: list[str] | None = None
-_bm25_metadatas: list[dict[str, Any]] | None = None
 
 
 @dataclass
@@ -227,7 +231,14 @@ def _get_collection() -> Collection:
     global _collection
     if _collection is None:
         config = _get_config()
-        client = chromadb.PersistentClient(path=str(config.chroma_persist_dir))
+        # anonymized_telemetry=False impide que ChromaDB envíe telemetría a
+        # posthog: deseable en un producto legal (no se filtra nada hacia
+        # afuera). No reduce RAM ni silencia el log benigno "Failed to send
+        # telemetry event ClientStartEvent" (bug conocido de chromadb/posthog).
+        client = chromadb.PersistentClient(
+            path=str(config.chroma_persist_dir),
+            settings=chromadb.Settings(anonymized_telemetry=False),
+        )
         try:
             _collection = client.get_collection(name=COLLECTION_NAME)
         except Exception as exc:
@@ -268,12 +279,7 @@ def _tokenize_es(text: str) -> list[str]:
     return _BM25_TOKEN_PATTERN.findall(text.lower())
 
 
-def _get_bm25_index() -> tuple[
-    BM25Okapi | None,
-    list[str],
-    list[str],
-    list[dict[str, Any]],
-]:
+def _get_bm25_index() -> tuple[BM25Okapi | None, list[str]]:
     """
     Construye y cachea el índice BM25 sobre todos los chunks del corpus.
 
@@ -281,26 +287,31 @@ def _get_bm25_index() -> tuple[
     `ingest.py` modifica el corpus tras el arranque, hay que reiniciar
     el servidor para que el carril BM25 vea los cambios.
 
-    Si la colección está vacía (corpus no ingestado), devuelve `(None,
-    [], [], [])` y registra un warning — el carril BM25 se salta sin
-    romper `retrieve()`. Cuando el primer chunk sea indexado y el
-    servidor se reinicie, el índice se construye en la primera consulta.
+    Solo retiene en memoria el índice (estadísticas BM25) y los chunk_ids
+    alineados por posición; NO conserva el texto ni los metadatos del corpus
+    (los re-pide `retrieve()` por id solo para los top hits del carril). Por
+    eso el `collection.get` de aquí pide únicamente `documents`: lo justo para
+    tokenizar y construir el índice, sin materializar también los metadatos.
+
+    Si la colección está vacía (corpus no ingestado), devuelve `(None, [])` y
+    registra un warning — el carril BM25 se salta sin romper `retrieve()`.
+    Cuando el primer chunk sea indexado y el servidor se reinicie, el índice
+    se construye en la primera consulta.
 
     Returns:
-        Tupla `(índice, chunk_ids, textos, metadatos)`, con listas
-        paralelas por posición. `índice` es `None` si el corpus está
-        vacío.
+        Tupla `(índice, chunk_ids)`, con los chunk_ids alineados por posición
+        con las puntuaciones de `índice.get_scores()`. `índice` es `None` si
+        el corpus está vacío.
     """
-    global _bm25_index, _bm25_chunk_ids, _bm25_texts, _bm25_metadatas
+    global _bm25_index, _bm25_chunk_ids
 
     if _bm25_chunk_ids is not None:
-        return _bm25_index, _bm25_chunk_ids, _bm25_texts or [], _bm25_metadatas or []
+        return _bm25_index, _bm25_chunk_ids
 
     collection = _get_collection()
-    data = collection.get(include=["documents", "metadatas"])
+    data = collection.get(include=["documents"])
     ids = data.get("ids", []) or []
     documents = data.get("documents", []) or []
-    metadatas = data.get("metadatas", []) or []
 
     if not ids:
         logger.warning(
@@ -309,22 +320,18 @@ def _get_bm25_index() -> tuple[
         )
         _bm25_index = None
         _bm25_chunk_ids = []
-        _bm25_texts = []
-        _bm25_metadatas = []
-        return _bm25_index, _bm25_chunk_ids, _bm25_texts, _bm25_metadatas
+        return _bm25_index, _bm25_chunk_ids
 
     t0 = time.perf_counter()
     tokenized_corpus = [_tokenize_es(doc) for doc in documents]
     _bm25_index = BM25Okapi(tokenized_corpus)
     _bm25_chunk_ids = list(ids)
-    _bm25_texts = list(documents)
-    _bm25_metadatas = [m or {} for m in metadatas]
     elapsed = time.perf_counter() - t0
     logger.info(
         "Índice BM25 construido: %d chunks tokenizados en %.2fs",
         len(tokenized_corpus), elapsed,
     )
-    return _bm25_index, _bm25_chunk_ids, _bm25_texts, _bm25_metadatas
+    return _bm25_index, _bm25_chunk_ids
 
 
 # === Formato de citas (skills/legal-rag.md §2) ===
@@ -683,7 +690,7 @@ def retrieve(
     # Carril 3 — BM25 léxico (solo sobre la query ORIGINAL).
     bm25_added = 0
     if bm25_lane_k > 0:
-        bm25, bm25_ids, bm25_texts, bm25_metas = _get_bm25_index()
+        bm25, bm25_ids = _get_bm25_index()
         original_query = queries[0]
         tokenized_query = _tokenize_es(original_query)
         if bm25 is None:
@@ -702,9 +709,21 @@ def retrieve(
             )[:bm25_lane_k]
             top_ids = [bm25_ids[i] for i in top_indices]
             top_scores = [float(scores[i]) for i in top_indices]
-            texts_by_id = {bm25_ids[i]: bm25_texts[i] for i in top_indices}
+            # Texto y metadatos SOLO de los top hits: se re-piden por id a
+            # ChromaDB en vez de mantener todo el corpus residente en memoria
+            # (clave para caber en Render free tier). `get(ids=...)` puede
+            # devolver los ids en orden arbitrario, así que se mapean por id.
+            fetched = collection.get(
+                ids=top_ids, include=["documents", "metadatas"],
+            )
+            fetched_ids = fetched.get("ids", []) or []
+            fetched_docs = fetched.get("documents", []) or []
+            fetched_metas = fetched.get("metadatas", []) or []
+            texts_by_id = {
+                cid: doc for cid, doc in zip(fetched_ids, fetched_docs)
+            }
             metas_by_id = {
-                bm25_ids[i]: bm25_metas[i] for i in top_indices
+                cid: (m or {}) for cid, m in zip(fetched_ids, fetched_metas)
             }
             bm25_added = _merge_bm25_results(
                 top_ids, top_scores, texts_by_id, metas_by_id, best_by_id,
