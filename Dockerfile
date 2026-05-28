@@ -16,12 +16,21 @@ WORKDIR /app
 COPY requirements.txt .
 RUN pip install --no-cache-dir -r requirements.txt
 
-# Código de la app, SPA y el índice ChromaDB ya re-indexado con voyage-3.
-# El índice se hornea en la imagen (solo lectura en runtime): el corpus es
-# estático, así que no necesitamos disco persistente de pago.
+# Código de la app (se copia antes del ingest porque éste lo importa).
 COPY src/ ./src/
+
+# Corpus crudo: el ingest lo procesa para construir el índice ChromaDB.
+COPY corpus/ ./corpus/
+
+# Construye el índice ChromaDB en build time vía Voyage API. La clave se
+# pasa como ARG desde Render y se inyecta SOLO durante el RUN — no se
+# hace `ENV` para no dejar el secreto incrustado en la imagen final.
+# En runtime, Render inyecta VOYAGE_API_KEY desde envVars del blueprint.
+ARG VOYAGE_API_KEY
+RUN VOYAGE_API_KEY=$VOYAGE_API_KEY python -m src.ingest
+
+# Frontend al final: cambiarlo no invalida la capa cara del re-indexado.
 COPY frontend/ ./frontend/
-COPY chroma_db/ ./chroma_db/
 
 # El RAG abre el índice desde esta ruta dentro del contenedor.
 ENV CHROMA_PERSIST_DIR=/app/chroma_db

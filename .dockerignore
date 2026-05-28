@@ -1,6 +1,7 @@
 # Reduce el contexto de build y evita meter secretos/archivos pesados en la
-# imagen. NOTA: chroma_db/ NO se ignora aquí (sí lo ignora .gitignore), porque
-# el índice debe viajar dentro de la imagen.
+# imagen. NOTA: corpus/ SÍ se incluye porque el ingest lo procesa en build
+# time para construir el índice ChromaDB; chroma_db/ ya no se copia (se
+# genera durante el build).
 
 # Entornos y cachés de Python
 .venv/
@@ -19,10 +20,6 @@ __pycache__/
 .git/
 .gitignore
 .claude/
-
-# Corpus crudo: solo se usa para construir el índice, no en runtime (pesado)
-corpus/raw/
-corpus/processed/
 
 # Datos locales y logs
 data/
