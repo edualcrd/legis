@@ -49,6 +49,8 @@ logger = get_logger(__name__)
 PROJECT_ROOT: Path = Path(__file__).resolve().parent.parent
 FRONTEND_DIR: Path = PROJECT_ROOT / "frontend"
 LANDING_FILE: Path = PROJECT_ROOT / "landing.html"
+PRIVACY_FILE: Path = PROJECT_ROOT / "privacy.html"
+TERMS_FILE: Path = PROJECT_ROOT / "terms.html"
 WAITLIST_DIR: Path = PROJECT_ROOT / "data"
 WAITLIST_FILE: Path = WAITLIST_DIR / "waitlist.jsonl"
 
@@ -453,6 +455,26 @@ def get_landing() -> FileResponse:
     if not LANDING_FILE.exists():
         raise HTTPException(status_code=404, detail="landing.html no encontrado")
     return FileResponse(LANDING_FILE, media_type="text/html")
+
+
+# === Páginas legales (Aviso de Privacidad y Términos de Uso) ===
+# Se sirven desde la raíz del proyecto en lugar de frontend/, para mantener
+# una sola copia compartida entre la landing (Vercel) y la SPA (Render).
+
+@app.get("/privacy.html", include_in_schema=False)
+def get_privacy() -> FileResponse:
+    """Sirve el Aviso de Privacidad (LFPDPPP)."""
+    if not PRIVACY_FILE.exists():
+        raise HTTPException(status_code=404, detail="privacy.html no encontrado")
+    return FileResponse(PRIVACY_FILE, media_type="text/html")
+
+
+@app.get("/terms.html", include_in_schema=False)
+def get_terms() -> FileResponse:
+    """Sirve los Términos de Uso."""
+    if not TERMS_FILE.exists():
+        raise HTTPException(status_code=404, detail="terms.html no encontrado")
+    return FileResponse(TERMS_FILE, media_type="text/html")
 
 
 # === Static mount ===

@@ -3,8 +3,8 @@
 <head>
 <meta charset="utf-8" />
 <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover" />
-<title>Aviso de Privacidad — Legis</title>
-<meta name="description" content="Aviso de Privacidad de Legis, conforme a la LFPDPPP mexicana." />
+<title>Términos de Uso — Legis</title>
+<meta name="description" content="Términos de Uso del servicio Legis. Asistente de consulta jurídica laboral para profesionales del derecho." />
 <meta name="theme-color" content="#185FA5" />
 <meta name="robots" content="index, follow" />
 
@@ -53,6 +53,7 @@
   --accent-line:   #D9C3A0;
   --line:          #DDD6C8;
   --line-strong:   #C4B99F;
+  --danger:        #B33A3A;
 
   --font-display: "Fraunces", "Iowan Old Style", Georgia, serif;
   --font-sans:    "General Sans", system-ui, -apple-system, "Segoe UI", Roboto, sans-serif;
@@ -98,7 +99,6 @@ body {
   -moz-osx-font-smoothing: grayscale;
   transition: background-color .3s var(--ease), color .3s var(--ease);
 }
-
 body::before {
   content:"";
   position: fixed;
@@ -292,6 +292,7 @@ a:hover { border-bottom-color: var(--accent); }
 .doc ul li::marker { color: var(--accent); }
 .doc ol li::marker { color: var(--accent); font-family: var(--font-display); font-style: italic; font-weight: 400; }
 .doc strong { font-weight: 600; color: var(--ink); }
+.doc em { font-style: italic; }
 
 .doc-note {
   margin: 22px 0;
@@ -304,6 +305,11 @@ a:hover { border-bottom-color: var(--accent); }
   line-height: 1.6;
   color: var(--ink-2);
 }
+.doc-note.alert {
+  background: var(--accent-soft);
+  border-color: var(--accent-line);
+  border-left-color: var(--accent-deep);
+}
 .doc-note-label {
   display: block;
   font-family: var(--font-sans);
@@ -315,38 +321,6 @@ a:hover { border-bottom-color: var(--accent); }
   margin-bottom: 6px;
 }
 
-.kv {
-  list-style: none;
-  padding-left: 0;
-  border-top: 1px solid var(--line);
-  margin: 18px 0 24px;
-}
-.kv li {
-  display: grid;
-  grid-template-columns: minmax(140px, 200px) 1fr;
-  gap: 18px;
-  padding: 14px 0;
-  border-bottom: 1px solid var(--line);
-  margin: 0;
-}
-.kv li::marker { content: none; }
-.kv .k {
-  font-family: var(--font-sans);
-  font-size: 11px;
-  font-weight: 600;
-  letter-spacing: 0.18em;
-  text-transform: uppercase;
-  color: var(--ink-muted);
-  padding-top: 3px;
-}
-.kv .v {
-  font-family: var(--font-display);
-  font-size: 16.5px;
-  line-height: 1.5;
-  color: var(--ink);
-  font-variation-settings: "opsz" 18;
-}
-.kv code,
 .doc code {
   font-family: var(--font-mono);
   font-size: 0.86em;
@@ -355,9 +329,6 @@ a:hover { border-bottom-color: var(--accent); }
   padding: 0.05em 0.45em;
   border: 1px solid var(--accent-line);
   border-radius: 3px;
-}
-@media (max-width: 600px) {
-  .kv li { grid-template-columns: 1fr; gap: 4px; }
 }
 
 /* === Footer === */
@@ -448,11 +419,10 @@ a:hover { border-bottom-color: var(--accent); }
 <main class="container doc">
 
   <header class="doc-head">
-    <span class="doc-eyebrow"><span class="roman">§</span> Aviso de Privacidad</span>
-    <h1>Cómo tratamos tus datos.</h1>
+    <span class="doc-eyebrow"><span class="roman">§</span> Términos de Uso</span>
+    <h1>Cómo se usa este servicio.</h1>
     <p class="doc-subtitle">
-      Conforme a la Ley Federal de Protección de Datos Personales en Posesión de los Particulares
-      (LFPDPPP) y su Reglamento.
+      Lo que Legis hace, lo que no hace, y la responsabilidad que cada parte conserva.
     </p>
     <div class="doc-meta">
       <span class="k">Vigencia</span>
@@ -462,116 +432,156 @@ a:hover { border-bottom-color: var(--accent); }
   </header>
 
   <section>
-    <h2><span class="roman">I.</span> Identidad del responsable</h2>
-    <p>
-      El responsable del tratamiento de tus datos personales es <strong>Eduardo Alcaide Rodríguez</strong>
-      (en adelante <em>Legis</em>), persona física dedicada al desarrollo y operación del servicio
-      <strong>Legis</strong> — asistente de consulta jurídica laboral con sede de operación en la Ciudad de México.
-    </p>
-    <ul class="kv">
-      <li><span class="k">Sitio</span><span class="v">legismx.com</span></li>
-      <li><span class="k">Correo</span><span class="v"><a href="mailto:eduardoalcaiderodriguez@gmail.com">eduardoalcaiderodriguez@gmail.com</a></span></li>
-      <li><span class="k">Dominio app</span><span class="v">legis.mx · legis.ai</span></li>
-    </ul>
-  </section>
-
-  <section>
-    <h2><span class="roman">II.</span> Datos que recabamos</h2>
-    <p>Para acceder al periodo beta y operar el servicio, recabamos los siguientes datos personales:</p>
-    <ul>
-      <li><strong>Nombre.</strong> Para identificarte en las comunicaciones del servicio.</li>
-      <li><strong>Correo electrónico.</strong> Para enviar el enlace de acceso (<em>magic link</em>) y notificaciones del servicio.</li>
-      <li><strong>WhatsApp.</strong> Únicamente para coordinar el onboarding del despacho durante el beta.</li>
-      <li><strong>Despacho.</strong> Para entender el contexto profesional y mejorar la relevancia de las respuestas.</li>
-      <li><strong>Consultas realizadas.</strong> El texto de cada pregunta que envías al asistente, con marca de tiempo y resultado devuelto.</li>
-    </ul>
-    <div class="doc-note">
-      <span class="doc-note-label">No recabamos</span>
-      datos sensibles (origen racial o étnico, estado de salud, creencias religiosas, opiniones políticas,
-      preferencia sexual). El servicio no requiere de tales categorías para su finalidad.
+    <div class="doc-note alert">
+      <span class="doc-note-label">Lectura indispensable</span>
+      Legis es una <strong>herramienta de asistencia documental</strong>. No constituye asesoría jurídica
+      ni sustituye el criterio del abogado responsable del caso. Quien utiliza el servicio asume el deber
+      de verificar la vigencia y la pertinencia de toda fuente citada antes de emplearla en un escrito,
+      dictamen o acto procesal.
     </div>
   </section>
 
   <section>
-    <h2><span class="roman">III.</span> Finalidades del tratamiento</h2>
-    <p>Tus datos se tratan con las siguientes finalidades, todas primarias y necesarias:</p>
-    <ol>
-      <li><strong>Autenticación y operación del servicio.</strong> Validar que estás autorizado al beta y emitir tu sesión.</li>
-      <li><strong>Comunicación operativa.</strong> Avisarte de cambios, mantenimientos o caducidad de tu acceso.</li>
-      <li><strong>Mejora del producto.</strong> Analizar consultas agregadas y anonimizadas para evaluar la calidad de las respuestas y planear nuevas funcionalidades.</li>
-      <li><strong>Cumplimiento legal.</strong> Atender requerimientos de autoridades competentes cuando proceda.</li>
-    </ol>
-    <p>No utilizamos tus datos para perfilamiento publicitario ni los compartimos con redes de marketing.</p>
+    <h2><span class="roman">I.</span> Identidad del proveedor</h2>
+    <p>
+      El servicio <strong>Legis</strong> es operado por <strong>Eduardo Alcaide Rodríguez</strong>, persona física con actividad
+      profesional independiente y sede de operación en la Ciudad de México. Para cualquier asunto
+      relacionado con estos términos, puedes escribir a
+      <a href="mailto:eduardoalcaiderodriguez@gmail.com">eduardoalcaiderodriguez@gmail.com</a>.
+    </p>
   </section>
 
   <section>
-    <h2><span class="roman">IV.</span> Encargados y transferencias</h2>
-    <p>Legis no transfiere tus datos a terceros con fines comerciales. Para operar recurrimos a los siguientes encargados, los cuales actúan únicamente bajo nuestras instrucciones:</p>
-    <ul class="kv">
-      <li>
-        <span class="k">Resend</span>
-        <span class="v">Servicio de envío de correos transaccionales para entregarte el <em>magic link</em> y notificaciones del servicio. <a href="https://resend.com/legal/privacy-policy" target="_blank" rel="noopener">Política de privacidad</a></span>
-      </li>
-      <li>
-        <span class="k">Supabase</span>
-        <span class="v">Almacenamiento de la tabla de usuarios autorizados y de los tokens de acceso de un solo uso. <a href="https://supabase.com/privacy" target="_blank" rel="noopener">Política de privacidad</a></span>
-      </li>
-      <li>
-        <span class="k">Render</span>
-        <span class="v">Alojamiento del servidor que sirve la aplicación y procesa las consultas. <a href="https://render.com/privacy" target="_blank" rel="noopener">Política de privacidad</a></span>
-      </li>
-      <li>
-        <span class="k">Anthropic</span>
-        <span class="v">Procesa el texto de la consulta para generar la respuesta del asistente. <a href="https://www.anthropic.com/legal/privacy" target="_blank" rel="noopener">Política de privacidad</a></span>
-      </li>
-      <li>
-        <span class="k">Voyage AI</span>
-        <span class="v">Genera embeddings vectoriales del texto de la consulta para la búsqueda semántica. <a href="https://www.voyageai.com/privacy" target="_blank" rel="noopener">Política de privacidad</a></span>
-      </li>
+    <h2><span class="roman">II.</span> Naturaleza del servicio</h2>
+    <p>
+      Legis es un asistente automatizado de consulta jurídica laboral mexicana. Combina técnicas de
+      recuperación de información (búsqueda semántica y léxica sobre un corpus indexado) con modelos
+      de lenguaje para devolver, a partir de una consulta en lenguaje natural, fragmentos relevantes
+      de la Ley Federal del Trabajo, la Constitución, leyes complementarias y tesis jurisprudenciales
+      de la SCJN.
+    </p>
+    <p>
+      La respuesta del asistente es una <strong>orientación documental</strong>: no es un dictamen, no es un
+      consejo legal y no constituye una opinión profesional firmada.
+    </p>
+  </section>
+
+  <section>
+    <h2><span class="roman">III.</span> Uso permitido</h2>
+    <p>El servicio se ofrece <strong>exclusivamente a profesionales del derecho</strong> — abogados con cédula vigente, pasantes bajo supervisión, personal de despachos, dependencias judiciales o académicos del área jurídica — para apoyar las siguientes actividades:</p>
+    <ul>
+      <li>Identificación rápida de artículos y tesis aplicables a un supuesto laboral concreto.</li>
+      <li>Verificación de citas y referencias antes de emplearlas en escritos propios.</li>
+      <li>Apoyo en la elaboración de borradores y consultas internas del despacho.</li>
+      <li>Capacitación interna y estudio del derecho positivo y jurisprudencial vigente.</li>
     </ul>
-    <p>Estos encargados pueden almacenar datos en servidores fuera de México (principalmente Estados Unidos y la Unión Europea). El tratamiento se realiza bajo cláusulas contractuales que garantizan un nivel de protección equivalente.</p>
-  </section>
-
-  <section>
-    <h2><span class="roman">V.</span> Cookies y rastreo</h2>
     <p>
-      Legis <strong>no utiliza cookies de rastreo ni píxeles de seguimiento publicitario.</strong>
-    </p>
-    <p>
-      Únicamente empleamos almacenamiento local (<code>localStorage</code>) en tu navegador para guardar
-      tu sesión activa, tu tema visual preferido (claro / oscuro) y el historial de tus consultas en
-      tu equipo. Esta información no se transmite a servidores externos a Legis.
+      Quien utiliza Legis declara, bajo su propia responsabilidad, contar con la formación jurídica
+      necesaria para evaluar críticamente las respuestas generadas y verificar la vigencia de las
+      fuentes citadas.
     </p>
   </section>
 
   <section>
-    <h2><span class="roman">VI.</span> Derechos ARCO</h2>
-    <p>En todo momento puedes ejercer tus derechos de <strong>Acceso, Rectificación, Cancelación u Oposición</strong> al tratamiento de tus datos personales, así como revocar el consentimiento que hubieras otorgado. Para hacerlo:</p>
+    <h2><span class="roman">IV.</span> Conductas no permitidas</h2>
+    <p>Queda expresamente prohibido:</p>
+    <ul>
+      <li>Utilizar el servicio para automatizar la prestación de asesoría legal a clientes finales sin la intervención y firma de un abogado responsable.</li>
+      <li>Emplear las respuestas como opinión definitiva en juicio, dictamen pericial o acto jurídico sin revisión humana y verificación de fuentes.</li>
+      <li>Reproducir, redistribuir o comercializar el corpus indexado, las respuestas del asistente o las plantillas del producto sin autorización por escrito.</li>
+      <li>Intentar extraer el corpus completo, hacer ingeniería inversa de los <em>prompts</em> internos, o realizar ataques contra la disponibilidad del servicio.</li>
+      <li>Compartir tu enlace de acceso (<em>magic link</em>) o tu sesión con terceros no autorizados.</li>
+    </ul>
+  </section>
+
+  <section>
+    <h2><span class="roman">V.</span> Limitación de responsabilidad</h2>
+    <p>
+      Eduardo Alcaide Rodríguez, en su carácter de proveedor del servicio, hace su mejor esfuerzo para
+      mantener actualizado el corpus normativo y jurisprudencial, así como la calidad de las respuestas
+      generadas. No obstante, y en la máxima medida permitida por la ley aplicable:
+    </p>
     <ol>
-      <li>Envía un correo a <a href="mailto:eduardoalcaiderodriguez@gmail.com?subject=ARCO%20%E2%80%94%20Legis">eduardoalcaiderodriguez@gmail.com</a> con el asunto <code>ARCO — Legis</code>.</li>
-      <li>Indica claramente cuál derecho deseas ejercer y describe los datos sobre los que recae tu solicitud.</li>
-      <li>Adjunta una identificación oficial vigente para acreditar tu identidad.</li>
+      <li>
+        <strong>El servicio se proporciona “tal cual”</strong>, sin garantías explícitas o implícitas
+        sobre la exactitud, completitud, vigencia o aplicabilidad de la información devuelta a un caso
+        concreto.
+      </li>
+      <li>
+        <strong>El usuario asume la responsabilidad</strong> de verificar la vigencia de todo artículo,
+        tesis o criterio citado antes de incorporarlo a un escrito, dictamen o cualquier otro acto
+        jurídico.
+      </li>
+      <li>
+        <strong>Eduardo Alcaide no es responsable</strong> por decisiones tomadas, daños sufridos o
+        consecuencias jurídicas derivadas de la confianza depositada en las respuestas del sistema,
+        ya sea por error, omisión, alucinación del modelo, desactualización del corpus o cualquier
+        otra causa.
+      </li>
+      <li>
+        En ningún caso la responsabilidad agregada del proveedor por reclamaciones relacionadas con el
+        servicio excederá el monto total efectivamente pagado por el usuario por el servicio en los
+        doce meses anteriores al hecho que origine la reclamación.
+      </li>
     </ol>
-    <p>Responderemos tu solicitud en un plazo no mayor a <strong>20 días hábiles</strong> a partir de su recepción. La atención es gratuita; sólo procederían cargos por los costos justificados de envío o reproducción.</p>
-  </section>
-
-  <section>
-    <h2><span class="roman">VII.</span> Conservación y seguridad</h2>
     <p>
-      Conservamos tus datos mientras tu cuenta esté activa y por un periodo adicional de <strong>24 meses</strong>
-      tras la baja del servicio, salvo obligación legal de conservación mayor. Aplicamos medidas de seguridad
-      administrativas, técnicas y físicas razonables para proteger tus datos contra accesos no autorizados.
+      Esta limitación opera con independencia de la teoría jurídica invocada (contractual, extracontractual,
+      culpa, dolo, garantía o cualquier otra) y aun cuando el proveedor haya sido advertido de la
+      posibilidad del daño.
     </p>
   </section>
 
   <section>
-    <h2><span class="roman">VIII.</span> Cambios al aviso</h2>
-    <p>Cualquier modificación a este aviso se publicará en esta misma página y se anunciará por correo a los usuarios activos. La fecha de la última actualización aparece en el encabezado del documento.</p>
+    <h2><span class="roman">VI.</span> Disponibilidad y continuidad</h2>
+    <p>
+      Durante el periodo beta, el servicio se ofrece sin compromiso de disponibilidad mínima. Pueden
+      ocurrir interrupciones para mantenimiento, actualización del corpus o causas técnicas de los
+      proveedores de infraestructura. El proveedor se reserva el derecho de suspender o discontinuar
+      el servicio, total o parcialmente, en cualquier momento.
+    </p>
   </section>
 
   <section>
-    <h2><span class="roman">IX.</span> Aceptación</h2>
-    <p>El uso del servicio implica la aceptación de los términos de este Aviso de Privacidad. Si no estás de acuerdo con alguno de los términos aquí descritos, te pedimos no proporcionar tus datos ni hacer uso de la plataforma.</p>
+    <h2><span class="roman">VII.</span> Propiedad intelectual</h2>
+    <p>
+      El código, diseño, marca, plantillas y la curación del corpus son propiedad de Eduardo Alcaide
+      Rodríguez. Los textos legales y jurisprudenciales que conforman el corpus son obras de dominio
+      público o de uso permitido para fines de consulta profesional.
+    </p>
+    <p>
+      El usuario conserva la titularidad sobre el texto de sus consultas. Al utilizar el servicio,
+      otorga una licencia no exclusiva, gratuita y limitada para que Legis procese dichas consultas
+      con la finalidad descrita en el <a href="privacy.html">Aviso de Privacidad</a>.
+    </p>
+  </section>
+
+  <section>
+    <h2><span class="roman">VIII.</span> Modificaciones</h2>
+    <p>
+      Estos términos pueden actualizarse cuando cambien funcionalidades, encargados o regulaciones
+      aplicables. Cualquier modificación se publicará en esta misma página, con la fecha de la última
+      actualización en el encabezado del documento. El uso continuado del servicio tras una actualización
+      constituye aceptación de los nuevos términos.
+    </p>
+  </section>
+
+  <section>
+    <h2><span class="roman">IX.</span> Ley aplicable y jurisdicción</h2>
+    <p>
+      Estos términos se rigen por las leyes federales de los Estados Unidos Mexicanos. Para cualquier
+      controversia derivada o relacionada con el servicio, las partes se someten a la jurisdicción de
+      los tribunales competentes de la Ciudad de México, renunciando expresamente a cualquier otro
+      fuero que pudiera corresponderles por razón de su domicilio presente o futuro.
+    </p>
+  </section>
+
+  <section>
+    <h2><span class="roman">X.</span> Contacto</h2>
+    <p>
+      Para reportar incidencias, ejercer derechos sobre tus datos o discutir cualquier aspecto
+      contractual del servicio, escribe a
+      <a href="mailto:eduardoalcaiderodriguez@gmail.com">eduardoalcaiderodriguez@gmail.com</a>.
+    </p>
   </section>
 
 </main>

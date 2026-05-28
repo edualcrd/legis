@@ -274,7 +274,7 @@ def send_magic_link(email: str, token: str) -> None:
             {
                 "from": config.resend_from_email,
                 "to": [email],
-                "subject": "Tu acceso a Legis",
+                "subject": "Acceso a Legis — Sistema de consulta jurídica laboral",
                 "html": html,
             }
         )
@@ -288,26 +288,180 @@ def send_magic_link(email: str, token: str) -> None:
 
 
 def _magic_link_html(link: str) -> str:
-    """Construye el cuerpo HTML del correo de magic link."""
+    """
+    Construye el cuerpo HTML del correo de magic link.
+
+    HTML compatible con Gmail, Outlook (incluido el motor Word de MSO) y
+    Apple Mail: ancho máximo 600px, tabla principal centrada, CSS inline,
+    botón CTA implementado con celda de tabla (no padding sobre <a>) para
+    que Outlook respete el área clicable. Sin imágenes externas; el sello
+    "§" se compone con la pila de fuentes serif del sistema operativo.
+    """
+    # Paleta editorial — los mismos tokens que la app y la landing.
+    ink = "#0F1924"        # tinta
+    ink_muted = "#6B7280"  # gris cálido
+    ink_faint = "#A39A87"  # marfil sombreado
+    bg = "#FBFAF6"         # papel marfil
+    surface = "#FFFFFF"    # tarjeta blanca
+    primary = "#185FA5"    # cobalto
+    primary_deep = "#0A2F58"
+    accent = "#B07D3B"     # cobre oxidado
+    accent_soft = "#F4EBDC"
+    line = "#DDD6C8"       # línea editorial
+
+    # Pilas de fuentes con fallbacks robustos en clientes que no cargan web fonts.
+    serif = "Fraunces, 'Iowan Old Style', 'Apple Garamond', Georgia, 'Times New Roman', serif"
+    sans = ("'General Sans', -apple-system, BlinkMacSystemFont, 'Segoe UI', "
+            "Roboto, 'Helvetica Neue', Arial, sans-serif")
+    mono = "'JetBrains Mono', 'SF Mono', Menlo, Consolas, 'Courier New', monospace"
+
+    expiry = MAGIC_TOKEN_EXPIRY_DAYS
+
     return f"""\
-<div style="font-family: -apple-system, Segoe UI, Roboto, sans-serif; max-width: 480px; margin: 0 auto; color: #1A1A2E;">
-  <h2 style="color: #185FA5;">⚖ Legis</h2>
-  <p>Hola,</p>
-  <p>Recibimos una solicitud de acceso a <strong>Legis</strong> con este correo.
-     Entra con el siguiente enlace (válido por {MAGIC_TOKEN_EXPIRY_DAYS} días):</p>
-  <p style="margin: 28px 0;">
-    <a href="{link}"
-       style="background: #185FA5; color: #fff; padding: 12px 24px; border-radius: 8px;
-              text-decoration: none; font-weight: 600;">
-      Entrar a Legis
-    </a>
-  </p>
-  <p style="font-size: 13px; color: #6B7280;">
-    Si tú no solicitaste esto, puedes ignorar este correo. El enlace solo
-    funciona una vez.
-  </p>
-  <p style="font-size: 13px; color: #6B7280;">El precedente exacto, en segundos.</p>
-</div>"""
+<!doctype html>
+<html lang="es">
+<head>
+<meta charset="utf-8" />
+<meta name="viewport" content="width=device-width,initial-scale=1" />
+<meta name="x-apple-disable-message-reformatting" />
+<meta name="color-scheme" content="light only" />
+<meta name="supported-color-schemes" content="light only" />
+<title>Acceso a Legis</title>
+</head>
+<body style="margin:0; padding:0; background:{bg}; color:{ink}; -webkit-font-smoothing:antialiased; -webkit-text-size-adjust:100%; font-family:{sans};">
+
+  <!-- Preheader oculto: lo que se ve en la lista del inbox -->
+  <div style="display:none; max-height:0; overflow:hidden; mso-hide:all; font-size:1px; line-height:1px; color:{bg};">
+    Tu enlace de acceso de un solo uso para Legis. Expira en {expiry} días.
+  </div>
+
+  <table role="presentation" cellpadding="0" cellspacing="0" border="0" width="100%"
+         style="background:{bg}; padding:32px 16px;">
+    <tr>
+      <td align="center">
+
+        <!-- Tarjeta editorial 600px -->
+        <table role="presentation" cellpadding="0" cellspacing="0" border="0" width="600"
+               style="width:100%; max-width:600px; background:{surface}; border:1px solid {line}; border-radius:8px;">
+
+          <!-- Cabecera: § cobre + Legis serif -->
+          <tr>
+            <td style="padding:36px 40px 0 40px;">
+              <table role="presentation" cellpadding="0" cellspacing="0" border="0">
+                <tr>
+                  <td valign="middle"
+                      style="font-family:{serif}; font-style:italic; font-weight:400; color:{accent}; font-size:32px; line-height:1; padding-right:10px;">
+                    §
+                  </td>
+                  <td valign="middle"
+                      style="font-family:{serif}; font-weight:500; color:{ink}; font-size:28px; line-height:1; letter-spacing:-0.5px;">
+                    Legis
+                  </td>
+                </tr>
+              </table>
+              <!-- Línea cobre divisora -->
+              <div style="width:56px; height:1px; background:{accent}; margin:22px 0 0 0; font-size:0; line-height:0;">&nbsp;</div>
+            </td>
+          </tr>
+
+          <!-- Eyebrow editorial -->
+          <tr>
+            <td style="padding:28px 40px 0 40px;">
+              <div style="font-family:{sans}; font-size:11px; font-weight:600; letter-spacing:3px; text-transform:uppercase; color:{accent};">
+                Acceso por invitación
+              </div>
+            </td>
+          </tr>
+
+          <!-- Título -->
+          <tr>
+            <td style="padding:10px 40px 0 40px;">
+              <h1 style="margin:0; font-family:{serif}; font-weight:500; color:{ink}; font-size:32px; line-height:1.1; letter-spacing:-0.6px;">
+                Acceso a Legis
+              </h1>
+              <p style="margin:8px 0 0 0; font-family:{serif}; font-style:italic; font-size:17px; color:#3D4654; line-height:1.45;">
+                Sistema de consulta jurídica laboral.
+              </p>
+            </td>
+          </tr>
+
+          <!-- Cuerpo -->
+          <tr>
+            <td style="padding:28px 40px 0 40px;">
+              <p style="margin:0 0 14px 0; font-family:{sans}; font-size:15px; line-height:1.6; color:{ink};">
+                Recibimos una solicitud de acceso a <strong style="font-weight:600;">Legis</strong> con este correo.
+                Usa el siguiente enlace para entrar al sistema. El acceso es de un solo uso y caduca en
+                <strong style="font-weight:600;">{expiry} días</strong>.
+              </p>
+            </td>
+          </tr>
+
+          <!-- CTA cobalto (tabla para Outlook) -->
+          <tr>
+            <td style="padding:28px 40px 4px 40px;">
+              <table role="presentation" cellpadding="0" cellspacing="0" border="0">
+                <tr>
+                  <td bgcolor="{primary}" style="background:{primary}; border-radius:6px;">
+                    <a href="{link}"
+                       style="display:inline-block; padding:14px 28px; font-family:{sans}; font-size:15px; font-weight:500; letter-spacing:0.2px; color:#FBFAF6; text-decoration:none; border-radius:6px;">
+                      Acceder al sistema
+                    </a>
+                  </td>
+                </tr>
+              </table>
+            </td>
+          </tr>
+
+          <!-- Enlace en texto plano para clientes sin botones -->
+          <tr>
+            <td style="padding:18px 40px 0 40px;">
+              <p style="margin:0; font-family:{sans}; font-size:12px; color:{ink_muted}; line-height:1.55;">
+                Si el botón no funciona, copia y pega este enlace en tu navegador:
+              </p>
+              <p style="margin:8px 0 0 0; font-family:{mono}; font-size:12px; line-height:1.5; word-break:break-all; color:{primary_deep};">
+                <a href="{link}" style="color:{primary_deep}; text-decoration:underline;">{link}</a>
+              </p>
+            </td>
+          </tr>
+
+          <!-- Pie editorial -->
+          <tr>
+            <td style="padding:30px 40px 36px 40px;">
+              <div style="border-top:1px solid {line}; padding-top:18px;">
+                <p style="margin:0; font-family:{sans}; font-size:12.5px; color:{ink_muted}; line-height:1.6;">
+                  Este enlace expira en <strong style="color:{ink}; font-weight:600;">{expiry} días</strong>.
+                  Si no solicitaste este acceso, ignora este mensaje — no se realizará ninguna acción.
+                </p>
+                <p style="margin:14px 0 0 0; font-family:{serif}; font-style:italic; font-size:13px; color:{ink_faint}; line-height:1.5;">
+                  El precedente exacto, en segundos.
+                </p>
+              </div>
+            </td>
+          </tr>
+
+        </table>
+
+        <!-- Pie corporativo fuera de la tarjeta -->
+        <table role="presentation" cellpadding="0" cellspacing="0" border="0" width="600"
+               style="width:100%; max-width:600px; margin-top:20px;">
+          <tr>
+            <td align="center" style="padding:8px 24px 4px 24px; font-family:{sans}; font-size:11px; line-height:1.6; color:{ink_faint}; letter-spacing:0.4px;">
+              Legis · Asistente de consulta jurídica laboral · Ciudad de México
+            </td>
+          </tr>
+          <tr>
+            <td align="center" style="padding:4px 24px 16px 24px; font-family:{sans}; font-size:11px; color:{ink_faint};">
+              <a href="mailto:eduardoalcaiderodriguez@gmail.com" style="color:{ink_muted}; text-decoration:none;">eduardoalcaiderodriguez@gmail.com</a>
+            </td>
+          </tr>
+        </table>
+
+      </td>
+    </tr>
+  </table>
+
+</body>
+</html>"""
 
 
 # === Sesión (JWT) ===

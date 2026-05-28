@@ -269,14 +269,15 @@
     .legis-logo {
       display: flex;
       align-items: baseline;
-      gap: 0.5rem;
+      gap: 0.7rem;
     }
     /* Reemplaza el ⚖ por un § cobre via CSS sin tocar el JSX */
     .legis-logo-icon {
       font-size: 0;            /* oculta el ⚖ original */
       line-height: 1;
-      display: inline-block;
-      width: 0.7em;
+      display: inline-flex;
+      align-items: baseline;
+      width: 1.15rem;          /* ancho real del glyph (no depende de font-size) */
     }
     .legis-logo-icon::before {
       content: "§";
@@ -1298,6 +1299,36 @@
       color: var(--text);
       border-color: var(--border-2);
     }
+    .legis-sidebar-legal {
+      margin-top: 0.85rem;
+      display: flex;
+      align-items: center;
+      justify-content: center;
+      gap: 0.5rem;
+      font-family: var(--font-sans);
+      font-size: 0.72rem;
+      letter-spacing: 0.04em;
+      color: var(--text-faint);
+    }
+    .legis-sidebar-legal a {
+      color: var(--text-muted);
+      text-decoration: none;
+      position: relative;
+      padding-bottom: 1px;
+      transition: color .18s var(--ease);
+    }
+    .legis-sidebar-legal a::after {
+      content: "";
+      position: absolute;
+      left: 0; right: 0; bottom: 0;
+      height: 1px;
+      background: var(--accent);
+      transform: scaleX(0);
+      transform-origin: left;
+      transition: transform .22s var(--ease);
+    }
+    .legis-sidebar-legal a:hover { color: var(--text-2); }
+    .legis-sidebar-legal a:hover::after { transform: scaleX(1); }
 
     /* ============================================================
        ANIMACIONES
@@ -1848,6 +1879,11 @@
             >
               Cerrar sesión
             </button>
+            <div className="legis-sidebar-legal">
+              <a href="/privacy.html" target="_blank" rel="noopener">Privacidad</a>
+              <span aria-hidden="true">·</span>
+              <a href="/terms.html" target="_blank" rel="noopener">Términos</a>
+            </div>
           </div>
         </aside>
       );
