@@ -83,7 +83,20 @@
       "PowerShell($py = \".\\\\.venv\\\\Scripts\\\\python.exe\"; \"=== huggingface_hub ===\"; & $py -m pip show huggingface_hub | Select-String -Pattern \"^\\(Name|Required-by\\):\"; \"=== tokenizers ===\"; & $py -m pip show tokenizers | Select-String -Pattern \"^\\(Name|Requires|Required-by\\):\"; \"=== langchain-text-splitters ===\"; & $py -m pip show langchain-text-splitters | Select-String -Pattern \"^\\(Name|Requires\\):\")",
       "PowerShell($py = \".\\\\.venv\\\\Scripts\\\\python.exe\"; & $py _bm25_func_test.py)",
       "PowerShell($py = \".\\\\.venv\\\\Scripts\\\\python.exe\"; \"===== MODO envvar \\(ANONYMIZED_TELEMETRY=False\\) =====\"; & $py _telemetry_test.py envvar; \"`n===== MODO constructor \\(Settings\\) =====\"; & $py _telemetry_test.py constructor)",
-      "PowerShell(git *)"
+      "PowerShell(git *)",
+      "WebFetch(domain:www.diputados.gob.mx)",
+      "Bash(git rm *)",
+      "Bash(git push *)",
+      "Bash(git ls-tree *)",
+      "Bash(awk '{sum+=$4; n++} END {printf \"  %d archivos, %.1f MB\\\\n\", n, sum/1024/1024}')",
+      "Bash(grep -oE 'className=[\"`][^\"`]*[\"`]' /c/Users/edu20/Documents/Legis/frontend/index.html)",
+      "Bash(grep -oE 'className=\\\\{`[^`]*`\\\\}' /c/Users/edu20/Documents/Legis/frontend/index.html)",
+      "Bash(curl -fsS -o /dev/null -m 1 http://127.0.0.1:8765/health)",
+      "Bash(curl -sS -o /tmp/legis_app.html -w \"HTTP=%{http_code}\\\\nbytes=%{size_download}\\\\n\" http://127.0.0.1:8765/)",
+      "Bash(curl -sS -o /tmp/legis_landing.html -w \"HTTP=%{http_code}\\\\nbytes=%{size_download}\\\\n\" http://127.0.0.1:8765/landing)",
+      "Bash(curl -sS -o /tmp/legis_stats.json -w \"HTTP=%{http_code}\\\\nbytes=%{size_download}\\\\n\" http://127.0.0.1:8765/api/stats)",
+      "Read(//tmp/**)",
+      "Bash(curl *)"
     ]
   }
 }
