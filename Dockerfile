@@ -22,12 +22,14 @@ COPY src/ ./src/
 # Corpus crudo: el ingest lo procesa para construir el índice ChromaDB.
 COPY corpus/ ./corpus/
 
-# Construye el índice ChromaDB en build time vía Voyage API. La clave se
-# pasa como ARG desde Render y se inyecta SOLO durante el RUN — no se
-# hace `ENV` para no dejar el secreto incrustado en la imagen final.
-# En runtime, Render inyecta VOYAGE_API_KEY desde envVars del blueprint.
+# Construye el índice ChromaDB en build time vía Voyage API. La clave
+# de Voyage se pasa como ARG desde Render y se inyecta SOLO durante el
+# RUN — sin `ENV` para no dejarla incrustada en la imagen final.
+# ANTHROPIC_API_KEY usa un placeholder porque el ingest no llama al LLM;
+# solo se exige por la validación de `utils.load_config()`. La key real
+# de Anthropic la inyecta Render en runtime desde envVars (no en build).
 ARG VOYAGE_API_KEY
-RUN VOYAGE_API_KEY=$VOYAGE_API_KEY python -m src.ingest
+RUN VOYAGE_API_KEY=$VOYAGE_API_KEY ANTHROPIC_API_KEY=ingest-build-placeholder python -m src.ingest
 
 # Frontend al final: cambiarlo no invalida la capa cara del re-indexado.
 COPY frontend/ ./frontend/
