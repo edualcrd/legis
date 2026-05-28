@@ -1,0 +1,20 @@
+RUBRO: PRINCIPIO DE ADQUISICIÓN PROCESAL EN MATERIA BUROCRÁTICA. TIENE COMO PREMISA FUNDAMENTAL QUE LA PRUEBA SEA PREVIAMENTE OFRECIDA Y LEGALMENTE ADMITIDA POR LA AUTORIDAD LABORAL PARA QUE PUEDA BENEFICIAR A CUALQUIERA DE LAS PARTES EN JUICIO, CON INDEPENDENCIA DE QUIÉN LA HAYA OFRECIDO (LEY LABORAL DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE TLAXCALA Y SUS MUNICIPIOS, Y LEGISLACIONES BUROCRÁTICAS SIMILARES DE DISTINTOS ESTADOS).
+
+CLAVE DE TESIS: PR.L.CN. J/17 L (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; Plenos Regionales; Gaceta S.J.F.; Libro 33, Enero de 2024; Tomo IV; Pág. 4235
+INSTANCIA: PLENO REGIONAL EN MATERIA DE TRABAJO DE LA REGIÓN CENTRO-NORTE, CON RESIDENCIA EN MONTERREY, NUEVO LEÓN. (Plenos Regionales)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2024-01-12T10:13:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2027991
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: El principio de adquisición procesal en materia burocrática resuelve el supuesto de qué pruebas pueden ser consideradas válidas para beneficiar a las partes en un litigio laboral de servidores públicos, estableciendo como criterio que cualquier prueba, independientemente de quién la haya ofrecido, puede favorecer a cualquiera de las partes siempre que haya sido previamente ofrecida y legalmente admitida por la autoridad laboral competente, lo que garantiza que el material probatorio adquiere carácter común una vez que cumple con los requisitos formales de admisión, aplicable conforme a la Ley Laboral de los Servidores Públicos del Estado de Tlaxcala y sus Municipios y legislaciones burocráticas similares de otros estados.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2027991

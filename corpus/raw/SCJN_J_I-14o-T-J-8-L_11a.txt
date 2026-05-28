@@ -1,0 +1,20 @@
+RUBRO: TRABAJADORES DE LABORATORIOS DE BIOLÓGICOS Y REACTIVOS DE MÉXICO, S.A. DE C.V. (BIRMEX). LAS OBSERVACIONES DE LA AUDITORÍA SUPERIOR DE LA FEDERACIÓN NO SON APTAS PARA MODIFICAR SUS CONDICIONES LABORALES.
+
+CLAVE DE TESIS: I.14o.T. J/8 L (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; T.C.C.; Gaceta S.J.F.; Libro 36, Abril de 2024; Tomo V; Pág. 4149
+INSTANCIA: DÉCIMO CUARTO TRIBUNAL COLEGIADO EN MATERIA DE TRABAJO DEL PRIMER CIRCUITO. (T.C.C.)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2024-04-26T10:30:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2028686
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: Las observaciones emitidas por la Auditoría Superior de la Federación respecto a una empresa pública no constituyen fundamento legal válido para modificar unilateralmente las condiciones laborales de sus trabajadores, ya que tales observaciones carecen de fuerza vinculante para alterar derechos adquiridos en materia laboral. El criterio establece que los trabajadores de BIRMEX conservan la protección de sus condiciones laborales conforme a la ley laboral aplicable, independientemente de las recomendaciones o señalamientos que formule la autoridad fiscalizadora, puesto que la modificación de condiciones de trabajo requiere de procedimientos específicos establecidos en la legislación laboral y no puede efectuarse mediante actos administrativos de auditoría.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2028686

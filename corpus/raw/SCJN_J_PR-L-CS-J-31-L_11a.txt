@@ -1,0 +1,20 @@
+RUBRO: GRATIFICACIÓN POR JUBILACIÓN DE LOS TRABAJADORES DE LA UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO (UNAM). EL CONCEPTO "DÍAS DE DESCANSO OBLIGATORIO" ESTABLECIDO EN LA CLÁUSULA 31 DEL CONTRATO COLECTIVO DE TRABAJO 2016-2018, 2020-2022 Y SIMILARES, INTEGRA SALARIO PARA EFECTOS DE SU CÁLCULO.
+
+CLAVE DE TESIS: PR.L.CS. J/31 L (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; Plenos Regionales; Gaceta S.J.F.; Libro 27, Julio de 2023; Tomo II; Pág. 1664
+INSTANCIA: PLENO REGIONAL EN MATERIA DE TRABAJO DE LA REGIÓN CENTRO-SUR, CON RESIDENCIA EN LA CIUDAD DE MÉXICO. (Plenos Regionales)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2023-07-14T10:21:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2026884
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: La Suprema Corte de Justicia de la Nación resuelve que en el cálculo de la gratificación por jubilación de los trabajadores de la UNAM, el concepto de "días de descanso obligatorio" contemplado en la cláusula 31 del contrato colectivo de trabajo debe considerarse como parte integrante del salario, lo que implica que debe incluirse en la base de cálculo para determinar el monto de dicha prestación. El criterio establece que los beneficios contractuales que se otorgan de manera regular y periódica a los trabajadores, aun cuando no sean laborados, constituyen salario para efectos de prestaciones de seguridad social y gratificaciones, reconociendo así el derecho de los trabajadores universitarios a que se consideren todas las percepciones que integran su remuneración total.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2026884

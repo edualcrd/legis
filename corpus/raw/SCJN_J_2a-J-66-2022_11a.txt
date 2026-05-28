@@ -1,0 +1,20 @@
+RUBRO: COMPETENCIA ORIGINARIA DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN. ES IMPROCEDENTE REASUMIRLA PARA CONOCER DE UN CONFLICTO ENTRE UN TRIBUNAL DE ARBITRAJE Y UN TRIBUNAL LABORAL, AMBOS DEL ESTADO DE PUEBLA, YA QUE SU CONOCIMIENTO CORRESPONDE AL PLENO DEL TRIBUNAL SUPERIOR DE JUSTICIA DE LA MENCIONADA ENTIDAD FEDERATIVA.
+
+CLAVE DE TESIS: 2a./J. 66/2022 (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; 2a. Sala; Gaceta S.J.F.; Libro 19, Noviembre de 2022; Tomo II; Pág. 1994
+INSTANCIA: Segunda Sala (S.C.J.N.)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2022-11-11T10:22:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2025451
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: La Suprema Corte de Justicia de la Nación resuelve sobre su competencia originaria en casos de conflicto entre órganos jurisdiccionales, estableciendo que cuando existe una controversia entre un tribunal de arbitraje y un tribunal laboral, ambos pertenecientes a la misma entidad federativa, es improcedente que la Corte reasuma su conocimiento, ya que la competencia para resolver tal conflicto corresponde al Pleno del Tribunal Superior de Justicia de esa entidad federativa, conforme a la distribución de competencias establecida en el sistema de justicia mexicano.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2025451

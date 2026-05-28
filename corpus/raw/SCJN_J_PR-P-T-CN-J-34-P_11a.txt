@@ -1,0 +1,20 @@
+RUBRO: ROBO. LA AGRAVANTE RELATIVA A CUANDO SE COMETA "APROVECHANDO ALGUNA RELACIÓN DE TRABAJO", COMPRENDE LA FIGURA DE LA SUBCONTRATACIÓN (OUTSOURCING) (ARTÍCULO 223, FRACCIÓN III, DEL CÓDIGO PENAL PARA EL DISTRITO FEDERAL, APLICABLE PARA LA CIUDAD DE MÉXICO).
+
+CLAVE DE TESIS: PR.P.T.CN. J/34 P (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; Plenos Regionales; Gaceta S.J.F.; Libro 51, Julio de 2025; Tomo II, Volumen 1; Pág. 497
+INSTANCIA: PLENO REGIONAL EN MATERIAS PENAL Y DE TRABAJO DE LA REGIÓN CENTRO-NORTE, CON RESIDENCIA EN LA CIUDAD DE MÉXICO. (Plenos Regionales)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2025-07-11T10:18:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2030759
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: La agravante de robo cuando se comete "aprovechando alguna relación de trabajo" comprende también los supuestos de subcontratación u outsourcing, en los cuales el sujeto activo, aunque no sea empleado directo de la víctima, mantiene una relación laboral que le permite acceso a bienes ajenos en el contexto de la prestación de servicios. El criterio establecido por la SCJN determina que la relación de trabajo relevante para la agravante no se limita únicamente al vínculo directo entre patrón y empleado, sino que se extiende a cualquier relación laboral que facilite el aprovechamiento para cometer el delito, incluyendo aquellas derivadas de contratos de subcontratación. Conforme al artículo 223, fracción III, del Código Penal para el Distrito Federal, aplicable para la Ciudad de México, esta interpretación amplía el alcance de la agravante al reconocer que la vulnerabilidad generada por la relación de trabajo puede presentarse en esquemas de outsourcing
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2030759

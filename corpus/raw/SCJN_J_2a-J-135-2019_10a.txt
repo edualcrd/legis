@@ -1,0 +1,20 @@
+RUBRO: PENSIONES OTORGADAS POR EL ISSSTE. LAS DIFERENCIAS DERIVADAS DE LOS INCREMENTOS OMITIDOS POR EL INSTITUTO DEBEN ENTREGARSE ACTUALIZADAS.
+
+CLAVE DE TESIS: 2a./J. 135/2019 (10a.)
+LOCALIZACIÓN: [J]; 10a. Época; 2a. Sala; Gaceta S.J.F.; Libro 71, Octubre de 2019; Tomo II; Pág. 1932
+INSTANCIA: Segunda Sala (S.C.J.N.)
+ÉPOCA: 10a. Época
+FECHA DE PUBLICACIÓN: 2019-10-18T10:28:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2020857
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: Las diferencias derivadas de los incrementos omitidos por el ISSSTE en el pago de pensiones constituyen un supuesto de incumplimiento en la actualización de prestaciones que genera la obligación del Instituto de entregar tales diferencias debidamente actualizadas al pensionado. El criterio establecido determina que cuando el ISSSTE ha dejado de aplicar incrementos que corresponden a una pensión, las cantidades adeudadas no pueden pagarse en su valor nominal, sino que deben ser actualizadas conforme a los mecanismos legales aplicables, a fin de restituir al pensionado el poder adquisitivo que le fue menoscabado por la omisión del Instituto.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2020857

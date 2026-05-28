@@ -1,0 +1,20 @@
+RUBRO: BONO DE DESPENSA Y PREVISIÓN SOCIAL MÚLTIPLE. LA APLICACIÓN DE LA JURISPRUDENCIA 2a./J. 13/2017 (10a.), QUE NIEGA EL DERECHO AL INCREMENTO DE ESAS PRESTACIONES A LOS PENSIONADOS DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO, NO VIOLA EL PRINCIPIO DE IRRETROACTIVIDAD DE LA JURISPRUDENCIA RESPECTO DE CRITERIOS EMITIDOS POR TRIBUNALES COLEGIADOS DE CIRCUITO.
+
+CLAVE DE TESIS: XVI.1o.A. J/45 (10a.)
+LOCALIZACIÓN: [J]; 10a. Época; T.C.C.; Gaceta S.J.F.; Libro 53, Abril de 2018; Tomo III; Pág. 1688
+INSTANCIA: PRIMER TRIBUNAL COLEGIADO EN MATERIA ADMINISTRATIVA DEL DÉCIMO SEXTO CIRCUITO. (T.C.C.)
+ÉPOCA: 10a. Época
+FECHA DE PUBLICACIÓN: 2018-04-27T10:31:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2016703
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: La jurisprudencia resuelve el supuesto de si la aplicación retroactiva de un criterio jurisprudencial que niega el derecho al incremento del bono de despensa y previsión social múltiple a los pensionados del ISSSTE viola el principio de irretroactividad de la jurisprudencia. El criterio establecido es que la aplicación de la jurisprudencia 2a./J. 13/2017 (10a.) no transgrede dicho principio de irretroactividad respecto de criterios emitidos por tribunales colegiados de circuito, permitiendo así que se niegue retroactivamente el derecho al incremento de esas prestaciones a los pensionados del instituto de seguridad social mencionado.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2016703

@@ -1,0 +1,20 @@
+RUBRO: CONFLICTO COMPETENCIAL EN MATERIA LABORAL. SE SUSCITA CUANDO DOS ÓRGANOS JURISDICCIONALES SE REHÚSAN A CONOCER DE UNA PROMOCIÓN, AUN CUANDO SE TRATE DE UN PROCEDIMIENTO PARAPROCESAL.
+
+CLAVE DE TESIS: VII.2o.T. J/5 L (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; T.C.C.; Gaceta S.J.F.; Libro 18, Octubre de 2022; Tomo IV; Pág. 3304
+INSTANCIA: SEGUNDO TRIBUNAL COLEGIADO EN MATERIA DE TRABAJO DEL SÉPTIMO CIRCUITO. (T.C.C.)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2022-10-14T10:24:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2025352
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: El conflicto competencial en materia laboral se configura cuando dos órganos jurisdiccionales se niegan simultáneamente a conocer de una promoción, incluso en aquellos casos donde el procedimiento reviste naturaleza paraprocesal. El criterio establecido reconoce que la competencia debe determinarse conforme a las reglas aplicables, sin que la caracterización paraprocesal del trámite exima a los tribunales de ejercer su jurisdicción cuando les corresponda legalmente. Esta posición busca evitar que las partes queden sin acceso a la justicia laboral por conflictos de competencia entre autoridades, garantizando que algún órgano jurisdiccional asuma el conocimiento de la controversia.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2025352

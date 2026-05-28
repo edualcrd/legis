@@ -1,0 +1,20 @@
+RUBRO: INDEMNIZACIÓN POR INCAPACIDAD PERMANENTE DERIVADA DE ENFERMEDAD PROFESIONAL DE LOS TRABAJADORES JUBILADOS DE PETRÓLEOS MEXICANOS Y ORGANISMOS SUBSIDIARIOS. DEBE CALCULARSE DE ACUERDO CON EL CONTRATO COLECTIVO VIGENTE EN LA FECHA EN QUE EL TRABAJADOR SE SEPARÓ DE LA EMPRESA Y LA CALIFICACIÓN DEL GRADO DE INCAPACIDAD ACONTECE DESPUÉS DE CONCLUIDA LA RELACIÓN LABORAL.
+
+CLAVE DE TESIS: PC.X. J/11 L (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; Plenos de Circuito; Gaceta S.J.F.; Libro 21, Enero de 2023; Tomo IV; Pág. 3886
+INSTANCIA: PLENO DEL DECIMO CIRCUITO. (Plenos de Circuito)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2023-01-20T10:21:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2025809
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: Cuando un trabajador jubilado de Petróleos Mexicanos o sus organismos subsidiarios es calificado con incapacidad permanente derivada de enfermedad profesional después de haber concluido su relación laboral, la indemnización correspondiente debe calcularse conforme al contrato colectivo que estuvo vigente en la fecha en que el trabajador se separó de la empresa, no conforme a las condiciones contractuales posteriores a su jubilación, estableciendo así que el derecho a la indemnización se genera en el momento de la separación y su cuantía se determina por las prestaciones pactadas en ese momento específico.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2025809

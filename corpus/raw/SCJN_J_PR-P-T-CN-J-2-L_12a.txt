@@ -1,0 +1,20 @@
+RUBRO: CONFLICTOS INDIVIDUALES DE SEGURIDAD SOCIAL. LAS PRUEBAS RELACIONADAS CON EL NÚMERO DE SEMANAS COTIZADAS PUEDEN OFRECERSE HASTA ANTES DEL CIERRE DE LA AUDIENCIA DE CONCILIACIÓN, DEMANDA Y EXCEPCIONES, PRUEBAS Y RESOLUCIÓN, CONFORME AL ARTÍCULO 880, FRACCIÓN II, DE LA LEY FEDERAL DEL TRABAJO (LEGISLACIÓN VIGENTE HASTA EL 1 DE MAYO DE 2019).
+
+CLAVE DE TESIS: PR.P.T.CN. J/2 L (12a.)
+LOCALIZACIÓN: [J]; 12a. Época; Plenos Regionales; Gaceta S.J.F.; Libro 5, Enero de 2026; Tomo III, Volumen 1; Pág. 88
+INSTANCIA: PLENO REGIONAL EN MATERIAS PENAL Y DE TRABAJO DE LA REGIÓN CENTRO-NORTE, CON RESIDENCIA EN LA CIUDAD DE MÉXICO. (Plenos Regionales)
+ÉPOCA: 12a. Época
+FECHA DE PUBLICACIÓN: 2026-01-16T10:17:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2031660
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: En los conflictos individuales de seguridad social, el supuesto jurídico que se resuelve es la oportunidad procesal para ofrecer pruebas relacionadas con el número de semanas cotizadas ante las autoridades de seguridad social. El criterio establecido por la jurisprudencia es que tales pruebas pueden ofrecerse hasta antes del cierre de la audiencia de conciliación, demanda y excepciones, pruebas y resolución, conforme al artículo 880, fracción II, de la Ley Federal del Trabajo, lo que garantiza al trabajador la posibilidad de acreditar su historia de cotización dentro del procedimiento ordinario establecido por la ley.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2031660

@@ -1,0 +1,20 @@
+RUBRO: DEMANDA LABORAL. LA FALTA DE FIRMA EN EL ACUERDO ADMISORIO DEL PRESIDENTE O DEL SECRETARIO DEL TRIBUNAL LABORAL, SI BIEN CONSTITUYE UNA VIOLACIÓN PROCESAL, SÓLO AMERITA CONCEDER EL AMPARO PARA REPONER EL PROCEDIMIENTO Y SUBSANAR TAL OMISIÓN, SI TRASCENDIÓ AL RESULTADO DEL JUICIO.
+
+CLAVE DE TESIS: PR.L.CS. J/12 L (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; Plenos Regionales; Gaceta S.J.F.; Libro 24, Abril de 2023; Tomo III; Pág. 2141
+INSTANCIA: PLENO REGIONAL EN MATERIA DE TRABAJO DE LA REGIÓN CENTRO-SUR, CON RESIDENCIA EN LA CIUDAD DE MÉXICO. (Plenos Regionales)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2023-04-21T10:25:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2026333
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: La falta de firma en el acuerdo admisorio del presidente o secretario del tribunal laboral constituye una violación procesal que, aunque existe formalmente, únicamente justifica la concesión del amparo para reponer el procedimiento y subsanar tal omisión cuando esta deficiencia ha trascendido al resultado final del juicio, es decir, cuando ha causado un daño procesal concreto que afectó las prestaciones o derechos reclamados por el demandante, de modo que la mera omisión formal sin consecuencias sustanciales en la sentencia no es suficiente para otorgar la protección constitucional solicitada.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2026333

@@ -1,0 +1,20 @@
+RUBRO: TRABAJADORES DE CONFIANZA AL SERVICIO DEL ESTADO DE DURANGO, ANTE LA FALTA DE ESTABILIDAD EN EL EMPLEO, SU REMOCIÓN NO GENERA EL DERECHO A LA INDEMNIZACIÓN PREVISTA EN EL ARTÍCULO 64 DE LA LEY BUROCRÁTICA LOCAL.
+
+CLAVE DE TESIS: PC.XXV. J/14 L (10a.)
+LOCALIZACIÓN: [J]; 10a. Época; Plenos de Circuito; Gaceta S.J.F.; Libro 80, Noviembre de 2020; Tomo II; Pág. 1664
+INSTANCIA: PLENO DEL VIGESIMO QUINTO CIRCUITO. (Plenos de Circuito)
+ÉPOCA: 10a. Época
+FECHA DE PUBLICACIÓN: 2020-11-13T10:24:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2022421
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: Los trabajadores de confianza al servicio del Estado de Durango que carecen de estabilidad en el empleo no tienen derecho a la indemnización establecida en el artículo 64 de la Ley Burocrática local cuando son removidos de sus funciones, ya que la indemnización por despido injustificado es un beneficio que únicamente corresponde a aquellos trabajadores que gozan de estabilidad laboral. El criterio establece que la naturaleza misma de los puestos de confianza, caracterizada por su falta de permanencia garantizada, excluye a estos servidores públicos de la protección indemnizatoria que la ley reserva para los empleados con estabilidad en el cargo.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2022421

@@ -1,0 +1,20 @@
+RUBRO: AUDIENCIA PRELIMINAR EN EL PROCEDIMIENTO ORDINARIO LABORAL. NO ES NECESARIO NOTIFICAR PERSONALMENTE EL ACUERDO QUE SEÑALA FECHA PARA SU DESAHOGO CON LOS APERCIBIMIENTOS DE LEY.
+
+CLAVE DE TESIS: PR.P.T.CS. J/34 L (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; Plenos Regionales; Gaceta S.J.F.; Libro 47, Marzo de 2025; Tomo II, Volumen 1; Pág. 591
+INSTANCIA: PLENO REGIONAL EN MATERIAS PENAL Y DE TRABAJO DE LA REGIÓN CENTRO-SUR, CON RESIDENCIA EN LA CIUDAD DE MÉXICO. (Plenos Regionales)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2025-03-14T10:17:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2030096
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: La audiencia preliminar en el procedimiento ordinario laboral no requiere que el acuerdo que fija su fecha de desahogo sea notificado personalmente a las partes, siendo suficiente la notificación por los medios ordinarios establecidos en la ley procesal laboral, ya que los apercibimientos legales derivados del incumplimiento de comparecer operan de pleno derecho sin necesidad de una notificación personalizada del acuerdo. Este criterio reconoce que la fijación de fecha para la audiencia preliminar constituye un acto de mero trámite cuya comunicación a través de los medios procesales ordinarios garantiza el conocimiento de las partes sobre la obligación de presentarse, siendo los apercibimientos de ley suficiente advertencia de las consecuencias del incumplimiento.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2030096

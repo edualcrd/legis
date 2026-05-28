@@ -1,0 +1,20 @@
+RUBRO: SUPLENCIA DE LA DEFICIENCIA DE LA QUEJA A FAVOR DEL PATRÓN. ATENTO AL PRINCIPIO DE ESPECIALIDAD PREVISTO EN EL ARTÍCULO 213 DE LA LEY AMPARO, TRATÁNDOSE DEL RECURSO DE INCONFORMIDAD, EL JUEZ DE AMPARO DEBE APLICAR ESTA FIGURA JURÍDICA.
+
+CLAVE DE TESIS: VII.2o.T. J/22 (10a.)
+LOCALIZACIÓN: [J]; 10a. Época; T.C.C.; Gaceta S.J.F.; Libro 53, Abril de 2018; Tomo III; Pág. 1860
+INSTANCIA: SEGUNDO TRIBUNAL COLEGIADO EN MATERIA DE TRABAJO DEL SÉPTIMO CIRCUITO. (T.C.C.)
+ÉPOCA: 10a. Época
+FECHA DE PUBLICACIÓN: 2018-04-27T10:31:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2016709
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: La suplencia de la deficiencia de la queja a favor del patrón se aplica en el recurso de inconformidad conforme al principio de especialidad establecido en el artículo 213 de la Ley de Amparo, lo que significa que el juez de amparo tiene la obligación de integrar y perfeccionar los agravios del patrón demandante cuando estos se encuentren incompletos o deficientemente expresados, a fin de garantizar que la parte patronal pueda hacer valer adecuadamente sus derechos en este medio de control constitucional especializado en materia laboral.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2016709

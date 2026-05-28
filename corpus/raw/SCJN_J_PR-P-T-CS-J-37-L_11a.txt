@@ -1,0 +1,20 @@
+RUBRO: CARGA DE LA PRUEBA EN MATERIA LABORAL. CORRESPONDE AL PATRÓN CUANDO EL TRABAJADOR RECLAMA UN DESCUENTO POR CONCEPTO DE "AJUSTES VARIOS" POR UN MONTO COINCIDENTE CON EL APLICABLE AL IMPUESTO SOBRE LA RENTA, SOBRE UNA PRESTACIÓN EXTRALEGAL QUE LE FUE PAGADA.
+
+CLAVE DE TESIS: PR.P.T.CS. J/37 L (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; Plenos Regionales; Gaceta S.J.F.; Libro 48, Abril de 2025; Tomo III, Volumen 1; Pág. 265
+INSTANCIA: PLENO REGIONAL EN MATERIAS PENAL Y DE TRABAJO DE LA REGIÓN CENTRO-SUR, CON RESIDENCIA EN LA CIUDAD DE MÉXICO. (Plenos Regionales)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2025-04-25T10:29:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2030288
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: Cuando un trabajador reclama la devolución de un descuento efectuado en su salario bajo el concepto de "ajustes varios" por un monto que coincide con el impuesto sobre la renta aplicable a una prestación extralegal recibida, corresponde al patrón acreditar la legalidad y justificación de tal descuento, pues aunque se trate de una prestación que excede lo establecido en la ley, el empleador no puede efectuar retenciones unilaterales sin consentimiento expreso del trabajador o sin fundamento legal que lo autorice, invirtiendo así la carga probatoria en favor del trabajador conforme a los principios protectores del derecho laboral.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2030288

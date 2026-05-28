@@ -1,0 +1,20 @@
+RUBRO: ISSSTE. LOS ARTÍCULOS 20, PÁRRAFOS SEGUNDO, TERCERO, CUARTO Y QUINTO, Y 185 DE LA LEY RELATIVA, NO VIOLAN EL PRINCIPIO DE IRRETROACTIVIDAD DE LA LEY (LEGISLACIÓN VIGENTE A PARTIR DEL 9 DE MAYO DE 2023).
+
+CLAVE DE TESIS: 2a./J. 18/2025 (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; 2a. Sala; Gaceta S.J.F.; Libro 49, Mayo de 2025; Tomo II, Volumen 1; Pág. 423
+INSTANCIA: Segunda Sala (S.C.J.N.)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2025-05-16T10:21:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2030411
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: Los artículos 20 (párrafos segundo, tercero, cuarto y quinto) y 185 de la Ley del ISSSTE, en su versión vigente a partir del 9 de mayo de 2023, no vulneran el principio de irretroactividad de la ley, toda vez que estas disposiciones no aplican retroactivamente a situaciones jurídicas consolidadas con anterioridad a su entrada en vigor, sino que regulan prospectivamente los derechos y obligaciones de los asegurados y pensionados del Instituto. El criterio establecido reconoce que las normas relativas al ISSSTE pueden modificar el régimen de prestaciones y beneficios sin transgredir la garantía de irretroactividad, siempre que no afecten derechos ya adquiridos y consolidados antes de la vigencia de la reforma.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2030411

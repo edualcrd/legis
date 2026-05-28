@@ -1,0 +1,20 @@
+RUBRO: DERECHO HUMANO A LA SALUD. PROCEDE REEMBOLSAR EL PAGO DE MEDICAMENTOS ADQUIRIDOS POR EL PACIENTE, DERIVADO DE LA OMISIÓN Y SUMINISTRO TARDÍO POR PARTE DEL INSTITUTO MEXICANO DEL SEGURO SOCIAL (IMSS), ANTE LA URGENCIA DE NO PONER EN RIESGO SU SALUD.
+
+CLAVE DE TESIS: 1a./J. 153/2023 (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; 1a. Sala; Gaceta S.J.F.; Libro 30, Octubre de 2023; Tomo II; Pág. 1819
+INSTANCIA: Primera Sala (S.C.J.N.)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2023-10-13T10:23:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2027441
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: Cuando el Instituto Mexicano del Seguro Social omite o suministra tardíamente medicamentos necesarios para la salud del paciente, generando una situación de urgencia que obliga al asegurado a adquirirlos por su cuenta, procede ordenar el reembolso de dichos gastos como medida para garantizar el derecho humano a la salud, toda vez que la institución incumple con su obligación de proporcionar oportunamente los tratamientos requeridos y el paciente no puede quedar en estado de desprotección ante el riesgo inminente a su integridad física.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2027441

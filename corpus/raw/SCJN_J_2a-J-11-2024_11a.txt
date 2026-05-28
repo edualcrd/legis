@@ -1,0 +1,20 @@
+RUBRO: INCIDENTE DE INCOMPETENCIA O DECLINATORIA EN EL PROCEDIMIENTO ORDINARIO LABORAL. MOMENTO PROCESAL OPORTUNO PARA PROMOVERLO (LEY FEDERAL DEL TRABAJO VIGENTE DEL 1 DE DICIEMBRE DE 2012 AL 1 DE MAYO DE 2019).
+
+CLAVE DE TESIS: 2a./J. 11/2024 (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; 2a. Sala; Gaceta S.J.F.; Libro 36, Abril de 2024; Tomo II; Pág. 2358
+INSTANCIA: Segunda Sala (S.C.J.N.)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2024-04-05T10:09:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2028535
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: El incidente de incompetencia o declinatoria en el procedimiento ordinario laboral debe promoverse en el momento procesal oportuno conforme a lo establecido en la Ley Federal del Trabajo vigente del 1 de diciembre de 2012 al 1 de mayo de 2019, siendo este un medio de defensa que cuestiona la competencia de la autoridad laboral para conocer del asunto. El criterio jurisprudencial establece que dicho incidente debe presentarse en la oportunidad procesal que la ley señala, de manera que si se promueve fuera del término o momento establecido, puede ser rechazado por extemporáneo. Esta cuestión es fundamental para garantizar que las partes ejerzan sus derechos de defensa dentro de los plazos y condiciones que la ley laboral prevé para mantener la seguridad jurídica en los procedimientos ordinarios laborales.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2028535

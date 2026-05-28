@@ -1,0 +1,20 @@
+RUBRO: HORAS EXTRAORDINARIAS DE LOS TRABAJADORES AL SERVICIO DEL ESTADO. SALARIO CON EL QUE DEBE CUANTIFICARSE SU PAGO.
+
+CLAVE DE TESIS: PC.I.L. J/22 L (10a.)
+LOCALIZACIÓN: [J]; 10a. Época; Plenos de Circuito; Gaceta S.J.F.; Libro 34, Septiembre de 2016; Tomo II; Pág. 1527
+INSTANCIA: PLENO EN MATERIA DE TRABAJO DEL PRIMER CIRCUITO. (Plenos de Circuito)
+ÉPOCA: 10a. Época
+FECHA DE PUBLICACIÓN: 2016-09-02T10:11:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2012450
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: El supuesto jurídico que resuelve es la determinación del salario base para cuantificar el pago de horas extraordinarias de los trabajadores al servicio del Estado. El criterio establecido establece que para el cálculo de las horas extraordinarias debe utilizarse el salario que corresponda al trabajador, considerando los elementos que integran su remuneración conforme a la naturaleza de su relación laboral con el Estado, garantizando que la compensación por trabajo extraordinario sea proporcional a la retribución ordinaria que percibe.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2012450

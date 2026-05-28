@@ -1,0 +1,20 @@
+RUBRO: "BONO DE DESPENSA" Y "PREVISIÓN SOCIAL MÚLTIPLE". EL PRINCIPIO DE IGUALDAD OBLIGA A QUE LOS PENSIONADOS TENGAN EL DERECHO A QUE SE LES INCREMENTEN ESOS CONCEPTOS EN LA PROPORCIÓN QUE SE HACE A LOS TRABAJADORES EN ACTIVO DE LA ADMINISTRACIÓN PÚBLICA FEDERAL.
+
+CLAVE DE TESIS: IV.1o.A. J/24 (10a.)
+LOCALIZACIÓN: [J]; 10a. Época; T.C.C.; Gaceta S.J.F.; Libro 36, Noviembre de 2016; Tomo IV; Pág. 2195
+INSTANCIA: PRIMER TRIBUNAL COLEGIADO EN MATERIA ADMINISTRATIVA DEL CUARTO CIRCUITO. (T.C.C.)
+ÉPOCA: 10a. Época
+FECHA DE PUBLICACIÓN: 2016-11-11T10:22:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2013002
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: El supuesto jurídico que resuelve es la discriminación en el incremento de prestaciones entre trabajadores activos y pensionados de la administración pública federal, específicamente respecto al bono de despensa y previsión social múltiple. El criterio establecido es que el principio de igualdad constitucional obliga a que los pensionados reciban los mismos incrementos proporcionales en estos conceptos que se otorgan a los trabajadores en activo, evitando así un trato discriminatorio basado en la condición de jubilación.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2013002

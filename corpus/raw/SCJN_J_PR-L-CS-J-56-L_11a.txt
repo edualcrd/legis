@@ -1,0 +1,20 @@
+RUBRO: AVISO DE RESCISIÓN DE LA RELACIÓN LABORAL. EL ACTA ADMINISTRATIVA EXHIBIDA POR EL PATRÓN, EN LA QUE SE HAGA CONSTAR SU RECEPCIÓN, DEBIDAMENTE RATIFICADA ANTE LA AUTORIDAD LABORAL, ES APTA PARA TENER POR SATISFECHO EL REQUISITO DE SU ENTREGA EN FORMA PERSONAL AL TRABAJADOR, CONFORME LO ESTABLECE EL ARTÍCULO 47 DE LA LEY FEDERAL DEL TRABAJO, REFORMADO MEDIANTE DECRETO PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACIÓN EL 30 DE NOVIEMBRE DE 2012.
+
+CLAVE DE TESIS: PR.L.CS. J/56 L (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; Plenos Regionales; Gaceta S.J.F.; Libro 33, Enero de 2024; Tomo IV; Pág. 3504
+INSTANCIA: PLENO REGIONAL EN MATERIA DE TRABAJO DE LA REGIÓN CENTRO-SUR, CON RESIDENCIA EN LA CIUDAD DE MÉXICO. (Plenos Regionales)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2024-01-05T10:06:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2027887
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: El supuesto jurídico que resuelve es la forma en que debe acreditarse la entrega personal del aviso de rescisión de la relación laboral al trabajador conforme a los requisitos legales. El criterio establecido es que el acta administrativa exhibida por el patrón, en la que conste la recepción del aviso y que sea debidamente ratificada ante la autoridad laboral, constituye prueba suficiente para satisfacer el requisito de entrega personal exigido por el artículo 47 de la Ley Federal del Trabajo, reformado mediante decreto publicado en el Diario Oficial de la Federación el 30 de noviembre de 2012.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2027887

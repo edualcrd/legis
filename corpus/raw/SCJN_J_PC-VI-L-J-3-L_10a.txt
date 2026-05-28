@@ -1,0 +1,20 @@
+RUBRO: HORAS EXTRAS. LA MANIFESTACIÓN DEL TRABAJADOR EN EL SENTIDO DE QUE GOZÓ O NO DE LA MEDIA HORA DE DESCANSO A QUE SE REFIERE EL ARTÍCULO 63 DE LA LEY FEDERAL DEL TRABAJO, ES TRASCENDENTE PARA DETERMINAR SI EL RECLAMO DE SU PAGO ES VEROSÍMIL, SIN QUE PROCEDA PREVENIRLO PARA ACLARAR SU DEMANDA, EN CASO DE NO HABERLA REALIZADO.
+
+CLAVE DE TESIS: PC.VI.L. J/3 L (10a.)
+LOCALIZACIÓN: [J]; 10a. Época; Plenos de Circuito; Gaceta S.J.F.; Libro 38, Enero de 2017; Tomo III; Pág. 1415
+INSTANCIA: PLENO EN MATERIA DE TRABAJO DEL SEXTO CIRCUITO. (Plenos de Circuito)
+ÉPOCA: 10a. Época
+FECHA DE PUBLICACIÓN: 2017-01-06T10:07:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2013395
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: El supuesto jurídico que resuelve este criterio es la determinación de la verosimilitud del reclamo de pago de horas extras cuando el trabajador no ha manifestado explícitamente si gozó o no de la media hora de descanso establecida en el artículo 63 de la Ley Federal del Trabajo. El criterio establecido es que la manifestación del trabajador respecto al goce o no de dicho descanso resulta trascendente para evaluar la credibilidad y procedencia de la demanda de pago de horas extras, sin que sea necesario que el tribunal prevenga al trabajador para que aclare su demanda cuando esta manifestación no ha sido realizada, lo que implica que la omisión de tal aclaración puede afectar la viabilidad de su pretensión.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2013395

@@ -1,0 +1,20 @@
+RUBRO: ACTO DE AUTORIDAD PARA EFECTOS DEL AMPARO. NO TIENE ESE CARÁCTER EL DECRETO NÚMERO 24, EMITIDO POR EL CONGRESO DEL ESTADO DE OAXACA, POR EL QUE SE SUPRIMEN PLAZAS ADMINISTRATIVAS DE LOS EMPLEADOS DE BASE, PUBLICADO EN EL EXTRA DEL PERIÓDICO OFICIAL DEL GOBIERNO DEL ESTADO EL 12 DE DICIEMBRE DE 2024.
+
+CLAVE DE TESIS: XIII.2o.P.T. J/1 L (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; T.C.C.; Gaceta S.J.F.; Libro 48, Abril de 2025; Tomo I, Volumen 1; Pág. 523
+INSTANCIA: SEGUNDO TRIBUNAL COLEGIADO EN MATERIAS PENAL Y DE TRABAJO DEL DÉCIMO TERCER CIRCUITO. (T.C.C.)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2025-04-04T10:08:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2030180
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: El presente criterio resuelve si un decreto legislativo estatal que suprime plazas administrativas de empleados de base constituye un acto de autoridad susceptible de ser impugnado mediante amparo. La Suprema Corte de Justicia de la Nación establece que dicho decreto no tiene el carácter de acto de autoridad para efectos del amparo, toda vez que se trata de un acto legislativo general y abstracto que no produce efectos jurídicos concretos e inmediatos sobre derechos específicos de los gobernados, sino que requiere de actos posteriores de aplicación para afectar la esfera jurídica de los trabajadores de base.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2030180

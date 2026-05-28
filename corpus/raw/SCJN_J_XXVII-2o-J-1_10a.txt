@@ -1,0 +1,20 @@
+RUBRO: PRINCIPIO DE INMEDIACIÓN EN EL JUICIO ORAL MERCANTIL. CUANDO EN AUSENCIA DEL JUEZ, POR ENCONTRARSE DE VACACIONES, EL SECRETARIO ENCARGADO DEL DESPACHO ESTÁ PRESENTE EN CUALQUIERA DE LAS ETAPAS DEL PROCEDIMIENTO COMO LA ADMISIÓN, DESAHOGO Y VALORACIÓN DE PRUEBAS, INCLUSO, PRESIDE LA AUDIENCIA DEL JUICIO, Y EN SU CONTINUACIÓN DICTA SENTENCIA, SE TRANSGREDE DICHO PRINCIPIO, PREVISTO EN EL ARTÍCULO 1390 BIS 2 DEL CÓDIGO DE COMERCIO.
+
+CLAVE DE TESIS: XXVII.2o. J/1 (10a.)
+LOCALIZACIÓN: [J]; 10a. Época; T.C.C.; Gaceta S.J.F.; Libro 57, Agosto de 2018; Tomo III; Pág. 2511
+INSTANCIA: SEGUNDO TRIBUNAL COLEGIADO DEL VIGÉSIMO SÉPTIMO CIRCUITO. (T.C.C.)
+ÉPOCA: 10a. Época
+FECHA DE PUBLICACIÓN: 2018-08-03T10:11:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2017500
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: El supuesto jurídico que resuelve es la vulneración del principio de inmediación cuando el secretario del juzgado, en ausencia del juez por vacaciones, participa en las etapas sustanciales del juicio oral mercantil, incluyendo la admisión y desahogo de pruebas, presidencia de audiencias y dictado de sentencia. El criterio establecido es que tal actuación transgrede el principio de inmediación previsto en el artículo 1390 bis 2 del Código de Comercio, el cual exige que sea el juez quien directamente presencie y participe en estas etapas procesales para garantizar la validez del procedimiento y la sentencia que de él derive.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2017500

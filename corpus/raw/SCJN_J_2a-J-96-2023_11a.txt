@@ -1,0 +1,20 @@
+RUBRO: SUBCONTRATACIÓN LABORAL. EL ARTÍCULO 12 DE LA LEY FEDERAL DEL TRABAJO QUE PROHÍBE LA SUBCONTRATACIÓN DE PERSONAL, NO VULNERA EL DERECHO DE AUDIENCIA.
+
+CLAVE DE TESIS: 2a./J. 96/2023 (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; 2a. Sala; Gaceta S.J.F.; Libro 33, Enero de 2024; Tomo III; Pág. 2475
+INSTANCIA: Segunda Sala (S.C.J.N.)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2024-01-05T10:06:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2027936
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: La subcontratación laboral regulada por el artículo 12 de la Ley Federal del Trabajo, que establece la prohibición de subcontratar personal, no constituye una violación al derecho de audiencia en los términos de la Constitución Política de los Estados Unidos Mexicanos, toda vez que dicha disposición legal representa un ejercicio legítimo de la potestad legislativa para proteger los derechos de los trabajadores y no impide que los particulares sean escuchados en juicio conforme a derecho. El criterio establecido reconoce que la regulación restrictiva de la subcontratación persigue un fin constitucionalmente válido relacionado con la protección laboral, y que la existencia de una norma prohibitiva no equivale per se a negar el acceso a la justicia o a vulnerar garantías de debido proceso. Así, el artículo 12 de la Ley Federal del Trabajo se mantiene vigente y aplicable sin que su contenido normativo implique una afectación al derecho fundamental de audiencia.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2027936

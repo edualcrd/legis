@@ -1,0 +1,20 @@
+RUBRO: SALARIO PROMEDIO DE COTIZACIÓN. A FIN DE CUANTIFICAR LAS PENSIONES PREVISTAS EN LA LEY DEL SEGURO SOCIAL, LOS TRIBUNALES LABORALES Y LOS DE AMPARO DEBEN ESTUDIAR LA VEROSIMILITUD DE SU MONTO, CUANDO LO CONSIDEREN EXCESIVO, AUN CUANDO EL INSTITUTO DEMANDADO NO JUSTIFIQUE SUS EXCEPCIONES O NO LO CONTROVIERTA.
+
+CLAVE DE TESIS: VII.2o.T. J/25 (10a.)
+LOCALIZACIÓN: [J]; 10a. Época; T.C.C.; Gaceta S.J.F.; Libro 51, Febrero de 2018; Tomo III; Pág. 1359
+INSTANCIA: SEGUNDO TRIBUNAL COLEGIADO EN MATERIA DE TRABAJO DEL SÉPTIMO CIRCUITO. (T.C.C.)
+ÉPOCA: 10a. Época
+FECHA DE PUBLICACIÓN: 2018-02-23T10:25:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2016284
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: Los tribunales laborales y de amparo deben verificar la verosimilitud del salario promedio de cotización utilizado para cuantificar las pensiones conforme a la Ley del Seguro Social, particularmente cuando consideren que su monto resulta excesivo, independientemente de que el Instituto demandado justifique sus excepciones o controvierta la cifra presentada. Este criterio establece que la revisión de la razonabilidad del salario promedio constituye una obligación de oficio para los tribunales, a fin de garantizar que las prestaciones pensionarias se determinen sobre bases reales y proporcionales al historial de cotización del asegurado.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2016284

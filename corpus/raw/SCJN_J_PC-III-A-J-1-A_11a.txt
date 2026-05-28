@@ -1,0 +1,20 @@
+RUBRO: INSTITUTO MEXICANO DEL SEGURO SOCIAL (IMSS). CUANDO DECIDE SUSPENDER DERECHOS PENSIONARIOS RELACIONADOS CON LA PENSIÓN DE CESANTÍA EN EDAD AVANZADA, DE FORMA UNILATERAL Y OBLIGATORIA, CON BASE EN LAS ATRIBUCIONES QUE ESTABLECE LA LEY QUE LO RIGE, ACTÚA COMO AUTORIDAD PARA EFECTOS DEL JUICIO DE AMPARO, EN TÉRMINOS DEL ARTÍCULO 5o., FRACCIÓN II, DE LA LEY DE AMPARO.
+
+CLAVE DE TESIS: PC.III.A. J/1 A (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; Plenos de Circuito; Gaceta S.J.F.; Libro 4, Agosto de 2021; Tomo IV; Pág. 4331
+INSTANCIA: PLENO EN MATERIA ADMINISTRATIVA DEL TERCER CIRCUITO. (Plenos de Circuito)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2021-08-13T10:21:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2023434
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: El Instituto Mexicano del Seguro Social actúa como autoridad para efectos del juicio de amparo cuando decide suspender de forma unilateral y obligatoria los derechos pensionarios relacionados con la pensión de cesantía en edad avanzada, con fundamento en las atribuciones que le confiere su ley reguladora. El criterio establecido es que tales decisiones, al ejercerse con carácter imperativo y vinculante sobre los derechos de los gobernados, constituyen actos de autoridad conforme al artículo 5o., fracción II, de la Ley de Amparo, por lo que son susceptibles de ser controvertidas a través de este medio de defensa constitucional.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2023434

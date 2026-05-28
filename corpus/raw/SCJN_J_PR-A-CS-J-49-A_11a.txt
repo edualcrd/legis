@@ -1,0 +1,20 @@
+RUBRO: IMPUESTO SOBRE LA RENTA. ES APLICABLE LO DISPUESTO POR EL ARTÍCULO 93, FRACCIONES IV Y V, DE LA LEY RELATIVA, A LAS CUOTAS DE JUBILACIÓN QUE DERIVAN DE LA CLÁUSULA 64 DEL CONTRATO COLECTIVO DE TRABAJO CELEBRADO ENTRE EL EXTINTO ORGANISMO DESCENTRALIZADO LUZ Y FUERZA DEL CENTRO Y EL SINDICATO MEXICANO DE ELECTRICISTAS 2008-2010.
+
+CLAVE DE TESIS: PR.A.CS. J/49 A (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; Plenos Regionales; Gaceta S.J.F.; Libro 34, Febrero de 2024; Tomo III; Pág. 3181
+INSTANCIA: PLENO REGIONAL EN MATERIA ADMINISTRATIVA DE LA REGIÓN CENTRO-SUR, CON RESIDENCIA EN CUERNAVACA, MORELOS. (Plenos Regionales)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2024-02-16T10:18:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2028209
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: La jurisprudencia resuelve si las cuotas de jubilación derivadas de la cláusula 64 del contrato colectivo de trabajo entre Luz y Fuerza del Centro y el Sindicato Mexicano de Electricistas se encuentran sujetas al régimen fiscal de retenciones establecido en la Ley del Impuesto sobre la Renta. El criterio establecido determina que es aplicable lo dispuesto por el artículo 93, fracciones IV y V, de la Ley del Impuesto sobre la Renta a dichas cuotas de jubilación, lo que significa que estas prestaciones deben cumplir con las obligaciones de retención y pago de impuestos conforme a las disposiciones fiscales aplicables a este tipo de percepciones.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2028209

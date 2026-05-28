@@ -1,0 +1,20 @@
+RUBRO: INDEMNIZACIÓN POR RESPONSABILIDAD PATRIMONIAL DEL ESTADO. ES IMPROCEDENTE CUANDO DERIVA DEL INCUMPLIMIENTO DE UN LAUDO POR DESPIDO INJUSTIFICADO.
+
+CLAVE DE TESIS: 1a./J. 238/2025 (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; 1a. Sala; Gaceta S.J.F.; Libro 52, Agosto de 2025; Tomo V, Volumen 2; Pág. 1048
+INSTANCIA: Primera Sala (S.C.J.N.)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2025-08-29T10:37:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2031089
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: Cuando un trabajador demanda indemnización por responsabilidad patrimonial del Estado derivada del incumplimiento de un laudo que ordena su reinstalación o el pago de prestaciones por despido injustificado, tal acción es improcedente porque el daño alegado no proviene de una actuación administrativa ilícita del Estado, sino del incumplimiento de una obligación que debe hacerse valer a través de los mecanismos de ejecución de laudos previstos en la materia laboral. La responsabilidad patrimonial del Estado requiere que el daño sea causado por una conducta administrativa contraria a derecho, no por el simple incumplimiento de resoluciones judiciales o arbitrales, cuya reparación corresponde a las instancias laborales competentes mediante los procedimientos de cumplimiento y ejecución establecidos para tal efecto.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2031089

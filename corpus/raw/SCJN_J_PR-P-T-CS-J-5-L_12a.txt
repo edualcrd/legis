@@ -1,0 +1,20 @@
+RUBRO: PERSONALIDAD EN UN PROCEDIMIENTO PARAPROCESAL LABORAL PARA LA ENTREGA DEL AVISO DE RESCISIÓN. SE DEBE PREVENIR Y REQUERIR AL REPRESENTANTE LEGAL DE LA PARTE PATRONAL PARA QUE LA ACREDITE, PREVIO A DESECHAR LA PETICIÓN RESPECTIVA.
+
+CLAVE DE TESIS: PR.P.T.CS. J/5 L (12a.)
+LOCALIZACIÓN: [J]; 12a. Época; Plenos Regionales; Gaceta S.J.F.; Libro 7, Marzo de 2026; Tomo III, Volumen 1; Pág. 760
+INSTANCIA: PLENO REGIONAL EN MATERIAS PENAL Y DE TRABAJO DE LA REGIÓN CENTRO-SUR, CON RESIDENCIA EN LA CIUDAD DE MÉXICO. (Plenos Regionales)
+ÉPOCA: 12a. Época
+FECHA DE PUBLICACIÓN: 2026-03-20T10:23:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2031926
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: En los procedimientos paraprocessales laborales para la entrega del aviso de rescisión, cuando se cuestiona la personalidad del representante legal de la parte patronal, la autoridad laboral debe prevenir y requerir a dicho representante para que acredite su legitimación procesal antes de desechar la petición, evitando así el desechamiento inmediato y garantizando el derecho de defensa de la parte patronal al otorgarle la oportunidad de demostrar su capacidad legal para actuar en el procedimiento.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2031926

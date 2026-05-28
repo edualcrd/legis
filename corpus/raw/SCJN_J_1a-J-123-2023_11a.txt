@@ -1,0 +1,20 @@
+RUBRO: DERECHO A RECIBIR UNA PENSIÓN POR JUBILACIÓN. FORMA PARTE DEL DERECHO A LA SEGURIDAD SOCIAL.
+
+CLAVE DE TESIS: 1a./J. 123/2023 (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; 1a. Sala; Gaceta S.J.F.; Libro 29, Septiembre de 2023; Tomo II; Pág. 1412
+INSTANCIA: Primera Sala (S.C.J.N.)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2023-09-29T10:38:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2027312
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: El derecho a recibir una pensión por jubilación constituye un componente integral del derecho a la seguridad social reconocido en el ordenamiento jurídico mexicano, siendo un derecho fundamental que protege a los trabajadores en su vejez. La jurisprudencia establece que este derecho no es una mera prestación discrecional del Estado, sino una garantía social que debe ser respetada y garantizada conforme a los principios de universalidad, solidaridad y equidad. Por tanto, cualquier limitación o negación del acceso a una pensión de jubilación debe justificarse conforme a criterios objetivos y no puede ser arbitraria, debiendo el Estado adoptar las medidas necesarias para asegurar que los trabajadores que cumplan con los requisitos legales puedan ejercer efectivamente este derecho fundamental.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2027312

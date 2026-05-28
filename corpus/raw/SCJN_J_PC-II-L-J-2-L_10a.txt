@@ -1,0 +1,20 @@
+RUBRO: PRESCRIPCIÓN EN MATERIA LABORAL. NO REÚNE LOS REQUISITOS PARA SU ESTUDIO, CUANDO LA EXCEPCIÓN PLANTEADA SOBRE PRESTACIONES QUE POR QUEDAR COMPRENDIDAS EN EL AÑO ANTERIOR A LA PRESENTACIÓN DE LA DEMANDA, AÚN NO PRESCRIBEN.
+
+CLAVE DE TESIS: PC.II.L. J/2 L (10a.)
+LOCALIZACIÓN: [J]; 10a. Época; Plenos de Circuito; Gaceta S.J.F.; Libro 43, Junio de 2017; Tomo III; Pág. 2205
+INSTANCIA: PLENO EN MATERIA DE TRABAJO DEL SEGUNDO CIRCUITO. (Plenos de Circuito)
+ÉPOCA: 10a. Época
+FECHA DE PUBLICACIÓN: 2017-06-30T10:36:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2014662
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: La prescripción en materia laboral no reúne los requisitos para su estudio cuando la excepción planteada por el demandado se refiere a prestaciones que, por estar comprendidas en el año anterior a la presentación de la demanda, aún no han prescrito conforme a los plazos establecidos en la ley. El criterio establece que resulta improcedente analizar una excepción de prescripción cuando las prestaciones reclamadas se encuentran dentro del período de un año previo a la demanda, ya que en tal caso la prescripción no ha operado y la excepción carece de fundamento jurídico. Esta resolución busca evitar que se desestimen pretensiones laborales válidas mediante excepciones que no tienen sustento legal, protegiendo así los derechos de los trabajadores cuyas acciones aún se encuentran dentro de los plazos de prescripción aplicables.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2014662

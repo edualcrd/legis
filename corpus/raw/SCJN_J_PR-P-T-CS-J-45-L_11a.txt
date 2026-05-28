@@ -1,0 +1,20 @@
+RUBRO: AGUINALDO Y PRIMA VACACIONAL. GENERAN INTERESES CONFORME A LOS ARTÍCULOS 48 DE LA LEY FEDERAL DEL TRABAJO Y 23 DE LA LEY PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS, AUN CUANDO SE CALCULEN DE FORMA AUTÓNOMA AL SALARIO BASE DE LA CONDENA.
+
+CLAVE DE TESIS: PR.P.T.CS. J/45 L (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; Plenos Regionales; Gaceta S.J.F.; Libro 49, Mayo de 2025; Tomo I, Volumen 2; Pág. 1051
+INSTANCIA: PLENO REGIONAL EN MATERIAS PENAL Y DE TRABAJO DE LA REGIÓN CENTRO-SUR, CON RESIDENCIA EN LA CIUDAD DE MÉXICO. (Plenos Regionales)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2025-05-09T10:14:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2030320
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: El supuesto jurídico que resuelve es si el aguinaldo y la prima vacacional generan intereses cuando se calculan de manera autónoma al salario base de la condena. El criterio establecido es que ambas prestaciones sí generan intereses conforme a lo dispuesto en el artículo 48 de la Ley Federal del Trabajo y el artículo 23 de la Ley para los Servidores Públicos del Estado de Jalisco y sus Municipios, independientemente de que se determinen como conceptos separados y no como parte integral del salario condenado. Esta interpretación reconoce que la naturaleza de estas prestaciones como derechos laborales exigibles las somete al régimen de intereses legales, sin que su cálculo autónomo las exima de tal obligación.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2030320

@@ -1,0 +1,22 @@
+RUBRO: AUTORIDAD RESPONSABLE EQUIPARADA EN TÉRMINOS DEL ARTÍCULO 5o., FRACCIÓN II, PÁRRAFO SEGUNDO, DE LA LEY DE AMPARO. TIENEN TAL CALIDAD LOS PATRONES AL DESATENDER LA NORMATIVA, LOS MANDATOS ADMINISTRATIVOS O LAS RECOMENDACIONES DE LA ORGANIZACIÓN MUNDIAL DE LA SALUD (OMS), GENERADOS DE MANERA EXTRAORDINARIA PARA COMBATIR LA PANDEMIA POR EL VIRUS SARS-CoV2 (COVID-19), CUANDO NIEGAN, IMPIDEN U OMITEN AUTORIZAR LA AUSENCIA AL CENTRO DE TRABAJO DE UN TRABAJADOR EN SITUACIÓN DE VULNERABILIDAD EN EL CONTEXTO DE LA EPIDEMIA.
+
+CLAVE DE TESIS: PC.I.L. J/6 L (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; Plenos de Circuito; Gaceta S.J.F.; Libro 7, Noviembre de 2021; Tomo III
+
+; Pág. 2360
+INSTANCIA: PLENO EN MATERIA DE TRABAJO DEL PRIMER CIRCUITO. (Plenos de Circuito)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2021-11-12T10:23:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2023762
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: El supuesto jurídico que resuelve es la determinación de cuándo los patrones adquieren la calidad de autoridad responsable equiparada conforme a la Ley de Amparo, específicamente cuando desatienden la normativa, mandatos administrativos o recomendaciones de la Organización Mundial de la Salud generados extraordinariamente para combatir la pandemia por COVID-19 y niegan, impiden u omiten autorizar la ausencia al trabajo de un empleado en situación de vulnerabilidad. El criterio establecido es que los patrones que incumplen estas disposiciones sanitarias y laborales durante la epidemia, al negar o impedir que trabajadores vulnerables se ausenten del centro de trabajo, actúan como autoridades responsables equiparadas conforme al artículo 5o., fracción II, párrafo segundo, de la Ley de Amparo, lo que los sujeta al control constitucional mediante el juicio de amparo por violación de derechos fundamentales relacionados con la salud y la vida.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2023762

@@ -1,0 +1,20 @@
+RUBRO: PENSIÓN DE CESANTÍA EN EDAD AVANZADA. PARA OBTENERLA Y RECONOCER LAS COTIZACIONES SEMANALES AL RÉGIMEN DEL SEGURO SOCIAL GENERADAS ANTES DE QUE EL TRABAJADOR CAUSÓ BAJA, CUANDO SU REINGRESO OCURRA DESPUÉS DE 6 AÑOS, ES NECESARIO ACREDITAR OTRAS 52 COTIZACIONES SEMANALES EN EL NUEVO ASEGURAMIENTO.
+
+CLAVE DE TESIS: PC.I.L. J/26 L (10a.)
+LOCALIZACIÓN: [J]; 10a. Época; Plenos de Circuito; Gaceta S.J.F.; Libro 36, Noviembre de 2016; Tomo III; Pág. 1882
+INSTANCIA: PLENO EN MATERIA DE TRABAJO DEL PRIMER CIRCUITO. (Plenos de Circuito)
+ÉPOCA: 10a. Época
+FECHA DE PUBLICACIÓN: 2016-11-25T10:36:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2013163
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: La pensión de cesantía en edad avanzada requiere que cuando un trabajador se reincorpora al régimen del seguro social después de más de 6 años de haber causado baja, deba acreditar 52 cotizaciones semanales adicionales en el nuevo aseguramiento para que se reconozcan y se sumen las cotizaciones generadas antes de su baja anterior. Este criterio establece que la interrupción prolongada en el aseguramiento genera una solución de continuidad que obliga al trabajador a cumplir con un nuevo período mínimo de cotización antes de poder consolidar el derecho a la pensión de cesantía en edad avanzada con el reconocimiento de sus aportaciones previas.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2013163

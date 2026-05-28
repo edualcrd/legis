@@ -1,0 +1,20 @@
+RUBRO: PENSIÓN DE VIUDEZ. EL ARTÍCULO 135, FRACCIÓN II, DE LA LEY DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO, EN SU TEXTO PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACIÓN EL 31 DE MARZO DE 2007, AL ESTABLECER QUE EL DERECHO A PERCIBIRLA SE PIERDE CUANDO LA PERSONA PENSIONADA CONTRAIGA NUEVAS NUPCIAS O VIVA EN CONCUBINATO, VIOLA LOS PRINCIPIOS DE IGUALDAD Y DE SEGURIDAD SOCIAL.
+
+CLAVE DE TESIS: 2a./J. 50/2023 (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; 2a. Sala; Gaceta S.J.F.; Libro 29, Septiembre de 2023; Tomo III; Pág. 2512
+INSTANCIA: Segunda Sala (S.C.J.N.)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2023-09-08T10:17:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2027196
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: El supuesto jurídico que resuelve es la constitucionalidad del artículo 135, fracción II, de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, que condicionaba la pérdida de la pensión de viudez al contraer nuevas nupcias o vivir en concubinato. El criterio establecido es que dicha disposición viola los principios de igualdad y de seguridad social consagrados en la Constitución Política de los Estados Unidos Mexicanos, al discriminar a las personas viudas que deciden rehacer su vida en pareja, impidiéndoles acceder a una prestación social que constituye un derecho adquirido derivado de su condición de derechohabiente. La norma impugnada resulta inconstitucional por establecer una condición que afecta desproporcionadamente el derecho a la seguridad social sin justificación objetiva y razonable.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2027196

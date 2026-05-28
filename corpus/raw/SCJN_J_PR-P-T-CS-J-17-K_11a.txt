@@ -1,0 +1,20 @@
+RUBRO: AMPARO DIRECTO. FORMAS DE CUMPLIRLO EN EL MARCO DEL SISTEMA JUDICIAL EN MATERIA LABORAL.
+
+CLAVE DE TESIS: PR.P.T.CS. J/17 K (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; Plenos Regionales; Gaceta S.J.F.; Libro 53, Septiembre de 2025; Tomo I, Volumen 1; Pág. 391
+INSTANCIA: PLENO REGIONAL EN MATERIAS PENAL Y DE TRABAJO DE LA REGIÓN CENTRO-SUR, CON RESIDENCIA EN LA CIUDAD DE MÉXICO. (Plenos Regionales)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2025-09-05T10:14:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2031135
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: El amparo directo en materia laboral se resuelve respecto a las distintas modalidades mediante las cuales puede ejecutarse la sentencia de amparo una vez que ha adquirido firmeza, considerando las particularidades del sistema judicial laboral. El criterio establecido determina que el cumplimiento del amparo debe adaptarse a los mecanismos y procedimientos específicos previstos en la jurisdicción laboral, garantizando la efectividad de la protección constitucional otorgada al trabajador o patrón según corresponda. Esta solución reconoce que las formas de cumplimiento no son uniformes, sino que deben ajustarse a la naturaleza de la controversia y a las características propias del proceso laboral.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2031135

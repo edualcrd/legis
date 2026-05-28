@@ -1,0 +1,20 @@
+RUBRO: CONDICIONES GENERALES DE TRABAJO. CUANDO SE ENCUENTRAN PUBLICADAS EN MEDIOS DE CONSULTA ELECTRÓNICA TIENEN EL CARÁCTER DE HECHOS NOTORIOS Y NO SON OBJETO DE PRUEBA.
+
+CLAVE DE TESIS: 2a./J. 130/2018 (10a.)
+LOCALIZACIÓN: [J]; 10a. Época; 2a. Sala; Gaceta S.J.F.; Libro 62, Enero de 2019; Tomo I; Pág. 560
+INSTANCIA: Segunda Sala (S.C.J.N.)
+ÉPOCA: 10a. Época
+FECHA DE PUBLICACIÓN: 2019-01-18T10:19:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2019001
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: Las condiciones generales de trabajo que se encuentran publicadas en medios de consulta electrónica constituyen hechos notorios que no requieren ser probados en juicio, ya que su accesibilidad pública a través de plataformas digitales les confiere notoriedad suficiente para que sean conocidas por las partes y por los órganos jurisdiccionales. El criterio establecido reconoce que cuando las condiciones generales de trabajo están disponibles en medios electrónicos de consulta, su existencia y contenido pueden ser acreditados por su sola publicación, dispensando a la parte que las invoca de la carga probatoria ordinaria. Esta presunción de notoriedad se fundamenta en la naturaleza pública de tales documentos y en la facilidad de acceso que proporcionan los medios electrónicos contemporáneos.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2019001

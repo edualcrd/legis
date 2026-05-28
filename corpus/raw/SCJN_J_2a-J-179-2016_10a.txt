@@ -1,0 +1,20 @@
+RUBRO: CONTRATO DE TRABAJO POR TIEMPO DETERMINADO. CORRESPONDE AL TRABAJADOR ACREDITAR LA SUBSISTENCIA DE LA RELACIÓN LABORAL ENTRE EL DÍA EN QUE VENCIÓ Y EL POSTERIOR AL EN QUE DICE QUE OCURRIÓ EL DESPIDO.
+
+CLAVE DE TESIS: 2a./J. 179/2016 (10a.)
+LOCALIZACIÓN: [J]; 10a. Época; 2a. Sala; Gaceta S.J.F.; Libro 37, Diciembre de 2016; Tomo I; Pág. 807
+INSTANCIA: Segunda Sala (S.C.J.N.)
+ÉPOCA: 10a. Época
+FECHA DE PUBLICACIÓN: 2016-12-09T10:21:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2013284
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: En los contratos de trabajo por tiempo determinado, cuando el trabajador alega haber sido despedido después de la fecha de vencimiento del contrato, le corresponde a él acreditar que la relación laboral continuaba vigente entre el día en que expiró el término pactado y el día posterior en que afirma que ocurrió el despido, ya que de no probarse tal subsistencia, se presume que la relación laboral terminó conforme a lo estipulado en el contrato al llegar su vencimiento, sin que pueda configurarse un despido injustificado posterior a esa fecha.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2013284

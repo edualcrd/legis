@@ -1,0 +1,20 @@
+RUBRO: PENSIÓN POR JUBILACIÓN O VEJEZ DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE TABASCO. PARA SU OTORGAMIENTO DEBEN CUMPLIR LOS REQUISITOS EXIGIDOS POR LA LEY DE SEGURIDAD SOCIAL DE DICHA ENTIDAD FEDERATIVA VIGENTE AL MOMENTO DE SU SOLICITUD.
+
+CLAVE DE TESIS: X.A. J/1 A (11a.)
+LOCALIZACIÓN: [J]; 12a. Época; T.C.C.; Gaceta S.J.F.; Libro 7, Marzo de 2026; Tomo IV, Volumen 2; Pág. 1533
+INSTANCIA: TRIBUNAL COLEGIADO EN MATERIA ADMINISTRATIVA DEL DÉCIMO CIRCUITO. (T.C.C.)
+ÉPOCA: 12a. Época
+FECHA DE PUBLICACIÓN: 2026-03-27T10:30:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2031974
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: El supuesto jurídico que resuelve este criterio es la determinación de los requisitos aplicables para el otorgamiento de pensión por jubilación o vejez a los servidores públicos del Estado de Tabasco. El criterio establecido señala que para acceder a este derecho, los solicitantes deben cumplir con los requisitos específicos exigidos por la Ley de Seguridad Social de Tabasco que se encuentre vigente en el momento en que formulen su solicitud, lo que implica que la normatividad aplicable es la que rige al momento de la presentación de la demanda y no la que estuviera en vigor en otras fechas anteriores o posteriores.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2031974

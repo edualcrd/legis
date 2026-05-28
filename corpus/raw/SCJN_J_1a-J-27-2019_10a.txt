@@ -1,0 +1,20 @@
+RUBRO: COMISARIOS. LOS ARTÍCULOS 154 Y 171 DE LA LEY GENERAL DE SOCIEDADES MERCANTILES, NO VIOLAN EL DERECHO FUNDAMENTAL A LA LIBERTAD DE TRABAJO.
+
+CLAVE DE TESIS: 1a./J. 27/2019 (10a.)
+LOCALIZACIÓN: [J]; 10a. Época; 1a. Sala; Gaceta S.J.F.; Libro 65, Abril de 2019; Tomo I; Pág. 534
+INSTANCIA: Primera Sala (S.C.J.N.)
+ÉPOCA: 10a. Época
+FECHA DE PUBLICACIÓN: 2019-04-05T10:09:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2019621
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: Los artículos 154 y 171 de la Ley General de Sociedades Mercantiles establecen requisitos y restricciones para el desempeño del cargo de comisario en las sociedades mercantiles. El criterio jurisprudencial resuelve que estas disposiciones no constituyen una violación al derecho fundamental a la libertad de trabajo reconocido en la Constitución Política de los Estados Unidos Mexicanos, toda vez que las limitaciones impuestas responden a objetivos legítimos de protección del interés público y de los accionistas, siendo proporcionales y razonables en el contexto del régimen de fiscalización corporativa. Por lo tanto, la regulación legal del ejercicio de la función de comisario no transgrede la garantía constitucional de libertad laboral, sino que representa un ejercicio válido de la potestad legislativa para ordenar la actividad mercantil.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2019621

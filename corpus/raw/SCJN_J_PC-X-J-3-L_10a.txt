@@ -1,0 +1,20 @@
+RUBRO: LABORES PELIGROSAS E INSALUBRES. CORRESPONDE AL TRABAJADOR LA CARGA PROBATORIA CUANDO RECLAME EL INCREMENTO PREVISTO EN LAS CLÁUSULAS 62 A 64 DEL CONTRATO COLECTIVO DE TRABAJO CELEBRADO ENTRE PETRÓLEOS MEXICANOS Y EL SINDICATO DE TRABAJADORES PETROLEROS DE LA REPÚBLICA MEXICANA (BIENIOS 2007-2009 Y 2009-2011).
+
+CLAVE DE TESIS: PC.X. J/3 L (10a.)
+LOCALIZACIÓN: [J]; 10a. Época; Plenos de Circuito; Gaceta S.J.F.; Libro 47, Octubre de 2017; Tomo III; Pág. 1724
+INSTANCIA: PLENO DEL DECIMO CIRCUITO. (Plenos de Circuito)
+ÉPOCA: 10a. Época
+FECHA DE PUBLICACIÓN: 2017-10-27T10:37:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2015401
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: Cuando un trabajador reclama el incremento salarial por labores peligrosas e insalubres conforme a las cláusulas 62 a 64 del contrato colectivo de trabajo celebrado entre Petróleos Mexicanos y el Sindicato de Trabajadores Petroleros de la República Mexicana, le corresponde a él la carga probatoria de demostrar que efectivamente realizaba tales labores y que cumplía con los requisitos establecidos en dichas cláusulas para tener derecho al beneficio económico. El criterio establecido por la jurisprudencia es que la acreditación de estas condiciones de peligrosidad e insalubridad no puede presumirse, sino que debe probarse fehacientemente por quien las invoca, siendo insuficiente la simple afirmación de que se desempeñaba en tales condiciones sin aportar elementos de convicción que lo demuestren.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2015401

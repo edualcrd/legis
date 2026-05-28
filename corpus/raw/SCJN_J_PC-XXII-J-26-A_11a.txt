@@ -1,0 +1,20 @@
+RUBRO: AMPARO CONTRA LEYES TRIBUTARIAS. CUANDO SE PROMUEVE CON MOTIVO DEL ACTO DE APLICACIÓN REALIZADO POR UN TERCERO EN AUXILIO DE LA ADMINISTRACIÓN PÚBLICA, PREVIA ENTREGA DE LOS RECURSOS POR EL INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES (INFONAVIT) A NOMBRE DEL CONTRIBUYENTE, SE TIENE NOTICIA PLENA DE LA AFECTACIÓN PATRIMONIAL CUANDO SE REALIZA LA ENTREGA DE ÉSTOS AL NOTARIO PÚBLICO CON LA CONCURRENCIA DE LA VOLUNTAD DEL CONTRIBUYENTE, POR LO QUE INICIA EL CÓMPUTO DEL PLAZO RESPECTIVO.
+
+CLAVE DE TESIS: PC.XXII. J/26 A (10a.)
+LOCALIZACIÓN: [J]; 11a. Época; Plenos de Circuito; Gaceta S.J.F.; Libro 6, Octubre de 2021; Tomo II; Pág. 2312
+INSTANCIA: PLENO DEL VIGESIMO SEGUNDO CIRCUITO. (Plenos de Circuito)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2021-10-01T10:11:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2023609
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: El supuesto jurídico que resuelve es cuándo se configura la noticia plena de la afectación patrimonial en un amparo contra leyes tributarias cuando el Infonavit entrega recursos a nombre del contribuyente a través de un tercero en auxilio de la administración pública. El criterio establecido es que la noticia plena de dicha afectación se produce en el momento en que se realiza la entrega de los recursos al notario público con la concurrencia de la voluntad del contribuyente, momento a partir del cual inicia el cómputo del plazo para promover el amparo.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2023609

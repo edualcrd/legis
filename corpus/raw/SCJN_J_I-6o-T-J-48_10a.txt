@@ -1,0 +1,20 @@
+RUBRO: RECIBOS DE PAGO EMITIDOS POR MEDIOS ELECRÓNICOS SIN FIRMA DEL TRABAJADOR. SON VÁLIDOS PARA ACREDITAR LOS CONCEPTOS Y MONTOS QUE EN ELLOS SE INSERTAN.
+
+CLAVE DE TESIS: I.6o.T.  J/48 (10a.)
+LOCALIZACIÓN: [J]; 10a. Época; T.C.C.; Gaceta S.J.F.; Libro 71, Octubre de 2019; Tomo IV; Pág. 3352
+INSTANCIA: SEXTO TRIBUNAL COLEGIADO EN MATERIA DE TRABAJO DEL PRIMER CIRCUITO. (T.C.C.)
+ÉPOCA: 10a. Época
+FECHA DE PUBLICACIÓN: 2019-10-04T10:14:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2020755
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: Los recibos de pago emitidos por medios electrónicos sin la firma del trabajador constituyen un medio válido de prueba para acreditar los conceptos y montos pagados al trabajador, siempre que cumplan con los requisitos legales de autenticidad e integridad que caracterizan a los documentos electrónicos. El criterio establecido reconoce que la ausencia de firma manuscrita del trabajador no invalida estos recibos, ya que los medios electrónicos cuentan con mecanismos de seguridad y trazabilidad que garantizan su confiabilidad como instrumentos probatorios en materia laboral. Esta posición moderniza la prueba documental en el derecho del trabajo, adaptándola a las prácticas contemporáneas de gestión administrativa y de nómina.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2020755

@@ -1,0 +1,20 @@
+RUBRO: COMPETENCIA PARA CONOCER DE LA DEMANDA DEL PERSONAL AJENO AL SERVICIO EXTERIOR MEXICANO, QUE PRESTA SUS SERVICIOS EN EMBAJADAS O CONSULADOS, EN LA QUE SE RECLAMEN PRESTACIONES LABORALES. CORRESPONDE AL TRIBUNAL FEDERAL DE CONCILIACIÓN Y ARBITRAJE.
+
+CLAVE DE TESIS: PC.I.L. J/44 L (10a.)
+LOCALIZACIÓN: [J]; 10a. Época; Plenos de Circuito; Gaceta S.J.F.; Libro 62, Enero de 2019; Tomo II; Pág. 722
+INSTANCIA: PLENO EN MATERIA DE TRABAJO DEL PRIMER CIRCUITO. (Plenos de Circuito)
+ÉPOCA: 10a. Época
+FECHA DE PUBLICACIÓN: 2019-01-25T10:26:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2019060
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: Cuando el personal que no pertenece al servicio exterior mexicano pero presta sus servicios en embajadas o consulados demanda el pago de prestaciones laborales, la competencia para conocer de tal controversia corresponde al Tribunal Federal de Conciliación y Arbitraje, toda vez que se trata de una materia laboral que, aunque se desarrolla en el extranjero, mantiene su naturaleza de relación de trabajo sujeta a la jurisdicción laboral federal mexicana, independientemente de que los servicios se presten en dependencias diplomáticas o consulares.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2019060

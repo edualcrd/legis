@@ -1,0 +1,20 @@
+RUBRO: MIEMBROS DE LAS INSTITUCIONES POLICIALES. NO TIENEN DERECHO AL PAGO DE LA PRIMA DE ANTIGÜEDAD PREVISTA EN EL ARTÍCULO 63 DE LA LEY DEL TRABAJO DE LOS SERVIDORES PÚBLICOS AL SERVICIO DEL ESTADO Y DE LOS MUNICIPIOS DE GUANAJUATO.
+
+CLAVE DE TESIS: XVI.1o.A. J/40 (10a.)
+LOCALIZACIÓN: [J]; 10a. Época; T.C.C.; Gaceta S.J.F.; Libro 48, Noviembre de 2017; Tomo III; Pág. 1838
+INSTANCIA: PRIMER TRIBUNAL COLEGIADO EN MATERIA ADMINISTRATIVA DEL DÉCIMO SEXTO CIRCUITO. (T.C.C.)
+ÉPOCA: 10a. Época
+FECHA DE PUBLICACIÓN: 2017-11-17T10:28:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2015561
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: Los miembros de las instituciones policiales no tienen derecho a recibir la prima de antigüedad establecida en el artículo 63 de la Ley del Trabajo de los Servidores Públicos al Servicio del Estado y de los Municipios de Guanajuato, ya que esta prestación se encuentra expresamente excluida para el personal policial conforme a la normativa local aplicable. El criterio establecido determina que, a pesar de que dicha prima constituye un derecho laboral general para los servidores públicos, la naturaleza especial de las funciones policiales y su régimen jurídico particular justifican la exclusión de este beneficio económico. Por lo tanto, los policías no pueden reclamar el pago de la prima de antigüedad prevista en el artículo 63 de la ley citada, aun cuando cumplan con los requisitos de tiempo de servicio que ordinariamente darían derecho a esta prestación.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2015561

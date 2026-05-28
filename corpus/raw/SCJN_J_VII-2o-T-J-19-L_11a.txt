@@ -1,0 +1,20 @@
+RUBRO: HORAS EXTRAS DE LOS TRABAJADORES AL SERVICIO DEL ESTADO DE VERACRUZ. DEBEN EXCLUIRSE DE SU CONDENA LOS PERIODOS VACACIONALES Y LOS DÍAS DE DESCANSO OBLIGATORIO O FESTIVOS, CUANDO NO EXISTA CONTROVERSIA RESPECTO DE QUE NO SE LABORARON.
+
+CLAVE DE TESIS: VII.2o.T. J/19 L (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; T.C.C.; Gaceta S.J.F.; Libro 40, Agosto de 2024; Tomo I, Volumen 1; Pág. 360
+INSTANCIA: SEGUNDO TRIBUNAL COLEGIADO EN MATERIA DE TRABAJO DEL SÉPTIMO CIRCUITO. (T.C.C.)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2024-08-02T10:10:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2029194
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: La controversia se centra en la procedencia de condenar al pago de horas extras a trabajadores al servicio del Estado de Veracruz durante períodos en los que no se prestó efectivamente el servicio. El criterio establecido determina que deben excluirse de la condena por horas extras los períodos vacacionales y los días de descanso obligatorio o festivos, siempre que no exista controversia respecto de que efectivamente no se laboraron durante esos períodos, evitando así el pago duplicado o injustificado de prestaciones que ya fueron cubiertas bajo otras modalidades de compensación.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2029194

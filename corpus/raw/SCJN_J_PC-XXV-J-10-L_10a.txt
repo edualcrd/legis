@@ -1,0 +1,20 @@
+RUBRO: QUINQUENIOS CUMPLIDOS CON POSTERIORIDAD A LA REFORMA A LA LEY DE EDUCACIÓN DEL ESTADO DE DURANGO, CONTENIDA EN EL DECRETO No. 105 PUBLICADO EN EL PERIÓDICO OFICIAL 101 BIS DE 19 DE DICIEMBRE DE 2013. EL PAGO DE LA PRIMA QUINQUENAL A QUE TIENEN DERECHO LOS TRABAJADORES DEL MAGISTERIO LOCAL DEBE REALIZARSE CONFORME AL ARTÍCULO TERCERO TRANSITORIO DEL REFERIDO DECRETO.
+
+CLAVE DE TESIS: PC.XXV. J/10 L (10a.)
+LOCALIZACIÓN: [J]; 10a. Época; Plenos de Circuito; Gaceta S.J.F.; Libro 65, Abril de 2019; Tomo II; Pág. 1566
+INSTANCIA: PLENO DEL VIGESIMO QUINTO CIRCUITO. (Plenos de Circuito)
+ÉPOCA: 10a. Época
+FECHA DE PUBLICACIÓN: 2019-04-12T10:16:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2019676
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: La reforma a la Ley de Educación del Estado de Durango mediante el Decreto No. 105 modificó el régimen de pago de la prima quinquenal para los trabajadores del magisterio local, estableciendo que los quinquenios cumplidos con posterioridad a la publicación de dicha reforma deben pagarse conforme a lo dispuesto en el artículo tercero transitorio del decreto, el cual establece las nuevas condiciones y montos aplicables a esta prestación. El criterio jurisprudencial resuelve que los maestros que completen períodos de cinco años de servicio después de la entrada en vigor de la reforma deben recibir la prima quinquenal de acuerdo con las disposiciones transitorias del Decreto No. 105, sin que sea aplicable el régimen anterior para estos quinquenios posteriores a la reforma.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2019676

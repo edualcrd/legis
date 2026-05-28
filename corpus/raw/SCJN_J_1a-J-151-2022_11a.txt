@@ -1,0 +1,20 @@
+RUBRO: DEDUCCIÓN DE PAGOS REALIZADOS POR EL EMPLEADOR AL TRABAJADOR POR LA PRESTACIÓN DE UN SERVICIO PERSONAL SUBORDINADO. LA LIMITACIÓN PREVISTA EN LA LEY DEL IMPUESTO SOBRE LA RENTA PARA DEDUCIR LOS GASTOS SUPERIORES A DOS MIL PESOS, CONSISTENTE EN QUE DEBEN REALIZARSE MEDIANTE TRANSFERENCIA ELECTRÓNICA, NO VIOLA EL PRINCIPIO DE IRRETROACTIVIDAD DE LA LEY.
+
+CLAVE DE TESIS: 1a./J. 151/2022 (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; 1a. Sala; Gaceta S.J.F.; Libro 20, Diciembre de 2022; Tomo I; Pág. 687
+INSTANCIA: Primera Sala (S.C.J.N.)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2022-12-02T10:14:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2025570
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: La limitación establecida en la Ley del Impuesto sobre la Renta que condiciona la deducción de pagos al trabajador superiores a dos mil pesos a que se realicen mediante transferencia electrónica no constituye una violación al principio de irretroactividad de la ley, ya que esta disposición se aplica prospectivamente a los gastos incurridos con posterioridad a su entrada en vigor y no afecta derechos adquiridos con anterioridad, permitiendo que el empleador continúe deduciendo los pagos realizados conforme a las reglas vigentes al momento de su realización. El criterio reconoce que las normas tributarias pueden establecer requisitos formales para la procedencia de deducciones sin que ello implique una aplicación retroactiva de la ley, siempre que se respete el principio de que las obligaciones tributarias se rigen por la legislación vigente en el momento en que nace la obligación.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2025570

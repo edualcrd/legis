@@ -1,0 +1,20 @@
+RUBRO: INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES. NO ES AUTORIDAD PARA EFECTOS DEL JUICIO DE AMPARO, CUANDO SE IMPUGNA LA OMISIÓN EN QUE INCURRE AL NO RESPONDER LAS SOLICITUDES FORMULADAS POR EL TRABAJADOR, RELACIONADAS CON EL CRÉDITO QUE LE HAYA OTORGADO, NI CUANDO SE RECLAMA LA CONTESTACIÓN RELATIVA.
+
+CLAVE DE TESIS: PC.XVI.T. J/1 L (10a.)
+LOCALIZACIÓN: [J]; 10a. Época; Plenos de Circuito; Gaceta S.J.F.; Libro 42, Mayo de 2017; Tomo II; Pág. 1140
+INSTANCIA: PLENO EN MATERIA DE TRABAJO DEL DECIMOSEXTO CIRCUITO. (Plenos de Circuito)
+ÉPOCA: 10a. Época
+FECHA DE PUBLICACIÓN: 2017-05-12T10:17:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2014233
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: El Instituto del Fondo Nacional de la Vivienda para los Trabajadores no constituye autoridad responsable en el juicio de amparo cuando se impugna su omisión al no responder solicitudes del trabajador vinculadas con créditos otorgados, ni tampoco cuando se reclama la contestación de tales peticiones, estableciendo que en estos supuestos carece de la calidad procesal necesaria para ser demandada en esta vía constitucional por actos u omisiones relacionados con la administración de créditos hipotecarios.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2014233

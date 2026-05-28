@@ -1,0 +1,20 @@
+RUBRO: CONVENIOS SANCIONADOS POR LOS CENTROS DE CONCILIACIÓN LABORAL. ES IMPROCEDENTE EL PLANTEAMIENTO DE SU NULIDAD CUANDO SE ADUCE RENUNCIA DE DERECHOS.
+
+CLAVE DE TESIS: VII.2o.T. J/32 L (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; T.C.C.; Gaceta S.J.F.; Libro 53, Septiembre de 2025; Tomo III, Volumen 1; Pág. 626
+INSTANCIA: SEGUNDO TRIBUNAL COLEGIADO EN MATERIA DE TRABAJO DEL SÉPTIMO CIRCUITO. (T.C.C.)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2025-09-19T10:28:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2031249
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: Los convenios sancionados por los centros de conciliación laboral constituyen acuerdos que, una vez homologados, adquieren eficacia vinculante para las partes, por lo que resulta improcedente intentar su nulidad mediante el argumento de que implican renuncia de derechos laborales, toda vez que el procedimiento conciliatorio presupone la voluntad de ambas partes de resolver sus controversias mediante transacción, lo cual es válido en materia laboral siempre que se respeten los derechos irrenunciables establecidos por la ley; en consecuencia, quien pretenda cuestionar la validez de tales convenios debe demostrar vicios en el consentimiento o incumplimiento de requisitos formales específicos, no simplemente alegar que contienen disposiciones que modifican derechos originales.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2031249

@@ -1,0 +1,20 @@
+RUBRO: CONFLICTO COMPETENCIAL SUSCITADO ENTRE UN TRIBUNAL LABORAL FEDERAL DE ASUNTOS INDIVIDUALES Y UNA JUNTA ESPECIAL DE LA FEDERAL DE CONCILIACIÓN Y ARBITRAJE. ES IMPROCEDENTE CUANDO SE REFIERE A UNA DEMANDA LABORAL PROMOVIDA CONFORME A LA LEY FEDERAL DEL TRABAJO VIGENTE CON POSTERIORIDAD A LA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN EL 1 DE MAYO DE 2019.
+
+CLAVE DE TESIS: PR.L.CS. J/43 L (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; Plenos Regionales; Gaceta S.J.F.; Libro 29, Septiembre de 2023; Tomo III; Pág. 2911
+INSTANCIA: PLENO REGIONAL EN MATERIA DE TRABAJO DE LA REGIÓN CENTRO-SUR, CON RESIDENCIA EN LA CIUDAD DE MÉXICO. (Plenos Regionales)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2023-09-29T10:38:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2027297
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: El supuesto jurídico que resuelve es la procedencia de un conflicto competencial entre un tribunal laboral federal de asuntos individuales y una junta especial de la Federación de Conciliación y Arbitraje cuando se trata de una demanda laboral promovida conforme a la Ley Federal del Trabajo vigente después de la reforma publicada el 1 de mayo de 2019. El criterio establecido es que tal conflicto competencial es improcedente en estos casos, toda vez que a partir de esa fecha la competencia en materia de asuntos laborales individuales corresponde exclusivamente a los tribunales laborales federales, quedando excluida la jurisdicción de las juntas especiales de la Federación de Conciliación y Arbitraje para conocer de demandas interpuestas con posterioridad a dicha reforma.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2027297

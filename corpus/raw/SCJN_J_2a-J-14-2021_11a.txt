@@ -1,0 +1,20 @@
+RUBRO: PENSIÓN POR CESANTÍA EN EDAD AVANZADA. CUANDO SE RECLAMA LA CUANTIFICACIÓN DE SU MONTO DEBE TOMARSE EN CUENTA LA LIMITANTE PREVISTA EN EL ARTÍCULO 33 DE LA LEY DEL SEGURO SOCIAL, AUNQUE EN UNA RESOLUCIÓN PREVIA EL INSTITUTO MEXICANO DEL SEGURO SOCIAL, POR ERROR, NO LA HAYA CONSIDERADO, SIN QUE ELLO IMPLIQUE TRANSGRESIÓN A DERECHOS ADQUIRIDOS NI AL PRINCIPIO DE IRRETROACTIVIDAD DE LA LEY.
+
+CLAVE DE TESIS: 2a./J. 14/2021 (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; 2a. Sala; Gaceta S.J.F.; Libro 8, Diciembre de 2021; Tomo II; Pág. 1567
+INSTANCIA: Segunda Sala (S.C.J.N.)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2021-12-03T10:15:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2023912
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: Cuando se reclama la cuantificación del monto de una pensión por cesantía en edad avanzada, debe aplicarse la limitante prevista en el artículo 33 de la Ley del Seguro Social, incluso si en una resolución previa el Instituto Mexicano del Seguro Social omitió considerarla por error, ya que esta corrección no constituye transgresión a derechos adquiridos ni viola el principio de irretroactividad de la ley, permitiendo así que la administración rectifique sus cálculos conforme a la normatividad vigente.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2023912

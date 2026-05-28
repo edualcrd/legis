@@ -1,0 +1,20 @@
+RUBRO: CADUCIDAD DE LA INSTANCIA EN EL JUICIO LABORAL SEGUIDO ANTE EL TRIBUNAL DE ARBITRAJE DEL ESTADO DE PUEBLA. ES IMPROCEDENTE DECRETARLA CUANDO, HABIENDO SIDO CONTESTADA LA DEMANDA O TRANSCURRIDO EL TÉRMINO RESPECTIVO, LAS PARTES HAYAN OFRECIDO SUS PRUEBAS Y SÓLO ESTÉ PENDIENTE DE ABRIRSE EL PERIODO DE SU RECEPCIÓN.
+
+CLAVE DE TESIS: PC.VI.L. J/10 L (10a.)
+LOCALIZACIÓN: [J]; 10a. Época; Plenos de Circuito; Gaceta S.J.F.; Libro 77, Agosto de 2020; Tomo V; Pág. 4933
+INSTANCIA: PLENO EN MATERIA DE TRABAJO DEL SEXTO CIRCUITO. (Plenos de Circuito)
+ÉPOCA: 10a. Época
+FECHA DE PUBLICACIÓN: 2020-08-28T10:36:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2022046
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: La caducidad de la instancia en el juicio laboral ante el tribunal de arbitraje procede cuando existe inactividad procesal prolongada, sin embargo, es improcedente decretarla cuando, habiendo sido contestada la demanda o vencido el plazo para hacerlo, las partes ya han ofrecido sus pruebas y únicamente resta abrir el período de su desahogo, ya que en esta etapa procesal existe actividad de las partes que demuestra su interés en continuar con el litigio y no hay abandono del procedimiento que justifique la extinción de la instancia.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2022046

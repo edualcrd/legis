@@ -1,0 +1,20 @@
+RUBRO: SUPLENCIA DE LA QUEJA DEFICIENTE. PROCEDE EN FAVOR DE LAS PERSONAS PENSIONADAS POR JUBILACIÓN (ARTÍCULO 79, FRACCIÓN V, DE LA LEY DE AMPARO).
+
+CLAVE DE TESIS: PR.A.C.CN. J/96 A (11a.)
+LOCALIZACIÓN: [J]; 12a. Época; Plenos Regionales; Gaceta S.J.F.; Libro 2, Octubre de 2025; Tomo II, Volumen 1; Pág. 518
+INSTANCIA: PLENO REGIONAL EN MATERIAS ADMINISTRATIVA Y CIVIL DE LA REGIÓN CENTRO-NORTE, CON RESIDENCIA EN LA CIUDAD DE MÉXICO. (Plenos Regionales)
+ÉPOCA: 12a. Época
+FECHA DE PUBLICACIÓN: 2025-10-10T10:20:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2031331
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: La suplencia de la queja deficiente procede en favor de las personas pensionadas por jubilación cuando ejercen el juicio de amparo, conforme a lo establecido en el artículo 79, fracción V, de la Ley de Amparo. Este criterio reconoce que los pensionados por jubilación, al encontrarse en una situación de vulnerabilidad económica y dependencia de sus prestaciones, merecen una protección procesal reforzada que permita al juzgador suplir las deficiencias técnicas en la formulación de sus demandas de amparo, sin que tales deficiencias obstaculicen el acceso a la justicia constitucional.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2031331

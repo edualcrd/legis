@@ -1,0 +1,20 @@
+RUBRO: PENSIÓN POR EDAD Y TIEMPO DE SERVICIOS EN EL RÉGIMEN DEL ARTÍCULO DÉCIMO TRANSITORIO DE LA ACTUAL LEY DEL ISSSTE. LA EDAD MÍNIMA REQUERIDA SE DEFINE POR EL ESQUEMA BI-ANUAL GRADUAL DE LA TRANSICIÓN.
+
+CLAVE DE TESIS: PR.A.C.CS. J/12 A (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; Plenos Regionales; Gaceta S.J.F.; Libro 46, Febrero de 2025; Tomo III, Volumen 1; Pág. 456
+INSTANCIA: PLENO REGIONAL EN MATERIAS ADMINISTRATIVA Y CIVIL DE LA REGIÓN CENTRO-SUR, CON RESIDENCIA EN LA CIUDAD DE MÉXICO. (Plenos Regionales)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2025-02-21T10:23:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2029963
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: El supuesto jurídico que resuelve es la determinación de la edad mínima requerida para acceder a la pensión por edad y tiempo de servicios en el régimen transitorio del ISSSTE. El criterio establecido establece que dicha edad mínima no es fija, sino que se define conforme al esquema bi-anual gradual de transición previsto en el artículo Décimo Transitorio de la Ley del ISSSTE, lo que significa que la edad requerida se incrementa progresivamente cada dos años según lo dispuesto en ese ordenamiento transitorio, permitiendo una transición ordenada entre el régimen anterior y el nuevo sistema de pensiones.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2029963

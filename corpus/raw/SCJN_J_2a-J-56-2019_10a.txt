@@ -1,0 +1,20 @@
+RUBRO: TRABAJADORES DEL ESTADO DE CHIAPAS QUE PERCIBAN COMO SUELDO BÁSICO UNO SUPERIOR AL SALARIO MÍNIMO. LOS INCORPORADOS RETROACTIVAMENTE DESDE LA FECHA DE SU INGRESO AL RÉGIMEN DE SEGURIDAD SOCIAL MEDIANTE RESOLUCIÓN JURISDICCIONAL, DEBEN APORTAR LAS CUOTAS A QUE SE REFIERE EL ARTÍCULO 22 DE LA LEY DEL INSTITUTO DE SEGURIDAD SOCIAL DE LOS TRABAJADORES DE ESE ESTADO.
+
+CLAVE DE TESIS: 2a./J. 56/2019 (10a.)
+LOCALIZACIÓN: [J]; 10a. Época; 2a. Sala; Gaceta S.J.F.; Libro 65, Abril de 2019; Tomo II; Pág. 1303
+INSTANCIA: Segunda Sala (S.C.J.N.)
+ÉPOCA: 10a. Época
+FECHA DE PUBLICACIÓN: 2019-04-05T10:09:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2019652
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: Los trabajadores del Estado de Chiapas que perciben un sueldo básico superior al salario mínimo y que son incorporados retroactivamente al régimen de seguridad social mediante resolución jurisdiccional deben realizar las aportaciones correspondientes conforme al artículo 22 de la Ley del Instituto de Seguridad Social de los Trabajadores de ese Estado, independientemente de que la incorporación sea ordenada por vía judicial y tenga efectos retroactivos desde la fecha de su ingreso, ya que la obligación de contribuir al sistema de seguridad social se genera desde el momento en que se reúnen los requisitos legales para ser considerado trabajador afiliado.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2019652

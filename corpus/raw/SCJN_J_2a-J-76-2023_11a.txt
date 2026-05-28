@@ -1,0 +1,20 @@
+RUBRO: JUBILACIÓN DE TRABAJADORES FERROCARRILEROS. LA CLÁUSULA TERCERA DEL CONVENIO CELEBRADO EL 30 DE OCTUBRE DE 1991, ENTRE FERROCARRILES NACIONALES DE MÉXICO Y EL SINDICATO QUE AGRUPA A SUS TRABAJADORES, QUE DISTINGUE EL NÚMERO DE AÑOS DE SERVICIOS EFECTIVOS PARA TENER ACCESO A AQUÉLLA, TRATÁNDOSE DE MUJERES (20) Y HOMBRES (25), NO VIOLA EL PRINCIPIO DE IGUALDAD [APLICABILIDAD DE LA TESIS DE JURISPRUDENCIA 2a./J. 140/2019 (10a.)].
+
+CLAVE DE TESIS: 2a./J. 76/2023 (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; 2a. Sala; Gaceta S.J.F.; Libro 32, Diciembre de 2023; Tomo III; Pág. 2216
+INSTANCIA: Segunda Sala (S.C.J.N.)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2023-12-01T10:13:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2027736
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: La cláusula tercera del convenio celebrado entre Ferrocarriles Nacionales de México y su sindicato el 30 de octubre de 1991 establece requisitos diferenciados de años de servicios efectivos para acceder a la jubilación según el género, exigiendo 20 años para mujeres y 25 para hombres. El criterio jurisprudencial resuelve que esta distinción no viola el principio de igualdad, toda vez que se trata de una medida que reconoce circunstancias objetivas y razonables que justifican un trato diferenciado en materia de jubilación de trabajadores ferrocarrileros. La aplicabilidad de la tesis de jurisprudencia 2a./J. 140/2019 (10a.) sustenta que las diferencias basadas en criterios como el género pueden ser constitucionales cuando persiguen un fin legítimo y existe una relación proporcional entre el medio empleado y el objetivo perseguido.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2027736

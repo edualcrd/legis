@@ -1,0 +1,20 @@
+RUBRO: SECRETARIO INSTRUCTOR. CARECE DE FACULTADES PARA PRONUNCIARSE SOBRE LA COMPETENCIA DEL ÓRGANO JURISDICCIONAL LABORAL PARA CONOCER DE DETERMINADO JUICIO, YA SEA PARA DECLINARLA, RECHAZARLA O ACEPTARLA.
+
+CLAVE DE TESIS: 2a./J. 74/2022 (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; 2a. Sala; Gaceta S.J.F.; Libro 21, Enero de 2023; Tomo III; Pág. 2564
+INSTANCIA: Segunda Sala (S.C.J.N.)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2023-01-27T10:28:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2025867
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: El secretario instructor carece de facultades para pronunciarse sobre la competencia del órgano jurisdiccional laboral, ya sea para declinarla, rechazarla o aceptarla, toda vez que esta materia es de conocimiento exclusivo del juez o tribunal competente, quien es el único facultado para resolver cuestiones relativas a su propia jurisdicción y competencia en el conocimiento de un determinado juicio laboral.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2025867

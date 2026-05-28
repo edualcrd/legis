@@ -1,0 +1,20 @@
+RUBRO: PETRÓLEOS MEXICANOS Y ORGANISMOS SUBSIDIARIOS. EL ARTÍCULO 66 DEL REGLAMENTO DE TRABAJO DEL PERSONAL DE CONFIANZA RELATIVO NO VULNERA EL DERECHO DE ACCESO A LA JUSTICIA.
+
+CLAVE DE TESIS: 2a./J. 38/2019 (10a.)
+LOCALIZACIÓN: [J]; 10a. Época; 2a. Sala; Gaceta S.J.F.; Libro 63, Febrero de 2019; Tomo I; Pág. 924
+INSTANCIA: Segunda Sala (S.C.J.N.)
+ÉPOCA: 10a. Época
+FECHA DE PUBLICACIÓN: 2019-02-22T10:24:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2019379
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: El supuesto jurídico que resuelve es si el artículo 66 del Reglamento de Trabajo del Personal de Confianza de Petróleos Mexicanos vulnera el derecho de acceso a la justicia. El criterio establecido es que dicha disposición no constituye una violación a este derecho fundamental, permitiendo que el régimen normativo aplicable a los trabajadores de confianza de Petróleos Mexicanos y sus organismos subsidiarios mantenga su validez constitucional. El artículo citado en el rubro es el artículo 66 del Reglamento de Trabajo del Personal de Confianza.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2019379

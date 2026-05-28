@@ -1,0 +1,20 @@
+RUBRO: RECLASIFICACIÓN DEL PERSONAL ACTIVO DEL EJÉRCITO Y FUERZA AÉREA. EL ARTÍCULO 164, FRACCIÓN V, DE LA LEY ORGÁNICA DEL EJÉRCITO Y FUERZA AÉREA MEXICANOS QUE PREVÉ EL SUPUESTO ESPECÍFICO PARA QUE SE REALICE DICHA RECLASIFICACIÓN DE UN SERVICIO A OTRO RESPECTO DE CABOS Y SOLDADOS, NO VIOLA EL DERECHO HUMANO A LA LIBERTAD DE TRABAJO.
+
+CLAVE DE TESIS: 2a./J. 6/2022 (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; 2a. Sala; Gaceta S.J.F.; Libro 10, Febrero de 2022; Tomo II; Pág. 1547
+INSTANCIA: Segunda Sala (S.C.J.N.)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2022-02-04T10:06:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2024141
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: La reclasificación del personal activo del Ejército y Fuerza Aérea de un servicio a otro constituye una medida administrativa que, conforme al artículo 164, fracción V, de la Ley Orgánica del Ejército y Fuerza Aérea Mexicanos, establece supuestos específicos para su procedencia respecto de cabos y soldados. El criterio establecido por la Suprema Corte de Justicia de la Nación determina que esta reclasificación no vulnera el derecho humano a la libertad de trabajo, toda vez que la naturaleza de la relación laboral en las fuerzas armadas se rige por disposiciones especiales que permiten al Estado ejercer facultades de organización y gestión del personal militar conforme a sus necesidades institucionales. La restricción a la libertad de trabajo que pudiera derivarse de tal reclasificación encuentra justificación en los fines constitucionales de defensa nacional y en el régimen jurídico particular aplicable a los militares.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2024141

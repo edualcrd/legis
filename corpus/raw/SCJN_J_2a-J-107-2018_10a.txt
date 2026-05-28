@@ -1,0 +1,20 @@
+RUBRO: PRIMERA NOTIFICACIÓN PERSONAL EN EL JUICIO LABORAL. ES INNECESARIO QUE EL ACTUARIO HAGA CONSTAR EN EL ACTA RELATIVA LOS ELEMENTOS DE CONVICCIÓN QUE TOMÓ EN CUENTA PARA CERCIORARSE DEL DOMICILIO DONDE SE EFECTUÓ, CUANDO ELLO SE REALIZÓ EN EL CITATORIO PREVIO, AL CONFORMAR AMBAS DILIGENCIAS UNA UNIDAD JURÍDICA.
+
+CLAVE DE TESIS: 2a./J. 107/2018 (10a.)
+LOCALIZACIÓN: [J]; 10a. Época; 2a. Sala; Gaceta S.J.F.; Libro 60, Noviembre de 2018; Tomo II; Pág. 1083
+INSTANCIA: Segunda Sala (S.C.J.N.)
+ÉPOCA: 10a. Época
+FECHA DE PUBLICACIÓN: 2018-11-23T10:34:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2018457
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: La primera notificación personal en el juicio laboral constituye un acto procesal que puede realizarse mediante un citatorio previo y la posterior diligencia de notificación, los cuales forman una unidad jurídica indivisible. El criterio establecido es que no es necesario que el actuario haga constar en el acta de la primera notificación los elementos de convicción que utilizó para cerciorarse del domicilio donde se efectuó, siempre que tales elementos hayan sido debidamente documentados en el citatorio previo, ya que ambas diligencias funcionan como un todo integrado para cumplir con los requisitos de notificación personal exigidos en materia laboral.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2018457

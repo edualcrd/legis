@@ -1,0 +1,20 @@
+RUBRO: JUICIO DE AMPARO INDIRECTO. ES IMPROCEDENTE CUANDO SE RECLAMA EL REQUERIMIENTO DEL TRIBUNAL DE JUSTICIA LABORAL BUROCRÁTICA DEL ESTADO DE ZACATECAS A LA SECRETARÍA DE FINANZAS LOCAL PARA QUE DESCUENTE DEL PRESUPUESTO O PARTICIPACIÓN QUE CORRESPONDA, LA CANTIDAD A LA QUE FUE CONDENADO UN MUNICIPIO EN UN LAUDO, ASÍ COMO SU EJECUCIÓN.
+
+CLAVE DE TESIS: PR.A.C.CN. J/54 A (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; Plenos Regionales; Gaceta S.J.F.; Libro 47, Marzo de 2025; Tomo III, Volumen 1; Pág. 771
+INSTANCIA: PLENO REGIONAL EN MATERIAS ADMINISTRATIVA Y CIVIL DE LA REGIÓN CENTRO-NORTE, CON RESIDENCIA EN LA CIUDAD DE MÉXICO. (Plenos Regionales)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2025-03-28T10:31:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2030154
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: El juicio de amparo indirecto resulta improcedente cuando se cuestiona el requerimiento que emite un tribunal de justicia laboral burocrática a la autoridad hacendaria local para que efectúe el descuento presupuestario o de participaciones correspondiente al cumplimiento de una condena pecuniaria impuesta a un municipio en un laudo, así como los actos derivados de su ejecución, toda vez que tales actos constituyen medidas de cumplimiento forzoso de sentencias laborales que no son susceptibles de ser controvertidas a través de este medio de defensa constitucional.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2030154

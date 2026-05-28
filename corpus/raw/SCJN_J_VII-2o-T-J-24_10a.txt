@@ -1,0 +1,20 @@
+RUBRO: VACACIONES DE LOS TRABAJADORES AL SERVICIO DEL ESTADO DE VERACRUZ. FORMA EN QUE SE GENERA EL DERECHO A SU PAGO, A PARTIR DE LA PRESUNCIÓN DE QUE SE LABORARON LOS PERIODOS RESPECTIVOS POR HABERSE CUBIERTO GUARDIAS, SALVO PRUEBA EN CONTRARIO.
+
+CLAVE DE TESIS: VII.2o.T. J/24 (10a.)
+LOCALIZACIÓN: [J]; 10a. Época; T.C.C.; Gaceta S.J.F.; Libro 50, Enero de 2018; Tomo IV; Pág. 2029
+INSTANCIA: SEGUNDO TRIBUNAL COLEGIADO EN MATERIA DE TRABAJO DEL SÉPTIMO CIRCUITO. (T.C.C.)
+ÉPOCA: 10a. Época
+FECHA DE PUBLICACIÓN: 2018-01-26T10:27:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2016065
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: El supuesto jurídico que resuelve este criterio es la determinación del derecho al pago de vacaciones de los trabajadores al servicio del Estado de Veracruz cuando se ha cubierto el sistema de guardias, estableciendo que existe una presunción de que se laboraron los períodos respectivos que genera el derecho a vacaciones, salvo que el patrón demuestre lo contrario mediante prueba en contrario. El criterio establece que la cobertura de guardias constituye un elemento suficiente para presumir el cumplimiento de la jornada laboral y, por ende, la acumulación del derecho a disfrutar y percibir el pago de vacaciones, invirtiendo la carga probatoria en favor del trabajador, quien no necesita demostrar activamente que laboró si consta que cubrió sus guardias asignadas.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2016065

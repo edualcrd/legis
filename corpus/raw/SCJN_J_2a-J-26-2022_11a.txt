@@ -1,0 +1,20 @@
+RUBRO: DERECHOS DE SEGURIDAD SOCIAL. EL ARTÍCULO 183, FRACCIÓN III, DE LA ANTERIOR LEY DEL SEGURO SOCIAL, Y SU CORRELATIVO 151, FRACCIÓN III, DE LA VIGENTE, AL NO PREVER LA FIGURA DE LA REACTIVACIÓN DE DERECHOS DE UNA PERSONA TRABAJADORA QUE FALLECE SIN HABER COTIZADO CINCUENTA Y DOS SEMANAS DESPUÉS DE REINGRESAR AL RÉGIMEN OBLIGATORIO, VULNERAN EL DERECHO FUNDAMENTAL A LA SEGURIDAD SOCIAL.
+
+CLAVE DE TESIS: 2a./J. 26/2022 (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; 2a. Sala; Gaceta S.J.F.; Libro 15, Julio de 2022; Tomo III; Pág. 2482
+INSTANCIA: Segunda Sala (S.C.J.N.)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2022-07-08T10:15:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2024952
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: El supuesto jurídico que resuelve es la vulneración del derecho fundamental a la seguridad social cuando una persona trabajadora fallece sin haber completado cincuenta y dos semanas de cotización después de reingresar al régimen obligatorio del seguro social, impidiéndose que sus beneficiarios accedan a las prestaciones correspondientes. El criterio establecido es que los artículos 183, fracción III, de la anterior Ley del Seguro Social y 151, fracción III, de la vigente, al no prever la reactivación de derechos en estos supuestos, resultan inconstitucionales por vulnerar el derecho fundamental a la seguridad social consagrado en la Constitución Política de los Estados Unidos Mexicanos. La norma debe interpretarse de manera que permita a los beneficiarios del trabajador fallecido acceder a las prestaciones de seguridad social, reconociendo que el reinicio de cotizaciones no debe extinguir completamente los derechos previamente adquiridos.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2024952

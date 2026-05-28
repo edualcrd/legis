@@ -1,0 +1,20 @@
+RUBRO: PLURALIDAD DE DEMANDADOS EN EL JUICIO LABORAL. PROCEDIMIENTO A SEGUIR POR LOS TRIBUNALES LABORALES CUANDO EL ACTOR SÓLO EXHIBE CON SU DEMANDA LA CONSTANCIA DE NO CONCILIACIÓN PREJUDICIAL RESPECTO DE UNO DE ELLOS (LEY FEDERAL DEL TRABAJO VIGENTE A PARTIR DEL 2 DE MAYO DE 2019).
+
+CLAVE DE TESIS: PC.II.L. J/2 L (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; Plenos de Circuito; Gaceta S.J.F.; Libro 19, Noviembre de 2022; Tomo III; Pág. 2873
+INSTANCIA: PLENO EN MATERIA DE TRABAJO DEL SEGUNDO CIRCUITO. (Plenos de Circuito)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2022-11-11T10:22:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2025465
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: Cuando en un juicio laboral existe pluralidad de demandados y el actor únicamente presenta con su demanda la constancia de no conciliación prejudicial respecto de uno de ellos, los tribunales laborales deben verificar el cumplimiento del requisito de procedibilidad establecido en la Ley Federal del Trabajo vigente a partir del 2 de mayo de 2019, debiendo requerir al demandante para que exhiba las constancias faltantes de los demás demandados dentro del plazo que señale, bajo apercibimiento de que de no hacerlo se tendrá por no presentada la demanda respecto de aquellos contra quienes no se acredite el agotamiento de la etapa prejudicial de conciliación.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2025465

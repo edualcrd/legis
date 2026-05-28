@@ -1,0 +1,20 @@
+RUBRO: ELEMENTOS DE SEGURIDAD PÚBLICA DEL ESTADO DE AGUASCALIENTES. ANTE LA FALTA DE REGULACIÓN EXPRESA EN LA LEY QUE LOS RIGE RESPECTO DEL PAGO DE SALARIOS CAÍDOS, DEBE ATENDERSE A LOS CRITERIOS EMITIDOS POR EL ALTO TRIBUNAL DEL PAÍS, SIENDO INAPLICABLE PARA TAL EFECTO EL ARTÍCULO 28 BIS DEL ESTATUTO JURÍDICO DE LOS TRABAJADORES AL SERVICIO DE LOS GOBIERNOS DEL ESTADO DE AGUASCALIENTES, SUS MUNICIPIOS, ÓRGANOS CONSTITUCIONALES AUTÓNOMOS Y ORGANISMOS DESCENTRALIZADOS.
+
+CLAVE DE TESIS: PC.XXX. J/1 A (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; Plenos de Circuito; Gaceta S.J.F.; Libro 2, Junio de 2021; Tomo IV; Pág. 4163
+INSTANCIA: PLENO DEL TRIGÉSIMO CIRCUITO. (Plenos de Circuito)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2021-06-25T10:31:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2023293
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: Ante la ausencia de regulación expresa en la ley local respecto del pago de salarios caídos para los elementos de seguridad pública del Estado de Aguascalientes, la jurisprudencia establece que debe atenderse a los criterios emitidos por la Suprema Corte de Justicia de la Nación, siendo inaplicable el artículo 28 bis del Estatuto Jurídico de los Trabajadores al Servicio de los Gobiernos del Estado de Aguascalientes, sus Municipios, Órganos Constitucionales Autónomos y Organismos Descentralizados, lo que permite que los trabajadores accedan a la protección de derechos laborales conforme a los estándares jurisprudenciales nacionales cuando la legislación local no prevé expresamente la materia controvertida.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2023293

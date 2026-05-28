@@ -1,0 +1,20 @@
+RUBRO: CONTRATO DE CRÉDITO OTORGADO POR EL INFONAVIT PARA LA ADQUISICIÓN DE VIVIENDA. LA ACCIÓN DE RESCISIÓN O TERMINACIÓN ANTICIPADA DEBE EJERCERSE EN LA VÍA PROCESAL CIVIL.
+
+CLAVE DE TESIS: 1a./J. 43/2020 (10a.)
+LOCALIZACIÓN: [J]; 10a. Época; 1a. Sala; Gaceta S.J.F.; Libro 80, Noviembre de 2020; Tomo I; Pág. 839
+INSTANCIA: Primera Sala (S.C.J.N.)
+ÉPOCA: 10a. Época
+FECHA DE PUBLICACIÓN: 2020-11-06T10:17:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2022350
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: El supuesto jurídico que resuelve este criterio es la determinación de la vía procesal competente para ejercer la acción de rescisión o terminación anticipada de un contrato de crédito otorgado por el Infonavit para la adquisición de vivienda. El criterio establecido es que tales acciones deben ejercerse en la vía procesal civil y no en otra jurisdicción, reconociendo que aunque el Infonavit es un organismo de seguridad social, los contratos de crédito que celebra para financiamiento de vivienda tienen naturaleza civil y, por tanto, sus controversias deben resolverse conforme a las reglas del procedimiento civil ordinario.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2022350

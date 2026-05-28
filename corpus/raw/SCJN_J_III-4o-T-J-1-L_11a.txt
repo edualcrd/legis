@@ -1,0 +1,20 @@
+RUBRO: ESTADO DE INVALIDEZ. PARA DETERMINARLO ES REQUISITO QUE EL ASEGURADO ESPECIFIQUE EN LA DEMANDA LAS ACTIVIDADES DEL PUESTO QUE OCUPÓ EN EL ÚLTIMO AÑO DE TRABAJO, A EFECTO DE RELACIONARLAS CON SUS PADECIMIENTOS Y SU IMPOSIBILIDAD PARA OBTENER UN INGRESO SUPERIOR AL 50 % DEL SALARIO PERCIBIDO EN ESE PERIODO.
+
+CLAVE DE TESIS: III.4o.T. J/1 L (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; T.C.C.; Gaceta S.J.F.; Libro 14, Junio de 2022; Tomo VII; Pág. 6004
+INSTANCIA: CUARTO TRIBUNAL COLEGIADO EN MATERIA DE TRABAJO DEL TERCER CIRCUITO. (T.C.C.)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2022-06-10T10:16:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2024792
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: El supuesto jurídico que resuelve este criterio es la determinación del estado de invalidez en materia de seguridad social, estableciendo que para acreditar tal condición es requisito indispensable que el asegurado especifique en su demanda las actividades concretas del puesto que desempeñó durante el último año de trabajo, a fin de relacionarlas con sus padecimientos y demostrar su incapacidad para obtener un ingreso que supere el 50% del salario que percibía en ese período. El criterio establece que la invalidez no puede determinarse de manera abstracta, sino que requiere un análisis específico y comparativo entre las funciones laborales realizadas y las limitaciones físicas o mentales derivadas de los padecimientos alegados, vinculando esta información con el umbral económico del 50% del salario anterior para configurar la imposibilidad de subsistencia del trabajador.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2024792

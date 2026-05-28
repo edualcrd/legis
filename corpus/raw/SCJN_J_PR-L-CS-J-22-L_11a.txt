@@ -1,0 +1,20 @@
+RUBRO: RECURSO DE RECONSIDERACIÓN PREVISTO EN EL ARTÍCULO 871 DE LA LEY FEDERAL DEL TRABAJO. ES INNECESARIO AGOTARLO PREVIO A LA PROMOCIÓN DEL JUICIO DE AMPARO INDIRECTO CONTRA EL ACUERDO QUE DESECHA PARCIALMENTE LA DEMANDA O SU AMPLIACIÓN RESPECTO DE UNO O VARIOS CODEMANDADOS, DICTADO POR LA PERSONA SECRETARIA INSTRUCTORA EN UN PROCEDIMIENTO ESPECIAL INDIVIDUAL LABORAL.
+
+CLAVE DE TESIS: PR.L.CS. J/22 L (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; Plenos Regionales; Gaceta S.J.F.; Libro 26, Junio de 2023; Tomo VI; Pág. 5820
+INSTANCIA: PLENO REGIONAL EN MATERIA DE TRABAJO DE LA REGIÓN CENTRO-SUR, CON RESIDENCIA EN LA CIUDAD DE MÉXICO. (Plenos Regionales)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2023-06-16T10:22:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2026724
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: El supuesto jurídico que resuelve es la procedencia del juicio de amparo indirecto contra acuerdos dictados por la persona secretaria instructora que desechan parcialmente la demanda o su ampliación respecto de codemandados en procedimientos especiales individuales laborales, sin necesidad de agotar previamente el recurso de reconsideración previsto en el artículo 871 de la Ley Federal del Trabajo. El criterio establecido es que dicho recurso de reconsideración resulta innecesario cuando se pretende impugnar por amparo un acuerdo que rechaza parcialmente la demanda, toda vez que la desestimación parcial de pretensiones constituye una resolución que causa agravio susceptible de ser controvertida directamente a través del juicio de amparo indirecto sin agotar recursos ordinarios previos.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2026724

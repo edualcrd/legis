@@ -1,0 +1,20 @@
+RUBRO: COMPETENCIA PARA CONOCER Y RESOLVER LOS CONFLICTOS LABORALES SUSCITADOS ENTRE EL ARCHIVO GENERAL DE LA NACIÓN Y SUS EMPLEADOS, CUANDO LA RELACIÓN DE TRABAJO SE DESARROLLÓ DURANTE LA VIGENCIA DEL CONTRATO COLECTIVO DE TRABAJO CELEBRADO ENTRE ESE ORGANISMO DESCENTRALIZADO Y SU SINDICATO. CORRESPONDE A LA AUTORIDAD ENCARGADA DE APLICAR LAS NORMAS PROCESALES DEL APARTADO A DEL ARTÍCULO 123 CONSTITUCIONAL (JUNTA FEDERAL DE CONCILIACIÓN Y ARBITRAJE O LOS ACTUALES TRIBUNALES LABORALES DEL PODER JUDICIAL DE LA FEDERACIÓN).
+
+CLAVE DE TESIS: PR.L.CS. J/54 L (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; Plenos Regionales; Gaceta S.J.F.; Libro 33, Enero de 2024; Tomo IV; Pág. 3833
+INSTANCIA: PLENO REGIONAL EN MATERIA DE TRABAJO DE LA REGIÓN CENTRO-SUR, CON RESIDENCIA EN LA CIUDAD DE MÉXICO. (Plenos Regionales)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2024-01-12T10:13:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2027964
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: El supuesto jurídico que resuelve es la determinación de la competencia para conocer de conflictos laborales entre el Archivo General de la Nación y sus empleados cuando la relación de trabajo se desarrolló bajo un contrato colectivo celebrado entre ese organismo descentralizado y su sindicato. El criterio establecido es que la competencia corresponde a la autoridad encargada de aplicar las normas procesales del apartado A del artículo 123 constitucional, identificada como la Junta Federal de Conciliación y Arbitraje o los actuales Tribunales Laborales del Poder Judicial de la Federación, conforme al artículo 123, apartado A de la Constitución Política de los Estados Unidos Mexicanos.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2027964

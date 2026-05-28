@@ -1,0 +1,20 @@
+RUBRO: COMPETENCIA PARA CONOCER DE JUICIOS LABORALES EN LOS QUE ES PARTE UNA EMPRESA CUYO OBJETO SOCIAL SEA COMERCIALIZAR, DISTRIBUIR, ALMACENAR Y TRANSPORTAR PRODUCTOS ALIMENTICIOS. CORRESPONDE A LOS TRIBUNALES LABORALES LOCALES.
+
+CLAVE DE TESIS: PR.P.T.CN. J/20 L (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; Plenos Regionales; Gaceta S.J.F.; Libro 47, Marzo de 2025; Tomo II, Volumen 1; Pág. 624
+INSTANCIA: PLENO REGIONAL EN MATERIAS PENAL Y DE TRABAJO DE LA REGIÓN CENTRO-NORTE, CON RESIDENCIA EN LA CIUDAD DE MÉXICO. (Plenos Regionales)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2025-03-14T10:17:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2030099
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: Cuando una empresa cuyo objeto social consiste en comercializar, distribuir, almacenar y transportar productos alimenticios es parte en un juicio laboral, la competencia para conocer de tal controversia corresponde a los tribunales laborales locales y no a la justicia federal, toda vez que la actividad de comercialización, distribución, almacenamiento y transporte de alimentos no constituye una materia federal que justifique la intervención de los juzgados de distrito en materia laboral, por lo que los tribunales locales son los órganos jurisdiccionales competentes para resolver las controversias laborales que surjan entre dicha empresa y sus trabajadores.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2030099

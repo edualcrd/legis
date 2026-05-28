@@ -1,0 +1,20 @@
+RUBRO: PENSIÓN POR JUBILACIÓN. LAS LEYES BUROCRÁTICAS QUE BENEFICIAN A LAS MUJERES AL ESTABLECER MENOS AÑOS DE SERVICIOS DE LOS EXIGIDOS A LOS HOMBRES PARA ACCEDER AL PORCENTAJE MÁXIMO DE AQUÉLLA, NO VIOLAN EL PRINCIPIO DE IGUALDAD ANTE LA LEY, NI EL QUE ORDENA QUE A TRABAJO IGUAL CORRESPONDERÁ SALARIO IGUAL, SIN TENER EN CUENTA EL SEXO, PREVISTOS EN LOS ARTÍCULOS 4o., PRIMER PÁRRAFO, Y 123, APARTADO B, FRACCIÓN V, DE LA CONSTITUCIÓN FEDERAL, RESPECTIVAMENTE.
+
+CLAVE DE TESIS: 2a./J. 140/2019 (10a.)
+LOCALIZACIÓN: [J]; 10a. Época; 2a. Sala; Gaceta S.J.F.; Libro 72, Noviembre de 2019; Tomo I; Pág. 607
+INSTANCIA: Segunda Sala (S.C.J.N.)
+ÉPOCA: 10a. Época
+FECHA DE PUBLICACIÓN: 2019-11-08T10:19:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2020994
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: Las leyes burocráticas que establecen requisitos diferenciados de años de servicio para que las mujeres accedan a la pensión por jubilación con porcentaje máximo, en comparación con los exigidos a los hombres, no constituyen una violación al principio de igualdad ante la ley ni al de salario igual por trabajo igual previstos en los artículos 4o., primer párrafo, y 123, apartado B, fracción V, de la Constitución Federal, toda vez que tales disposiciones responden a un criterio de equidad que busca compensar desigualdades históricas y fácticas entre géneros en el ámbito laboral y de seguridad social. El criterio establecido reconoce que las medidas de trato diferenciado que favorecen a grupos históricamente discriminados no constituyen discriminación inversa, sino acciones afirmativas legítimas orientadas a materializar la igualdad sustantiva en materia de prestaciones de seguridad social.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2020994

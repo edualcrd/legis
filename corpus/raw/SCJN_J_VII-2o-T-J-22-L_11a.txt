@@ -1,0 +1,20 @@
+RUBRO: PRIMA DE ANTIGÜEDAD PREVISTA EN EL CONTRATO COLECTIVO DE TRABAJO CELEBRADO ENTRE EL INSTITUTO MEXICANO DEL SEGURO SOCIAL (IMSS) Y SUS TRABAJADORES. SI EN SU CUANTIFICACIÓN NO SE INTEGRARON DIVERSAS PRESTACIONES EXTRALEGALES, EL RECLAMO DE SU PAGO CORRECTO DEBE SUSTANCIARSE CONFORME A LAS REGLAS DEL PROCEDIMIENTO ESPECIAL.
+
+CLAVE DE TESIS: VII.2o.T. J/22 L (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; T.C.C.; Gaceta S.J.F.; Libro 44, Diciembre de 2024; Tomo II, Volumen 1; Pág. 239
+INSTANCIA: SEGUNDO TRIBUNAL COLEGIADO EN MATERIA DE TRABAJO DEL SÉPTIMO CIRCUITO. (T.C.C.)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2024-12-13T10:25:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2029729
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: El supuesto jurídico que resuelve es la determinación de la prima de antigüedad cuando el contrato colectivo de trabajo del IMSS establece prestaciones extralegales que no fueron integradas en su cálculo original. El criterio establecido es que cuando existe un reclamo por el pago incorrecto de la prima de antigüedad debido a la omisión de prestaciones extralegales en su cuantificación, la controversia debe sustanciarse conforme a las reglas del procedimiento especial previsto en la ley laboral, garantizando así el acceso a una vía procesal adecuada para la revisión del monto adeudado.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2029729

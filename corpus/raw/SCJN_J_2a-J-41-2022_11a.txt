@@ -1,0 +1,20 @@
+RUBRO: PRUEBA DE INSPECCIÓN EN EL JUICIO LABORAL. PARA TENER POR PRESUNTIVAMENTE CIERTOS LOS HECHOS QUE SE TRATA DE PROBAR, ES NECESARIO QUE EN EL AUTO QUE ORDENA ADMITIR Y PREPARAR DICHA PRUEBA, SE APERCIBA EXPRESAMENTE A LA PARTE OBLIGADA SOBRE LA FALTA DE EXHIBICIÓN DE LOS DOCUMENTOS PARA SU DESAHOGO, EN TÉRMINOS DEL ARTÍCULO 828 DE LA LEY FEDERAL DEL TRABAJO.
+
+CLAVE DE TESIS: 2a./J. 41/2022 (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; 2a. Sala; Gaceta S.J.F.; Libro 17, Septiembre de 2022; Tomo IV; Pág. 3537
+INSTANCIA: Segunda Sala (S.C.J.N.)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2022-09-02T10:11:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2025198
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: La prueba de inspección en el juicio laboral requiere que, para tener por presuntivamente ciertos los hechos que se pretende probar, el auto que ordena admitir y preparar dicha prueba contenga un apercibimiento expreso a la parte obligada respecto de la falta de exhibición de los documentos necesarios para su desahogo, conforme lo establece el artículo 828 de la Ley Federal del Trabajo. Este criterio asegura que la parte demandada tenga conocimiento claro de las consecuencias de su incumplimiento y que se respeten los principios de debido proceso en materia laboral.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2025198

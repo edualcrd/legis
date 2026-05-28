@@ -1,0 +1,20 @@
+RUBRO: ESTADO DE CUENTA INDIVIDUAL DE PERSONAS TRABAJADORAS FALLECIDAS. NO ES UN REQUISITO DE PROCEDENCIA QUE DEBA ACOMPAÑARSE A LA DEMANDA CUANDO SE RECLAME SIMULTÁNEAMENTE LA DECLARACIÓN DE LEGÍTIMA BENEFICIARIA Y EL PAGO DE LAS APORTACIONES ADMINISTRADAS POR UNA AFORE.
+
+CLAVE DE TESIS: PR.P.T.CS. J/56 L (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; Plenos Regionales; Gaceta S.J.F.; Libro 50, Junio de 2025; Tomo IV, Volumen 2; Pág. 1086
+INSTANCIA: PLENO REGIONAL EN MATERIAS PENAL Y DE TRABAJO DE LA REGIÓN CENTRO-SUR, CON RESIDENCIA EN LA CIUDAD DE MÉXICO. (Plenos Regionales)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2025-06-27T10:33:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2030630
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: Cuando se demanda simultáneamente la declaración de legítima beneficiaria y el pago de aportaciones administradas por una AFORE en caso de fallecimiento de la persona trabajadora, el estado de cuenta individual no constituye un requisito de procedencia que deba acompañarse necesariamente a la demanda, ya que la falta de este documento no impide el acceso a la jurisdicción laboral ni obsta para que se resuelva sobre el fondo de la controversia respecto a ambas prestaciones reclamadas.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2030630

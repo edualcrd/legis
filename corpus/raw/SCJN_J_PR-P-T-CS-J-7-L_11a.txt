@@ -1,0 +1,20 @@
+RUBRO: COMPETENCIA POR RAZÓN DE VÍA Y FUERO. CORRESPONDE A UN TRIBUNAL LABORAL DE ASUNTOS COLECTIVOS DEL FUERO LOCAL CONOCER DE LA DEMANDA PROMOVIDA POR UNA PERSONA AGREMIADA A UN SINDICATO NACIONAL, EN LA QUE RECLAMA LA NULIDAD DE LA SUSPENSIÓN DE SUS DERECHOS SINDICALES.
+
+CLAVE DE TESIS: PR.P.T.CS. J/7 L (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; Plenos Regionales; Gaceta S.J.F.; Libro 39, Julio de 2024; Tomo II, Volumen 1; Pág. 508
+INSTANCIA: PLENO REGIONAL EN MATERIAS PENAL Y DE TRABAJO DE LA REGIÓN CENTRO-SUR, CON RESIDENCIA EN LA CIUDAD DE MÉXICO. (Plenos Regionales)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2024-07-12T10:19:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2029162
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: Cuando una persona agremiada a un sindicato nacional promueve demanda para reclamar la nulidad de la suspensión de sus derechos sindicales, la competencia para conocer del asunto corresponde a un tribunal laboral de asuntos colectivos del fuero local, ya que se trata de una controversia que, aunque involucra a una organización sindical de ámbito nacional, afecta derechos individuales de un trabajador específico cuya resolución no requiere la intervención de la jurisdicción federal, sino que puede ser resuelta por los tribunales locales competentes en materia laboral colectiva.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2029162

@@ -1,0 +1,20 @@
+RUBRO: SUBCONTRATACIÓN LABORAL. LOS ARTÍCULOS 15 DE LA LEY FEDERAL DEL TRABAJO, 15-A DE LA LEY DEL SEGURO SOCIAL Y 29 BIS DE LA LEY DEL INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES, AL ESTABLECER OBLIGACIONES Y REQUISITOS PARA PRESTAR SERVICIOS U OBRAS ESPECIALIZADAS, NO TRANSGREDEN EL PRINCIPIO DE RAZONABILIDAD.
+
+CLAVE DE TESIS: 2a./J. 91/2023 (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; 2a. Sala; Gaceta S.J.F.; Libro 33, Enero de 2024; Tomo III; Pág. 2611
+INSTANCIA: Segunda Sala (S.C.J.N.)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2024-01-05T10:06:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2027949
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: La subcontratación laboral constituye un mecanismo válido para la prestación de servicios u obras especializadas, siempre que se cumplan con los requisitos y obligaciones establecidos en la normativa aplicable. El criterio jurisprudencial reconoce que los artículos 15 de la Ley Federal del Trabajo, 15-A de la Ley del Seguro Social y 29 bis de la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores no vulneran el principio de razonabilidad al regular esta modalidad de contratación, ya que persiguen fines legítimos de protección laboral y seguridad social. Dichas disposiciones establecen salvaguardas necesarias para garantizar que la subcontratación no se utilice como mecanismo para evadir obligaciones patronales, permitiendo su uso legítimo cuando se respetan los requisitos de especialización y formalidad que la ley exige.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2027949

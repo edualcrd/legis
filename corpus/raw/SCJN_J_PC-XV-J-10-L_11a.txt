@@ -1,0 +1,20 @@
+RUBRO: COMPETENCIA PARA CONOCER DE LOS CONFLICTOS LABORALES SUSCITADOS ENTRE EL INSTITUTO DE SERVICIOS EDUCATIVOS Y PEDAGÓGICOS DE BAJA CALIFORNIA Y SUS TRABAJADORES, SIEMPRE QUE SE ENCUENTREN EN EL SUPUESTO DE HABER SIDO TRANSFERIDOS POR EL GOBIERNO FEDERAL AL ESTATAL. POR EXCEPCIÓN, CORRESPONDE AL TRIBUNAL DE ARBITRAJE DEL ESTADO DE BAJA CALIFORNIA (LEY DEL SERVICIO CIVIL DE LOS TRABAJADORES AL SERVICIO DE LOS PODERES DEL ESTADO Y MUNICIPIOS DE BAJA CALIFORNIA, VIGENTE A PARTIR DE LA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL EL 8 DE MAYO DE 2014).
+
+CLAVE DE TESIS: PC.XV. J/10 L (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; Plenos de Circuito; Gaceta S.J.F.; Libro 20, Diciembre de 2022; Tomo II; Pág. 1749
+INSTANCIA: PLENO DEL DECIMOQUINTO CIRCUITO. (Plenos de Circuito)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2022-12-09T10:21:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2025628
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: La jurisprudencia resuelve el supuesto de conflictos laborales surgidos entre el Instituto de Servicios Educativos y Pedagógicos de Baja California y sus trabajadores que fueron transferidos del Gobierno Federal al Estatal, estableciendo que la competencia para conocer de tales controversias corresponde a la jurisdicción laboral ordinaria, con la excepción de que el Tribunal de Arbitraje del Estado de Baja California es competente conforme a la Ley del Servicio Civil de los Trabajadores al Servicio de los Poderes del Estado y Municipios de Baja California, vigente a partir de la reforma publicada en el Periódico Oficial el 8 de mayo de 2014, criterio que determina la distribución de competencias según la naturaleza de la relación laboral y el estatus de los trabajadores transferidos.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2025628

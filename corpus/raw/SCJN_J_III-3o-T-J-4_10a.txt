@@ -1,0 +1,20 @@
+RUBRO: CADUCIDAD EN MATERIA LABORAL. OPERA ANTE LA INACTIVIDAD PROCESAL DE LAS PARTES EN LA ETAPA DE ARBITRAJE, NO ASÍ CUANDO ÚNICAMENTE SUBSISTE LA OBLIGACIÓN DEL TRIBUNAL DE DICTAR EL LAUDO (LEGISLACIÓN DEL ESTADO DE JALISCO).
+
+CLAVE DE TESIS: III.3o.T. J/4 (10a.)
+LOCALIZACIÓN: [J]; 10a. Época; T.C.C.; Gaceta S.J.F.; Libro 39, Febrero de 2017; Tomo III; Pág. 1839
+INSTANCIA: TERCER TRIBUNAL COLEGIADO EN MATERIA DE TRABAJO DEL TERCER CIRCUITO. (T.C.C.)
+ÉPOCA: 10a. Época
+FECHA DE PUBLICACIÓN: 2017-02-17T10:19:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2013690
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: La caducidad en materia laboral opera cuando existe inactividad procesal de ambas partes durante la etapa de arbitraje, pero no procede cuando la única obligación pendiente es la del tribunal de dictar el laudo, ya que en este último supuesto la inactividad no es imputable a las partes sino al órgano jurisdiccional. El criterio establece que la caducidad requiere inactividad de las partes litigantes y no puede aplicarse cuando el proceso se encuentra en una fase donde solo falta la resolución del tribunal, distinguiendo así entre la inactividad procesal de los contendientes y la pendencia de la sentencia arbitral.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2013690

@@ -1,0 +1,20 @@
+RUBRO: JUICIO DE AMPARO DIRECTO. LAS CAUSAS DE IMPROCEDENCIA PREVISTAS EN EL ARTÍCULO 61, FRACCIONES XXI Y XXII, DE LA LEY DE AMPARO, NO SE ACTUALIZAN CUANDO EN UN TRIBUNAL COLEGIADO DE CIRCUITO SE ENCUENTRA EN TRÁMITE UN JUICIO DE AMPARO DIRECTO EN EL QUE SE SEÑALÓ COMO ACTO RECLAMADO EL PROVEÍDO DICTADO POR UN JUEZ ADSCRITO A UN TRIBUNAL LABORAL FEDERAL DE ASUNTOS INDIVIDUALES, POR EL QUE DESECHÓ O INADMITIÓ UNA DEMANDA Y, POSTERIORMENTE, EL TRIBUNAL DE AMPARO TIENE CONOCIMIENTO DE QUE EL MENCIONADO JUZGADOR LABORAL ADMITIÓ A TRÁMITE UNA ULTERIOR DEMANDA PROMOVIDA POR LA PROPIA PARTE ACTORA EN IDÉNTICOS TÉRMINOS QUE LA PRIMIGENIA.
+
+CLAVE DE TESIS: PR.L.CS. J/21 L (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; Plenos Regionales; Gaceta S.J.F.; Libro 26, Junio de 2023; Tomo VI; Pág. 5425
+INSTANCIA: PLENO REGIONAL EN MATERIA DE TRABAJO DE LA REGIÓN CENTRO-SUR, CON RESIDENCIA EN LA CIUDAD DE MÉXICO. (Plenos Regionales)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2023-06-16T10:22:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2026713
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: El supuesto jurídico que resuelve este criterio es la determinación de cuándo se actualizan las causas de improcedencia del juicio de amparo directo previstas en el artículo 61, fracciones XXI y XXII, de la Ley de Amparo, específicamente cuando existe un juicio de amparo directo en trámite ante un tribunal colegiado de circuito en contra de un proveído de un juez laboral federal que desechó o inadmitió una demanda, y posteriormente ese mismo juzgador laboral admite a trámite una nueva demanda de la misma parte actora en términos idénticos a la primera. El criterio establecido es que tales causas de improcedencia no se actualizan en esta situación, lo que implica que la existencia de la demanda posterior admitida a trámite no genera por sí sola la improcedencia del amparo directo que ya se encuentra en conocimiento del tribunal colegiado, permitiendo que este continúe con el análisis de fondo del acto
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2026713

@@ -1,0 +1,20 @@
+RUBRO: EJECUCIÓN DE LAUDOS EN LOS JUICIOS LABORALES BUROCRÁTICOS DEL ESTADO DE BAJA CALIFORNIA Y ESTADOS CON LEGISLACIONES SIMILARES. ACTUACIONES O DILIGENCIAS EN LAS QUE LA PARTE QUE OBTUVO, NECESARIAMENTE DEBE ACOMPAÑAR AL ACTUARIO A FIN DE REQUERIR SU CUMPLIMIENTO.
+
+CLAVE DE TESIS: PR.L.CN. J/14 L (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; Plenos Regionales; Gaceta S.J.F.; Libro 30, Octubre de 2023; Tomo III; Pág. 3512
+INSTANCIA: PLENO REGIONAL EN MATERIA DE TRABAJO DE LA REGIÓN CENTRO-NORTE, CON RESIDENCIA EN MONTERREY, NUEVO LEÓN. (Plenos Regionales)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2023-10-06T10:16:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2027375
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: La ejecución de laudos en juicios laborales burocráticos del Estado de Baja California y entidades con legislaciones análogas requiere que la parte ganadora acompañe necesariamente al actuario durante las diligencias de requerimiento de cumplimiento, lo que constituye un requisito procesal indispensable para que el acto de ejecución sea válido y eficaz. Este criterio establece que la presencia personal de la parte beneficiada del laudo no es meramente facultativa sino obligatoria en ciertos actos de ejecución, garantizando así que el deudor reciba directamente el requerimiento y que exista constancia de la intención de hacer valer los derechos reconocidos en la sentencia arbitral. La participación activa de la parte interesada en estas diligencias fortalece la efectividad del procedimiento ejecutivo y asegura que se cumplan los requisitos formales exigidos por la legislación laboral burocrática aplicable.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2027375

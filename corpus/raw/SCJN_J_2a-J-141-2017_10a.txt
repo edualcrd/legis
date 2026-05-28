@@ -1,0 +1,20 @@
+RUBRO: INSTITUTO DE PREVISIÓN Y SEGURIDAD SOCIAL DEL ESTADO DE TAMAULIPAS. LA APLICACIÓN DEL RÉGIMEN TRANSITORIO DE LA LEY RELATIVA, QUE MODIFICA LOS REQUISITOS PARA EL ACCESO A UNA PENSIÓN POR JUBILACIÓN, NO SE RIGE POR EL DERECHO DE AUDIENCIA PREVIA.
+
+CLAVE DE TESIS: 2a./J. 141/2017 (10a.)
+LOCALIZACIÓN: [J]; 10a. Época; 2a. Sala; Gaceta S.J.F.; Libro 46, Septiembre de 2017; Tomo I; Pág. 420
+INSTANCIA: Segunda Sala (S.C.J.N.)
+ÉPOCA: 10a. Época
+FECHA DE PUBLICACIÓN: 2017-09-29T10:38:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2015144
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: El supuesto jurídico que resuelve es la aplicación del régimen transitorio de la ley del Instituto de Previsión y Seguridad Social del Estado de Tamaulipas cuando se modifican los requisitos para acceder a una pensión por jubilación. El criterio establecido es que la aplicación de este régimen transitorio no está sujeta al derecho de audiencia previa, lo que significa que los cambios en los requisitos pensionarios pueden implementarse sin necesidad de otorgar previamente al afiliado la oportunidad de ser escuchado antes de que se aplique la nueva regulación.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2015144

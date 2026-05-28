@@ -1,0 +1,20 @@
+RUBRO: SEGURO SOCIAL. LAS PRESTACIONES EN ESPECIE DEL SEGURO DE ENFERMEDADES Y MATERNIDAD DEBERÁN PAGARSE, A PARTIR DEL 1 DE JULIO DE 2007, CONFORME A LA CUOTA DIARIA PATRONAL EQUIVALENTE AL 20.4% DE UN SALARIO MÍNIMO GENERAL DIARIO PARA EL DISTRITO FEDERAL, HOY CIUDAD DE MÉXICO, EN TÉRMINOS DE LOS ARTÍCULOS 106, FRACCIÓN I Y DÉCIMO NOVENO TRANSITORIO DE LA LEY RELATIVA.
+
+CLAVE DE TESIS: (IX Región)1o. J/2 (10a.)
+LOCALIZACIÓN: [J]; 10a. Época; T.C.C.; Gaceta S.J.F.; Libro 40, Marzo de 2017; Tomo IV; Pág. 2559
+INSTANCIA: PRIMER TRIBUNAL COLEGIADO DE CIRCUITO DEL CENTRO AUXILIAR DE LA NOVENA REGIÓN. (T.C.C.)
+ÉPOCA: 10a. Época
+FECHA DE PUBLICACIÓN: 2017-03-03T10:06:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2013800
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: Este rubro resuelve el supuesto jurídico relativo a la forma de financiamiento y pago de las prestaciones en especie del seguro de enfermedades y maternidad en el sistema de seguridad social mexicano, estableciendo que a partir del 1 de julio de 2007 dichas prestaciones deben pagarse conforme a una cuota diaria patronal equivalente al 20.4% de un salario mínimo general diario para el Distrito Federal, hoy Ciudad de México. El criterio establecido determina que el cálculo de esta cuota patronal se rige por los artículos 106, fracción I y Décimo Noveno Transitorio de la Ley del Seguro Social, los cuales definen el porcentaje y la base de cálculo que los patrones deben contribuir para financiar estas prestaciones de seguridad social.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2013800

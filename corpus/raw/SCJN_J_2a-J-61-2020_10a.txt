@@ -1,0 +1,20 @@
+RUBRO: COMPETENCIA PARA CONOCER DEL RECURSO DE REVISIÓN INTERPUESTO CONTRA LA OMISIÓN O NEGATIVA DE UN INSTITUTO DE SEGURIDAD SOCIAL DE BRINDAR ATENCIÓN MÉDICA, HOSPITALARIA, QUIRÚRGICA Y SUMINISTRO DE MEDICINAS AL CÓNYUGE O BENEFICIARIO DE UN TRABAJADOR PENSIONADO. CORRESPONDE A UN TRIBUNAL COLEGIADO EN MATERIA ADMINISTRATIVA.
+
+CLAVE DE TESIS: 2a./J. 61/2020 (10a.)
+LOCALIZACIÓN: [J]; 10a. Época; 2a. Sala; Gaceta S.J.F.; Libro 80, Noviembre de 2020; Tomo II; Pág. 1053
+INSTANCIA: Segunda Sala (S.C.J.N.)
+ÉPOCA: 10a. Época
+FECHA DE PUBLICACIÓN: 2020-11-06T10:17:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2022348
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: La omisión o negativa de un instituto de seguridad social para proporcionar atención médica, hospitalaria, quirúrgica y suministro de medicinas al cónyuge o beneficiario de un trabajador pensionado constituye un acto administrativo susceptible de impugnación mediante recurso de revisión, cuya competencia para conocer corresponde a un tribunal colegiado en materia administrativa, toda vez que se trata de una controversia que surge de la relación entre el particular y la administración pública en el ejercicio de sus funciones de seguridad social, requiriendo de un análisis especializado en derecho administrativo que justifica la intervención de este órgano jurisdiccional colegiado.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2022348

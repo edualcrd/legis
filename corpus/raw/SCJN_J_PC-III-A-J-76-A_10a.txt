@@ -1,0 +1,20 @@
+RUBRO: SOCIEDADES COOPERATIVAS DE PRODUCTORES. NO ESTÁN IMPEDIDAS PARA HACER USO DE LA SUBCONTRATACIÓN PREVISTA POR LOS ARTÍCULOS 15-A A 15-D DE LA LEY FEDERAL DEL TRABAJO, A FIN DE ACCEDER AL BENEFICIO FISCAL ESTABLECIDO EN EL ARTÍCULO 85-A DE LA LEY DEL IMPUESTO SOBRE LA RENTA ABROGADA, SIEMPRE QUE SE ACTUALICE ALGUNO DE LOS SUPUESTOS DEL ARTÍCULO 65 DE LA LEY GENERAL DE SOCIEDADES COOPERATIVAS.
+
+CLAVE DE TESIS: PC.III.A. J/76 A (10a.)
+LOCALIZACIÓN: [J]; 10a. Época; Plenos de Circuito; Gaceta S.J.F.; Libro 71, Octubre de 2019; Tomo III; Pág. 3284
+INSTANCIA: PLENO EN MATERIA ADMINISTRATIVA DEL TERCER CIRCUITO. (Plenos de Circuito)
+ÉPOCA: 10a. Época
+FECHA DE PUBLICACIÓN: 2019-10-25T10:35:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2020922
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: Las sociedades cooperativas de productores pueden hacer uso de la subcontratación regulada en los artículos 15-A a 15-D de la Ley Federal del Trabajo para acceder al beneficio fiscal del artículo 85-A de la Ley del Impuesto sobre la Renta abrogada, siempre que se configure alguno de los supuestos previstos en el artículo 65 de la Ley General de Sociedades Cooperativas que justifique la pérdida de su naturaleza cooperativa o la actualización de causales de disolución. El criterio establece que no existe impedimento legal para que estas entidades utilicen la subcontratación como mecanismo de contratación de personal, reconociendo que tal práctica es compatible con su régimen jurídico especial cuando concurren las circunstancias que la ley cooperativa contempla.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2020922

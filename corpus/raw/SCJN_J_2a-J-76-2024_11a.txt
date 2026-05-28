@@ -1,0 +1,20 @@
+RUBRO: APERCIBIMIENTO DE DOBLE PAGO EN EL PROCEDIMIENTO DE EMBARGO. EL ARTÍCULO 958 DE LA LEY FEDERAL DEL TRABAJO, EN SU TEXTO ANTERIOR A LA REFORMA DE 1 DE MAYO DE 2019, NO PREVÉ UNA MULTA EXCESIVA NI TRANSGREDE LOS PRINCIPIOS PRO PERSONA Y DE PROGRESIVIDAD.
+
+CLAVE DE TESIS: 2a./J. 76/2024 (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; 2a. Sala; Gaceta S.J.F.; Libro 41, Septiembre de 2024; Tomo III, Volumen 2; Pág. 1199
+INSTANCIA: Segunda Sala (S.C.J.N.)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2024-09-20T10:29:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2029366
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: El supuesto jurídico que resuelve es la constitucionalidad del apercibimiento de doble pago establecido en el artículo 958 de la Ley Federal del Trabajo en su versión anterior a la reforma de 1 de mayo de 2019, cuando se incumple con el embargo de bienes del deudor. El criterio establecido sostiene que dicha disposición no constituye una multa excesiva ni viola los principios pro persona y de progresividad, ya que el apercibimiento funciona como un mecanismo de coerción para garantizar el cumplimiento de las medidas cautelares en el procedimiento de embargo, sin rebasar los límites de proporcionalidad constitucional. El artículo 958 de la Ley Federal del Trabajo es la norma cuya constitucionalidad se analiza en este rubro.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2029366

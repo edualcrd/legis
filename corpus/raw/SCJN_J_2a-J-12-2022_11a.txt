@@ -1,0 +1,20 @@
+RUBRO: DILACIÓN EXCESIVA EN LA ETAPA DE EJECUCIÓN DE SENTENCIA EN MATERIA LABORAL. PARA DETERMINAR LA PROCEDENCIA DE UN AMPARO INDIRECTO EN SU CONTRA, NO ES APLICABLE LA JURISPRUDENCIA 2a./J. 33/2019 (10a.), EMITIDA POR LA SEGUNDA SALA DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN.
+
+CLAVE DE TESIS: 2a./J. 12/2022 (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; 2a. Sala; Gaceta S.J.F.; Libro 11, Marzo de 2022; Tomo III; Pág. 1927
+INSTANCIA: Segunda Sala (S.C.J.N.)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2022-03-18T10:21:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2024318
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: La dilación excesiva en la etapa de ejecución de sentencia en materia laboral constituye un supuesto que puede vulnerar derechos fundamentales y justificar el ejercicio de un amparo indirecto; sin embargo, la jurisprudencia 2a./J. 33/2019 (10a.) emitida por la Segunda Sala no resulta aplicable para determinar la procedencia de dicho amparo, lo que implica que deben utilizarse otros criterios y estándares para evaluar si la demora en la ejecución de la sentencia laboral alcanza el grado de dilación excesiva que justifique la intervención de la justicia constitucional.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2024318

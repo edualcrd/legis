@@ -1,0 +1,20 @@
+RUBRO: COMISIÓN FEDERAL DE ELECTRICIDAD. LAS PERSONAS TRABAJADORAS A QUE SE REFIERE EL APARTADO PRIMERO DE LA CLÁUSULA 69 DEL CONTRATO COLECTIVO DE TRABAJO PARA EL BIENIO 2016-2018, TIENEN DERECHO A JUBILARSE CONFORME AL CONTRATO VIGENTE PARA EL BIENIO 2014-2016, CUANDO HAYAN CUMPLIDO LOS REQUISITOS PACTADOS EN ESTE ÚLTIMO DURANTE EL AÑO 2016.
+
+CLAVE DE TESIS: 2a./J. 4/2023 (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; 2a. Sala; Gaceta S.J.F.; Libro 22, Febrero de 2023; Tomo III; Pág. 2499
+INSTANCIA: Segunda Sala (S.C.J.N.)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2023-02-17T10:19:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2025942
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: La jurisprudencia resuelve el supuesto de trabajadores de la Comisión Federal de Electricidad que, conforme a la cláusula 69 del contrato colectivo 2016-2018, cumplen los requisitos de jubilación durante el año 2016 y establece como criterio que estos trabajadores tienen derecho a jubilarse conforme a las condiciones pactadas en el contrato colectivo vigente para el bienio 2014-2016, reconociendo así la aplicación retroactiva de las prestaciones más favorables cuando se satisfacen los requisitos durante el período de transición entre dos contratos colectivos sucesivos.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2025942

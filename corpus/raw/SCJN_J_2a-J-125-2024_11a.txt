@@ -1,0 +1,20 @@
+RUBRO: CADUCIDAD DE LA INSTANCIA. EL ARTÍCULO 140, SEGUNDO PÁRRAFO, DE LA LEY FEDERAL DE LOS TRABAJADORES AL SERVICIO DEL ESTADO, AL PREVER QUE NO OPERA AUN CUANDO TRANSCURRA EL TÉRMINO DE 3 MESES, CON MOTIVO DEL DESAHOGO DE DILIGENCIAS QUE DEBAN PRACTICARSE FUERA DEL LOCAL DEL TRIBUNAL, NO VIOLA LOS DERECHOS A LA ESTABILIDAD EN EL EMPLEO NI EL DE PRONTA IMPARTICIÓN DE JUSTICIA.
+
+CLAVE DE TESIS: 2a./J. 125/2024 (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; 2a. Sala; Gaceta S.J.F.; Libro 44, Diciembre de 2024; Tomo I, Volumen 1; Pág. 359
+INSTANCIA: Segunda Sala (S.C.J.N.)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2024-12-06T10:18:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2029650
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: La caducidad de la instancia en los procedimientos laborales de servidores públicos se configura cuando transcurren tres meses de inactividad procesal; sin embargo, el artículo 140, segundo párrafo, de la Ley Federal de los Trabajadores al Servicio del Estado establece que este término no corre cuando se están desahogando diligencias que deben practicarse fuera del local del tribunal, criterio que no vulnera los derechos a la estabilidad en el empleo ni a la pronta impartición de justicia, toda vez que la suspensión del plazo caducal responde a la necesidad de permitir que se practiquen actuaciones procesales indispensables para la resolución del conflicto laboral.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2029650

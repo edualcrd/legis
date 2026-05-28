@@ -1,0 +1,20 @@
+RUBRO: ACTA DE DISCUSIÓN Y VOTACIÓN EN EL PROCEDIMIENTO LABORAL. LA FALTA DE FIRMA DE ALGUNO DE LOS INTEGRANTES DEL TRIBUNAL DE TRABAJO O DEL SECRETARIO QUE AUTORIZA Y DA FE, NO DA LUGAR A ANALIZARLA DE OFICIO EN EL JUICIO DE AMPARO DIRECTO, CUANDO EL QUEJOSO NO FORMULA CONCEPTO DE VIOLACIÓN Y NO SE TRATA DEL TRABAJADOR O SUS BENEFICIARIOS (INAPLICABILIDAD DE LA JURISPRUDENCIA 2a./J. 147/2007).
+
+CLAVE DE TESIS: VII.2o.T. J/54 L (10a.)
+LOCALIZACIÓN: [J]; 10a. Época; T.C.C.; Gaceta S.J.F.; Libro 74, Enero de 2020; Tomo III; Pág. 2249
+INSTANCIA: SEGUNDO TRIBUNAL COLEGIADO EN MATERIA DE TRABAJO DEL SÉPTIMO CIRCUITO. (T.C.C.)
+ÉPOCA: 10a. Época
+FECHA DE PUBLICACIÓN: 2020-01-10T10:11:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2021372
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: La falta de firma de alguno de los integrantes del tribunal de trabajo o del secretario en el acta de discusión y votación no constituye un defecto que deba analizarse de oficio en el juicio de amparo directo, toda vez que el análisis de vicios formales en actas requiere que el quejoso formule expresamente concepto de violación al respecto, y esta obligación se intensifica cuando quien promueve el amparo no es el trabajador o sus beneficiarios, quienes tienen legitimación directa para cuestionar la regularidad del procedimiento que los afecta. El criterio establecido inaaplica la jurisprudencia anterior que permitía un análisis más laxo de estos defectos, estableciendo que la omisión de firma en documentos procesales solo puede ser controvertida mediante concepto de violación debidamente formulado y con mayor rigor cuando el promovente carece de la calidad de trabajador o beneficiario.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2021372

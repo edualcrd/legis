@@ -1,0 +1,20 @@
+RUBRO: SEGURIDAD SOCIAL. ES INCONSTITUCIONAL EL ARTÍCULO 10 DE LA LEY DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL GOBIERNO Y MUNICIPIOS DEL ESTADO DE BAJA CALIFORNIA, AL CONDICIONAR EL DISFRUTE DE LOS BENEFICIOS A LA RECEPCIÓN DE LA TOTALIDAD DE LAS CUOTAS Y APORTACIONES.
+
+CLAVE DE TESIS: P./J. 26/2016 (10a.)
+LOCALIZACIÓN: [J]; 10a. Época; Pleno; Gaceta S.J.F.; Libro 35, Octubre de 2016; Tomo I; Pág. 292
+INSTANCIA: Pleno (S.C.J.N.)
+ÉPOCA: 10a. Época
+FECHA DE PUBLICACIÓN: 2016-10-14T10:24:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2012806
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: El supuesto jurídico que resuelve es la constitucionalidad de una disposición que condiciona el acceso a beneficios de seguridad social a la recepción íntegra de cuotas y aportaciones. El criterio establecido es que resulta inconstitucional subordinar el disfrute de prestaciones de seguridad social a la recepción total de contribuciones, ya que esto vulnera derechos fundamentales de los trabajadores. El rubro cita explícitamente el artículo 10 de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Gobierno y Municipios del Estado de Baja California como la disposición declarada inconstitucional.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2012806

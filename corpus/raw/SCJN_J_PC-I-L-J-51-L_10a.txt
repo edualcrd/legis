@@ -1,0 +1,20 @@
+RUBRO: TRABAJADORES AL SERVICIO DEL ESTADO. CORRESPONDE AL PATRÓN JUSTIFICAR LA TEMPORALIDAD DEL NOMBRAMIENTO Y SU CAUSA MOTIVADORA.
+
+CLAVE DE TESIS: PC.I.L. J/51 L (10a.)
+LOCALIZACIÓN: [J]; 10a. Época; Plenos de Circuito; Gaceta S.J.F.; Libro 70, Septiembre de 2019; Tomo II; Pág. 1682
+INSTANCIA: PLENO EN MATERIA DE TRABAJO DEL PRIMER CIRCUITO. (Plenos de Circuito)
+ÉPOCA: 10a. Época
+FECHA DE PUBLICACIÓN: 2019-09-06T10:15:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2020571
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: En los casos de trabajadores al servicio del Estado, corresponde al patrón demostrar y justificar la temporalidad del nombramiento, así como acreditar la causa específica que motivó su carácter temporal. El criterio establece que la carga probatoria recae en la administración pública para evidenciar que la relación laboral fue efectivamente temporal y no permanente, debiendo demostrar los fundamentos legales y las circunstancias fácticas que sustentaron tal condición. Esta exigencia protege a los trabajadores del sector público al evitar que se les designe como temporales de manera arbitraria, garantizando que cualquier limitación a la estabilidad en el empleo sea debidamente justificada y probada por la autoridad empleadora.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2020571

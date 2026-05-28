@@ -1,0 +1,20 @@
+RUBRO: IGUALDAD. DELIMITACIÓN CONCEPTUAL DE ESTE PRINCIPIO.
+
+CLAVE DE TESIS: 1a./J. 46/2016 (10a.)
+LOCALIZACIÓN: [J]; 10a. Época; 1a. Sala; Gaceta S.J.F.; Libro 34, Septiembre de 2016; Tomo I; Pág. 357
+INSTANCIA: Primera Sala (S.C.J.N.)
+ÉPOCA: 10a. Época
+FECHA DE PUBLICACIÓN: 2016-09-23T10:32:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2012602
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: El principio de igualdad se configura como un derecho fundamental que exige al Estado tratar de manera equivalente a quienes se encuentran en circunstancias similares, prohibiendo discriminaciones arbitrarias basadas en características personales o sociales. El criterio establecido por la jurisprudencia determina que la igualdad no implica un trato idéntico para todos, sino un trato proporcional y razonable conforme a las diferencias relevantes que justifiquen un trato diferenciado. Este principio constituye un límite al ejercicio del poder público y un fundamento para garantizar que las normas y decisiones administrativas o jurisdiccionales no generen exclusiones injustificadas ni vulneren la dignidad de las personas.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2012602

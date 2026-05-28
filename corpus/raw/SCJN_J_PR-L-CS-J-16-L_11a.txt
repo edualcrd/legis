@@ -1,0 +1,20 @@
+RUBRO: ENFERMEDAD PROFESIONAL. LAS JUNTAS DE CONCILIACIÓN Y ARBITRAJE SE ENCUENTRAN FACULTADAS PARA ORDENAR OFICIOSAMENTE EL DESAHOGO DE LA PRUEBA PERICIAL EN MATERIA DE MEDIO AMBIENTE Y LAS DILIGENCIAS NECESARIAS, SIEMPRE QUE EN LOS AUTOS ESTÉN DEMOSTRADOS LOS HECHOS ESENCIALES EN QUE SE DESARROLLÓ LA RELACIÓN DE TRABAJO.
+
+CLAVE DE TESIS: PR.L.CS. J/16 L (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; Plenos Regionales; Gaceta S.J.F.; Libro 25, Mayo de 2023; Tomo III; Pág. 2569
+INSTANCIA: PLENO REGIONAL EN MATERIA DE TRABAJO DE LA REGIÓN CENTRO-SUR, CON RESIDENCIA EN LA CIUDAD DE MÉXICO. (Plenos Regionales)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2023-05-12T10:17:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2026402
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: Las juntas de conciliación y arbitraje tienen la facultad de ordenar de oficio el desahogo de prueba pericial en materia de medio ambiente y las diligencias necesarias cuando se trata de enfermedad profesional, siempre que en el expediente consten demostrados los hechos esenciales en que se desarrolló la relación de trabajo. Este criterio reconoce que las autoridades laborales pueden actuar proactivamente para esclarecer las condiciones ambientales y laborales que originaron la enfermedad, sin esperar a que las partes lo soliciten, garantizando así una investigación integral de los factores que incidieron en el padecimiento del trabajador.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2026402

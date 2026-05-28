@@ -1,0 +1,20 @@
+RUBRO: SUBCONTRATACIÓN LABORAL. EL REQUISITO DE ESTAR AL CORRIENTE EN LAS OBLIGACIONES FISCALES Y DE SEGURIDAD SOCIAL, PARA SOLICITAR EL REGISTRO ANTE LA SECRETARÍA DEL TRABAJO Y PREVISIÓN SOCIAL, EN TÉRMINOS DEL ARTÍCULO 15 DE LA LEY FEDERAL DEL TRABAJO, NO CONTRAVIENE LOS PRINCIPIOS DE LEGALIDAD Y DE SEGURIDAD JURÍDICA.
+
+CLAVE DE TESIS: 2a./J. 83/2023 (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; 2a. Sala; Gaceta S.J.F.; Libro 33, Enero de 2024; Tomo III; Pág. 2679
+INSTANCIA: Segunda Sala (S.C.J.N.)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2024-01-05T10:06:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2027934
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: La subcontratación laboral requiere que las empresas contratistas estén al corriente en sus obligaciones fiscales y de seguridad social para obtener el registro ante la Secretaría del Trabajo y Previsión Social, conforme al artículo 15 de la Ley Federal del Trabajo, criterio que no viola los principios de legalidad y seguridad jurídica toda vez que esta exigencia se encuentra debidamente establecida en la ley y proporciona certeza sobre la capacidad de las empresas para cumplir con sus responsabilidades laborales. El requisito busca proteger a los trabajadores subcontratados al asegurar que las empresas contratistas cuenten con la solvencia necesaria para garantizar el pago de prestaciones y contribuciones de seguridad social, lo que constituye una medida razonable y proporcional dentro del marco legal.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2027934

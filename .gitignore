@@ -14,9 +14,8 @@ env/
 .streamlit/secrets.toml
 
 
-# Corpus crudo (PDFs originales — pesado, descargable de fuentes oficiales)
-corpus/raw/*
-!corpus/raw/.gitkeep
+# corpus/raw se incluye en git para el docker build
+!corpus/raw/
 
 # Corpus procesado (regenerable)
 corpus/processed/*

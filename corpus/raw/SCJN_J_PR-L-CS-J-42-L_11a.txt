@@ -1,0 +1,20 @@
+RUBRO: CONFLICTOS INDIVIDUALES DE SEGURIDAD SOCIAL. EN LA ACCIÓN DE DEVOLUCIÓN DE APORTACIONES DE LA SUBCUENTA DE AHORRO VOLUNTARIO DE LA CUENTA INDIVIDUAL, ES INNECESARIO EXHIBIR CON LA DEMANDA, LA CONSTANCIA DE NEGATIVA DE DEVOLUCIÓN DE ESAS APORTACIONES POR PARTE DE LA ADMINISTRADORA DE FONDOS PARA EL RETIRO (AFORE), O BIEN, EL ACUSE DE RECIBO DE SU SOLICITUD, AL NO CONSTITUIR UN REQUISITO DE PROCEDIBILIDAD EN TÉRMINOS DEL ARTÍCULO 899-C DE LA LEY FEDERAL DEL TRABAJO.
+
+CLAVE DE TESIS: PR.L.CS. J/42 L (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; Plenos Regionales; Gaceta S.J.F.; Libro 29, Septiembre de 2023; Tomo III; Pág. 3152
+INSTANCIA: PLENO REGIONAL EN MATERIA DE TRABAJO DE LA REGIÓN CENTRO-SUR, CON RESIDENCIA EN LA CIUDAD DE MÉXICO. (Plenos Regionales)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2023-09-29T10:38:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2027298
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: En los conflictos individuales de seguridad social relativos a la devolución de aportaciones de la subcuenta de ahorro voluntario de la cuenta individual, la jurisprudencia establece que no es necesario acompañar con la demanda la constancia de negativa de devolución expedida por la Administradora de Fondos para el Retiro o el acuse de recibo de la solicitud respectiva, ya que estos documentos no constituyen un requisito de procedibilidad conforme al artículo 899-C de la Ley Federal del Trabajo, permitiendo así que el trabajador acceda a la jurisdicción sin cargas documentales previas que obstaculicen el ejercicio de su derecho de acción.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2027298

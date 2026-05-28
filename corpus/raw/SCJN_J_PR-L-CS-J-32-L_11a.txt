@@ -1,0 +1,20 @@
+RUBRO: SALARIOS CAÍDOS DE LOS TRABAJADORES PERTENECIENTES A ORGANISMOS PÚBLICOS DESCENTRALIZADOS FEDERALES, CUYAS RELACIONES LABORALES SE RIGEN POR EL APARTADO B DEL ARTÍCULO 123 CONSTITUCIONAL. SON DE NATURALEZA SUSTANTIVA Y ACCESORIOS A LA ACCIÓN PRINCIPAL POR LO QUE, POR REGLA GENERAL, SU CÁLCULO DEBE REALIZARSE CON BASE EN LA NORMA SUSTANTIVA QUE REGULÓ ESA RELACIÓN DE TRABAJO Y, EXCEPCIONALMENTE, CON EL DERECHO SUSTANTIVO CON EL QUE SE RESOLVIÓ LA ACCIÓN PRINCIPAL DE LA QUE DERIVAN.
+
+CLAVE DE TESIS: PR.L.CS. J/32 L (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; Plenos Regionales; Gaceta S.J.F.; Libro 28, Agosto de 2023; Tomo III; Pág. 3198
+INSTANCIA: PLENO REGIONAL EN MATERIA DE TRABAJO DE LA REGIÓN CENTRO-SUR, CON RESIDENCIA EN LA CIUDAD DE MÉXICO. (Plenos Regionales)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2023-08-04T10:12:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2026951
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: Los salarios caídos de trabajadores de organismos públicos descentralizados federales cuyas relaciones laborales se rigen por el Apartado B del artículo 123 constitucional tienen naturaleza sustantiva y son accesorios a la acción principal, por lo que su cálculo debe realizarse con base en la norma sustantiva que reguló la relación de trabajo en cuestión; sin embargo, excepcionalmente podrán calcularse conforme al derecho sustantivo aplicable a la acción principal de la que derivan, permitiendo así una solución flexible que atienda a las particularidades de cada caso concreto.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2026951

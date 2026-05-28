@@ -1,0 +1,20 @@
+RUBRO: COMPETENCIA PARA CONOCER DEL AMPARO DIRECTO CUANDO LA JUNTA DE CONCILIACIÓN Y ARBITRAJE QUE DICTÓ UN PRIMER LAUDO FUE SUSTITUIDA POR UNA QUE SE ENCUENTRA EN UN CIRCUITO JUDICIAL DISTINTO. CORRESPONDE AL TRIBUNAL COLEGIADO DE CIRCUITO QUE TUVO CONOCIMIENTO PREVIO DEL ASUNTO.
+
+CLAVE DE TESIS: 2a./J. 10/2025 (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; 2a. Sala; Gaceta S.J.F.; Libro 49, Mayo de 2025; Tomo III, Volumen 1; Pág. 410
+INSTANCIA: Segunda Sala (S.C.J.N.)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2025-05-23T10:28:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2030424
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: Cuando una Junta de Conciliación y Arbitraje que dictó un primer laudo es sustituida por otra ubicada en un circuito judicial distinto, la competencia para conocer del amparo directo contra ese laudo corresponde al Tribunal Colegiado de Circuito que tuvo conocimiento previo del asunto, estableciendo así que la competencia se determina por la continuidad procesal y la conexidad del conocimiento previo, evitando fragmentación de la jurisdicción y garantizando coherencia en la revisión de laudos laborales que provienen de la misma controversia original.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2030424

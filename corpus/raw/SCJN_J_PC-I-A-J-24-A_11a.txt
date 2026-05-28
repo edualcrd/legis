@@ -1,0 +1,20 @@
+RUBRO: PRUEBAS EN EL JUICIO DE AMPARO INDIRECTO. LA ADMISIÓN DE LA PERICIAL EN MATERIA CONTABLE OFRECIDA CONTRA EL OFICIO EMITIDO POR AUTORIDADES DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO (ISSSTE), EN CUMPLIMIENTO A UNA SENTENCIA DE NULIDAD Y A LA QUEJA POR DEFECTO, ESTÁ EN EL SUPUESTO DE EXCEPCIÓN PREVISTO EN EL PÁRRAFO SEGUNDO DEL ARTÍCULO 75 DE LA LEY DE AMPARO.
+
+CLAVE DE TESIS: PC.I.A. J/24 A (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; Plenos de Circuito; Gaceta S.J.F.; Libro 21, Enero de 2023; Tomo V; Pág. 4743
+INSTANCIA: PLENO EN MATERIA ADMINISTRATIVA DEL PRIMER CIRCUITO. (Plenos de Circuito)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2023-01-13T10:14:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2025772
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: En el juicio de amparo indirecto, cuando se ofrece una prueba pericial en materia contable en contra de un oficio emitido por autoridades del ISSSTE en cumplimiento de una sentencia de nulidad y a la queja por defecto, dicha prueba constituye una excepción a la regla general de inadmisibilidad de pruebas, conforme al párrafo segundo del artículo 75 de la Ley de Amparo, permitiendo su desahogo cuando resulta necesaria para demostrar la existencia de vicios en el acto reclamado que no fueron advertidos en la sentencia anterior.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2025772

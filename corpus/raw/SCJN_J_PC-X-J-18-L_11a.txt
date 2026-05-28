@@ -1,0 +1,20 @@
+RUBRO: SOBRESEIMIENTO EN EL JUICIO DE AMPARO DIRECTO. PROCEDE CUANDO LA PARTE PATRONAL QUEJOSA CELEBRA UN CONVENIO EN LA MODALIDAD DE EJECUCIÓN DE LAUDO CON EL TERCERO INTERESADO, CON POSTERIORIDAD A LA PRESENTACIÓN DE LA DEMANDA DE AMPARO DIRECTO CONTRA EL LAUDO RECLAMADO, Y NO CUMPLE EN SU INTEGRIDAD CON LO CONVENIDO O PACTADO, POR ACTUALIZARSE LA CAUSAL DE IMPROCEDENCIA ESTABLECIDA EN LA FRACCIÓN XXII DEL ARTÍCULO 61 DE LA LEY DE AMPARO, Y NO ASÍ LA CONTENIDA EN LA DIVERSA FRACCIÓN XIII.
+
+CLAVE DE TESIS: PC.X. J/18 L (10a.)
+LOCALIZACIÓN: [J]; 11a. Época; Plenos de Circuito; Gaceta S.J.F.; Libro 2, Junio de 2021; Tomo V; Pág. 4729
+INSTANCIA: PLENO DEL DECIMO CIRCUITO. (Plenos de Circuito)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2021-06-18T10:24:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2023280
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: El sobreseimiento en el juicio de amparo directo procede cuando la parte patronal demandante celebra un convenio de ejecución de laudo con el tercero interesado después de presentada la demanda de amparo contra el laudo reclamado, pero incumple integralmente lo pactado, actualizándose así la causal de improcedencia prevista en la fracción XXII del artículo 61 de la Ley de Amparo, que se configura por la falta de cumplimiento del acuerdo celebrado, y no la contenida en la fracción XIII, toda vez que el convenio posterior a la demanda no extingue la materia del juicio de amparo sino que genera una nueva situación procesal que impide continuar con el conocimiento del asunto.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2023280

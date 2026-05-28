@@ -1,0 +1,20 @@
+RUBRO: ORGANISMOS DESCENTRALIZADOS DE CARÁCTER FEDERAL. CON BASE EN LA LIBERTAD CONFIGURATIVA DEL ÓRGANO DE CREACIÓN, SU RÉGIMEN LABORAL PUEDE REGIRSE POR EL APARTADO A O POR EL B, DEL ARTÍCULO 123 DE LA CONSTITUCIÓN; POR LO QUE NO RESULTA INCONSTITUCIONAL EL ARTÍCULO 1o. DE LA LEY FEDERAL DE LOS TRABAJADORES AL SERVICIO DEL ESTADO.
+
+CLAVE DE TESIS: P./J. 10/2021 (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; Pleno; Gaceta S.J.F.; Libro 9, Enero de 2022; Tomo I; Pág. 5
+INSTANCIA: Pleno (S.C.J.N.)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2022-01-28T10:29:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2024102
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: Los organismos descentralizados de carácter federal pueden ser creados bajo la libertad configurativa del órgano legislativo para regirse ya sea por el régimen laboral del Apartado A o del Apartado B del artículo 123 de la Constitución Política de los Estados Unidos Mexicanos, según la naturaleza y funciones que se les asigne. El criterio establecido reconoce que esta clasificación no resulta inconstitucional, permitiendo que el legislador determine el régimen aplicable al momento de crear tales organismos. Por tanto, el artículo 1o. de la Ley Federal de los Trabajadores al Servicio del Estado, que establece esta distinción, es válido constitucionalmente y respeta la potestad del órgano de creación para definir las condiciones laborales de los trabajadores de estos organismos.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2024102

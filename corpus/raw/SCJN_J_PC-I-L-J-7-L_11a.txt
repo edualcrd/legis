@@ -1,0 +1,20 @@
+RUBRO: TERCERO EXTRAÑO AL JUICIO DE AMPARO. EL INSTITUTO PARA DEVOLVER AL PUEBLO LO ROBADO (INDEP), NO TIENE ESE CARÁCTER AL PROMOVERLO CONTRA LA EJECUCIÓN DEL LAUDO, CUANDO ACTÚA COMO ORGANISMO DESCENTRALIZADO Y NO COMO LIQUIDADOR EN EL JUICIO LABORAL, POR LO QUE SE ACTUALIZA LA CAUSA DE IMPROCEDENCIA ESTABLECIDA EN EL ARTÍCULO 61, FRACCIÓN XVIII, DE LA LEY DE AMPARO.
+
+CLAVE DE TESIS: PC.I.L. J/7 L (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; Plenos de Circuito; Gaceta S.J.F.; Libro 20, Diciembre de 2022; Tomo III; Pág. 2555
+INSTANCIA: PLENO EN MATERIA DE TRABAJO DEL PRIMER CIRCUITO. (Plenos de Circuito)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2022-12-09T10:21:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2025673
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: El supuesto jurídico que resuelve es la determinación de cuándo el Instituto para Devolver al Pueblo lo Robado (INDEP) debe considerarse tercero extraño al juicio de amparo promovido contra la ejecución de un laudo laboral. El criterio establecido es que el INDEP no tiene el carácter de tercero extraño cuando actúa en su calidad de organismo descentralizado, sino únicamente cuando interviene como liquidador en el juicio laboral, lo que genera la improcedencia del amparo conforme al artículo 61, fracción XVIII, de la Ley de Amparo.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2025673

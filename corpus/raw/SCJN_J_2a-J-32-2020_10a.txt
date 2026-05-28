@@ -1,0 +1,20 @@
+RUBRO: AVISO DE RESCISIÓN DE LA RELACIÓN LABORAL. SU NOTIFICACIÓN POR CONDUCTO DE LA JUNTA DE CONCILIACIÓN Y ARBITRAJE.
+
+CLAVE DE TESIS: 2a./J. 32/2020 (10a.)
+LOCALIZACIÓN: [J]; 10a. Época; 2a. Sala; Gaceta S.J.F.; Libro 79, Octubre de 2020; Tomo I; Pág. 537
+INSTANCIA: Segunda Sala (S.C.J.N.)
+ÉPOCA: 10a. Época
+FECHA DE PUBLICACIÓN: 2020-10-30T10:40:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2022318
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: El supuesto jurídico que resuelve es la forma y procedimiento mediante el cual debe notificarse al trabajador el aviso de rescisión de la relación laboral cuando se realiza por conducto de la Junta de Conciliación y Arbitraje. El criterio establecido establece que la notificación del aviso de rescisión debe efectuarse a través de los mecanismos y procedimientos que la Junta de Conciliación y Arbitraje tiene establecidos, garantizando que el trabajador reciba formal y oportunamente la comunicación de la terminación de su relación laboral, lo que constituye un requisito esencial para la validez de la rescisión.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2022318

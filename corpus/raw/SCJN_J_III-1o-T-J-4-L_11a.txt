@@ -1,0 +1,20 @@
+RUBRO: IMPROCEDENCIA DEL JUICIO DE AMPARO INDIRECTO. ES INDUDABLE Y MANIFIESTA CUANDO SE PROMUEVE CONTRA LA NEGATIVA DE LA INSTITUCIÓN PÚBLICA DE SALUD EN LA QUE EL QUEJOSO PRESTA SUS SERVICIOS COMO TRABAJADOR, A OTORGARLE UNA LICENCIA CON GOCE DE SUELDO, AL NO TENER AQUÉLLA EL CARÁCTER DE AUTORIDAD RESPONSABLE.
+
+CLAVE DE TESIS: III.1o.T. J/4 L (10a.)
+LOCALIZACIÓN: [J]; 11a. Época; T.C.C.; Gaceta S.J.F.; Libro 11, Marzo de 2022; Tomo IV; Pág. 2817
+INSTANCIA: PRIMER TRIBUNAL COLEGIADO EN MATERIA DE TRABAJO DEL TERCER CIRCUITO. (T.C.C.)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2022-03-04T10:07:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2024236
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: La improcedencia del juicio de amparo indirecto resulta indudable y manifiesta cuando se promueve contra la negativa de una institución pública de salud en la que el quejoso labora como trabajador, a otorgarle una licencia con goce de sueldo, toda vez que dicha institución no tiene el carácter de autoridad responsable en los términos del amparo, siendo que las controversias derivadas de la relación laboral entre trabajador e institución empleadora deben ventilarse a través de los procedimientos establecidos en la materia laboral y no mediante el juicio de garantías.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2024236

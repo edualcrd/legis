@@ -1,0 +1,20 @@
+RUBRO: NULIDAD DE NOTIFICACIONES EN EL PROCEDIMIENTO LABORAL. EL INCIDENTE RELATIVO DEBE PROMOVERSE DENTRO DEL PLAZO GENÉRICO DE TRES DÍAS HÁBILES PREVISTO EN EL ARTÍCULO 735 DE LA LEY FEDERAL DEL TRABAJO, QUE INICIA A PARTIR DEL DÍA SIGUIENTE AL EN QUE EL AFECTADO TENGA CONOCIMIENTO O SE MANIFIESTE SABEDOR DE LA ACTUACIÓN QUE LE AGRAVIA, Y SE CONTARÁ EL DÍA DE SU VENCIMIENTO.
+
+CLAVE DE TESIS: 2a./J. 156/2004
+LOCALIZACIÓN: [J]; 10a. Época; 2a. Sala; S.J.F. y su Gaceta; Libro 40, Marzo de 2017; Tomo II; Pág. 1201
+INSTANCIA: Segunda Sala (S.C.J.N.)
+ÉPOCA: 10a. Época
+FECHA DE PUBLICACIÓN: 2017-03-31T10:34:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 159806
+FUENTE: Semanario Judicial de la Federación y su Gaceta
+
+TEXTO_SINTETICO: La nulidad de notificaciones en procedimientos laborales constituye un incidente que debe promoverse dentro del plazo genérico de tres días hábiles establecido en el artículo 735 de la Ley Federal del Trabajo, plazo que comienza a correr a partir del día siguiente a aquel en que el afectado tenga conocimiento o se manifieste sabedor de la actuación que le causa agravio, contándose el día de su vencimiento para efectos de la presentación oportuna del incidente.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/159806

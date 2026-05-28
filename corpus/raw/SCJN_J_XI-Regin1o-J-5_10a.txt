@@ -1,0 +1,20 @@
+RUBRO: NULIDAD DE CONVENIO DE LIQUIDACIÓN. LA PRESCRIPCIÓN DE LA ACCIÓN PARA SOLICITARLA ESTÁ SUJETA A LA REGLA GENÉRICA PREVISTA EN EL ARTÍCULO 516 DE LA LEY FEDERAL DEL TRABAJO.
+
+CLAVE DE TESIS: (XI Región)1o. J/5 (10a.)
+LOCALIZACIÓN: [J]; 10a. Época; T.C.C.; Gaceta S.J.F.; Libro 48, Noviembre de 2017; Tomo III; Pág. 1883
+INSTANCIA: PRIMER TRIBUNAL COLEGIADO DE CIRCUITO DEL CENTRO AUXILIAR DE LA DECIMOPRIMERA REGIÓN, CON RESIDENCIA EN COATZACOALCOS, VERACRUZ. (T.C.C.)
+ÉPOCA: 10a. Época
+FECHA DE PUBLICACIÓN: 2017-11-10T10:21:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2015491
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: La nulidad de un convenio de liquidación se configura cuando existen vicios en su formación o ejecución que afectan su validez jurídica. El criterio establecido determina que la acción para solicitar la nulidad de tales convenios se encuentra sujeta al plazo de prescripción genérico previsto en el artículo 516 de la Ley Federal del Trabajo, lo que significa que el trabajador o sus beneficiarios deben ejercitar esta acción dentro del término ordinario de prescripción laboral aplicable, sin que exista un plazo especial o diferenciado para este tipo de demandas de nulidad.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2015491

@@ -1,0 +1,20 @@
+RUBRO: OFRECIMIENTO DE TRABAJO. ES DE MALA FE CUANDO LA PATRONAL, AL ABSOLVER LA PRUEBA CONFESIONAL A SU CARGO, NIEGA LA EXISTENCIA DE LA RELACIÓN LABORAL O ALGUNO DE SUS ELEMENTOS ESENCIALES (HORARIO, JORNADA, PUESTO O SALARIO DEL TRABAJADOR), QUE PREVIAMENTE RECONOCIÓ AL CONTESTAR LA DEMANDA, LO QUE REFLEJA UNA CONDUCTA PROCESAL INDEBIDA.
+
+CLAVE DE TESIS: PC.III.L. J/18 L (10a.)
+LOCALIZACIÓN: [J]; 10a. Época; Plenos de Circuito; Gaceta S.J.F.; Libro 37, Diciembre de 2016; Tomo II; Pág. 1320
+INSTANCIA: PLENO EN MATERIA DE TRABAJO DEL TERCER CIRCUITO. (Plenos de Circuito)
+ÉPOCA: 10a. Época
+FECHA DE PUBLICACIÓN: 2016-12-09T10:21:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2013295
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: El supuesto jurídico que resuelve este criterio es la conducta procesal de mala fe del patrón cuando, al absolver la prueba confesional, niega la existencia de la relación laboral o elementos esenciales de ésta (horario, jornada, puesto o salario) que previamente había reconocido al contestar la demanda. El criterio establecido es que tal negación constituye una conducta procesal indebida que refleja mala fe, ya que implica una contradicción deliberada entre lo afirmado en la contestación de demanda y lo negado en la confesional, lo que vulnera los principios de coherencia y buena fe que deben regir el proceso laboral. Esta conducta procesal indebida puede ser valorada por el juzgador como un indicio en contra de la posición del patrón y a favor de los derechos del trabajador.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2013295

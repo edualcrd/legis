@@ -1,0 +1,20 @@
+RUBRO: AUTORIDAD RESPONSABLE PARA EFECTOS DEL JUICIO DE AMPARO. TIENE ESE CARÁCTER EL INSTITUTO MEXICANO DEL SEGURO SOCIAL (IMSS), CUANDO ACTÚA COMO ENTE ASEGURADOR Y ORDENA EXPRESAMENTE LA SUSPENSIÓN DEL PAGO DE UNA PENSIÓN POR CESANTÍA EN EDAD AVANZADA PREVIAMENTE OTORGADA, EN VIRTUD DE ENCONTRARSE ABIERTO UN PROCESO JUDICIAL CONTRA EL  PENSIONADO, POR INCONSISTENCIAS EN LA FECHA ASENTADA EN EL ACTA DE NACIMIENTO QUE PRESENTÓ PARA OBTENER ESE DERECHO.
+
+CLAVE DE TESIS: PR.A.CS. J/23 A (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; Plenos Regionales; Gaceta S.J.F.; Libro 31, Noviembre de 2023; Tomo III; Pág. 2836
+INSTANCIA: PLENO REGIONAL EN MATERIA ADMINISTRATIVA DE LA REGIÓN CENTRO-SUR, CON RESIDENCIA EN CUERNAVACA, MORELOS. (Plenos Regionales)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2023-11-17T10:28:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2027614
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: El Instituto Mexicano del Seguro Social actúa como autoridad responsable para efectos del juicio de amparo cuando, en su carácter de ente asegurador, ordena expresamente la suspensión del pago de una pensión por cesantía en edad avanzada que había sido previamente otorgada al pensionado, fundamentando tal medida en la existencia de un proceso judicial abierto en su contra por inconsistencias detectadas en la fecha consignada en el acta de nacimiento que fue presentada para obtener ese derecho. El criterio establecido reconoce que el IMSS, al ejercer funciones de aseguramiento y tomar decisiones que afectan directamente derechos prestacionales ya reconocidos, asume la calidad de autoridad responsable susceptible de ser controvertida mediante el juicio de amparo.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2027614

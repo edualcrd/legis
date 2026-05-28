@@ -1,0 +1,20 @@
+RUBRO: RECURSO DE QUEJA. PROCEDE CONTRA LA OMISIÓN DE LA AUTORIDAD LABORAL DE TRAMITAR Y/O RESOLVER EL INCIDENTE DE DAÑOS Y PERJUICIOS [ARTÍCULO 97, FRACCIÓN II, INCISOS A) Y C), DE LA LEY DE AMPARO].
+
+CLAVE DE TESIS: 2a./J. 102/2024 (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; 2a. Sala; Gaceta S.J.F.; Libro 43, Noviembre de 2024; Tomo IV, Volumen 1; Pág. 835
+INSTANCIA: Segunda Sala (S.C.J.N.)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2024-11-22T10:33:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2029569
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: El recurso de queja procede cuando la autoridad laboral omite tramitar y/o resolver el incidente de daños y perjuicios, conforme a lo establecido en el artículo 97, fracción II, incisos a) y c), de la Ley de Amparo. El criterio reconoce que la inactividad de la autoridad laboral en la sustanciación de este incidente constituye un acto omisivo susceptible de ser combatido a través de este medio de impugnación, permitiendo que los justiciables acudan ante la autoridad competente cuando la autoridad laboral incumple con sus obligaciones de tramitación y resolución. De esta manera, se garantiza el acceso a la justicia laboral y se evita que la omisión administrativa deje sin protección los derechos de las partes en un procedimiento laboral.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2029569

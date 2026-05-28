@@ -1,0 +1,20 @@
+RUBRO: PENSIÓN POR JUBILACIÓN. LA RESOLUCIÓN EMITIDA POR EL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO CARENTE DE FUNDAMENTACIÓN Y MOTIVACIÓN ES ILEGAL, DEBIENDO EL TRIBUNAL FEDERAL DE JUSTICIA ADMINISTRATIVA HACERLA VALER, DE OFICIO.
+
+CLAVE DE TESIS: I.6o.A. J/3 (10a.)
+LOCALIZACIÓN: [J]; 10a. Época; T.C.C.; Gaceta S.J.F.; Libro 40, Marzo de 2017; Tomo IV; Pág. 2496
+INSTANCIA: SEXTO TRIBUNAL COLEGIADO EN MATERIA ADMINISTRATIVA DEL PRIMER CIRCUITO. (T.C.C.)
+ÉPOCA: 10a. Época
+FECHA DE PUBLICACIÓN: 2017-03-17T10:20:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2013978
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: La resolución emitida por el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado que carece de fundamentación y motivación en materia de pensión por jubilación constituye un acto administrativo ilegal que vulnera los principios de legalidad y debido proceso. El criterio establecido determina que el Tribunal Federal de Justicia Administrativa tiene la obligación de hacer valer de oficio la nulidad de tales resoluciones, sin necesidad de que el trabajador o pensionista lo solicite expresamente, garantizando así el respeto a los derechos de los servidores públicos en la obtención de sus prestaciones de seguridad social.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2013978

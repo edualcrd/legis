@@ -1,0 +1,20 @@
+RUBRO: ALEGATOS EN EL JUICIO LABORAL BUROCRÁTICO. APLICACIÓN SUPLETORIA DE LOS ARTÍCULOS 882, 884, FRACCIÓN IV, 885, FRACCIÓN IV, 888 Y 735 DE LA LEY FEDERAL DEL TRABAJO, VIGENTE HASTA EL 30 DE NOVIEMBRE DE 2012, A LA LEY PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS.
+
+CLAVE DE TESIS: PC.III.L. J/16 L (10a.)
+LOCALIZACIÓN: [J]; 10a. Época; Plenos de Circuito; Gaceta S.J.F.; Libro 36, Noviembre de 2016; Tomo III; Pág. 1610
+INSTANCIA: PLENO EN MATERIA DE TRABAJO DEL TERCER CIRCUITO. (Plenos de Circuito)
+ÉPOCA: 10a. Época
+FECHA DE PUBLICACIÓN: 2016-11-11T10:22:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2013000
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: En los juicios laborales burocráticos, cuando la ley local aplicable presenta lagunas o insuficiencias en materia de alegatos, resulta procedente aplicar supletoriamente los artículos 882, 884 fracción IV, 885 fracción IV, 888 y 735 de la Ley Federal del Trabajo vigente hasta el 30 de noviembre de 2012, a fin de garantizar que los servidores públicos del Estado de Jalisco y sus municipios puedan ejercer adecuadamente su derecho de defensa mediante la presentación de argumentos en el procedimiento. Este criterio establece que las disposiciones de la Ley Federal del Trabajo relativas a los alegatos en materia laboral constituyen normas supletorias aplicables a la Ley para los Servidores Públicos del Estado de Jalisco y sus Municipios, permitiendo así una regulación completa y coherente del procedimiento judicial laboral burocrático.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2013000

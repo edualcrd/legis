@@ -1,0 +1,20 @@
+RUBRO: COMPETENCIA POR MATERIA PARA CONOCER DEL AMPARO EN REVISIÓN CUYO ACTO RECLAMADO SE ATRIBUYE AL TRIBUNAL DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE SONORA, EN SU CARÁCTER DE TRIBUNAL BUROCRÁTICO. CORRESPONDE AL TRIBUNAL COLEGIADO DE CIRCUITO EN MATERIA DE TRABAJO.
+
+CLAVE DE TESIS: PR.P.T.CN. J/16 L (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; Plenos Regionales; Gaceta S.J.F.; Libro 40, Agosto de 2024; Tomo III, Volumen 1; Pág. 348
+INSTANCIA: PLENO REGIONAL EN MATERIAS PENAL Y DE TRABAJO DE LA REGIÓN CENTRO-NORTE, CON RESIDENCIA EN LA CIUDAD DE MÉXICO. (Plenos Regionales)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2024-08-16T10:24:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2029266
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: El supuesto jurídico que resuelve es la determinación de la competencia por materia para conocer de un amparo en revisión cuando el acto reclamado proviene del Tribunal de Justicia Administrativa del Estado de Sonora actuando como tribunal burocrático. El criterio establecido es que corresponde al Tribunal Colegiado de Circuito en materia de trabajo la competencia para conocer de este tipo de amparos, lo que implica que la naturaleza laboral de la controversia subyacente determina la competencia del órgano jurisdiccional federal que debe revisar la sentencia del tribunal administrativo estatal.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2029266

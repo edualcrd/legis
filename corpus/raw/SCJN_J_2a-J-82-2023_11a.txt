@@ -1,0 +1,20 @@
+RUBRO: BENEFICIARIOS DEL TRABAJADOR FALLECIDO. EN RELACIÓN A LA CLÁUSULA 132 DEL CONTRATO COLECTIVO DE TRABAJO, BIENIO 2013-2015, CELEBRADO ENTRE PETRÓLEOS MEXICANOS Y SU SINDICATO DE TRABAJADORES, PUEDEN TENER EL CARÁCTER DE BENEFICIARIAS DOS PERSONAS QUE ACREDITARON LA CALIDAD DE CÓNYUGES, AUN CUANDO ALGUNA DE ELLAS NO HAYA SIDO DESIGNADA PREVIAMENTE COMO BENEFICIARIA.
+
+CLAVE DE TESIS: 2a./J. 82/2023  (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; 2a. Sala; Gaceta S.J.F.; Libro 33, Enero de 2024; Tomo III; Pág. 2318
+INSTANCIA: Segunda Sala (S.C.J.N.)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2024-01-12T10:13:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2027961
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: El supuesto jurídico que resuelve es la determinación de quiénes pueden ser reconocidos como beneficiarios de un trabajador fallecido conforme a la cláusula 132 del contrato colectivo de trabajo celebrado entre Petróleos Mexicanos y su sindicato para el bienio 2013-2015. El criterio establecido es que dos personas pueden tener el carácter de beneficiarias si acreditan la calidad de cónyuges del trabajador fallecido, independientemente de que una de ellas no haya sido designada previamente como beneficiaria en los registros de la empresa, lo que reconoce la protección de derechos derivados de la relación matrimonial sobre la mera formalidad de designación anticipada.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2027961

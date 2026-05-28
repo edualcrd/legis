@@ -1,0 +1,20 @@
+RUBRO: LAGUNAS NORMATIVAS EN LA LEY FEDERAL DEL TRABAJO. PARA SUBSANARLAS, DEBE ACUDIRSE A SU ARTÍCULO 17.
+
+CLAVE DE TESIS: PR.L.CN. J/26 L (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; Plenos Regionales; Gaceta S.J.F.; Libro 34, Febrero de 2024; Tomo III; Pág. 2316
+INSTANCIA: PLENO REGIONAL EN MATERIA DE TRABAJO DE LA REGIÓN CENTRO-NORTE, CON RESIDENCIA EN MONTERREY, NUEVO LEÓN. (Plenos Regionales)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2024-02-02T10:04:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2028119
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: Las lagunas normativas que se presentan en la interpretación y aplicación de la Ley Federal del Trabajo deben subsanarse acudiendo a los principios generales del derecho, conforme lo establece el artículo 17 de dicha ley, el cual faculta a los juzgadores para resolver las controversias laborales incluso cuando no existe disposición expresa que las regule, aplicando los principios que derivan del propio ordenamiento laboral y de los principios generales del derecho. Este criterio reconoce que ante la ausencia de una norma específica en la ley laboral, el intérprete debe recurrir a los fundamentos axiológicos y principios rectores del derecho del trabajo para colmar las deficiencias normativas y garantizar una solución justa y conforme a la naturaleza protectora del derecho laboral mexicano.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2028119

@@ -1,0 +1,20 @@
+RUBRO: SERVICIO PROFESIONAL DE CARRERA EN LA ADMINISTRACIÓN PÚBLICA FEDERAL. LA INDEMNIZACIÓN DE 20 DÍAS DE SALARIO POR CADA AÑO DE SERVICIOS PRESTADOS COMPRENDE LA ANTIGÜEDAD GENERADA POR EL TRABAJADOR AL SERVICIO DEL ESTADO, AUN EN PUESTOS QUE NO FORMAN PARTE DE AQUÉL, SALVO QUE SE TRATE DE LA SOLA CONCLUSIÓN DEL NOMBRAMIENTO EN EL SISTEMA, CON DERECHO DE REINCORPORACIÓN A UNA PLAZA DE BASE.
+
+CLAVE DE TESIS: PC.I.L. J/65 L (10a.)
+LOCALIZACIÓN: [J]; 10a. Época; Plenos de Circuito; Gaceta S.J.F.; Libro 77, Agosto de 2020; Tomo VI; Pág. 5669
+INSTANCIA: PLENO EN MATERIA DE TRABAJO DEL PRIMER CIRCUITO. (Plenos de Circuito)
+ÉPOCA: 10a. Época
+FECHA DE PUBLICACIÓN: 2020-08-28T10:36:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2022060
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: En materia de servicio profesional de carrera en la administración pública federal, cuando se calcula la indemnización de veinte días de salario por cada año de servicios prestados, debe considerarse toda la antigüedad acumulada por el trabajador al servicio del Estado, incluyendo aquella generada en puestos que no forman parte del sistema de carrera, con la excepción de que si únicamente concluye el nombramiento dentro del sistema pero el trabajador conserva derecho de reincorporación a una plaza de base, no se genera derecho a tal indemnización. Este criterio reconoce que la antigüedad es un derecho que se consolida por el tiempo de prestación de servicios al Estado, independientemente de la modalidad contractual o del tipo de puesto desempeñado, salvo cuando existe la posibilidad de reinserción laboral en el mismo aparato estatal.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2022060

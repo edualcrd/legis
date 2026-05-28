@@ -1,0 +1,20 @@
+RUBRO: JUICIO CONTENCIOSO ADMINISTRATIVO FEDERAL. ES PROCEDENTE CUANDO SE DEMANDA DE PETRÓLEOS MEXICANOS (PEMEX) Y SUS EMPRESAS PRODUCTIVAS LA FORMALIZACIÓN DE UN CONTRATO DERIVADO DE UN PROCEDIMIENTO DE ADJUDICACIÓN DIRECTA, ASÍ COMO EL PAGO DE LOS TRABAJOS EFECTUADOS Y, POR TANTO, SE SURTE LA COMPETENCIA POR RAZÓN DE LA VÍA ANTE EL TRIBUNAL FEDERAL DE JUSTICIA ADMINISTRATIVA.
+
+CLAVE DE TESIS: PC.I.C. J/20 C (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; Plenos de Circuito; Gaceta S.J.F.; Libro 18, Octubre de 2022; Tomo III; Pág. 2944
+INSTANCIA: PLENO EN MATERIA CIVIL DEL PRIMER CIRCUITO. (Plenos de Circuito)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2022-10-14T10:24:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2025364
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: El juicio contencioso administrativo federal es procedente cuando se demanda a Petróleos Mexicanos y sus empresas productivas la formalización de un contrato derivado de un procedimiento de adjudicación directa, así como el pago de los trabajos efectuados, toda vez que estas acciones constituyen actos administrativos susceptibles de control jurisdiccional y se surte la competencia por razón de la vía ante el Tribunal Federal de Justicia Administrativa, quien tiene facultad para conocer de controversias en las que se cuestione la legalidad de decisiones administrativas relacionadas con procedimientos de contratación pública y obligaciones de pago derivadas de los mismos.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2025364

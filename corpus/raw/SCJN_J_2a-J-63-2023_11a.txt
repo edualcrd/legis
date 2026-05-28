@@ -1,0 +1,20 @@
+RUBRO: PENSIÓN DE VIUDEZ. EL ARTÍCULO 132, FRACCIÓN I Y ÚLTIMO PÁRRAFO DE LA LEY DEL SEGURO SOCIAL, QUE CONDICIONA EL DERECHO DE LA PERSONA CÓNYUGE SUPÉRSTITE A RECIBIRLA A QUE EL FALLECIMIENTO DE LA PERSONA TRABAJADORA O PENSIONADA HAYA SUCEDIDO DESPUÉS DE SEIS MESES DE QUE CONTRAJERON MATRIMONIO, EXCEPTO CUANDO SE COMPRUEBE QUE TUVIERON HIJOS EN COMÚN, ES VIOLATORIO DE LOS DERECHOS A LA IGUALDAD JURÍDICA, A LA NO DISCRIMINACIÓN Y A LA SEGURIDAD SOCIAL.
+
+CLAVE DE TESIS: 2a./J. 63/2023 (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; 2a. Sala; Gaceta S.J.F.; Libro 32, Diciembre de 2023; Tomo III; Pág. 2246
+INSTANCIA: Segunda Sala (S.C.J.N.)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2023-12-01T10:13:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2027744
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: El supuesto jurídico que resuelve es la constitucionalidad del requisito temporal de seis meses de matrimonio para que la persona cónyuge supérstite acceda a la pensión de viudez conforme al artículo 132, fracción I y último párrafo de la Ley del Seguro Social. El criterio establecido es que dicha condición resulta violatoria de los derechos fundamentales a la igualdad jurídica, a la no discriminación y a la seguridad social, al discriminar arbitrariamente a las personas cónyuges que contraen matrimonio poco tiempo antes del fallecimiento de la persona trabajadora o pensionada, sin justificación objetiva que sustente tal distinción, salvo en el caso de que existan hijos en común.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2027744

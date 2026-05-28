@@ -1,0 +1,20 @@
+RUBRO: PRESTACIONES DE ALIMENTACIÓN Y HABITACIÓN. SE EXCLUYEN DEL SALARIO BASE DE COTIZACIÓN, DE CONFORMIDAD CON EL ARTÍCULO 27, FRACCIÓN V, DE LA LEY DEL SEGURO SOCIAL, SÓLO CUANDO SE OTORGAN EN ESPECIE A LOS TRABAJADORES.
+
+CLAVE DE TESIS: PC.XXIII. J/1 A (10a.)
+LOCALIZACIÓN: [J]; 11a. Época; Plenos de Circuito; Gaceta S.J.F.; Libro 4, Agosto de 2021; Tomo IV; Pág. 4391
+INSTANCIA: PLENO DEL VIGESIMO TERCER CIRCUITO. (Plenos de Circuito)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2021-08-06T10:14:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2023410
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: Las prestaciones de alimentación y habitación constituyen conceptos que pueden o no integrarse en el salario base de cotización ante el Instituto Mexicano del Seguro Social, dependiendo de su forma de otorgamiento. El criterio establecido determina que estas prestaciones se excluyen del salario base de cotización únicamente cuando se proporcionan en especie directamente al trabajador, es decir, cuando el patrón suministra alimentos o vivienda de manera física y no en forma de compensación económica. Conforme al artículo 27, fracción V, de la Ley del Seguro Social, esta exclusión opera como una excepción al principio general de integración salarial, permitiendo que los patrones que otorguen estas prestaciones en especie reduzcan la base sobre la cual cotizan las cuotas obrero-patronales.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2023410

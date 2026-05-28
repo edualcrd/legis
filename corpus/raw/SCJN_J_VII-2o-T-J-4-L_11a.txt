@@ -1,0 +1,20 @@
+RUBRO: COMPETENCIA PARA CONOCER DEL JUICIO LABORAL PROMOVIDO EN LA VÍA ESPECIAL EN EL QUE SE SOLICITA LA DECLARACIÓN DE BENEFICIARIOS DE UN TRABAJADOR FALLECIDO, SIN VINCULACIÓN CON ALGUNA OTRA PRESTACIÓN. CORRESPONDE AL TRIBUNAL LABORAL LOCAL SI LA NATURALEZA DEL PATRÓN NO ACTUALIZA LA COMPETENCIA FEDERAL.
+
+CLAVE DE TESIS: VII.2o.T. J/4 L (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; T.C.C.; Gaceta S.J.F.; Libro 23, Marzo de 2023; Tomo IV; Pág. 3271
+INSTANCIA: SEGUNDO TRIBUNAL COLEGIADO EN MATERIA DE TRABAJO DEL SÉPTIMO CIRCUITO. (T.C.C.)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2023-03-10T10:13:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2026100
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: La competencia para conocer de un juicio laboral promovido en la vía especial en el que se solicita únicamente la declaración de beneficiarios de un trabajador fallecido, sin que exista vinculación con otra prestación laboral, corresponde al tribunal laboral local, siempre que la naturaleza del patrón no actualice los supuestos de competencia federal. El criterio establece que la determinación de beneficiarios constituye una cuestión accesoria que no genera por sí sola competencia federal, por lo que la jurisdicción se define conforme a las reglas generales de competencia territorial y material del fuero laboral local, dependiendo de si el patrón es de naturaleza federal o local.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2026100

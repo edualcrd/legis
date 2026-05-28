@@ -1,0 +1,20 @@
+RUBRO: PERSONAL SINDICALIZADO DE PETRÓLEOS MEXICANOS (PEMEX). TIENE DERECHO A OPTAR ENTRE EL RÉGIMEN DE JUBILACIONES O EL DE RETIRO POR CUENTAS INDIVIDUALES, INDEPENDIENTEMENTE DE SI ES DE PLANTA O TRANSITORIO (ARTÍCULO 2 DEL ANEXO 16 DEL CONTRATO COLECTIVO DE TRABAJO).
+
+CLAVE DE TESIS: PR.P.T.CS. J/1 L (12a.)
+LOCALIZACIÓN: [J]; 12a. Época; Plenos Regionales; Gaceta S.J.F.; Libro 5, Enero de 2026; Tomo II, Volumen 1; Pág. 558
+INSTANCIA: PLENO REGIONAL EN MATERIAS PENAL Y DE TRABAJO DE LA REGIÓN CENTRO-SUR, CON RESIDENCIA EN LA CIUDAD DE MÉXICO. (Plenos Regionales)
+ÉPOCA: 12a. Época
+FECHA DE PUBLICACIÓN: 2026-01-09T10:10:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2031645
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: El supuesto jurídico que resuelve es la determinación de los derechos de jubilación y retiro del personal sindicalizado de Petróleos Mexicanos, específicamente si los trabajadores transitorios tienen derecho a elegir entre regímenes de pensión. El criterio establecido es que todo el personal sindicalizado de PEMEX, sin distinción entre trabajadores de planta o transitorios, tiene el derecho de optar libremente entre el régimen de jubilaciones o el de retiro por cuentas individuales, conforme a lo dispuesto en el artículo 2 del Anexo 16 del Contrato Colectivo de Trabajo, lo que garantiza igualdad de trato en materia de prestaciones de seguridad social.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2031645

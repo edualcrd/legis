@@ -1,0 +1,20 @@
+RUBRO: SUSPENSIÓN EN EL JUICIO DE AMPARO DIRECTO LABORAL. EL MONTO NECESARIO PARA ASEGURAR LA SUBSISTENCIA DE LA PARTE TRABAJADORA ES SUSCEPTIBLE DE RETENCIÓN DEL IMPUESTO SOBRE LA RENTA AL MOMENTO DE SU PAGO.
+
+CLAVE DE TESIS: PR.L.CS. J/67 L (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; Plenos Regionales; Gaceta S.J.F.; Libro 35, Marzo de 2024; Tomo V; Pág. 5345
+INSTANCIA: PLENO REGIONAL EN MATERIA DE TRABAJO DE LA REGIÓN CENTRO-SUR, CON RESIDENCIA EN LA CIUDAD DE MÉXICO. (Plenos Regionales)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2024-03-08T10:11:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2028386
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: La suspensión en el juicio de amparo directo laboral procede cuando se cuestiona una sentencia de la Junta de Conciliación y Arbitraje, y en estos casos el monto destinado a asegurar la subsistencia del trabajador demandante es susceptible de retención del impuesto sobre la renta al momento en que se efectúa su pago, lo que significa que aunque la ley laboral protege la cantidad necesaria para la supervivencia del trabajador, esta protección no lo exime de cumplir con sus obligaciones fiscales derivadas de la obtención de ingresos, estableciendo así que la garantía de subsistencia y las obligaciones tributarias coexisten sin que una anule a la otra.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2028386

@@ -1,0 +1,20 @@
+RUBRO: SUSPENSIÓN PROVISIONAL. PROCEDE OTORGARLA EN EL AMPARO PROMOVIDO CONTRA LA RETENCIÓN PREVISTA EN EL ARTÍCULO 25, FRACCIÓN I, DE LA LEY DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO DE SONORA.
+
+CLAVE DE TESIS: PC.V. J/22 A (10a.)
+LOCALIZACIÓN: [J]; 10a. Época; Plenos de Circuito; Gaceta S.J.F.; Libro 63, Febrero de 2019; Tomo II; Pág. 2123
+INSTANCIA: PLENO DEL QUINTO CIRCUITO (Plenos de Circuito)
+ÉPOCA: 10a. Época
+FECHA DE PUBLICACIÓN: 2019-02-01T10:03:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2019202
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: La suspensión provisional en amparo procede cuando se cuestiona la retención de prestaciones conforme a la normativa estatal de seguridad social de los trabajadores del estado. El criterio establece que el acto reclamado que implica la retención de derechos o prestaciones sociales genera un daño de difícil reparación que justifica otorgar la medida cautelar, permitiendo al quejoso el goce de sus prestaciones mientras se resuelve el fondo del asunto. Se aplica al supuesto específico de retenciones previstas en el artículo 25, fracción I, de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado de Sonora.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2019202

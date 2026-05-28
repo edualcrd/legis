@@ -1,0 +1,20 @@
+RUBRO: CÉDULA DE LIQUIDACIÓN DE CUOTAS OBRERO PATRONALES. CUANDO EL INSTITUTO MEXICANO DEL SEGURO SOCIAL LA EMITE, PERO NO ACREDITA LA EXISTENCIA DE LA RELACIÓN LABORAL PARA FINCAR UN CRÉDITO FISCAL, LA NULIDAD DECRETADA DEBE SER LISA Y LLANA.
+
+CLAVE DE TESIS: 2a./J. 191/2016 (10a.)
+LOCALIZACIÓN: [J]; 10a. Época; 2a. Sala; Gaceta S.J.F.; Libro 41, Abril de 2017; Tomo I; Pág. 905
+INSTANCIA: Segunda Sala (S.C.J.N.)
+ÉPOCA: 10a. Época
+FECHA DE PUBLICACIÓN: 2017-04-07T10:11:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2014062
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: Cuando el Instituto Mexicano del Seguro Social emite una cédula de liquidación de cuotas obrero patronales sin acreditar la existencia de la relación laboral que fundamenta el crédito fiscal, el criterio establecido es que la nulidad decretada debe ser lisa y llana, es decir, sin condicionamientos ni salvedad alguna, toda vez que el acto administrativo carece del supuesto jurídico esencial para su validez y eficacia.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2014062

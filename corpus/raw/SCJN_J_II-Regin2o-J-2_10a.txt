@@ -1,0 +1,20 @@
+RUBRO: ALEGATOS EN EL JUICIO LABORAL. LA OBLIGACIÓN DE LA JUNTA DE OTORGAR A LAS PARTES EL DERECHO PARA FORMULARLOS TIENE FUNDAMENTO EN LOS ARTÍCULOS 882, 884, FRACCIÓN IV, 885, FRACCIÓN IV Y 888 DE LA LEY FEDERAL DEL TRABAJO, VIGENTE HASTA EL 30 DE NOVIEMBRE DE 2012, ASÍ COMO EN LA TESIS DE JURISPRUDENCIA 2a./J. 32/2014 (10a.).
+
+CLAVE DE TESIS: (II Región)2o. J/2 (10a.)
+LOCALIZACIÓN: [J]; 10a. Época; T.C.C.; Gaceta S.J.F.; Libro 46, Septiembre de 2017; Tomo III; Pág. 1598
+INSTANCIA: SEGUNDO TRIBUNAL COLEGIADO DE CIRCUITO DEL CENTRO AUXILIAR DE LA SEGUNDA REGIÓN, CON RESIDENCIA EN SAN ANDRÉS CHOLULA, PUEBLA. (T.C.C.)
+ÉPOCA: 10a. Época
+FECHA DE PUBLICACIÓN: 2017-09-08T10:17:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2015106
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: La Junta de Conciliación y Arbitraje tiene la obligación de otorgar a las partes el derecho de formular alegatos en el juicio laboral, obligación que encuentra su fundamento en los artículos 882, 884 fracción IV, 885 fracción IV y 888 de la Ley Federal del Trabajo vigente hasta el 30 de noviembre de 2012, así como en la jurisprudencia establecida. Este criterio reconoce que los alegatos constituyen un elemento esencial del debido proceso laboral, permitiendo a las partes exponer sus argumentos finales antes de que se dicte sentencia, garantizando así el derecho de audiencia y defensa en el procedimiento.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2015106

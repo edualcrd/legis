@@ -1,0 +1,20 @@
+RUBRO: TERCERO INTERESADO. ADQUIERE ESE CARÁCTER LA PARTE ACTORA DE LOS RESPECTIVOS JUICIOS LABORALES ACUMULADOS, EN LOS QUE SE RECLAMA UNA MISMA PRETENSIÓN E INTERESES EXCLUYENTES.
+
+CLAVE DE TESIS: 2a./J. 20/2021 (10a.)
+LOCALIZACIÓN: [J]; 11a. Época; 2a. Sala; Gaceta S.J.F.; Libro 1, Mayo de 2021; Tomo II; Pág. 1919
+INSTANCIA: Segunda Sala (S.C.J.N.)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2021-05-14T10:19:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2023121
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: La parte actora en juicios laborales acumulados que reclaman una misma pretensión adquiere el carácter de tercero interesado cuando los intereses de las partes en conflicto son excluyentes entre sí, es decir, cuando la satisfacción de la pretensión de una parte necesariamente afecta o excluye los derechos de la otra. Este criterio establece que en supuestos de acumulación de procesos laborales con pretensiones idénticas pero con intereses contrapuestos, la parte actora puede intervenir como tercero interesado para defender su posición jurídica, reconociendo que su interés en el resultado del litigio es legítimo aunque no sea parte originaria en todos los juicios. La aplicación de esta figura procesal permite que se protejan adecuadamente los derechos de quienes tienen un interés directo en la resolución, evitando que decisiones contradictorias afecten sus derechos laborales.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2023121

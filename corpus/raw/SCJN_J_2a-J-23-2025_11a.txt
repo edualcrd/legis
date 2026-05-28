@@ -1,0 +1,20 @@
+RUBRO: VÍA LABORAL. ES IMPROCEDENTE PARA RECLAMAR EL PAGO DE LA PRESUNTA MINUSVALÍA EN LOS RENDIMIENTOS GENERADOS POR LA INVERSIÓN DE LOS AHORROS DEPOSITADOS EN UNA CUENTA INDIVIDUAL DEL SISTEMA DE AHORRO PARA EL RETIRO.
+
+CLAVE DE TESIS: 2a./J. 23/2025 (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; 2a. Sala; Gaceta S.J.F.; Libro 50, Junio de 2025; Tomo II, Volumen 1; Pág. 270
+INSTANCIA: Segunda Sala (S.C.J.N.)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2025-06-13T10:19:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2030555
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: La vía laboral resulta improcedente cuando se pretende reclamar el pago de la presunta minusvalía en los rendimientos generados por la inversión de los ahorros depositados en una cuenta individual del Sistema de Ahorro para el Retiro, toda vez que tales controversias no constituyen materia laboral sino de naturaleza administrativa o civil relacionada con la gestión y rendimiento de fondos de inversión, escapando así de la competencia de los tribunales laborales que se encuentran limitados a conocer de conflictos derivados de la relación de trabajo.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2030555

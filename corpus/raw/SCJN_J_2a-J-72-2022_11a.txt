@@ -1,0 +1,20 @@
+RUBRO: PRUEBA TESTIMONIAL EN MATERIA LABORAL. LA RENDIDA POR UN SUPERVISOR DE LA EMPRESA NO PUEDE GENERAR VALOR PROBATORIO EN FAVOR DE LA PARTE PATRONAL, DEBIDO A QUE EL VÍNCULO Y LAS FUNCIONES QUE LLEVA A CABO IMPIDEN QUE GOCE DE LAS CONDICIONES DE INDEPENDENCIA E IMPARCIALIDAD NECESARIAS EN EL DESAHOGO DE LA PROBANZA.
+
+CLAVE DE TESIS: 2a./J. 72/2022 (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; 2a. Sala; Gaceta S.J.F.; Libro 21, Enero de 2023; Tomo III; Pág. 2513
+INSTANCIA: Segunda Sala (S.C.J.N.)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2023-01-27T10:28:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2025858
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: La prueba testimonial rendida por un supervisor de la empresa en un juicio laboral carece de valor probatorio cuando pretende favorecer a la parte patronal, ya que su posición jerárquica y funcional dentro de la estructura empresarial compromete los requisitos de independencia e imparcialidad que debe reunir todo testigo para que su declaración tenga eficacia probatoria. El criterio establecido reconoce que el vínculo laboral y las responsabilidades que desempeña el supervisor lo colocan en una situación de dependencia respecto del patrón, lo que genera un conflicto de intereses que invalida la credibilidad y objetividad de su testimonio en favor de la empresa.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2025858

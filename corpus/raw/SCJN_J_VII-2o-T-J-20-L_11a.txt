@@ -1,0 +1,20 @@
+RUBRO: DEMANDA LABORAL. EL TRIBUNAL DE TRABAJO CARECE DE FACULTADES PARA DESECHARLA Y ORDENAR SU ARCHIVO CUANDO CONSIDERE QUE LA PRESTACIÓN RECLAMADA NO ES LABORAL.
+
+CLAVE DE TESIS: VII.2o.T. J/20 L (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; T.C.C.; Gaceta S.J.F.; Libro 38, Junio de 2024; Tomo IV; Pág. 3745
+INSTANCIA: SEGUNDO TRIBUNAL COLEGIADO EN MATERIA DE TRABAJO DEL SÉPTIMO CIRCUITO. (T.C.C.)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2024-06-07T10:13:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2028935
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: Cuando un tribunal de trabajo considera que la prestación reclamada en una demanda no tiene naturaleza laboral, carece de facultades para desecharla de oficio y ordenar su archivo, ya que tal determinación implica un pronunciamiento sobre el fondo del asunto que requiere que la demanda sea admitida y tramitada conforme a los procedimientos establecidos. El criterio establece que el tribunal debe permitir que la demanda continúe su curso procesal y sea resuelta en sentencia, donde se analicen los elementos constitutivos de la relación laboral y se determine si efectivamente existe o no una prestación de servicios subordinada, sin que pueda anticipar tal conclusión mediante un desechamiento previo al desarrollo del juicio.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2028935

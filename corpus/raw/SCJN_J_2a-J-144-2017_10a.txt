@@ -1,0 +1,20 @@
+RUBRO: ARRESTO ADMINISTRATIVO IMPUESTO A LOS ELEMENTOS DE LAS INSTITUCIONES POLICIALES COMO MEDIDA DISCIPLINARIA DERIVADO DE SU INASISTENCIA A LA JORNADA LABORAL. DEBE RESPETAR EL DERECHO DE AUDIENCIA PREVIA.
+
+CLAVE DE TESIS: 2a./J. 144/2017 (10a.)
+LOCALIZACIÓN: [J]; 10a. Época; 2a. Sala; Gaceta S.J.F.; Libro 49, Diciembre de 2017; Tomo I; Pág. 561
+INSTANCIA: Segunda Sala (S.C.J.N.)
+ÉPOCA: 10a. Época
+FECHA DE PUBLICACIÓN: 2017-12-08T10:20:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2015832
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: El arresto administrativo impuesto a elementos de instituciones policiales como medida disciplinaria por inasistencia a la jornada laboral constituye una sanción que, aunque sea de naturaleza administrativa, debe respetar el derecho fundamental de audiencia previa, garantizando que el servidor público tenga la oportunidad de ser escuchado y de presentar sus descargos antes de que se ejecute la medida disciplinaria. El criterio establecido reconoce que incluso en el ámbito disciplinario interno de las corporaciones policiales, la imposición de sanciones que afecten derechos del trabajador requiere del cumplimiento de procedimientos que respeten las garantías de debido proceso, evitando que se ejecuten medidas coercitivas sin haber otorgado previamente al afectado la posibilidad de defenderse.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2015832

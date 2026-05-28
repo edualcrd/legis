@@ -1,0 +1,20 @@
+RUBRO: REPOSICIÓN DEL PROCEDIMIENTO EN EL JUICIO DE AMPARO INDIRECTO. DEBE ORDENARSE CUANDO SE RECLAMAN LOS ACUERDOS DE CUANTIFICACIÓN DE INCREMENTO DE LAS PENSIONES A CARGO DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO DE SONORA (ISSSTESON), Y NO SE CONCEDIÓ A LA PARTE QUEJOSA LA OPORTUNIDAD DE AMPLIAR LA DEMANDA PARA RECLAMAR UNO DE LOS ACUERDOS RELACIONADOS CON EL INCREMENTO.
+
+CLAVE DE TESIS: PR.A.CN. J/26 A (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; Plenos Regionales; Gaceta S.J.F.; Libro 31, Noviembre de 2023; Tomo IV; Pág. 4140
+INSTANCIA: PLENO REGIONAL EN MATERIA ADMINISTRATIVA DE LA REGIÓN CENTRO-NORTE, CON RESIDENCIA EN LA CIUDAD DE MÉXICO. (Plenos Regionales)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2023-11-17T10:28:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2027669
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: Cuando en un juicio de amparo indirecto se reclaman acuerdos de cuantificación de incremento de pensiones emitidos por el ISSSTESON y la autoridad responsable no otorga a la parte quejosa la oportunidad de ampliar la demanda para incluir alguno de los acuerdos relacionados con el incremento, debe ordenarse la reposición del procedimiento. Este criterio reconoce que la falta de oportunidad para ampliar la demanda constituye una violación al derecho de defensa adecuada, impidiendo que el quejoso haga valer todas sus pretensiones respecto a los actos reclamados que guardan conexidad material y temporal.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2027669

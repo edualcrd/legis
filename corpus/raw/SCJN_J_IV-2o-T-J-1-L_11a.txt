@@ -1,0 +1,20 @@
+RUBRO: REINSTALACIÓN DE LAS PERSONAS TRABAJADORAS AL SERVICIO DEL ESTADO DE NUEVO LEÓN. A PESAR DE QUE LA LEY DEL SERVICIO CIVIL NO ESTABLEZCA ESA ACCIÓN, EL TRIBUNAL DE ARBITRAJE DEBE RESPETAR Y PROTEGER SU DERECHO A LA ESTABILIDAD EN EL EMPLEO.
+
+CLAVE DE TESIS: IV.2o.T. J/1 L (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; T.C.C.; Gaceta S.J.F.; Libro 53, Septiembre de 2025; Tomo III, Volumen 1; Pág. 709
+INSTANCIA: SEGUNDO TRIBUNAL COLEGIADO EN MATERIA DE TRABAJO DEL CUARTO CIRCUITO. (T.C.C.)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2025-09-19T10:28:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2031270
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: El supuesto jurídico que resuelve es la procedencia de la reinstalación de trabajadores al servicio del Estado de Nuevo León cuando han sido despedidos injustificadamente, a pesar de que la Ley del Servicio Civil no contemple explícitamente esa acción como remedio. El criterio establecido es que el tribunal de arbitraje debe respetar y proteger el derecho fundamental a la estabilidad en el empleo, reconociendo que este derecho prevalece sobre las limitaciones procedimentales de la legislación local, garantizando así la protección efectiva de los trabajadores del sector público estatal frente a despidos arbitrarios.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2031270

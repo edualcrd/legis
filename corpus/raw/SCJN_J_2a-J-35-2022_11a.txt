@@ -1,0 +1,20 @@
+RUBRO: TRABAJADORES DE CONFIANZA DEL INSTITUTO DE ACCESO A LA INFORMACIÓN PÚBLICA Y PROTECCIÓN DE DATOS PERSONALES DEL DISTRITO FEDERAL (AHORA CIUDAD DE MÉXICO). EL QUINTO PÁRRAFO DEL ARTÍCULO 63 DE LA LEY DE TRANSPARENCIA Y ACCESO A LA INFORMACIÓN PÚBLICA DEL DISTRITO FEDERAL, ABROGADA, QUE LES ASIGNA TAL CARÁCTER, ES INCONSTITUCIONAL.
+
+CLAVE DE TESIS: 2a./J. 35/2022 (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; 2a. Sala; Gaceta S.J.F.; Libro 15, Julio de 2022; Tomo III; Pág. 2452
+INSTANCIA: Segunda Sala (S.C.J.N.)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2022-07-15T10:22:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2025024
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: El supuesto jurídico que resuelve es la constitucionalidad de la disposición que clasificaba como trabajadores de confianza a los servidores públicos del Instituto de Acceso a la Información Pública y Protección de Datos Personales del Distrito Federal. El criterio establecido es que el quinto párrafo del artículo 63 de la Ley de Transparencia y Acceso a la Información Pública del Distrito Federal es inconstitucional, lo que implica que dicha clasificación no puede ser válida para privar a estos trabajadores de derechos laborales fundamentales. Esta determinación reconoce que la asignación del carácter de confianza debe estar sujeta a límites constitucionales y no puede aplicarse de manera arbitraria para excluir a trabajadores de protecciones laborales esenciales.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2025024

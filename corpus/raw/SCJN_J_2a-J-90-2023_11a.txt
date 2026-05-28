@@ -1,0 +1,20 @@
+RUBRO: SUBCONTRATACIÓN LABORAL. LOS ARTÍCULOS 12 Y 13 DE LA LEY FEDERAL DEL TRABAJO, AL PROHIBIR LA SUBCONTRATACIÓN DE PERSONAL Y PERMITIR LA DE SERVICIOS U OBRAS ESPECIALIZADAS, NO TRANSGREDEN EL PRINCIPIO DE IRRETROACTIVIDAD DE LA LEY.
+
+CLAVE DE TESIS: 2a./J. 90/2023 (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; 2a. Sala; Gaceta S.J.F.; Libro 33, Enero de 2024; Tomo III; Pág. 2609
+INSTANCIA: Segunda Sala (S.C.J.N.)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2024-01-05T10:06:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2027948
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: La subcontratación laboral en México se rige por una distinción normativa que diferencia entre la prohibición de subcontratar personal y la permisión de subcontratar servicios u obras especializadas; los artículos 12 y 13 de la Ley Federal del Trabajo establecen este criterio sin vulnerar el principio de irretroactividad de la ley, ya que estas disposiciones no aplican retroactivamente a relaciones laborales constituidas antes de su entrada en vigor, sino que regulan prospectivamente las nuevas formas de contratación, permitiendo que los patrones puedan seguir utilizando esquemas de subcontratación de servicios especializados conforme a los términos legales establecidos, mientras se prohíbe la mera intermediación de personal que eludiría las obligaciones laborales del patrón directo.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2027948

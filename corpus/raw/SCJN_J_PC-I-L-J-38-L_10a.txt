@@ -1,0 +1,20 @@
+RUBRO: HORAS EXTRAS. PROCEDE LA RECLAMACIÓN DE SU PAGO TRATÁNDOSE DE TRABAJADORES AL SERVICIO DEL ESTADO CON LA CATEGORÍA DE DIRECTOR.
+
+CLAVE DE TESIS: PC.I.L. J/38 L (10a.)
+LOCALIZACIÓN: [J]; 10a. Época; Plenos de Circuito; Gaceta S.J.F.; Libro 55, Junio de 2018; Tomo III; Pág. 1841
+INSTANCIA: PLENO EN MATERIA DE TRABAJO DEL PRIMER CIRCUITO. (Plenos de Circuito)
+ÉPOCA: 10a. Época
+FECHA DE PUBLICACIÓN: 2018-06-29T10:35:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2017305
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: La reclamación de pago de horas extras procede respecto de trabajadores al servicio del Estado que desempeñan la categoría de Director, reconociendo que estos servidores públicos tienen derecho a percibir la compensación correspondiente por el tiempo laborado fuera de su jornada ordinaria, independientemente de su nivel jerárquico o naturaleza administrativa. El criterio establece que la condición de trabajador estatal con rango directivo no exime del cumplimiento de las obligaciones patronales en materia de horas extraordinarias, siendo estas un derecho laboral que debe respetarse conforme a la ley aplicable. Así, se rechaza la pretensión de que los directores carezcan de protección en este rubro por su posición dentro de la estructura administrativa del Estado.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2017305

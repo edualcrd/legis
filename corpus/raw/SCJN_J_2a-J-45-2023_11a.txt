@@ -1,0 +1,20 @@
+RUBRO: COMPETENCIA FEDERAL EN MATERIA LABORAL. SE SURTE EN LOS CASOS EN LOS QUE LA PARTE ACTORA RECLAMA CONJUNTAMENTE Y COMO ÚNICAS PRESTACIONES SER DESIGNADA BENEFICIARIA DE UNA PERSONA TRABAJADORA FALLECIDA Y LA ENTREGA DEL SALDO EXISTENTE EN SU CUENTA INDIVIDUAL.
+
+CLAVE DE TESIS: 2a./J. 45/2023 (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; 2a. Sala; Gaceta S.J.F.; Libro 28, Agosto de 2023; Tomo II; Pág. 1885
+INSTANCIA: Segunda Sala (S.C.J.N.)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2023-08-18T10:26:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2027006
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: La competencia federal en materia laboral se configura cuando la parte actora demanda conjuntamente y como únicas prestaciones ser designada beneficiaria de una persona trabajadora fallecida y la entrega del saldo existente en su cuenta individual, supuesto que integra una controversia de naturaleza laboral que trasciende la competencia local y requiere la intervención de la jurisdicción federal especializada en la materia.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2027006

@@ -1,0 +1,20 @@
+RUBRO: CONVENIOS DE TERMINACIÓN DE LA RELACIÓN LABORAL. PARA EFECTOS DE SU VALIDEZ, LAS PARTES NO TIENEN LA OBLIGACIÓN DE ACUDIR ANTE LA JUNTA DE CONCILIACIÓN Y ARBITRAJE COMPETENTE PARA RATIFICARLOS.
+
+CLAVE DE TESIS: 2a./J. 167/2016 (10a.)
+LOCALIZACIÓN: [J]; 10a. Época; 2a. Sala; Gaceta S.J.F.; Libro 38, Enero de 2017; Tomo I; Pág. 549
+INSTANCIA: Segunda Sala (S.C.J.N.)
+ÉPOCA: 10a. Época
+FECHA DE PUBLICACIÓN: 2017-01-20T10:21:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2013496
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: Los convenios de terminación de la relación laboral celebrados entre patrón y trabajador son válidos sin necesidad de que las partes comparezcan ante la junta de conciliación y arbitraje competente para su ratificación, siempre que se cumplan los requisitos de consentimiento y legalidad exigidos por la ley. El criterio establece que la validez de estos convenios no está condicionada al trámite de ratificación ante la autoridad laboral, permitiendo que las partes resuelvan directamente la terminación de su relación laboral mediante acuerdo mutuo. Esta interpretación reconoce la autonomía de la voluntad de las partes en materia de terminación laboral, sin que sea requisito indispensable la intervención de la junta para que el convenio produzca efectos legales.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2013496

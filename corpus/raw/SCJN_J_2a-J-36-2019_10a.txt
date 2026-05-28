@@ -1,0 +1,20 @@
+RUBRO: TRABAJADORES DE CONFIANZA "A" DEL INSTITUTO MEXICANO DEL SEGURO SOCIAL QUE INGRESARON A PARTIR DEL 1 DE ENERO DE 2012. NO LES RESULTA APLICABLE EL CONTRATO COLECTIVO DE TRABAJO, SINO EL REGLAMENTO INTERIOR DEL INSTITUTO Y EL ESTATUTO RESPECTIVO, CONFORME A LA CLÁUSULA 12 BIS DE AQUEL INSTRUMENTO Y A LA LEY DEL SEGURO SOCIAL.
+
+CLAVE DE TESIS: 2a./J. 36/2019 (10a.)
+LOCALIZACIÓN: [J]; 10a. Época; 2a. Sala; Gaceta S.J.F.; Libro 64, Marzo de 2019; Tomo II; Pág. 1994
+INSTANCIA: Segunda Sala (S.C.J.N.)
+ÉPOCA: 10a. Época
+FECHA DE PUBLICACIÓN: 2019-03-08T10:11:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2019479
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: El supuesto jurídico que resuelve es la determinación del régimen normativo aplicable a los trabajadores de confianza "A" del Instituto Mexicano del Seguro Social que ingresaron a partir del 1 de enero de 2012. El criterio establecido es que estos trabajadores no se encuentran sujetos a las disposiciones del contrato colectivo de trabajo, sino que su relación laboral se rige exclusivamente por el Reglamento Interior del Instituto y su Estatuto respectivo, conforme a lo dispuesto en la cláusula 12 bis del contrato colectivo y a la Ley del Seguro Social, lo que refleja una exclusión expresa de este personal de los beneficios y protecciones derivados de la negociación colectiva.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2019479

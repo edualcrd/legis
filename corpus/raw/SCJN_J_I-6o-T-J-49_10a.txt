@@ -1,0 +1,20 @@
+RUBRO: COPIAS FOTOSTÁTICAS NO COTEJADAS. LA PRESUNCIÓN DE TENER POR CIERTOS LOS HECHOS QUE SE PRETENDEN ACREDITAR CON ELLAS POR FALTA DE EXHIBICIÓN DE SU ORIGINAL NO OPERA CUANDO SEAN DIVERSAS A LOS DOCUMENTOS QUE EL PATRÓN TIENE OBLIGACIÓN DE CONSERVAR Y EXHIBIR EN JUICIO, O DE AQUELLOS DE LOS QUE EXISTAN INDICIOS DE QUE ÉL LOS POSEE, MÁXIME SI NEGÓ SU EXISTENCIA Y EL OFERENTE NO DEMOSTRÓ UN OCULTAMIENTO DE DATOS O DE QUE EFECTIVAMENTE EXISTIÓ EL ORIGINAL.
+
+CLAVE DE TESIS: I.6o.T. J/49 (10a.)
+LOCALIZACIÓN: [J]; 10a. Época; T.C.C.; Gaceta S.J.F.; Libro 69, Agosto de 2019; Tomo IV; Pág. 4233
+INSTANCIA: SEXTO TRIBUNAL COLEGIADO EN MATERIA DE TRABAJO DEL PRIMER CIRCUITO. (T.C.C.)
+ÉPOCA: 10a. Época
+FECHA DE PUBLICACIÓN: 2019-08-02T10:10:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2020327
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: La presunción de veracidad de los hechos que se pretenden acreditar mediante copias fotostáticas no cotejadas por falta de exhibición del original no opera cuando tales documentos no corresponden a aquellos que el patrón tiene obligación legal de conservar y exhibir en juicio, o cuando no existen indicios de que el patrón los posea, especialmente si el patrón negó su existencia y la parte oferente no demostró ni el ocultamiento de datos ni la existencia efectiva del documento original. Este criterio establece que la presunción de certeza de copias no autenticadas requiere que se acredite previamente que el documento original estuvo en poder de la contraparte y que ésta se negó injustificadamente a exhibirlo, evitando así que se den por probados hechos mediante documentos cuya existencia no ha sido debidamente establecida.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2020327

@@ -1,0 +1,20 @@
+RUBRO: ACTO DE AUTORIDAD PARA EFECTOS DEL JUICIO DE AMPARO. LO CONSTITUYE LA NEGATIVA DE DAR TRÁMITE A LA SOLICITUD DE PREJUBILACIÓN, PREPENSIÓN, JUBILACIÓN O PENSIÓN, POR PARTE DE LA OFICIALÍA MAYOR O SU EQUIVALENTE DE LOS PODERES EJECUTIVO, LEGISLATIVO Y JUDICIAL, ÓRGANOS CON AUTONOMÍA CONSTITUCIONAL, MUNICIPIOS, ENTIDADES DE LA ADMINISTRACIÓN PÚBLICA PARAESTATAL DEL ESTADO Y LAS CORRESPONDIENTES DE LOS MUNICIPIOS DE QUERÉTARO.
+
+CLAVE DE TESIS: XXII.A.T. J/1  L (10a.)
+LOCALIZACIÓN: [J]; 10a. Época; T.C.C.; Gaceta S.J.F.; Libro 76, Marzo de 2020; Tomo II; Pág. 689
+INSTANCIA: TRIBUNAL COLEGIADO EN MATERIAS ADMINISTRATIVA Y DE TRABAJO DEL VIGÉSIMO SEGUNDO CIRCUITO. (T.C.C.)
+ÉPOCA: 10a. Época
+FECHA DE PUBLICACIÓN: 2020-03-06T10:09:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2021718
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: La negativa de dar trámite a una solicitud de prejubilación, prepensión, jubilación o pensión constituye un acto de autoridad susceptible de ser combatido mediante juicio de amparo cuando es emitida por la Oficialía Mayor o su equivalente de los Poderes Ejecutivo, Legislativo y Judicial, órganos con autonomía constitucional, municipios, entidades de la administración pública paraestatal estatal y municipal de Querétaro. El criterio establece que tal negativa, al impedir el acceso a un trámite administrativo relacionado con derechos de seguridad social, constituye un acto de autoridad que afecta la esfera jurídica del solicitante y por tanto es impugnable a través del amparo. Esta resolución reconoce que la omisión de dar curso a solicitudes de prestaciones de retiro es un acto negativo que genera consecuencias jurídicas directas sobre los derechos del trabajador o servidor público.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2021718

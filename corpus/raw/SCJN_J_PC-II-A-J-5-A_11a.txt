@@ -1,0 +1,20 @@
+RUBRO: COMPENSACIÓN ÚNICA POR ANTIGÜEDAD DEL CUERPO DE GUARDIAS DE SEGURIDAD INDUSTRIAL, BANCARIA Y COMERCIAL DEL VALLE CUAUTITLÁN-TEXCOCO. CONFORME A LA INTERPRETACIÓN ARMÓNICA Y SISTEMÁTICA DEL MANUAL DE SEGURIDAD SOCIAL QUE LA PREVÉ, CUANDO EL ELEMENTO YA GOZA DE LA PENSIÓN POR JUBILACIÓN, NO TIENE DERECHO A SU PAGO.
+
+CLAVE DE TESIS: PC.II.A. J/5 A (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; Plenos de Circuito; Gaceta S.J.F.; Libro 21, Enero de 2023; Tomo IV; Pág. 3437
+INSTANCIA: PLENO EN MATERIA ADMINISTRATIVA DEL SEGUNDO CIRCUITO. (Plenos de Circuito)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2023-01-13T10:14:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2025749
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: Cuando un miembro del cuerpo de guardias de seguridad industrial, bancaria y comercial del Valle Cuautitlán-Texcoco ya se encuentra percibiendo una pensión por jubilación, conforme a la interpretación armónica y sistemática del manual de seguridad social aplicable, no tiene derecho a recibir la compensación única por antigüedad, toda vez que ambas prestaciones responden a la misma finalidad de reconocer la permanencia en el servicio y otorgar una protección económica al trabajador, por lo que su acumulación resultaría en un enriquecimiento injustificado que el ordenamiento normativo no contempla ni permite.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2025749

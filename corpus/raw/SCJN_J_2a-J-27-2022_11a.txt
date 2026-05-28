@@ -1,0 +1,20 @@
+RUBRO: JUBILACIÓN POR AÑOS DE SERVICIO DE LOS TRABAJADORES DE CONFIANZA DEL INSTITUTO MEXICANO DEL SEGURO SOCIAL. PROCEDE SU OTORGAMIENTO, EN TÉRMINOS DE LA CLÁUSULA 59 BIS DEL CONTRATO COLECTIVO DE TRABAJO, CUANDO LA TERMINACIÓN DE LA RELACIÓN LABORAL DERIVE DE LA NEGATIVA DEL INSTITUTO A REINSTALAR AL TRABAJADOR QUE FUE DESPEDIDO INJUSTIFICADAMENTE.
+
+CLAVE DE TESIS: 2a./J. 27/2022 (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; 2a. Sala; Gaceta S.J.F.; Libro 15, Julio de 2022; Tomo III; Pág. 2516
+INSTANCIA: Segunda Sala (S.C.J.N.)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2022-07-01T10:08:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2024919
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: La jubilación por años de servicio de los trabajadores de confianza del Instituto Mexicano del Seguro Social procede cuando la terminación de la relación laboral resulta de la negativa del Instituto a reinstalar al trabajador que fue despedido injustificadamente, conforme a lo establecido en la cláusula 59 bis del contrato colectivo de trabajo. El criterio reconoce que en estos casos, aunque técnicamente existe una terminación de la relación laboral por decisión del trabajador de no continuar ante la imposibilidad de reinstalación, la causa originaria es el despido injustificado del patrón, lo que genera el derecho a la jubilación como prestación derivada de la conclusión de la relación laboral en tales circunstancias.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2024919

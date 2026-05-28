@@ -1,0 +1,20 @@
+RUBRO: REVISIÓN FISCAL. ES IMPROCEDENTE CONTRA LA SENTENCIA DEL TRIBUNAL FEDERAL DE JUSTICIA ADMINISTRATIVA QUE DECLARA LA NULIDAD DE LA RESOLUCIÓN EMITIDA POR EL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO (ISSSTE), RECAÍDA A UNA SOLICITUD DE INCREMENTO DE PENSIÓN JUBILATORIA PORQUE SU CÁLCULO SE DEFINIÓ EN UNA SENTENCIA DE NULIDAD ANTERIOR AL EXISTIR COSA JUZGADA (APLICACIÓN DE LAS JURISPRUDENCIAS 2a./J. 150/2010 Y 2a./J. 88/2011).
+
+CLAVE DE TESIS: III.5o.A. J/2 A (12a.)
+LOCALIZACIÓN: [J]; 12a. Época; T.C.C.; Semanario Judicial de la Federación
+INSTANCIA: QUINTO TRIBUNAL COLEGIADO EN MATERIA ADMINISTRATIVA DEL TERCER CIRCUITO. (T.C.C.)
+ÉPOCA: 12a. Época
+FECHA DE PUBLICACIÓN: 2026-04-24T10:28:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2032064
+FUENTE: Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: La revisión fiscal es improcedente cuando se interpone contra una sentencia del Tribunal Federal de Justicia Administrativa que declara la nulidad de una resolución del ISSSTE relativa a una solicitud de incremento de pensión jubilatoria, toda vez que el cálculo de dicho incremento ya fue definido en una sentencia de nulidad anterior que adquirió la calidad de cosa juzgada, lo que impide que se vuelva a controvertir la misma cuestión en un nuevo juicio, conforme a los criterios establecidos en las jurisprudencias 2a./J. 150/2010 y 2a./J. 88/2011.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2032064

@@ -1,0 +1,20 @@
+RUBRO: ACTO DE AUTORIDAD PARA EFECTOS DEL JUICIO DE AMPARO. LO CONSTITUYE LA ORDEN DE SUSPENDER, RETENER O CANCELAR EL PAGO DE LA PENSIÓN JUBILATORIA DERIVADA DEL CONTRATO COLECTIVO DE TRABAJO CELEBRADO ENTRE TELÉFONOS DE MÉXICO, SOCIEDAD ANÓNIMA BURSÁTIL DE CAPITAL VARIABLE Y EL SINDICATO DE TELEFONISTAS DE LA REPÚBLICA MEXICANA.
+
+CLAVE DE TESIS: 2a./J. 40/2023 (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; 2a. Sala; Gaceta S.J.F.; Libro 27, Julio de 2023; Tomo II; Pág. 1168
+INSTANCIA: Segunda Sala (S.C.J.N.)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2023-07-07T10:14:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2026827
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: La suspensión, retención o cancelación del pago de la pensión jubilatoria derivada del contrato colectivo de trabajo constituye un acto de autoridad susceptible de ser combatido mediante el juicio de amparo, toda vez que tales medidas afectan derechos fundamentales del trabajador jubilado al privarle de prestaciones económicas que le corresponden conforme a lo pactado en el contrato colectivo celebrado entre Teléfonos de México, Sociedad Anónima Bursátil de Capital Variable y el Sindicato de Telefonistas de la República Mexicana. El criterio establece que cualquier orden que implique la suspensión, retención o cancelación de dichas pensiones constituye un acto de autoridad que puede ser impugnado a través del amparo, reconociendo así la protección judicial de los derechos pensionarios adquiridos por los trabajadores jubilados.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2026827

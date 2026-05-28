@@ -1,0 +1,20 @@
+RUBRO: SUPLENCIA DE LA QUEJA DEFICIENTE EN MATERIA LABORAL. OPERA EN FAVOR DE QUIEN SE OSTENTA COMO TRABAJADOR, AUN CUANDO EN EL LAUDO SE HAYA DETERMINADO QUE NO TIENE ESA CALIDAD.
+
+CLAVE DE TESIS: VII.2o.T. J/46 (10a.)
+LOCALIZACIÓN: [J]; 10a. Época; T.C.C.; Gaceta S.J.F.; Libro 64, Marzo de 2019; Tomo III; Pág. 2539
+INSTANCIA: SEGUNDO TRIBUNAL COLEGIADO EN MATERIA DE TRABAJO DEL SÉPTIMO CIRCUITO. (T.C.C.)
+ÉPOCA: 10a. Época
+FECHA DE PUBLICACIÓN: 2019-03-22T10:25:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2019568
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: La suplencia de la queja deficiente en materia laboral opera como un principio protector que favorece a quien se presenta como trabajador en el juicio de amparo, independientemente de que la sentencia arbitral haya concluido que carece de esa calidad jurídica. Este criterio reconoce que la deficiencia en la formulación de agravios no debe ser obstáculo para que se analice el fondo de la controversia cuando existe una pretensión laboral de por medio, priorizando así la protección de derechos inherentes a la relación de trabajo sobre requisitos formales de procedibilidad. De esta manera, se garantiza que los posibles trabajadores accedan a una tutela judicial efectiva, aun cuando sus argumentos no hayan sido expuestos de manera técnicamente perfecta en el escrito de demanda de amparo.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2019568

@@ -1,0 +1,20 @@
+RUBRO: PERSONALIDAD DEL APODERADO DE LA PARTE DEMANDADA EN EL JUICIO LABORAL. NO PROCEDE CUESTIONAR LA LEGALIDAD DE SU RECONOCIMIENTO EN EL AMPARO ADHESIVO, EN RAZÓN DE QUE CONSTITUYE UN TEMA QUE PERJUDICA AL ADHERENTE DESDE QUE SE DICTA EL LAUDO RESPECTIVO.
+
+CLAVE DE TESIS: PC.X. J/9 L (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; Plenos de Circuito; Gaceta S.J.F.; Libro 19, Noviembre de 2022; Tomo III; Pág. 2789
+INSTANCIA: PLENO DEL DECIMO CIRCUITO. (Plenos de Circuito)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2022-11-11T10:22:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2025463
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: El supuesto jurídico que resuelve es la impugnación de la personalidad del apoderado de la parte demandada en un juicio laboral a través del amparo adhesivo. El criterio establecido es que no procede cuestionar la legalidad del reconocimiento de dicha personalidad en el amparo adhesivo, toda vez que este tema constituye una cuestión que causa perjuicio al adherente desde el momento en que se dicta el laudo respectivo, lo que impide su ventilación en esta vía de control constitucional.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2025463

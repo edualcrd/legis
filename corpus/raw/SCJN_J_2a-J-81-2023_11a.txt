@@ -1,0 +1,20 @@
+RUBRO: COMPETENCIA LABORAL. NO SE SURTE EN FAVOR DE LA AUTORIDAD FEDERAL CUANDO SÓLO SE RECLAMA LA INTERPRETACIÓN Y CUMPLIMIENTO DE LOS ESTATUTOS DE UN SINDICATO NACIONAL, AL NO ACTUALIZARSE EL SUPUESTO DE EXCEPCIÓN QUE PREVÉ EL ÚLTIMO PÁRRAFO DEL ARTÍCULO 527 DE LA LEY FEDERAL DEL TRABAJO VIGENTE HASTA EL 1 DE MAYO DE 2019.
+
+CLAVE DE TESIS: 2a./J. 81/2023 (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; 2a. Sala; Gaceta S.J.F.; Libro 33, Enero de 2024; Tomo III; Pág. 3030
+INSTANCIA: Segunda Sala (S.C.J.N.)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2024-01-26T10:27:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2028053
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: Cuando se promueve un juicio laboral en el que únicamente se reclama la interpretación y cumplimiento de los estatutos de un sindicato nacional, sin que concurran los supuestos de excepción previstos en el último párrafo del artículo 527 de la Ley Federal del Trabajo vigente hasta el 1 de mayo de 2019, la competencia no se surte en favor de la autoridad laboral federal, sino que corresponde a las autoridades locales. El criterio establece que la mera circunstancia de que se trate de un sindicato con afiliación nacional no es suficiente para atraer la competencia federal, siendo necesario que concurran los supuestos específicos de excepción contemplados en la norma citada para que la jurisdicción federal sea competente en estos asuntos.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2028053

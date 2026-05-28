@@ -1,0 +1,20 @@
+RUBRO: RECURSO DE REVISIÓN FISCAL. ES INEXISTENTE EL CARGO DE “SUBDIRECTOR DE LO CONTENCIOSO, TITULAR DE ASUNTOS CONTENCIOSOS” EN EL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO Y, POR LO TANTO, QUIEN SE OSTENTE CON ESE CARÁCTER CARECE DE LEGITIMACIÓN PARA INTERPONER DICHO RECURSO, EN SUPLENCIA POR AUSENCIA DEL TITULAR DE LA DIRECCIÓN NORMATIVA DE PROCEDIMIENTOS LEGALES Y DEL TITULAR DE ASUNTOS PENSIONARIOS, EN REPRESENTACIÓN DE LA AUTORIDAD DEMANDADA DEL INSTITUTO.
+
+CLAVE DE TESIS: 2a./J. 68/2022 (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; 2a. Sala; Gaceta S.J.F.; Libro 21, Enero de 2023; Tomo III; Pág. 2541
+INSTANCIA: Segunda Sala (S.C.J.N.)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2023-01-06T10:07:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2025726
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: El supuesto jurídico que resuelve es la legitimación procesal de quien interpone un recurso de revisión fiscal en representación de una autoridad administrativa cuando ostenta un cargo que no existe formalmente en la estructura orgánica de la institución. El criterio establecido es que la inexistencia del cargo de "Subdirector de lo Contencioso, Titular de Asuntos Contenciosos" en el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado genera falta de legitimación para interponer dicho recurso, aun cuando se alegue suplencia por ausencia de otros titulares, toda vez que quien carece de un cargo inexistente no puede válidamente representar a la autoridad demandada en procedimientos jurisdiccionales.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2025726

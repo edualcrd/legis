@@ -1,0 +1,20 @@
+RUBRO: CONCEPTO DE IMPUGNACIÓN EN SEDE CONTENCIOSA ADMINISTRATIVA FEDERAL. EL QUE SE APOYA EN LA NEGATIVA LISA Y LLANA DE LA EXISTENCIA DE TRABAJADORES DURANTE EL TIEMPO POR EL QUE SE DETERMINÓ UN CRÉDITO FISCAL, ES DE ESTUDIO PREFERENTE CON RELACIÓN AL OTRO, CONSISTENTE EN LA FALTA DE MOTIVACIÓN DEL ACTO IMPUGNADO POR NO PRECISAR EL NOMBRE DE LOS TRABAJADORES DE LA SOCIEDAD COOPERATIVA ACTORA.
+
+CLAVE DE TESIS: PC.III.A. J/50 A (10a.)
+LOCALIZACIÓN: [J]; 10a. Época; Plenos de Circuito; Gaceta S.J.F.; Libro 56, Julio de 2018; Tomo II; Pág. 832
+INSTANCIA: PLENO EN MATERIA ADMINISTRATIVA DEL TERCER CIRCUITO. (Plenos de Circuito)
+ÉPOCA: 10a. Época
+FECHA DE PUBLICACIÓN: 2018-07-13T10:20:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2017416
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: El supuesto jurídico que resuelve este criterio es la determinación de un crédito fiscal por parte de la autoridad hacendaria cuando se cuestiona la existencia de trabajadores durante el período en que se originó dicho crédito. El criterio establecido es que en sede contenciosa administrativa federal, el concepto de impugnación que se sustenta en la negativa lisa y llana de la existencia de trabajadores debe estudiarse de manera preferente y prioritaria respecto del concepto que alega falta de motivación del acto por no precisar los nombres de los trabajadores de la sociedad cooperativa actora, toda vez que la existencia o inexistencia de los trabajadores constituye un aspecto fundamental que determina la validez de la base sobre la cual se calculó el crédito fiscal controvertido.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2017416

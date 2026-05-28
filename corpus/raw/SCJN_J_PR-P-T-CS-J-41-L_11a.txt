@@ -1,0 +1,20 @@
+RUBRO: INDEMNIZACIÓN CONSTITUCIONAL. CUANDO SE EJERZA ESA ACCIÓN COMO PRINCIPAL, LA OMISIÓN DE DAR VISTA AL TRABAJADOR CON LA PROPUESTA DE OFRECIMIENTO DE TRABAJO NO ES UNA VIOLACIÓN QUE TRASCIENDA AL RESULTADO DEL FALLO.
+
+CLAVE DE TESIS: PR.P.T.CS. J/41 L (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; Plenos Regionales; Gaceta S.J.F.; Libro 48, Abril de 2025; Tomo II, Volumen 2; Pág. 675
+INSTANCIA: PLENO REGIONAL EN MATERIAS PENAL Y DE TRABAJO DE LA REGIÓN CENTRO-SUR, CON RESIDENCIA EN LA CIUDAD DE MÉXICO. (Plenos Regionales)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2025-04-11T10:15:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2030254
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: La acción de indemnización constitucional procede cuando un trabajador cuestiona actos de autoridad que violen sus derechos fundamentales; en este contexto, cuando dicha acción se ejercita como demanda principal, la omisión de notificar al trabajador sobre la propuesta de ofrecimiento de trabajo no constituye una violación procesal que afecte sustancialmente el resultado de la sentencia, ya que tal omisión no impide que el juzgador pueda resolver sobre el fondo de la controversia y determinar si corresponde la indemnización solicitada. El criterio establece que las deficiencias en los trámites de notificación no invalidan necesariamente el pronunciamiento judicial cuando existen elementos suficientes para resolver la cuestión de fondo planteada por el trabajador.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2030254

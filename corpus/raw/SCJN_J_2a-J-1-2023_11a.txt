@@ -1,0 +1,20 @@
+RUBRO: CRÉDITOS LABORALES PREFERENTES. NO LOS CONSTITUYEN LAS CANTIDADES GENERADAS POR LAS PENAS CONVENCIONALES ESTABLECIDAS EN UN CONVENIO EXTRAJUDICIAL DE TERMINACIÓN DE LA RELACIÓN LABORAL, AL NO SER UNA INDEMNIZACIÓN EN TÉRMINOS DE LOS ARTÍCULOS 123, APARTADO A, FRACCIÓN XXIII, DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS Y 113 DE LA LEY FEDERAL DEL TRABAJO.
+
+CLAVE DE TESIS: 2a./J. 1/2023 (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; 2a. Sala; Gaceta S.J.F.; Libro 22, Febrero de 2023; Tomo III; Pág. 2535
+INSTANCIA: Segunda Sala (S.C.J.N.)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2023-02-17T10:19:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2025947
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: El supuesto jurídico que resuelve es si las cantidades derivadas de penas convencionales pactadas en un convenio extrajudicial de terminación de relación laboral constituyen créditos laborales preferentes. El criterio establecido es que tales penas convencionales no tienen el carácter de créditos laborales preferentes porque no configuran una indemnización en los términos del artículo 123, apartado A, fracción XXIII, de la Constitución Política de los Estados Unidos Mexicanos y del artículo 113 de la Ley Federal del Trabajo, ya que estas disposiciones regulan específicamente las indemnizaciones que derivan de la terminación de la relación laboral, no las sanciones económicas pactadas convencionalmente entre las partes.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2025947

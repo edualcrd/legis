@@ -1,0 +1,20 @@
+RUBRO: NULIDAD DE CONVENIO DE LIQUIDACIÓN EN MATERIA LABORAL. CUESTIONES QUE CORRESPONDE PROBAR AL ACTOR (TRABAJADOR), CUANDO INTENTA ESTA ACCIÓN RESPECTO DE UNO CELEBRADO CON PETRÓLEOS MEXICANOS.
+
+CLAVE DE TESIS: X.A.T. J/3 (10a.)
+LOCALIZACIÓN: [J]; 10a. Época; T.C.C.; Gaceta S.J.F.; Libro 36, Noviembre de 2016; Tomo IV; Pág. 2237
+INSTANCIA: TRIBUNAL COLEGIADO EN MATERIAS ADMINISTRATIVA Y DE TRABAJO DEL DÉCIMO CIRCUITO. (T.C.C.)
+ÉPOCA: 10a. Época
+FECHA DE PUBLICACIÓN: 2016-11-11T10:22:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2013006
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: Cuando un trabajador demanda la nulidad de un convenio de liquidación celebrado con Petróleos Mexicanos, le corresponde probar al actor que el acuerdo adolece de vicios en su consentimiento, tales como error, dolo, mala fe o falta de capacidad, así como acreditar que el convenio no fue resultado de una negociación libre e informada o que contiene cláusulas que vulneran derechos laborales fundamentales. El criterio establecido por la jurisprudencia es que la carga probatoria recae en el trabajador demandante, quien debe demostrar de manera clara y convincente los elementos que justifiquen la invalidez del acuerdo, sin que sea suficiente la simple alegación de inconformidad con los términos pactados. Esta exigencia probatoria se mantiene incluso cuando se trata de convenios suscritos con instituciones públicas como Petróleos Mexicanos, aplicándose los principios generales del derecho laboral respecto a la validez de los acuerdos entre partes.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2013006

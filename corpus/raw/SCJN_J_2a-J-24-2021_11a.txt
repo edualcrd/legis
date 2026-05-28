@@ -1,0 +1,20 @@
+RUBRO: TRABAJADORES AL SERVICIO DEL ESTADO POR TIEMPO DETERMINADO. CORRESPONDE AL ESTADO, EN SU CARÁCTER DE EMPLEADOR EQUIPARADO, JUSTIFICAR LA TEMPORALIDAD DE SU NOMBRAMIENTO (LEGISLACIONES BUROCRÁTICA FEDERAL Y DEL ESTADO DE COLIMA).
+
+CLAVE DE TESIS: 2a./J. 24/2021 (10a.)
+LOCALIZACIÓN: [J]; 11a. Época; 2a. Sala; Gaceta S.J.F.; Libro 3, Julio de 2021; Tomo II; Pág. 1797
+INSTANCIA: Segunda Sala (S.C.J.N.)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2021-07-02T10:09:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2023346
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: El supuesto jurídico que resuelve este criterio es la determinación de quién debe justificar la temporalidad en los nombramientos de trabajadores al servicio del Estado cuando se contrata por tiempo determinado. El criterio establecido es que corresponde al Estado, en su carácter de empleador equiparado, la carga de justificar y acreditar las razones por las cuales el nombramiento tiene carácter temporal, conforme a lo dispuesto en las legislaciones burocrática federal y del Estado de Colima, invirtiendo así la carga probatoria a favor del trabajador.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2023346

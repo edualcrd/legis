@@ -1,0 +1,20 @@
+RUBRO: SUSPENSIÓN DE TRÁMITES Y PROCEDIMIENTOS ADMINISTRATIVOS, ASÍ COMO DECLARACIÓN DE DÍAS INHÁBILES. LOS ACUERDOS DE 25 DE MARZO Y 15 DE DICIEMBRE, AMBOS DE 2020, EMITIDOS POR EL CONSEJO TÉCNICO DEL INSTITUTO MEXICANO DEL SEGURO SOCIAL (IMSS), EN EL CONTEXTO DE LA CONTINGENCIA SANITARIA OCASIONADA POR EL VIRUS SARS-CoV-2 (COVID-19), SON CONSTITUCIONALES.
+
+CLAVE DE TESIS: 2a./J. 112/2024 (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; 2a. Sala; Gaceta S.J.F.; Libro 43, Noviembre de 2024; Tomo IV, Volumen 1; Pág. 747
+INSTANCIA: Segunda Sala (S.C.J.N.)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2024-11-22T10:33:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2029582
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: Los acuerdos del Consejo Técnico del IMSS de 25 de marzo y 15 de diciembre de 2020, que suspendieron trámites y procedimientos administrativos y declararon días inhábiles en el contexto de la contingencia sanitaria por COVID-19, resuelven la constitucionalidad de tales medidas adoptadas durante la emergencia sanitaria. El criterio establecido reconoce que estas suspensiones y declaraciones de inhabilidad fueron medidas válidas y constitucionalmente justificadas para hacer frente a la contingencia ocasionada por el virus SARS-CoV-2, permitiendo que la administración del IMSS priorizara la protección de la salud pública sin vulnerar derechos fundamentales de los gobernados.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2029582

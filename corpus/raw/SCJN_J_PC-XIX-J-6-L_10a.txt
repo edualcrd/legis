@@ -1,0 +1,20 @@
+RUBRO: LAUDO. UNA VEZ TRANSCURRIDOS LOS 15 DÍAS CON LOS QUE CUENTA LA PATRONAL PARA ACATARLO VOLUNTARIAMENTE, BASTA QUE EL TRABAJADOR SOLICITE SU EJECUCIÓN, PARA QUE EL TRIBUNAL BUROCRÁTICO PROVEA OFICIOSAMENTE LO CONDUCENTE PARA LOGRAR SU TOTAL OBSERVANCIA (LEGISLACIÓN DEL ESTADO DE TAMAULIPAS).
+
+CLAVE DE TESIS: PC.XIX. J/6 L (10a.)
+LOCALIZACIÓN: [J]; 10a. Época; Plenos de Circuito; Gaceta S.J.F.; Libro 48, Noviembre de 2017; Tomo II; Pág. 1139
+INSTANCIA: PLENO DEL DECIMONOVENO CIRCUITO. (Plenos de Circuito)
+ÉPOCA: 10a. Época
+FECHA DE PUBLICACIÓN: 2017-11-10T10:21:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2015485
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: El supuesto jurídico que resuelve es la ejecución de un laudo arbitral laboral cuando la patronal no lo acata voluntariamente dentro del plazo de quince días establecido por la ley. El criterio establecido es que una vez transcurrido ese término, basta que el trabajador solicite la ejecución del laudo para que el tribunal burocrático deba proveer de oficio las medidas necesarias para asegurar su total cumplimiento, sin requerir trámites adicionales o requisitos previos que obstaculicen la efectividad de la resolución arbitral.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2015485

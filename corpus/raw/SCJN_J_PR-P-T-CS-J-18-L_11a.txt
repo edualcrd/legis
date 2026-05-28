@@ -1,0 +1,20 @@
+RUBRO: DECLARACIÓN DE BENEFICIARIOS Y PAGO DE FONDOS DE LA SUBCUENTA INDIVIDUAL DE RETIRO Y VIVIENDA DE UNA PERSONA TRABAJADORA FALLECIDA. CUANDO SE DEMANDEN CONJUNTAMENTE NO DEBE EXIGIRSE, COMO REQUISITO DE PROCEDIBILIDAD, LA CONSTANCIA DE NEGATIVA DE DEVOLUCIÓN DE LAS APORTACIONES O EL ACUSE DE RECIBO DE LA SOLICITUD ANTE LA ADMINISTRADORA DE FONDOS PARA EL RETIRO (AFORE).
+
+CLAVE DE TESIS: PR.P.T.CS. J/18 L (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; Plenos Regionales; Gaceta S.J.F.; Libro 41, Septiembre de 2024; Tomo IV, Volumen 1; Pág. 407
+INSTANCIA: PLENO REGIONAL EN MATERIAS PENAL Y DE TRABAJO DE LA REGIÓN CENTRO-SUR, CON RESIDENCIA EN LA CIUDAD DE MÉXICO. (Plenos Regionales)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2024-09-27T10:36:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2029414
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: La controversia se plantea respecto a los requisitos de procedibilidad que debe cumplir quien demanda la declaración de beneficiarios y el pago de fondos de la subcuenta individual de retiro y vivienda de una persona trabajadora fallecida ante la Administradora de Fondos para el Retiro (AFORE). El criterio establecido es que cuando se demandan conjuntamente la declaración de beneficiarios y el pago de los fondos, no debe exigirse como requisito de procedibilidad previo la constancia de negativa de devolución de las aportaciones ni el acuse de recibo de la solicitud ante la AFORE, ya que tales documentos no son condiciones sine qua non para que el juzgador pueda conocer y resolver sobre el fondo de la controversia laboral.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2029414

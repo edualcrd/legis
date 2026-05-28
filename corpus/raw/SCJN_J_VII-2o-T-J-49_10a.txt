@@ -1,0 +1,20 @@
+RUBRO: BENEFICIARIOS EN MATERIA LABORAL. EL PATRÓN TIENE INTERÉS JURÍDICO PARA IMPUGNAR EN AMPARO LA DECLARACIÓN RELATIVA, CUANDO LA MISMA RESOLUCIÓN TAMBIÉN LO CONDENE AL PAGO DE PRESTACIONES ECONÓMICAS (INAPLICABILIDAD DE LA JURISPRUDENCIA 2a./J. 22/98).
+
+CLAVE DE TESIS: VII.2o.T. J/49 (10a.)
+LOCALIZACIÓN: [J]; 10a. Época; T.C.C.; Gaceta S.J.F.; Libro 66, Mayo de 2019; Tomo III; Pág. 2250
+INSTANCIA: SEGUNDO TRIBUNAL COLEGIADO EN MATERIA DE TRABAJO DEL SÉPTIMO CIRCUITO. (T.C.C.)
+ÉPOCA: 10a. Época
+FECHA DE PUBLICACIÓN: 2019-05-31T10:36:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2019935
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: El patrón tiene interés jurídico para impugnar mediante amparo la declaración de beneficiarios en materia laboral cuando la misma resolución que establece dicha declaración lo condena simultáneamente al pago de prestaciones económicas, ya que existe una conexidad directa entre ambas cuestiones que afecta sus derechos e intereses económicos. El criterio establecido modifica la jurisprudencia anterior que negaba tal legitimación activa, reconociendo que la determinación de beneficiarios impacta directamente en la cuantía y alcance de las obligaciones pecuniarias del patrón, generando un interés jurídico concreto y actual que justifica la procedencia del juicio de amparo.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2019935

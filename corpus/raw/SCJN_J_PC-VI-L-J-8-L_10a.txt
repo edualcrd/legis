@@ -1,0 +1,20 @@
+RUBRO: DESCUENTOS AL SALARIO DE LOS TRABAJADORES DEL INSTITUTO MEXICANO DEL SEGURO SOCIAL POR CONCEPTO DE FONDO DE AYUDA SINDICAL POR DEFUNCIÓN. SON LEGALES AL HABERSE PACTADO EN EL CONTRATO COLECTIVO DE TRABAJO CELEBRADO ENTRE ESE INSTITUTO Y SU SINDICATO DE TRABAJADORES.
+
+CLAVE DE TESIS: PC.VI.L. J/8 L (10a.)
+LOCALIZACIÓN: [J]; 10a. Época; Plenos de Circuito; Gaceta S.J.F.; Libro 55, Junio de 2018; Tomo III; Pág. 1763
+INSTANCIA: PLENO EN MATERIA DE TRABAJO DEL SEXTO CIRCUITO. (Plenos de Circuito)
+ÉPOCA: 10a. Época
+FECHA DE PUBLICACIÓN: 2018-06-08T10:14:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2017119
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: Los descuentos al salario de los trabajadores del Instituto Mexicano del Seguro Social por concepto de fondo de ayuda sindical por defunción constituyen una práctica legal cuando han sido expresamente pactados en el contrato colectivo de trabajo celebrado entre la institución y su sindicato de trabajadores, ya que el acuerdo colectivo válido entre las partes legitimadas para negociar genera obligaciones vinculantes que permiten este tipo de deducciones salariales, siempre que se cumplan los requisitos de validez del contrato colectivo y se respete el principio de legalidad en materia laboral.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2017119

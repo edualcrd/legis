@@ -1,0 +1,20 @@
+RUBRO: ACTO DE AUTORIDAD PARA EFECTOS DEL JUICIO DE AMPARO. NO LO CONSTITUYEN LA EMISIÓN Y APLICACIÓN DE LOS LINEAMIENTOS POR MEDIO DE LOS CUALES SE OTORGA EL PAGO DEL CONCEPTO DE AGUINALDO A TRABAJADORES DE LA ADMINISTRACIÓN PÚBLICA DE LA CIUDAD DE MÉXICO, POR LO QUE EL AMPARO INDIRECTO PROMOVIDO EN SU CONTRA ES IMPROCEDENTE.
+
+CLAVE DE TESIS: PC.I.L. J/62 L (10a.)
+LOCALIZACIÓN: [J]; 10a. Época; Plenos de Circuito; Gaceta S.J.F.; Libro 75, Febrero de 2020; Tomo II; Pág. 1257
+INSTANCIA: PLENO EN MATERIA DE TRABAJO DEL PRIMER CIRCUITO. (Plenos de Circuito)
+ÉPOCA: 10a. Época
+FECHA DE PUBLICACIÓN: 2020-02-21T10:23:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2021641
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: La emisión y aplicación de lineamientos para otorgar el pago de aguinaldo a trabajadores de la administración pública de la Ciudad de México no constituye un acto de autoridad susceptible de ser combatido mediante juicio de amparo indirecto, por lo que cuando un trabajador promueve amparo en contra de tales lineamientos, la demanda resulta improcedente al carecer de los elementos que caracterizan a un acto de autoridad pasible de control constitucional a través de este medio de defensa.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2021641

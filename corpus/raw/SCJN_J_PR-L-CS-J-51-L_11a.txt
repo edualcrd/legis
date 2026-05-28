@@ -1,0 +1,20 @@
+RUBRO: CONSTANCIA DE NO CONCILIACIÓN EN EL NUEVO SISTEMA DE JUSTICIA LABORAL. PARA TENER POR CUMPLIDO EL REQUISITO DE PROCEDIBILIDAD PREVISTO EN EL ARTÍCULO 684-B DE LA LEY FEDERAL DEL TRABAJO, BASTA QUE LA EXHIBIDA POR LA PARTE ACTORA SEÑALE COMO “OBJETO” EL “PAGO DE PRESTACIONES”, SIN NECESIDAD DE QUE ÉSTAS SE PRECISEN EXPRESAMENTE EN SU TOTALIDAD.
+
+CLAVE DE TESIS: PR.L.CS. J/51 L (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; Plenos Regionales; Gaceta S.J.F.; Libro 32, Diciembre de 2023; Tomo III; Pág. 2561
+INSTANCIA: PLENO REGIONAL EN MATERIA DE TRABAJO DE LA REGIÓN CENTRO-SUR, CON RESIDENCIA EN LA CIUDAD DE MÉXICO. (Plenos Regionales)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2023-12-08T10:20:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2027788
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: La constancia de no conciliación en el nuevo sistema de justicia laboral constituye un requisito de procedibilidad para la admisión de demandas laborales conforme al artículo 684-B de la Ley Federal del Trabajo, y el criterio establecido por la jurisprudencia es que dicho requisito se tiene por cumplido cuando la constancia exhibida por la parte actora señala como "objeto" el "pago de prestaciones", sin que sea necesario que éstas se precisen expresamente en su totalidad, lo que permite una mayor flexibilidad en la identificación de las pretensiones sin sacrificar la finalidad conciliadora del procedimiento previo.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2027788

@@ -1,0 +1,20 @@
+RUBRO: SUBCONTRATACIÓN LABORAL. LA OBLIGACIÓN DE DARSE DE ALTA EN EL PADRÓN PÚBLICO DE SERVICIOS ESPECIALIZADOS U OBRAS ESPECIALIZADAS A QUE SE REFIERE EL ARTÍCULO 15 DE LA LEY FEDERAL DEL TRABAJO, NO CONSTITUYE UN SUPUESTO DE TRABAJO OBLIGATORIO O FORZOSO.
+
+CLAVE DE TESIS: 2a./J. 97/2023 (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; 2a. Sala; Gaceta S.J.F.; Libro 33, Enero de 2024; Tomo III; Pág. 2476
+INSTANCIA: Segunda Sala (S.C.J.N.)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2024-01-05T10:06:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2027940
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: La subcontratación laboral requiere que las empresas especializadas se registren en el padrón público conforme al artículo 15 de la Ley Federal del Trabajo, pero este requisito administrativo no configura trabajo obligatorio o forzoso en los términos constitucionales. El criterio establecido distingue entre las obligaciones regulatorias que el Estado impone a los patrones para garantizar la formalidad y protección de los trabajadores, y la prohibición de compeler a una persona a prestar servicios contra su voluntad, concluyendo que el cumplimiento de trámites de registro y formalización no vulnera derechos fundamentales ni constituye coacción laboral.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2027940

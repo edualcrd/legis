@@ -1,0 +1,20 @@
+RUBRO: COMPETENCIA POR MATERIA PARA CONOCER DE LA DEMANDA PROMOVIDA EN LA VÍA ORDINARIA CONTRA EL AJUSTE O ACTUALIZACIÓN DE UNA PENSIÓN OTORGADA POR EL INSTITUTO MEXICANO DEL SEGURO SOCIAL. CORRESPONDE A LOS TRIBUNALES LABORALES FEDERALES DE ASUNTOS INDIVIDUALES.
+
+CLAVE DE TESIS: PR.P.T.CN. J/15 L (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; Plenos Regionales; Gaceta S.J.F.; Libro 40, Agosto de 2024; Tomo IV, Volumen 1; Pág. 598
+INSTANCIA: PLENO REGIONAL EN MATERIAS PENAL Y DE TRABAJO DE LA REGIÓN CENTRO-NORTE, CON RESIDENCIA EN LA CIUDAD DE MÉXICO. (Plenos Regionales)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2024-08-23T10:31:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2029300
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: Cuando un asegurado del Instituto Mexicano del Seguro Social promueve demanda en la vía ordinaria cuestionando el ajuste o actualización de una pensión que le fue otorgada, el supuesto jurídico que se resuelve es determinar qué autoridad judicial es competente para conocer de tal controversia. El criterio establecido por la jurisprudencia es que estos asuntos corresponden a los tribunales laborales federales de asuntos individuales, ya que se trata de cuestiones derivadas de la relación de seguridad social y de los derechos pensionarios que emanan de la legislación laboral y de seguridad social.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2029300

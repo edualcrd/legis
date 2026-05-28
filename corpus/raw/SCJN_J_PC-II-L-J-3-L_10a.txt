@@ -1,0 +1,20 @@
+RUBRO: DEMANDA LABORAL. EL DEMANDADO NO ESTÁ OBLIGADO A CONTESTARLA, SI PREVIAMENTE EL ACTOR NO LA RATIFICA O SI LA AUTORIDAD RESPONSABLE NO LA TIENE POR RATIFICADA DE OFICIO.
+
+CLAVE DE TESIS: PC.II.L. J/3 L (10a.)
+LOCALIZACIÓN: [J]; 10a. Época; Plenos de Circuito; Gaceta S.J.F.; Libro 52, Marzo de 2018; Tomo III; Pág. 2624
+INSTANCIA: PLENO EN MATERIA DE TRABAJO DEL SEGUNDO CIRCUITO. (Plenos de Circuito)
+ÉPOCA: 10a. Época
+FECHA DE PUBLICACIÓN: 2018-03-09T10:12:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2016361
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: La demanda laboral requiere ratificación del actor para que el demandado esté obligado a contestarla, siendo facultad de la autoridad responsable tenerla por ratificada de oficio cuando el actor no lo haya hecho expresamente. El criterio establece que la falta de ratificación de la demanda por parte del actor, o la omisión de la autoridad de tenerla por ratificada de oficio, impide que nazca la obligación procesal del demandado de presentar su contestación, lo que constituye un requisito esencial para la procedencia de la demanda laboral. Esta exigencia protege el derecho de defensa del demandado al asegurar que la demanda que enfrenta sea aquella que el actor realmente desea promover.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2016361

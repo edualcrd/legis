@@ -1,0 +1,20 @@
+RUBRO: SALARIO DE LOS TRABAJADORES AL SERVICIO DEL ESTADO. ES INEMBARGABLE SALVO EN LOS SUPUESTOS EXPRESAMENTE PREVISTOS EN EL ARTÍCULO 38 DE LA LEY FEDERAL DE LOS TRABAJADORES AL SERVICIO DEL ESTADO.
+
+CLAVE DE TESIS: 1a./J. 183/2023 (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; 1a. Sala; Gaceta S.J.F.; Libro 32, Diciembre de 2023; Tomo II; Pág. 2160
+INSTANCIA: Primera Sala (S.C.J.N.)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2023-12-08T10:20:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2027834
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: El salario de los trabajadores al servicio del Estado constituye un derecho fundamental que goza de protección especial contra embargos, permitiéndose únicamente en aquellos supuestos expresamente autorizados por la ley. El criterio establecido determina que la inembargabilidad del salario es la regla general para este tipo de trabajadores, con la excepción de los casos específicamente previstos en el artículo 38 de la Ley Federal de los Trabajadores al Servicio del Estado, que contempla situaciones particulares donde sí procede el embargo de estas percepciones. Esta protección responde a la naturaleza esencial del salario como medio de subsistencia del trabajador y su familia, reconociendo que solo circunstancias expresamente legisladas pueden limitar este derecho.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2027834

@@ -1,0 +1,20 @@
+RUBRO: PROCEDENCIA DE LA VÍA. SU ESTUDIO OFICIOSO ES INAPLICABLE CUANDO EL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO DE SONORA (ISSSTESON) DEMANDADO, INTERPONE LA EXCEPCIÓN DE INCOMPETENCIA POR MATERIA E IMPROCEDENCIA DE LA VÍA Y ÉSTA SE RESUELVE MEDIANTE LA INTERLOCUTORIA RESPECTIVA, SIN QUE LAS PARTES SE HUBIERAN INCONFORMADO AL RESPECTO.
+
+CLAVE DE TESIS: PC.V. J/24 A (10a.)
+LOCALIZACIÓN: [J]; 10a. Época; Plenos de Circuito; Gaceta S.J.F.; Libro 67, Junio de 2019; Tomo V; Pág. 4512
+INSTANCIA: PLENO DEL QUINTO CIRCUITO (Plenos de Circuito)
+ÉPOCA: 10a. Época
+FECHA DE PUBLICACIÓN: 2019-06-14T10:20:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2020086
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: Cuando el ISSSTESON demandado interpone la excepción de incompetencia por materia e improcedencia de la vía y esta se resuelve mediante interlocutoria sin que las partes se inconformen, el tribunal no puede estudiar de oficio la procedencia de la vía en etapas posteriores del juicio, ya que la cuestión quedó resuelta y consentida por ambas partes al no haber promovido inconformidad alguna contra la resolución que la decidió, lo que impide que el juzgador revise nuevamente este aspecto de manera oficiosa.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2020086

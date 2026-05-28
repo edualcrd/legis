@@ -1,0 +1,20 @@
+RUBRO: TRABAJADORES SUPERNUMERARIOS DEL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO SERVICIOS DE SALUD DE DURANGO. LA RELACIÓN LABORAL DE LOS CONTRATADOS BAJO LA VIGENCIA DEL ACUERDO DE COORDINACIÓN PARA LA DESCENTRALIZACIÓN INTEGRAL DE LOS SERVICIOS DE SALUD EN DICHA ENTIDAD FEDERATIVA SE RIGE POR LA LEY DE LOS TRABAJADORES AL SERVICIO DE LOS TRES PODERES DEL ESTADO DE DURANGO Y NO POR LA LEY FEDERAL DE LOS TRABAJADORES AL SERVICIO DEL ESTADO.
+
+CLAVE DE TESIS: XXV.2o. J/1 L (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; T.C.C.; Gaceta S.J.F.; Libro 11, Marzo de 2022; Tomo IV; Pág. 3097
+INSTANCIA: SEGUNDO TRIBUNAL COLEGIADO DEL VIGÉSIMO QUINTO CIRCUITO. (T.C.C.)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2022-03-04T10:07:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2024260
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: Los trabajadores supernumerarios contratados por el Organismo Público Descentralizado Servicios de Salud de Durango bajo el Acuerdo de Coordinación para la Descentralización Integral de los Servicios de Salud se encuentran en una relación laboral que debe regirse por la legislación local aplicable a los servidores públicos estatales, específicamente por la Ley de los Trabajadores al Servicio de los Tres Poderes del Estado de Durango, y no por la Ley Federal de los Trabajadores al Servicio del Estado, toda vez que la descentralización de servicios de salud a nivel estatal genera que dichos trabajadores adquieran la calidad de servidores públicos locales sujetos al régimen jurídico de la entidad federativa correspondiente.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2024260

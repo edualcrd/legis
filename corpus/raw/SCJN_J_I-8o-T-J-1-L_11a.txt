@@ -1,0 +1,20 @@
+RUBRO: VACACIONES Y PRIMA VACACIONAL DE LOS TRABAJADORES AL SERVICIO DEL ESTADO. SU PAGO ES PROPORCIONAL A QUIENES TENGAN MÁS DE SEIS MESES CONSECUTIVOS Y CONCLUYAN SU RELACIÓN LABORAL.
+
+CLAVE DE TESIS: I.8o.T. J/1 L (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; T.C.C.; Gaceta S.J.F.; Libro 29, Septiembre de 2023; Tomo V; Pág. 5251
+INSTANCIA: OCTAVO TRIBUNAL COLEGIADO EN MATERIA DE TRABAJO DEL PRIMER CIRCUITO. (T.C.C.)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2023-09-22T10:31:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2027286
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: Cuando un trabajador al servicio del Estado concluye su relación laboral habiendo laborado más de seis meses consecutivos, tiene derecho a recibir el pago proporcional de vacaciones y prima vacacional conforme al tiempo efectivamente trabajado, estableciéndose así que la terminación del vínculo laboral no extingue el derecho a estas prestaciones sino que genera la obligación del patrón de liquidarlas de manera proporcional al período de servicios prestados, garantizando que el trabajador perciba la compensación correspondiente al tiempo de descanso no disfrutado durante su permanencia en el empleo.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2027286

@@ -1,0 +1,20 @@
+RUBRO: SUSPENSIÓN EN AMPARO DIRECTO. FORMAS DE ASEGURAR LA SUBSISTENCIA DE LAS PERSONAS TRABAJADORAS CUANDO CUENTAN CON UNA CONDENA DE REINSTALACIÓN A SU FAVOR.
+
+CLAVE DE TESIS: PR.P.T.CS. J/27 L (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; Plenos Regionales; Gaceta S.J.F.; Libro 45, Enero de 2025; Tomo IV, Volumen 1; Pág. 294
+INSTANCIA: PLENO REGIONAL EN MATERIAS PENAL Y DE TRABAJO DE LA REGIÓN CENTRO-SUR, CON RESIDENCIA EN LA CIUDAD DE MÉXICO. (Plenos Regionales)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2025-01-24T10:25:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2029847
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: La suspensión en amparo directo resuelve el supuesto de trabajadores que han obtenido una condena de reinstalación en su favor y requieren asegurar su subsistencia durante el procedimiento de ejecución de la sentencia. El criterio establecido reconoce que existen diversas formas legales para garantizar que las personas trabajadoras puedan subsistir mientras se ejecuta la reinstalación ordenada, considerando tanto medidas cautelares como otras alternativas que protejan su estabilidad económica en este período de transición.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2029847

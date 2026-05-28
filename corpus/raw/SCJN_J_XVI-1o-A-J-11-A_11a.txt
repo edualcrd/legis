@@ -1,0 +1,20 @@
+RUBRO: ELEMENTOS DE SEGURIDAD PÚBLICA DEL MUNICIPIO DE CELAYA, GUANAJUATO. LES ES INAPLICABLE EL REGLAMENTO DE PENSIONES Y JUBILACIONES MUNICIPAL, AL SER SU RELACIÓN CON AQUÉL DE CARÁCTER ADMINISTRATIVO Y NO LABORAL.
+
+CLAVE DE TESIS: XVI.1o.A. J/11 A (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; T.C.C.; Gaceta S.J.F.; Libro 25, Mayo de 2023; Tomo III; Pág. 2870
+INSTANCIA: PRIMER TRIBUNAL COLEGIADO EN MATERIA ADMINISTRATIVA DEL DÉCIMO SEXTO CIRCUITO. (T.C.C.)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2023-05-26T10:31:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2026496
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: La relación jurídica entre los elementos de seguridad pública del municipio de Celaya, Guanajuato y la administración municipal es de naturaleza administrativa y no laboral, por lo que les resulta inaplicable el Reglamento de Pensiones y Jubilaciones Municipal en los términos que pretendían hacerlo valer como si fuera una relación de trabajo. El criterio establecido reconoce que cuando existe una relación administrativa entre un servidor público y la entidad municipal, los derechos y obligaciones derivados de esa relación se rigen por normas administrativas y no por la legislación laboral, aun cuando se trate de prestaciones como pensiones y jubilaciones. Esta distinción es fundamental para determinar la competencia jurisdiccional y la normatividad aplicable a los conflictos que surjan entre los elementos de seguridad pública y sus empleadores municipales.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2026496

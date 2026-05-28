@@ -1,0 +1,20 @@
+RUBRO: PRINCIPIO DE INMEDIACIÓN EN EL JUICIO ORAL MERCANTIL. NO SE TRANSGREDE, SI EL SECRETARIO ENCARGADO DEL DESPACHO POR VACACIONES DEL TITULAR, PRESIDE LA AUDIENCIA DEL JUICIO Y DICTA LA SENTENCIA RESPECTIVA.
+
+CLAVE DE TESIS: 1a./J. 61/2019 (10a.)
+LOCALIZACIÓN: [J]; 10a. Época; 1a. Sala; Gaceta S.J.F.; Libro 71, Octubre de 2019; Tomo I; Pág. 1115
+INSTANCIA: Primera Sala (S.C.J.N.)
+ÉPOCA: 10a. Época
+FECHA DE PUBLICACIÓN: 2019-10-11T10:21:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2020813
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: El supuesto jurídico que resuelve es si existe transgresión del principio de inmediación en el juicio oral mercantil cuando el secretario encargado del despacho por vacaciones del titular preside la audiencia y dicta sentencia. El criterio establecido es que no se transgrede dicho principio en tales circunstancias, reconociendo que el secretario en funciones de titular tiene capacidad legal para presidir la audiencia y dictar la sentencia respectiva, manteniendo así la continuidad y validez del proceso oral mercantil sin afectar los derechos de las partes ni la integridad del procedimiento.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2020813

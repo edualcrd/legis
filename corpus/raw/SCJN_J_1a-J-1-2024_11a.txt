@@ -1,0 +1,20 @@
+RUBRO: CONTRATO DE ARRENDAMIENTO. EL ARTÍCULO 2431 DEL CÓDIGO CIVIL PARA EL DISTRITO FEDERAL, APLICABLE PARA LA CIUDAD DE MÉXICO, QUE ESTABLECE LA CONDICIÓN DE ESPERAR EL PLAZO DE DOS MESES PARA SOLICITAR SU RESCISIÓN ANTE LA EXISTENCIA DE CASO FORTUITO O FUERZA MAYOR QUE IMPIDA EL USO DE LA COSA ARRENDADA, NO VULNERA EL DERECHO DE ACCESO A LA JUSTICIA.
+
+CLAVE DE TESIS: 1a./J. 1/2024 (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; 1a. Sala; Gaceta S.J.F.; Libro 33, Enero de 2024; Tomo II; Pág. 1466
+INSTANCIA: Primera Sala (S.C.J.N.)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2024-01-19T10:20:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2028009
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: El supuesto jurídico que resuelve es la constitucionalidad del artículo 2431 del Código Civil para la Ciudad de México, que condiciona la rescisión del contrato de arrendamiento a la espera de un plazo de dos meses cuando existe caso fortuito o fuerza mayor que impide el uso de la cosa arrendada. El criterio establecido es que esta disposición no vulnera el derecho de acceso a la justicia, ya que la exigencia de un plazo previo no constituye una restricción inconstitucional al derecho de acudir ante los tribunales, sino una condición procesal legítima que permite al arrendador intentar la reparación o recuperación del bien antes de proceder a la rescisión. El artículo 2431 del Código Civil para la Ciudad de México es el fundamento normativo que se analiza en esta resolución.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2028009

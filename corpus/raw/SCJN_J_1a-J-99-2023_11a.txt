@@ -1,0 +1,20 @@
+RUBRO: PAGO DE INTERESES EN LA RESCISIÓN DE UN CONTRATO DE COMPRAVENTA. PROCEDE SÓLO SI FUERON RECLAMADOS EN EL JUICIO (LEGISLACIONES FEDERAL, DE QUINTANA ROO Y DE LA CIUDAD DE MÉXICO).
+
+CLAVE DE TESIS: 1a./J. 99/2023 (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; 1a. Sala; Gaceta S.J.F.; Libro 29, Septiembre de 2023; Tomo II; Pág. 2254
+INSTANCIA: Primera Sala (S.C.J.N.)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2023-09-22T10:31:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2027257
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: En los supuestos de rescisión de un contrato de compraventa, la procedencia del pago de intereses se encuentra condicionada a que hayan sido expresamente reclamados por la parte actora durante el desarrollo del juicio, criterio que resulta aplicable conforme a las legislaciones federal, de Quintana Roo y de la Ciudad de México. El tribunal debe limitarse a resolver únicamente sobre aquellas prestaciones que fueron materia de demanda, por lo que la condena al pago de intereses no puede decretarse de oficio sino que requiere que la parte interesada las haya solicitado explícitamente en su escrito de demanda o durante las etapas procesales correspondientes. Este criterio garantiza el respeto al principio de congruencia procesal y evita que se condene al demandado por conceptos que no fueron controvertidos ni debatidos en el juicio.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2027257

@@ -1,0 +1,20 @@
+RUBRO: REVISIÓN FISCAL. EL SUBDELEGADO DE ADMINISTRACIÓN Y ENCARGADO DEL DESPACHO DE LA DELEGACIÓN COAHUILA DE ZARAGOZA DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO, CARECE DE LEGITIMACIÓN PARA INTERPONER DICHO RECURSO.
+
+CLAVE DE TESIS: VIII.3o.P.A. J/1 A (10a.)
+LOCALIZACIÓN: [J]; 11a. Época; T.C.C.; Gaceta S.J.F.; Libro 1, Mayo de 2021; Tomo III; Pág. 2331
+INSTANCIA: TERCER TRIBUNAL COLEGIADO EN MATERIAS PENAL Y ADMINISTRATIVA DEL OCTAVO CIRCUITO. (T.C.C.)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2021-05-07T10:12:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2023087
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: El supuesto jurídico que resuelve es la determinación de quién tiene legitimación activa para interponer revisión fiscal en contra de resoluciones administrativas dictadas por el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado. El criterio establecido es que el Subdelegado de Administración y Encargado del Despacho de la Delegación Coahuila de Zaragoza de dicho Instituto carece de la legitimación procesal necesaria para ejercitar este recurso, lo que implica que tal funcionario no ostenta la calidad jurídica requerida por la ley para ser considerado parte activa en este tipo de controversias administrativas.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2023087

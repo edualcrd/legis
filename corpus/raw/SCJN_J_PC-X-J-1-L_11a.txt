@@ -1,0 +1,20 @@
+RUBRO: RIESGOS DE TRABAJO. EL ARTÍCULO 899-E, FRACCIÓN IV, DE LA LEY FEDERAL DEL TRABAJO (EN SU TEXTO ADICIONADO POR DECRETO PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACIÓN EL 30 DE NOVIEMBRE DE 2012), NO EXIGE COMO REQUISITO DE LOS DICTÁMENES MÉDICOS PARA SU CALIFICACIÓN Y VALUACIÓN UNA DETERMINADA EXTENSIÓN EN LOS RAZONAMIENTOS DEL PERITO PARA JUSTIFICAR EL NEXO CAUSAL ENTRE LA ACTIVIDAD DESARROLLADA POR EL TRABAJADOR O EL MEDIO AMBIENTE DE TRABAJO, CON LAS ENFERMEDADES DETECTADAS.
+
+CLAVE DE TESIS: PC.X. J/1 L (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; Plenos de Circuito; Gaceta S.J.F.; Libro 5, Septiembre de 2021; Tomo II; Pág. 2803
+INSTANCIA: PLENO DEL DECIMO CIRCUITO. (Plenos de Circuito)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2021-09-24T10:33:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2023601
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: El supuesto jurídico que resuelve es la determinación de los requisitos formales que deben cumplir los dictámenes médicos en materia de riesgos de trabajo para su calificación y valuación. El criterio establecido es que el artículo 899-E, fracción IV, de la Ley Federal del Trabajo no impone una extensión mínima o determinada en los razonamientos que el perito debe desarrollar para justificar el nexo causal entre la actividad laboral o el ambiente de trabajo y las enfermedades detectadas, lo que significa que la ley no exige un nivel específico de detalle o profundidad argumentativa en este aspecto.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2023601

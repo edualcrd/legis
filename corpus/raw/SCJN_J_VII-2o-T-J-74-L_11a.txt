@@ -1,0 +1,20 @@
+RUBRO: VACACIONES DE LOS TRABAJADORES AL SERVICIO DEL ESTADO DE VERACRUZ. CÓMPUTO DEL PLAZO PARA QUE OPERE LA PRESCRIPCIÓN DE LA ACCIÓN PARA RECLAMAR DICHA PRESTACIÓN CUANDO ALEGAN HABER TENIDO GUARDIA Y LABORAR EL PERIODO CORRESPONDIENTE (INTERPRETACIÓN SISTEMÁTICA DE LOS ARTÍCULOS 53 Y 55 DE LA LEY DEL SERVICIO CIVIL RELATIVA).
+
+CLAVE DE TESIS: VII.2o.T. J/74 L (10a.)
+LOCALIZACIÓN: [J]; 11a. Época; T.C.C.; Gaceta S.J.F.; Libro 1, Mayo de 2021; Tomo III; Pág. 2366
+INSTANCIA: SEGUNDO TRIBUNAL COLEGIADO EN MATERIA DE TRABAJO DEL SÉPTIMO CIRCUITO. (T.C.C.)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2021-05-07T10:12:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2023096
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: El supuesto jurídico que resuelve es la determinación del momento en que comienza a correr el plazo de prescripción para que los trabajadores al servicio del Estado de Veracruz reclamen el pago de vacaciones cuando alegan haber prestado servicios durante el período correspondiente a pesar de tener asignada guardia. El criterio establecido, mediante interpretación sistemática de los artículos 53 y 55 de la Ley del Servicio Civil de Veracruz, es que la prescripción se computa a partir del momento en que la prestación de vacaciones debió ser otorgada o pagada conforme a la ley, considerando que el trabajador que laboró durante el período vacacional tiene derecho a reclamar dicha prestación independientemente de la asignación de guardia. Esta interpretación integra ambos preceptos para determinar cuándo nace el derecho exigible y, consecuentemente, cuándo inicia el término prescriptivo para ejercitar la acción correspondiente.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2023096

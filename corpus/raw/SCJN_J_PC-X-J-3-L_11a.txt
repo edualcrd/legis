@@ -1,0 +1,20 @@
+RUBRO: COMPETENCIA. CONVENIO CELEBRADO ANTE UN CENTRO DE CONCILIACIÓN FEDERAL O LOCAL, SU APROBACIÓN NO PREJUZGA SOBRE LA COMPETENCIA DEL ÓRGANO JURISDICCIONAL AL QUE LE CORRESPONDERÁ CONOCER SOBRE SU EJECUCIÓN (NUEVO SISTEMA DE JUSTICIA LABORAL).
+
+CLAVE DE TESIS: PC.X. J/3 L (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; Plenos de Circuito; Gaceta S.J.F.; Libro 15, Julio de 2022; Tomo III; Pág. 2995
+INSTANCIA: PLENO DEL DECIMO CIRCUITO. (Plenos de Circuito)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2022-07-08T10:15:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2024942
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: La aprobación de un convenio celebrado ante un centro de conciliación federal o local en materia laboral no determina ni prejuzga cuál será la competencia del órgano jurisdiccional que deba conocer de su ejecución, ya que la competencia se establece conforme a los criterios legales aplicables al momento en que se promueve el juicio de ejecución y no por el hecho de que el acuerdo haya sido aprobado ante una instancia conciliadora específica. El criterio reconoce que la función conciliadora y la función jurisdiccional son independientes en cuanto a competencia, de modo que aunque un centro de conciliación federal o local apruebe un convenio, la determinación de qué juzgado laboral será competente para ejecutarlo debe resolverse conforme a las reglas de competencia establecidas en la ley, sin que la aprobación del convenio implique una prórroga tácita o una aceptación de competencia por parte de autoridad jurisdiccional alguna.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2024942

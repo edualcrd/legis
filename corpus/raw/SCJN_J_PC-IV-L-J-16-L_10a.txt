@@ -1,0 +1,20 @@
+RUBRO: CONFLICTOS INDIVIDUALES DE SEGURIDAD SOCIAL. CUANDO SE ACTUALICE LA EXCEPCIÓN DE OSCURIDAD DE LA DEMANDA ANTE EL INCUMPLIMIENTO DEL ACTOR A LOS REQUISITOS ESTABLECIDOS DEL ARTÍCULO 899-C DE LA LEY FEDERAL DEL TRABAJO, NO SE DEBE ABSOLVER RESPECTO DE LAS PRESTACIONES RELACIONADAS, SINO DEJAR A SALVO SUS DERECHOS PARA QUE LOS HAGA VALER EN DIVERSA OPORTUNIDAD.
+
+CLAVE DE TESIS: PC.IV.L  J/16 L (10a.)
+LOCALIZACIÓN: [J]; 10a. Época; Plenos de Circuito; Gaceta S.J.F.; Libro 43, Junio de 2017; Tomo III; Pág. 1597
+INSTANCIA: PLENO EN MATERIA DE TRABAJO DEL CUARTO CIRCUITO. (Plenos de Circuito)
+ÉPOCA: 10a. Época
+FECHA DE PUBLICACIÓN: 2017-06-30T10:36:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2014658
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: En los conflictos individuales de seguridad social, cuando el demandante incumple los requisitos formales establecidos en el artículo 899-C de la Ley Federal del Trabajo y se actualiza la excepción de oscuridad de la demanda, el tribunal no debe absolver al demandado respecto de las prestaciones relacionadas, sino dejar a salvo los derechos del actor para que los haga valer en una oportunidad posterior, evitando así que deficiencias procedimentales causen la pérdida definitiva de derechos sustantivos en materia de seguridad social.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2014658

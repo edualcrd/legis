@@ -1,0 +1,20 @@
+RUBRO: EMPLAZAMIENTO A JUICIO EN MATERIA LABORAL. NO ES OBLIGACIÓN DEL ACTUARIO NI CONSTITUYE REQUISITO DE VALIDEZ DE LA DILIGENCIA QUE ASIENTE EN LA RAZÓN RESPECTIVA, LA FORMA EN LA QUE SE CERCIORÓ DE QUE LA PERSONA CON QUIEN LA ENTENDIÓ ES MAYOR DE EDAD, NI A RECABAR LAS PRUEBAS O LOS DATOS CON LOS QUE SE CUMPLIÓ ESE REQUISITO (LEGISLACIÓN VIGENTE A PARTIR DEL 1 DE DICIEMBRE DE 2012).
+
+CLAVE DE TESIS: 2a./J. 3/2019 (10a.)
+LOCALIZACIÓN: [J]; 10a. Época; 2a. Sala; Gaceta S.J.F.; Libro 63, Febrero de 2019; Tomo I; Pág. 1073
+INSTANCIA: Segunda Sala (S.C.J.N.)
+ÉPOCA: 10a. Época
+FECHA DE PUBLICACIÓN: 2019-02-01T10:03:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2019181
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: En materia de emplazamiento a juicio laboral, el actuario no tiene la obligación de asentar en la razón de la diligencia la forma específica en que se cercioró de la mayoría de edad de la persona con quien se entendió el acto, ni constituye un requisito de validez de la diligencia que recabe o documente las pruebas y datos con los que verificó tal circunstancia, siempre que conste que efectivamente se cumplió con el requisito de entregar el emplazamiento a una persona mayor de edad.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2019181

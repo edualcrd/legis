@@ -1,0 +1,20 @@
+RUBRO: IMPUESTO SOBRE REMUNERACIONES AL TRABAJO PERSONAL. LA SOBRETASA PREVISTA EN EL ARTÍCULO 3, PÁRRAFO SEGUNDO, DE LA LEY DE INGRESOS DEL ESTADO DE BAJA CALIFORNIA PARA EL EJERCICIO FISCAL DEL AÑO 2021, PERSIGUE UNA FINALIDAD FISCAL SUJETA A UNA MOTIVACIÓN LEGISLATIVA ORDINARIA.
+
+CLAVE DE TESIS: PR.A.C.CN. J/65 A (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; Plenos Regionales; Gaceta S.J.F.; Libro 48, Abril de 2025; Tomo II, Volumen 2; Pág. 651
+INSTANCIA: PLENO REGIONAL EN MATERIAS ADMINISTRATIVA Y CIVIL DE LA REGIÓN CENTRO-NORTE, CON RESIDENCIA EN LA CIUDAD DE MÉXICO. (Plenos Regionales)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2025-04-11T10:15:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2030251
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: La Suprema Corte de Justicia de la Nación resuelve que la sobretasa al impuesto sobre remuneraciones al trabajo personal establecida en el artículo 3, párrafo segundo, de la Ley de Ingresos del Estado de Baja California para 2021 constituye una medida con finalidad fiscal ordinaria, es decir, destinada a incrementar los ingresos tributarios del estado, sin perseguir un propósito extrafiscal o de regulación económica que requeriría un nivel de escrutinio constitucional más riguroso. El criterio establecido reconoce que esta sobretasa, aunque representa un aumento en la carga tributaria para los trabajadores, responde a una motivación legislativa ordinaria de recaudación fiscal y no viola principios constitucionales de proporcionalidad y equidad tributaria, siempre que se mantenga dentro de los límites razonables de la potestad tributaria estatal.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2030251

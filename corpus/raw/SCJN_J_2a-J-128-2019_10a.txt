@@ -1,0 +1,20 @@
+RUBRO: ISSSTE. EL ARTÍCULO 12 DEL REGLAMENTO PARA EL OTORGAMIENTO DE PENSIONES DE LOS TRABAJADORES SUJETOS AL RÉGIMEN DEL ARTÍCULO DÉCIMO TRANSITORIO DEL DECRETO POR EL QUE SE EXPIDE LA LEY RELATIVA, VIOLA EL DERECHO A LA SEGURIDAD SOCIAL Y EL PRINCIPIO DE PREVISIÓN SOCIAL.
+
+CLAVE DE TESIS: 2a./J. 128/2019 (10a.)
+LOCALIZACIÓN: [J]; 10a. Época; 2a. Sala; Gaceta S.J.F.; Libro 70, Septiembre de 2019; Tomo I; Pág. 259
+INSTANCIA: Segunda Sala (S.C.J.N.)
+ÉPOCA: 10a. Época
+FECHA DE PUBLICACIÓN: 2019-09-20T10:29:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2020634
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: El supuesto jurídico que resuelve es la constitucionalidad del artículo 12 del Reglamento para el otorgamiento de pensiones de los trabajadores sujetos al régimen del artículo Décimo Transitorio del Decreto por el que se expide la Ley relativa al ISSSTE. El criterio establecido es que dicho artículo viola el derecho a la seguridad social y el principio de previsión social reconocidos constitucionalmente, al establecer condiciones que resultan contrarias a la protección integral que debe garantizarse a los trabajadores del Instituto. El rubro cita implícitamente disposiciones constitucionales relativas a seguridad social y previsión social, aunque no especifica números de artículos de la CPEUM en el texto del rubro mismo.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2020634

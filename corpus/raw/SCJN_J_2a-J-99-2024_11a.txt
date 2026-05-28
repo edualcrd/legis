@@ -1,0 +1,20 @@
+RUBRO: ANTIGÜEDAD GENERAL DE EMPRESA. LOS TRABAJADORES DE LA COMISIÓN FEDERAL DE ELECTRICIDAD TIENEN DERECHO A SU RECONOCIMIENTO, NO OBSTANTE QUE SE LES HAYA PAGADO LA PRIMA DE ANTIGÜEDAD DERIVADA DEL PERIODO EN QUE LABORARON COMO TEMPORALES.
+
+CLAVE DE TESIS: 2a./J. 99/2024 (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; 2a. Sala; Gaceta S.J.F.; Libro 44, Diciembre de 2024; Tomo I, Volumen 1; Pág. 516
+INSTANCIA: Segunda Sala (S.C.J.N.)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2024-12-06T10:18:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2029645
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: Los trabajadores de la Comisión Federal de Electricidad que fueron contratados inicialmente como temporales y posteriormente como de planta tienen derecho al reconocimiento de su antigüedad general de empresa desde el inicio de su relación laboral, aun cuando hayan recibido el pago de la prima de antigüedad correspondiente al período en que laboraron bajo la modalidad temporal. El criterio establece que el pago de la prima de antigüedad por el tiempo de servicios temporales no extingue ni cancela el derecho a que se reconozca la antigüedad total acumulada en la empresa para efectos de prestaciones, beneficios y derechos que deriven de la antigüedad general, considerando que ambas modalidades de contratación constituyen una relación laboral continua con el mismo patrón.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2029645

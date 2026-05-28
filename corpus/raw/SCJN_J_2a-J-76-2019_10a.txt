@@ -1,0 +1,20 @@
+RUBRO: PRUEBA TESTIMONIAL EN EL JUICIO LABORAL. SU DESAHOGO PUEDE DIVIDIRSE CUANDO LOS TESTIGOS RADIQUEN FUERA DEL LUGAR DE RESIDENCIA DE LA JUNTA (LEGISLACIÓN VIGENTE HASTA EL 30 DE NOVIEMBRE DE 2012).
+
+CLAVE DE TESIS: 2a./J. 76/2019 (10a.)
+LOCALIZACIÓN: [J]; 10a. Época; 2a. Sala; Gaceta S.J.F.; Libro 67, Junio de 2019; Tomo III; Pág. 2263
+INSTANCIA: Segunda Sala (S.C.J.N.)
+ÉPOCA: 10a. Época
+FECHA DE PUBLICACIÓN: 2019-06-07T10:13:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2020022
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: En los juicios laborales, cuando los testigos ofrecidos residen fuera del lugar donde se ubica la junta de conciliación y arbitraje, es procedente dividir el desahogo de la prueba testimonial en varias audiencias, permitiendo que se practique en diferentes momentos según la disponibilidad y ubicación de los declarantes, lo que facilita la práctica de esta prueba sin obligar a los testigos a trasladarse innecesariamente ni a las partes a soportar costos excesivos. Este criterio se aplicaba conforme a la legislación laboral vigente hasta el treinta de noviembre de dos mil doce, reconociendo que la flexibilidad en el procedimiento de desahogo de pruebas testimoniales es compatible con las garantías de debido proceso y contradicción que caracterizan al procedimiento laboral.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2020022

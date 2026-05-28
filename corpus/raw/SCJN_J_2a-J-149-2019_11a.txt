@@ -1,0 +1,20 @@
+RUBRO: CONFLICTOS INDIVIDUALES DE SEGURIDAD SOCIAL. CONFORME A LAS FRACCIONES VI Y VII DEL ARTÍCULO 899-C DE LA LEY FEDERAL DEL TRABAJO, EL "ÚLTIMO ESTADO DE LA CUENTA INDIVIDUAL DE AHORRO PARA EL RETIRO" ES AQUEL QUE RECIBIÓ EL ASEGURADO EN EL CUATRIMESTRE PREVIO A LA PRESENTACIÓN DE LA DEMANDA.
+
+CLAVE DE TESIS: 2a./J. 149/2019 (10a.)
+LOCALIZACIÓN: [J]; 11a. Época; 2a. Sala; Gaceta S.J.F.; Libro 39, Julio de 2024; Tomo I, Volumen 1; Pág. 1091
+INSTANCIA: Segunda Sala (S.C.J.N.)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2024-07-05T10:12:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2029108
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: En los conflictos individuales de seguridad social, cuando el asegurado cuestiona el estado de su cuenta individual de ahorro para el retiro, el "último estado de la cuenta" conforme a las fracciones VI y VII del artículo 899-C de la Ley Federal del Trabajo se refiere específicamente a aquel estado que el asegurado recibió durante el cuatrimestre inmediatamente anterior a la presentación de la demanda, estableciendo así un criterio temporal preciso para determinar cuál es el documento que debe considerarse como referencia en la controversia planteada.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2029108

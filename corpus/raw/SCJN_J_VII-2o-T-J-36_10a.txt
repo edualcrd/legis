@@ -1,0 +1,20 @@
+RUBRO: CONFLICTOS INDIVIDUALES DE SEGURIDAD SOCIAL. LA OMISIÓN DE LA AUTORIDAD JURISDICCIONAL DE CERCIORARSE DE QUE EL TRABAJADOR EXHIBA JUNTO CON LA DEMANDA EL ÚLTIMO ESTADO DE CUENTA DE AHORRO PARA EL RETIRO QUE REFLEJE LAS CANTIDADES DE LA SUBCUENTA QUE RECLAMA, Y NO CUALQUIER OTRO DOCUMENTO, ACTUALIZA UNA VIOLACIÓN QUE AMERITA LA REPOSICIÓN DEL PROCEDIMIENTO.
+
+CLAVE DE TESIS: VII.2o.T. J/36 (10a.)
+LOCALIZACIÓN: [J]; 10a. Época; T.C.C.; Gaceta S.J.F.; Libro 60, Noviembre de 2018; Tomo III; Pág. 1933
+INSTANCIA: SEGUNDO TRIBUNAL COLEGIADO EN MATERIA DE TRABAJO DEL SÉPTIMO CIRCUITO. (T.C.C.)
+ÉPOCA: 10a. Época
+FECHA DE PUBLICACIÓN: 2018-11-23T10:34:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2018445
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: En los conflictos individuales de seguridad social relativos a fondos de ahorro para el retiro, la autoridad jurisdiccional tiene la obligación de verificar que el trabajador acompañe a su demanda el último estado de cuenta de ahorro para el retiro que especifique las cantidades de la subcuenta que reclama, y no documentos alternativos o insuficientes. El criterio establecido es que la omisión de esta verificación por parte del juzgador constituye una violación procesal que afecta el derecho de defensa y la certeza de las prestaciones reclamadas, por lo que amerita la reposición del procedimiento desde la etapa en que se incurrió en tal omisión.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2018445

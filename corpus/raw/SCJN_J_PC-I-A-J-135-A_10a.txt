@@ -1,0 +1,20 @@
+RUBRO: POLICÍA AUXILIAR DE LA CIUDAD DE MÉXICO. AUNQUE SUS MIEMBROS PERTENECEN CONSTITUCIONALMENTE A UN RÉGIMEN ESPECIAL DONDE NO PUEDE RECLAMARSE LA POSIBLE AFECTACIÓN A DERECHOS LABORALES, LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS LES RECONOCE EL DERECHO FUNDAMENTAL A LA SEGURIDAD SOCIAL.
+
+CLAVE DE TESIS: PC.I.A. J/135 A (10a.)
+LOCALIZACIÓN: [J]; 10a. Época; Plenos de Circuito; Gaceta S.J.F.; Libro 63, Febrero de 2019; Tomo II; Pág. 1904
+INSTANCIA: PLENO EN MATERIA ADMINISTRATIVA DEL PRIMER CIRCUITO. (Plenos de Circuito)
+ÉPOCA: 10a. Época
+FECHA DE PUBLICACIÓN: 2019-02-08T10:10:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2019263
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: La Suprema Corte de Justicia de la Nación resuelve que, aunque los miembros de la Policía Auxiliar de la Ciudad de México se encuentran sujetos a un régimen especial que excluye la posibilidad de reclamar afectaciones a derechos laborales, la Constitución Política de los Estados Unidos Mexicanos les reconoce expresamente el derecho fundamental a la seguridad social, el cual permanece vigente y exigible independientemente de su condición especial como servidores públicos. El criterio establece que la exclusión del régimen laboral ordinario no implica la negación de prestaciones de seguridad social, sino que estas deben garantizarse conforme al marco constitucional que protege este derecho fundamental para todos los trabajadores y servidores públicos.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2019263

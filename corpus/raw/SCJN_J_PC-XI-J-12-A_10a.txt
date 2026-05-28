@@ -1,0 +1,20 @@
+RUBRO: PENSIÓN DE RETIRO POR EDAD Y TIEMPO DE SERVICIOS. EL SUELDO PARA SU CÁLCULO DEBE ACTUALIZARSE EN LOS CASOS EN QUE TRANSCURRAN MÁS DE DOCE MESES ENTRE LA FECHA EN QUE EL TRABAJADOR CUMPLA QUINCE AÑOS DE SERVICIO O MÁS Y AQUELLA EN LA QUE SE LE OTORGUE ESE BENEFICIO POR HABER LLEGADO A LA EDAD REQUERIDA PARA ELLO, EN TÉRMINOS DE LOS ARTÍCULOS 61 A 66 DE LA LEY DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO.
+
+CLAVE DE TESIS: PC.XI. J/12 A (10a.)
+LOCALIZACIÓN: [J]; 10a. Época; Plenos de Circuito; Gaceta S.J.F.; Libro 84, Marzo de 2021; Tomo III; Pág. 2505
+INSTANCIA: PLENO DEL DECIMOPRIMER CIRCUITO. (Plenos de Circuito)
+ÉPOCA: 10a. Época
+FECHA DE PUBLICACIÓN: 2021-03-26T10:29:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2022906
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: El supuesto jurídico que resuelve es la determinación del sueldo base para calcular la pensión de retiro por edad y tiempo de servicios cuando existe un lapso superior a doce meses entre la fecha en que el trabajador cumple quince años de servicio y aquella en que efectivamente se le otorga la pensión al alcanzar la edad requerida. El criterio establecido es que en tales circunstancias el sueldo debe actualizarse conforme a los mecanismos legales correspondientes, a fin de evitar que la pensión se calcule sobre una base económica desactualizada que no refleje el valor real de la remuneración. Esta actualización se rige conforme a los artículos 61 a 66 de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2022906

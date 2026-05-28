@@ -1,0 +1,20 @@
+RUBRO: IMPEDIMENTO PREVISTO EN EL ARTÍCULO 51, FRACCIÓN VIII, DE LA LEY DE AMPARO. CUANDO EL TITULAR DE UN ÓRGANO JURISDICCIONAL MANIFIESTE QUE DERIVADO DE LA RELACIÓN LABORAL, TIENE AFECTO CON UN SERVIDOR PÚBLICO QUE A SU VEZ GUARDA PARENTESCO CON EL ASESOR JURÍDICO O PERSONA AUTORIZADA DE UNA DE LAS PARTES EN EL JUICIO DE AMPARO, ELLO CONSTITUYE UN ELEMENTO OBJETIVO QUE HACE POSIBLE INFERIR EL RIESGO DE PÉRDIDA DE IMPARCIALIDAD.
+
+CLAVE DE TESIS: PR.P.CN. J/9 K (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; Plenos Regionales; Gaceta S.J.F.; Libro 26, Junio de 2023; Tomo VI; Pág. 5248
+INSTANCIA: PLENO REGIONAL EN MATERIA PENAL DE LA REGIÓN CENTRO-NORTE, CON RESIDENCIA EN LA CIUDAD DE MÉXICO. (Plenos Regionales)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2023-06-30T10:36:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2026809
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: El supuesto jurídico que resuelve este rubro es la configuración del impedimento de un titular de órgano jurisdiccional para conocer de un juicio de amparo cuando existe una relación laboral que genera afecto con un servidor público que a su vez mantiene parentesco con el asesor jurídico o persona autorizada de una de las partes litigantes. El criterio establecido es que tales circunstancias constituyen un elemento objetivo suficiente para inferir razonablemente el riesgo de pérdida de imparcialidad del juzgador, lo que justifica su recusación conforme al artículo 51, fracción VIII, de la Ley de Amparo. Esta interpretación reconoce que los vínculos indirectos derivados de relaciones laborales y parentesco pueden comprometer la objetividad necesaria en la administración de justicia, aun cuando no exista una relación directa entre el juzgador y las partes.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2026809

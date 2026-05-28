@@ -1,0 +1,20 @@
+RUBRO: COMISIÓN FEDERAL DE ELECTRICIDAD. CUANDO SUS TRABAJADORES DEMANDAN EL PAGO DE VACACIONES Y PRIMA VACACIONAL CONJUNTAMENTE CON EL RECONOCIMIENTO DE ANTIGÜEDAD GENERAL DE EMPRESA, NO OPERA LA EXCEPCIÓN DE PRESCRIPCIÓN RESPECTO DE AQUÉLLAS.
+
+CLAVE DE TESIS: PC.III.L. J/25 L (10a.)
+LOCALIZACIÓN: [J]; 10a. Época; Plenos de Circuito; Gaceta S.J.F.; Libro 52, Marzo de 2018; Tomo II; Pág. 1771
+INSTANCIA: PLENO EN MATERIA DE TRABAJO DEL TERCER CIRCUITO. (Plenos de Circuito)
+ÉPOCA: 10a. Época
+FECHA DE PUBLICACIÓN: 2018-03-23T10:26:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2016493
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: Cuando los trabajadores de la Comisión Federal de Electricidad demandan conjuntamente el pago de vacaciones y prima vacacional junto con el reconocimiento de antigüedad general de empresa, la excepción de prescripción no opera respecto de las prestaciones de vacaciones y prima vacacional, ya que el criterio establecido considera que la acción para reclamar estas prestaciones no se ve interrumpida o suspendida por el hecho de que se demande simultáneamente el reconocimiento de antigüedad, permitiendo así que los trabajadores puedan ejercitar sus derechos a estas prestaciones sin que se les oponga la prescripción como defensa válida en estos casos.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2016493

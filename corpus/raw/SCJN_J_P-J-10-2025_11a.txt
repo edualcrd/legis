@@ -1,0 +1,20 @@
+RUBRO: RELACIÓN LABORAL BUROCRÁTICA. DETERMINACIÓN DE SU EXISTENCIA A PARTIR DE LA ENCOMIENDA Y DESARROLLO DE LAS FUNCIONES INHERENTES AL CARGO, CUANDO NO SE HAYA FORMALIZADO A TRAVÉS DE LA EMISIÓN DE UN NOMBRAMIENTO.
+
+CLAVE DE TESIS: P./J. 10/2025 (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; Pleno; Gaceta S.J.F.; Libro 52, Agosto de 2025; Tomo III, Volumen 1; Pág. 309
+INSTANCIA: Pleno (S.C.J.N.)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2025-08-15T10:23:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2030967
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: La existencia de una relación laboral burocrática puede determinarse a partir de la encomienda y desarrollo efectivo de las funciones inherentes al cargo, incluso cuando no se haya formalizado mediante la emisión de un nombramiento, ya que lo relevante es que el servidor público haya desempeñado las actividades propias de su puesto y no la mera existencia de un documento formal que acredite su designación. El criterio establece que la relación laboral burocrática se constituye por el ejercicio real de las funciones, de modo que la falta de nombramiento no impide reconocer la existencia de dicha relación ni los derechos que de ella derivan para el trabajador al servicio del Estado.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2030967

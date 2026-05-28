@@ -1,0 +1,20 @@
+RUBRO: SERVICIO PROFESIONAL DE CARRERA EN LA ADMINISTRACIÓN PÚBLICA FEDERAL. PROCEDE EL PAGO DE LA INDEMNIZACIÓN PREVISTA EN EL ARTÍCULO 10, FRACCIÓN X, DE LA LEY RELATIVA, CON INDEPENDENCIA DE QUE EL TRABAJADOR HAYA RECLAMADO LA REINSTALACIÓN EN EL JUICIO LABORAL DE ORIGEN Y ESA PRESTACIÓN NO LA HUBIERE SEÑALADO EXPRESAMENTE EN SU DEMANDA.
+
+CLAVE DE TESIS: PC.I.L. J/28 L (10a.)
+LOCALIZACIÓN: [J]; 10a. Época; Plenos de Circuito; Gaceta S.J.F.; Libro 41, Abril de 2017; Tomo II; Pág. 1456
+INSTANCIA: PLENO EN MATERIA DE TRABAJO DEL PRIMER CIRCUITO. (Plenos de Circuito)
+ÉPOCA: 10a. Época
+FECHA DE PUBLICACIÓN: 2017-04-21T10:25:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2014110
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: El supuesto jurídico que resuelve es la procedencia del pago de indemnización en los casos de separación de servidores públicos del servicio profesional de carrera en la administración pública federal, incluso cuando el trabajador ha demandado la reinstalación sin señalar expresamente la indemnización en su demanda inicial. El criterio establecido es que la indemnización prevista en el artículo 10, fracción X, de la Ley del Servicio Profesional de Carrera en la Administración Pública Federal procede de manera independiente a lo que el trabajador haya solicitado en el juicio laboral de origen, reconociendo así un derecho que surge por ministerio de ley al acreditarse la causa de separación, sin que sea necesario que el demandante lo haya reclamado expresamente en su demanda.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2014110

@@ -1,0 +1,20 @@
+RUBRO: TRABAJADORES DE BASE. EL REQUISITO DE ESTAR EN SERVICIO POR SEIS AÑOS Y SEIS MESES PARA OTORGARLES NOMBRAMIENTO DEFINITIVO VIOLA EL DERECHO A LA ESTABILIDAD EN EL EMPLEO (ARTÍCULO 7 DE LA LEY PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS).
+
+CLAVE DE TESIS: 2a./J. 40/2024 (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; 2a. Sala; Gaceta S.J.F.; Libro 36, Abril de 2024; Tomo II; Pág. 2303
+INSTANCIA: Segunda Sala (S.C.J.N.)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2024-04-19T10:23:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2028652
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: El supuesto jurídico que resuelve es la constitucionalidad del requisito de permanencia de seis años y seis meses para que los trabajadores de base obtengan nombramiento definitivo. El criterio establecido es que dicho requisito viola el derecho a la estabilidad en el empleo reconocido en el artículo 7 de la Ley para los Servidores Públicos del Estado de Jalisco y sus Municipios, toda vez que impone una condición temporal desproporcionada que retrasa injustificadamente la adquisición de la seguridad laboral que debe ser inherente a la relación de trabajo desde su inicio.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2028652

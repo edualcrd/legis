@@ -1,0 +1,20 @@
+RUBRO: EMBARGO DE INMUEBLE DECRETADO CON MOTIVO DE LA EJECUCIÓN DE SENTENCIA EN UN PROCEDIMIENTO LABORAL. SU INSCRIPCIÓN ANTE EL REGISTRO PÚBLICO DE LA PROPIEDAD DE LA ENTIDAD DEBE SER GRATUITA, EN TÉRMINOS DEL ARTÍCULO 19 DE LA LEY FEDERAL DEL TRABAJO.
+
+CLAVE DE TESIS: 2a./J. 44/2023 (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; 2a. Sala; Gaceta S.J.F.; Libro 28, Agosto de 2023; Tomo II; Pág. 1945
+INSTANCIA: Segunda Sala (S.C.J.N.)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2023-08-11T10:19:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2026979
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: El embargo de inmueble decretado en la ejecución de una sentencia laboral constituye un acto derivado del procedimiento de trabajo que busca garantizar el cumplimiento de las prestaciones ordenadas por el tribunal. La jurisprudencia establece que la inscripción de dicho embargo ante el Registro Público de la Propiedad debe realizarse sin costo alguno para la parte ejecutante, conforme a lo dispuesto en el artículo 19 de la Ley Federal del Trabajo, que reconoce el carácter gratuito de los procedimientos laborales y sus actos conexos. Este criterio protege el acceso efectivo a la justicia laboral al eliminar obstáculos económicos que pudieran impedir la ejecución de sentencias en favor de los trabajadores.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2026979

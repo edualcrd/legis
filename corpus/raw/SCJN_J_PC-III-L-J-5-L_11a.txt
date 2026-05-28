@@ -1,0 +1,20 @@
+RUBRO: ACTOS EMITIDOS POR LA COMISIÓN SUBSTANCIADORA DE CONFLICTOS LABORALES DE PERSONAL DE CONFIANZA DEL CONSEJO DE LA JUDICATURA DEL ESTADO DE JALISCO, AL DIRIMIR Y SUSTANCIAR LOS CONFLICTOS LABORALES SOMETIDOS A SU CONOCIMIENTO. CONSTITUYEN ACTOS MATERIALMENTE JURISDICCIONALES, POR LO QUE CARECE DE LEGITIMACIÓN PARA INTERPONER EL RECURSO DE REVISIÓN CONTRA LA SENTENCIA DICTADA EN EL JUICIO DE AMPARO INDIRECTO.
+
+CLAVE DE TESIS: PC.III.L. J/5 L (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; Plenos de Circuito; Gaceta S.J.F.; Libro 19, Noviembre de 2022; Tomo III; Pág. 2315
+INSTANCIA: PLENO EN MATERIA DE TRABAJO DEL TERCER CIRCUITO. (Plenos de Circuito)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2022-11-04T10:15:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2025425
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: La Comisión Substanciadora de Conflictos Laborales de Personal de Confianza del Consejo de la Judicatura del Estado de Jalisco, al dirimir y sustanciar los conflictos laborales de su competencia, emite actos que revisten carácter materialmente jurisdiccional, por lo que se establece como criterio que dicha comisión carece de legitimación activa para interponer el recurso de revisión en contra de sentencias dictadas en juicios de amparo indirecto que cuestionen sus resoluciones, toda vez que no puede ser considerada parte en el sentido procesal requerido para ejercitar tal medio de impugnación ante la Suprema Corte de Justicia de la Nación.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2025425

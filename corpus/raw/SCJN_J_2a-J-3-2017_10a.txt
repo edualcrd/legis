@@ -1,0 +1,20 @@
+RUBRO: LIQUIDACIONES Y CONVENIOS DE ANTIGÜEDAD SIGNADOS FUERA DEL JUICIO LABORAL. PARA SU VALIDEZ, LAS PARTES NO TIENEN LA OBLIGACIÓN DE ACUDIR ANTE LA JUNTA DE CONCILIACIÓN Y ARBITRAJE COMPETENTE A RATIFICARLOS.
+
+CLAVE DE TESIS: 2a./J. 3/2017 (10a.)
+LOCALIZACIÓN: [J]; 10a. Época; 2a. Sala; Gaceta S.J.F.; Libro 39, Febrero de 2017; Tomo I; Pág. 464
+INSTANCIA: Segunda Sala (S.C.J.N.)
+ÉPOCA: 10a. Época
+FECHA DE PUBLICACIÓN: 2017-02-03T10:05:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2013591
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: Las liquidaciones y convenios de antigüedad celebrados entre las partes fuera del procedimiento laboral son válidos sin necesidad de que sean ratificados ante la junta de conciliación y arbitraje competente, siempre que consten por escrito y reflejen el consentimiento libre e informado de ambas partes. El criterio establece que la validez de estos acuerdos no depende de su presentación o ratificación ante la autoridad laboral, sino de que cumplan con los requisitos de forma y fondo que garanticen la voluntariedad de las partes y la certeza jurídica del acuerdo. Esta interpretación reconoce la autonomía de la voluntad de los trabajadores y patrones para resolver sus controversias laborales de manera extrajudicial, sin que sea requisito indispensable la intervención de la junta de conciliación y arbitraje para darles validez y eficacia.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2013591

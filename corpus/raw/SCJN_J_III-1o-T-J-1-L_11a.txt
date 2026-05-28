@@ -1,0 +1,20 @@
+RUBRO: AMPARO DIRECTO. CUANDO SE CONCEDE CONTRA UNA SENTENCIA DICTADA EN EL NUEVO PROCEDIMIENTO LABORAL, SUS EFECTOS NO SE LIMITAN A DECLARAR SU INSUBSISTENCIA Y AL DICTADO DE UNA NUEVA, SINO QUE OBLIGAN AL TRIBUNAL LABORAL A CUMPLIR CON LA SECUENCIA DE ACTOS E INTERVENCIÓN DE LAS PARTES EN UNA AUDIENCIA DE JUICIO.
+
+CLAVE DE TESIS: III.1o.T. J/1 L (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; T.C.C.; Gaceta S.J.F.; Libro 50, Junio de 2025; Tomo IV, Volumen 2; Pág. 1275
+INSTANCIA: PRIMER TRIBUNAL COLEGIADO EN MATERIA DE TRABAJO DEL TERCER CIRCUITO. (T.C.C.)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2025-06-27T10:33:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2030617
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: El amparo directo concedido contra una sentencia dictada en el nuevo procedimiento laboral resuelve el supuesto de qué alcance tienen sus efectos cuando se otorga la protección constitucional. El criterio establecido es que dichos efectos no se limitan únicamente a declarar la insubsistencia de la sentencia y ordenar el dictado de una nueva, sino que obligan al tribunal laboral a cumplir íntegramente con la secuencia de actos e intervención de las partes que debe desarrollarse en una audiencia de juicio conforme a los requisitos procedimentales del nuevo sistema laboral.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2030617

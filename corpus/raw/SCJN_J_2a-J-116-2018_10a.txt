@@ -1,0 +1,20 @@
+RUBRO: SEGURO SOCIAL. EL SEGUNDO PÁRRAFO DEL ARTÍCULO 17 DE LA LEY RELATIVA, AL DAR INTERVENCIÓN ÚNICAMENTE AL PATRÓN EN EL PROCEDIMIENTO DE VERIFICACIÓN DE LOS SUPUESTOS PREVISTOS EN LA FRACCIÓN I DEL NUMERAL 12 DEL MISMO ORDENAMIENTO, NO CONTRAVIENE EL DERECHO DE AUDIENCIA DE LOS TRABAJADORES.
+
+CLAVE DE TESIS: 2a./J. 116/2018 (10a.)
+LOCALIZACIÓN: [J]; 10a. Época; 2a. Sala; Gaceta S.J.F.; Libro 60, Noviembre de 2018; Tomo II; Pág. 914
+INSTANCIA: Segunda Sala (S.C.J.N.)
+ÉPOCA: 10a. Época
+FECHA DE PUBLICACIÓN: 2018-11-09T10:20:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2018365
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: El supuesto jurídico que resuelve es si el segundo párrafo del artículo 17 de la Ley del Seguro Social, al otorgar intervención únicamente al patrón en el procedimiento de verificación de los supuestos de la fracción I del artículo 12 de ese ordenamiento, viola el derecho de audiencia de los trabajadores. El criterio establecido es que dicha disposición no contraviene el derecho de audiencia de los trabajadores, ya que el procedimiento de verificación tiene una naturaleza administrativa distinta al procedimiento laboral y no requiere la participación de todas las partes interesadas en esa etapa específica. El artículo 17, segundo párrafo, de la Ley del Seguro Social es el que se analiza en esta resolución.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2018365

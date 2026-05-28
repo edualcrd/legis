@@ -1,0 +1,20 @@
+RUBRO: APORTACIONES AL FONDO DE AYUDA SINDICAL POR DEFUNCIÓN DE LOS TRABAJADORES DEL INSTITUTO MEXICANO DEL SEGURO SOCIAL. CORRESPONDE A SU SINDICATO LA CARGA DE PROBAR QUE EL TRABAJADOR NO LAS REALIZÓ.
+
+CLAVE DE TESIS: 2a./J. 62/2017 (10a.)
+LOCALIZACIÓN: [J]; 10a. Época; 2a. Sala; Gaceta S.J.F.; Libro 43, Junio de 2017; Tomo II; Pág. 853
+INSTANCIA: Segunda Sala (S.C.J.N.)
+ÉPOCA: 10a. Época
+FECHA DE PUBLICACIÓN: 2017-06-23T10:29:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2014581
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: El supuesto jurídico que resuelve este criterio es la determinación de quién debe acreditar el cumplimiento o incumplimiento de las aportaciones al fondo de ayuda sindical por defunción de los trabajadores del Instituto Mexicano del Seguro Social. El criterio establecido es que corresponde al sindicato la carga de probar que el trabajador no realizó las aportaciones correspondientes, invirtiendo así la presunción de cumplimiento en favor del trabajador, quien se presume ha efectuado sus aportaciones a menos que se demuestre lo contrario mediante prueba fehaciente aportada por la organización sindical.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2014581

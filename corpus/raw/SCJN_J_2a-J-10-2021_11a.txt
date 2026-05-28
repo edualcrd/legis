@@ -1,0 +1,22 @@
+RUBRO: INCREMENTOS DE LA PENSIÓN OTORGADA POR EL ISSSTE. ALCANCE DEL ARTÍCULO 57, FRACCIÓN I, INCISO C, ÚLTIMA PARTE DEL PRIMER PÁRRAFO, DE LA LEY FEDERAL DE PROCEDIMIENTO CONTENCIOSO ADMINISTRATIVO, CUANDO SON PAGADOS INCORRECTAMENTE EN BENEFICIO DEL PENSIONADO, POR NO SER COMPATIBLES CON EL RÉGIMEN QUE LE CORRESPONDE.
+
+CLAVE DE TESIS: 2a./J. 10/2021 (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; 2a. Sala; Gaceta S.J.F.; Libro 7, Noviembre de 2021; Tomo II
+
+; Pág. 1907
+INSTANCIA: Segunda Sala (S.C.J.N.)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2021-11-05T10:16:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2023746
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: Cuando el ISSSTE otorga incrementos a una pensión de manera incorrecta por incompatibilidad con el régimen que corresponde al pensionado, el artículo 57, fracción I, inciso C, última parte del primer párrafo de la Ley Federal de Procedimiento Contencioso Administrativo permite al pensionado impugnar tales incrementos indebidamente pagados, estableciendo que la autoridad administrativa debe restituir la situación jurídica al estado que guardaba antes de la aplicación del acto reclamado, sin que el pensionado pueda retener los beneficios económicos que le fueron otorgados en contravención de las disposiciones normativas que rigen su régimen de pensión.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2023746

@@ -1,0 +1,20 @@
+RUBRO: PERSONALIDAD EN EL JUICIO DE AMPARO DIRECTO EN MATERIA DE TRABAJO. PARA TENERLA POR ACREDITADA ES INNECESARIO QUE QUIEN COMPAREZCA COMO APODERADO DEL QUEJOSO DEMUESTRE SER ABOGADO O LICENCIADO EN DERECHO.
+
+CLAVE DE TESIS: PC.IV.L. J/12 L (10a.)
+LOCALIZACIÓN: [J]; 10a. Época; Plenos de Circuito; Gaceta S.J.F.; Libro 34, Septiembre de 2016; Tomo III; Pág. 1861
+INSTANCIA: PLENO EN MATERIA DE TRABAJO DEL CUARTO CIRCUITO. (Plenos de Circuito)
+ÉPOCA: 10a. Época
+FECHA DE PUBLICACIÓN: 2016-09-09T10:18:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2012544
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: En los juicios de amparo directo en materia de trabajo, la personalidad del apoderado del quejoso se acredita sin necesidad de que éste demuestre ser abogado o licenciado en derecho, bastando con que presente los documentos que lo faculten para actuar en representación del quejoso. El criterio establecido reconoce que la ley no exige una profesión específica para que alguien pueda fungir como apoderado en este tipo de procedimientos, siempre que cuente con el poder notarial o documento equivalente que lo autorice. De esta forma, se flexibiliza el requisito de personalidad en el amparo laboral, permitiendo que personas sin formación jurídica formal representen los intereses del trabajador o patrón ante los tribunales de amparo.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2012544

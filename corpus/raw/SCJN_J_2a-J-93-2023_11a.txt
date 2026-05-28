@@ -1,0 +1,20 @@
+RUBRO: SUBCONTRATACIÓN LABORAL. EL ARTÍCULO OCTAVO, PUNTO 1, INCISO G), DEL ACUERDO PARA EL REGISTRO DE PERSONAS QUE PRESTAN SERVICIOS O EJECUTEN OBRAS ESPECIALIZADAS, QUE ESTABLECE COMO REQUISITO PARA ELLO, SE PROPORCIONE LA GEOLOCALIZACIÓN DEL DOMICILIO SEÑALADO POR LOS EMPLEADORES, NO ES VIOLATORIO DE LOS DERECHOS A LA PRIVACIDAD Y A LA PROTECCIÓN DE DATOS PERSONALES.
+
+CLAVE DE TESIS: 2a./J. 93/2023 (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; 2a. Sala; Gaceta S.J.F.; Libro 33, Enero de 2024; Tomo III; Pág. 2603
+INSTANCIA: Segunda Sala (S.C.J.N.)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2024-01-05T10:06:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2027937
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: El supuesto jurídico que resuelve es si el requisito de proporcionar geolocalización del domicilio del empleador en el registro de personas que prestan servicios especializados viola los derechos a la privacidad y protección de datos personales. El criterio establecido es que dicho requisito, contenido en el artículo octavo, punto 1, inciso g) del Acuerdo para el Registro de Personas que Prestan Servicios o Ejecuten Obras Especializadas, no constituye una violación a estos derechos fundamentales, presumiblemente por considerarse una medida proporcional y necesaria para los fines de fiscalización y control de la subcontratación laboral.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2027937

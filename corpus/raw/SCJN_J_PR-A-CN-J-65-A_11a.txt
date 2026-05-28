@@ -1,0 +1,20 @@
+RUBRO: ACTUALIZACIÓN DE LAS DIFERENCIAS ORDENADAS EN UNA SENTENCIA DE NULIDAD POR INCORRECTO AJUSTE A UNA PENSIÓN OTORGADA POR EL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO (ISSSTE). NO ES PROCEDENTE SU RECLAMO A TRAVÉS DE UN TRÁMITE POSTERIOR AUTÓNOMO.
+
+CLAVE DE TESIS: PR.A.CN. J/65 A (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; Plenos Regionales; Gaceta S.J.F.; Libro 34, Febrero de 2024; Tomo II; Pág. 1880
+INSTANCIA: PLENO REGIONAL EN MATERIA ADMINISTRATIVA DE LA REGIÓN CENTRO-NORTE, CON RESIDENCIA EN LA CIUDAD DE MÉXICO. (Plenos Regionales)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2024-02-23T10:25:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2028235
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: Cuando se ordena en una sentencia de nulidad la actualización de diferencias derivadas de un incorrecto ajuste a una pensión otorgada por el ISSSTE, el criterio establecido es que dicha actualización no puede reclamarse a través de un trámite posterior autónomo, sino que debe tramitarse como parte de la ejecución de la sentencia de nulidad original, evitando así la fragmentación de la controversia y garantizando que todas las prestaciones derivadas del acto nulo se resuelvan de manera integral dentro del mismo procedimiento.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2028235

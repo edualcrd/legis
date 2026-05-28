@@ -1,0 +1,20 @@
+RUBRO: NOMBRAMIENTOS POR TIEMPO DETERMINADO DE LOS TRABAJADORES AL SERVICIO DEL ESTADO DE DURANGO (SUPERNUMERARIOS). APLICABILIDAD DE LA JURISPRUDENCIA 2a./J. 24/2021 (10a.), SÓLO PARA SUSTENTAR QUE CORRESPONDE AL ESTADO JUSTIFICAR LA TEMPORALIDAD DEL NOMBRAMIENTO, NO LA EXPEDICIÓN DE UNO POR TIEMPO INDEFINIDO, CUANDO NO SE ACREDITE AQUÉLLA.
+
+CLAVE DE TESIS: PC.XXV. J/1 L (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; Plenos de Circuito; Gaceta S.J.F.; Libro 22, Febrero de 2023; Tomo III; Pág. 3014
+INSTANCIA: PLENO DEL VIGESIMO QUINTO CIRCUITO. (Plenos de Circuito)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2023-02-24T10:26:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2026013
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: La jurisprudencia resuelve el supuesto de trabajadores supernumerarios del Estado de Durango contratados mediante nombramientos por tiempo determinado, estableciendo como criterio que corresponde exclusivamente al Estado la carga de justificar y acreditar la temporalidad del nombramiento; en caso de que no se demuestre tal temporalidad, no procede la expedición de un nombramiento por tiempo indefinido como consecuencia automática, sino que el Estado debe asumir la responsabilidad de probar los motivos que justificaban la limitación temporal del contrato. Esta jurisprudencia limita la aplicabilidad de criterios anteriores al precisar que la falta de acreditación de la temporalidad no genera per se la conversión a indefinido, sino que refuerza la obligación estatal de fundamentar adecuadamente la naturaleza temporal de la relación laboral desde su origen.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2026013

@@ -1,0 +1,20 @@
+RUBRO: SUBCONTRATACIÓN LABORAL. EL ARTÍCULO 12 DE LA LEY FEDERAL DEL TRABAJO QUE PROHÍBE LA SUBCONTRATACIÓN DE PERSONAL, NO CONTRAVIENE EL PRINCIPIO DE SEGURIDAD JURÍDICA.
+
+CLAVE DE TESIS: 2a./J. 95/2023 (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; 2a. Sala; Gaceta S.J.F.; Libro 33, Enero de 2024; Tomo III; Pág. 2473
+INSTANCIA: Segunda Sala (S.C.J.N.)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2024-01-05T10:06:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2027935
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: La prohibición de subcontratación de personal establecida en el artículo 12 de la Ley Federal del Trabajo no viola el principio de seguridad jurídica, ya que la norma es clara, accesible y predecible en sus alcances, permitiendo que los sujetos obligados conozcan con certeza las conductas prohibidas y sus consecuencias. El criterio reconoce que la restricción a la subcontratación persigue un fin constitucionalmente válido: proteger los derechos laborales de los trabajadores al evitar que se eludan las obligaciones patronales mediante intermediarios. La medida es proporcional porque establece una prohibición general que aplica de manera uniforme a todos los patrones, sin crear excepciones arbitrarias que generarían incertidumbre, y se encuentra debidamente fundamentada en la Constitución Política de los Estados Unidos Mexicanos.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2027935

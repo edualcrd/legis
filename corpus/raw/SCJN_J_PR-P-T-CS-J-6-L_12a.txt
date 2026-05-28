@@ -1,0 +1,20 @@
+RUBRO: RETENCIÓN DEL IMPUESTO SOBRE LA RENTA. ES INNECESARIO QUE LA AUTORIDAD LABORAL ESTABLEZCA EN EL LAUDO O SENTENCIA LA OBLIGACIÓN DE LA PATRONAL DE REALIZARLA RESPECTO DE LAS CANTIDADES CONDENADAS.
+
+CLAVE DE TESIS: PR.P.T.CS. J/6 L (12a.)
+LOCALIZACIÓN: [J]; 12a. Época; Plenos Regionales; Semanario Judicial de la Federación
+INSTANCIA: PLENO REGIONAL EN MATERIA PENAL Y DE TRABAJO DE LA REGIÓN CENTRO SUR, CON RESIDENCIA EN LA CIUDAD DE MÉXICO (Plenos Regionales)
+ÉPOCA: 12a. Época
+FECHA DE PUBLICACIÓN: 2026-04-10T10:14:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2032021
+FUENTE: Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: La autoridad laboral no requiere establecer expresamente en el laudo o sentencia la obligación del patrón de retener el impuesto sobre la renta respecto de las cantidades que condena al pago, ya que esta obligación deriva directamente de la ley fiscal y existe independientemente de que se mencione en la resolución laboral. El criterio reconoce que la retención del ISR es una obligación legal autónoma del patrón que se genera por ministerio de ley al momento de efectuar el pago de las prestaciones condenadas, sin necesidad de que la autoridad laboral la ordene explícitamente en su resolución.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2032021

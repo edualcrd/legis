@@ -1,0 +1,20 @@
+RUBRO: FIANZA OTORGADA A FAVOR DE LA FEDERACIÓN COMO GARANTÍA EN CONTRATOS CELEBRADOS CONFORME A LA LEY DE ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL SECTOR PÚBLICO. SI LA AUTORIDAD OPTA POR EXIGIR EL CUMPLIMIENTO FORZOSO DEL CONTRATO PRINCIPAL EN LA VÍA CIVIL Y OBTIENE SENTENCIA CONDENATORIA A SU FAVOR, NO PUEDE PRETENDER LA EJECUCIÓN DE AQUÉLLA EN LA VÍA ADMINISTRATIVA SIN HABER TRAMITADO EL PROCEDIMIENTO DE RESCISIÓN CORRESPONDIENTE EN EL QUE EXISTA UNA RESOLUCIÓN DEBIDAMENTE NOTIFICADA AL CONTRATISTA.
+
+CLAVE DE TESIS: XVII.1o.P.A. J/14 (10a.)
+LOCALIZACIÓN: [J]; 10a. Época; T.C.C.; Gaceta S.J.F.; Libro 47, Octubre de 2017; Tomo IV; Pág. 2326
+INSTANCIA: PRIMER TRIBUNAL COLEGIADO EN MATERIAS PENAL Y ADMINISTRATIVA DEL DÉCIMO SÉPTIMO CIRCUITO. (T.C.C.)
+ÉPOCA: 10a. Época
+FECHA DE PUBLICACIÓN: 2017-10-06T10:16:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2015251
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: La jurisprudencia resuelve el supuesto de una fianza otorgada a favor de la Federación como garantía en contratos celebrados conforme a la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público, estableciendo que cuando la autoridad obtiene una sentencia condenatoria en la vía civil para exigir el cumplimiento forzoso del contrato principal, no puede proceder a la ejecución de la fianza en la vía administrativa sin haber tramitado previamente el procedimiento de rescisión correspondiente, el cual debe culminar con una resolución debidamente notificada al contratista. El criterio protege los derechos del contratista al exigir que la administración agote los procedimientos administrativos establecidos antes de hacer efectiva la garantía, evitando que una sentencia civil sea utilizada como fundamento directo para ejecutar la fianza sin seguir el debido proceso administrativo.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2015251

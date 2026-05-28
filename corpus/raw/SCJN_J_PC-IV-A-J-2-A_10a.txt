@@ -1,0 +1,20 @@
+RUBRO: TRANSPORTE PARA LA MOVILIDAD SUSTENTABLE DEL ESTADO DE NUEVO LEÓN. EL ARTÍCULO 86, FRACCIÓN I, INCISO E), DE LA LEY RELATIVA, AL CONDICIONAR LA EXPEDICIÓN DE LA LICENCIA ESPECIAL PARA CONDUCIR VEHÍCULOS DEL SERVICIO DE TRANSPORTE PÚBLICO, A QUE SE PRESENTE UNA CARTA DE NO ANTECEDENTES PENALES, NO CONTRAVIENE LOS DERECHOS HUMANOS A LA IGUALDAD Y A LA NO DISCRIMINACIÓN, NI A LA LIBERTAD DE TRABAJO.
+
+CLAVE DE TESIS: PC.IV.A. J/2 A (10a.)
+LOCALIZACIÓN: [J]; 10a. Época; Plenos de Circuito; Gaceta S.J.F.; Libro 34, Septiembre de 2016; Tomo III; Pág. 2257
+INSTANCIA: PLENO EN MATERIA ADMINISTRATIVA DEL CUARTO CIRCUITO. (Plenos de Circuito)
+ÉPOCA: 10a. Época
+FECHA DE PUBLICACIÓN: 2016-09-30T10:39:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2012683
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: El supuesto jurídico que resuelve es si el requisito de presentar una carta de no antecedentes penales para obtener licencia especial de conducción en transporte público constituye una violación a los derechos humanos de igualdad, no discriminación y libertad de trabajo. El criterio establecido es que tal requisito no contraviene estos derechos, ya que representa una medida razonable y proporcional para garantizar la seguridad de los usuarios del servicio de transporte público, siendo un fin legítimo que justifica la limitación a la libertad de trabajo. El artículo 86, fracción I, inciso e), de la Ley relativa al Transporte para la Movilidad Sustentable del Estado de Nuevo León, es la disposición que se analiza en este rubro.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2012683

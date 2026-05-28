@@ -1,0 +1,20 @@
+RUBRO: SINDICATOS, FEDERACIONES Y CONFEDERACIONES. EL ARTÍCULO 358, FRACCIÓN IV, DE LA LEY FEDERAL DEL TRABAJO, AL ESTABLECER EL DEBER DE SU DIRECTIVA DE RENDIR CUENTA COMPLETA Y DETALLADA DE LA ADMINISTRACIÓN DE SU PATRIMONIO, NO VIOLA EL DERECHO DE LIBERTAD SINDICAL (LEGISLACIÓN VIGENTE A PARTIR DEL 1 DE MAYO DE 2019).
+
+CLAVE DE TESIS: 2a./J. 9/2021 (10a.)
+LOCALIZACIÓN: [J]; 10a. Época; 2a. Sala; Gaceta S.J.F.; Libro 84, Marzo de 2021; Tomo II; Pág. 1653
+INSTANCIA: Segunda Sala (S.C.J.N.)
+ÉPOCA: 10a. Época
+FECHA DE PUBLICACIÓN: 2021-03-26T10:29:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2022918
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: El supuesto jurídico que resuelve es si la obligación establecida en el artículo 358, fracción IV, de la Ley Federal del Trabajo, que impone a la directiva sindical rendir cuenta completa y detallada de la administración del patrimonio, constituye una violación al derecho de libertad sindical. El criterio establecido es que dicha obligación de rendición de cuentas no viola la libertad sindical, ya que representa una medida de transparencia y control democrático compatible con los derechos sindicales reconocidos en la legislación laboral vigente a partir del 1 de mayo de 2019. El artículo 358, fracción IV, de la Ley Federal del Trabajo, establece este deber de rendición de cuentas como un mecanismo de accountability que fortalece la democracia interna de las organizaciones sindicales sin menoscabar sus derechos fundamentales.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2022918

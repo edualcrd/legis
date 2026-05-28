@@ -1,0 +1,20 @@
+RUBRO: PRESTACIONES EXTRALEGALES. SU PROCEDENCIA DEBE SER ACREDITADA POR EL ACTOR, SALVO CUANDO EL PATRÓN O TERCEROS SE ENCUENTREN EN MEJOR POSICIÓN PARA DEMOSTRAR SU FUNDAMENTO Y LOS HECHOS CONTROVERTIDOS, CONFORME A LA CARGA DINÁMICA DE LA PRUEBA QUE OPERA EN MATERIA LABORAL.
+
+CLAVE DE TESIS: I.5o.T. J/4 L (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; T.C.C.; Gaceta S.J.F.; Libro 21, Enero de 2023; Tomo VI; Pág. 6093
+INSTANCIA: QUINTO TRIBUNAL COLEGIADO EN MATERIA DE TRABAJO DEL PRIMER CIRCUITO. (T.C.C.)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2023-01-27T10:28:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2025857
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: La procedencia de prestaciones extralegales requiere que el actor acredite su existencia, sin embargo, cuando el patrón o terceros se encuentran en mejor posición para demostrar el fundamento de tales prestaciones y los hechos que las sustentan, la carga probatoria se desplaza hacia ellos conforme al principio de carga dinámica de la prueba aplicable en materia laboral, lo que significa que la obligación de probar no recae necesariamente en quien alega el derecho, sino en quien tiene mayor acceso a la información y documentación relevante para acreditar o desacreditar la existencia de dichas prestaciones.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2025857

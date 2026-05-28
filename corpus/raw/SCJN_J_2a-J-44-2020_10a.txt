@@ -1,0 +1,20 @@
+RUBRO: NEGATIVA DE LA CALIDAD DE PATRÓN. DEBE PRECISARSE EN LA ETAPA DE DEMANDA Y EXCEPCIONES, AUN CUANDO LA PARTE DEMANDADA NIEGUE LA EXISTENCIA DE LA RELACIÓN DE TRABAJO.
+
+CLAVE DE TESIS: 2a./J. 44/2020 (10a.)
+LOCALIZACIÓN: [J]; 10a. Época; 2a. Sala; Gaceta S.J.F.; Libro 79, Octubre de 2020; Tomo I; Pág. 723
+INSTANCIA: Segunda Sala (S.C.J.N.)
+ÉPOCA: 10a. Época
+FECHA DE PUBLICACIÓN: 2020-10-09T10:19:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2022211
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: La negativa de la calidad de patrón constituye una excepción que debe ser precisada y argumentada durante la etapa de demanda y excepciones del procedimiento laboral, incluso en aquellos casos donde la parte demandada niega de manera general la existencia de la relación de trabajo. El criterio establecido exige que quien se opone a ser considerado patrón debe especificar claramente los fundamentos de su negativa, identificando cuál es su verdadera posición jurídica y las razones por las que sostiene que no ostenta tal carácter, evitando que la simple negación de la relación laboral sea suficiente para evadir el análisis específico de su condición patronal. Esta precisión es necesaria para que el tribunal pueda resolver adecuadamente sobre la existencia de la relación de trabajo y la responsabilidad laboral de la parte demandada.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2022211

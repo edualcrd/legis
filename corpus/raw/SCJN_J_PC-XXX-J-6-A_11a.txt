@@ -1,0 +1,20 @@
+RUBRO: PENSIÓN JUBILATORIA OTORGADA CON BASE EN LA LEY DE SEGURIDAD Y SERVICIOS SOCIALES PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE AGUASCALIENTES. LA REFORMA CONSTITUCIONAL PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN EL 27 DE ENERO DE 2016 EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO NO PUEDE APLICARSE AL PAGO DE INCREMENTOS DE LAS PENSIONES PARA LOS JUBILADOS QUE LA OBTUVIERON CON ANTERIORIDAD A SU ENTRADA EN VIGOR.
+
+CLAVE DE TESIS: PC.XXX. J/6 A (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; Plenos de Circuito; Gaceta S.J.F.; Libro 15, Julio de 2022; Tomo IV; Pág. 3716
+INSTANCIA: PLENO DEL TRIGÉSIMO CIRCUITO. (Plenos de Circuito)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2022-07-08T10:15:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2024965
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: La Suprema Corte de Justicia de la Nación resuelve que cuando un servidor público jubilado obtuvo su pensión con base en la Ley de Seguridad y Servicios Sociales para los Servidores Públicos del Estado de Aguascalientes antes de la entrada en vigor de la reforma constitucional de desindexación del salario mínimo publicada el 27 de enero de 2016, los incrementos posteriores de esa pensión no pueden calcularse aplicando los criterios de desindexación establecidos en dicha reforma, sino que deben seguir los parámetros que regían al momento en que se otorgó el derecho pensionario. El criterio protege los derechos adquiridos de los jubilados al impedir que reformas constitucionales posteriores afecten retroactivamente el régimen de incrementos de pensiones ya reconocidas, garantizando así la estabilidad económica de quienes ya gozaban de este beneficio social.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2024965

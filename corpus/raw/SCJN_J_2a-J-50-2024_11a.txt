@@ -1,0 +1,20 @@
+RUBRO: INTERÉS LEGÍTIMO EN AMPARO INDIRECTO. NO LO TIENEN LOS TRABAJADORES, EN LO INDIVIDUAL, PARA IMPUGNAR LA TOMA DE NOTA DE UNA DIRECTIVA SINDICAL.
+
+CLAVE DE TESIS: 2a./J. 50/2024 (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; 2a. Sala; Gaceta S.J.F.; Libro 38, Junio de 2024; Tomo II; Pág. 2079
+INSTANCIA: Segunda Sala (S.C.J.N.)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2024-06-07T10:13:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2028954
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: Los trabajadores, en lo individual, carecen de interés legítimo para promover amparo indirecto en contra de la toma de nota de una directiva sindical, toda vez que esta es una cuestión que afecta primordialmente los derechos colectivos de la organización sindical y no genera una lesión directa e inmediata en la esfera jurídica personal del trabajador que no ostente cargo alguno en la directiva impugnada. El criterio establecido reconoce que la legitimación activa en este tipo de controversias corresponde únicamente a la propia organización sindical afectada, pues es ella quien tiene el interés jurídico directo en cuestionar los actos de autoridad relacionados con el reconocimiento de sus órganos de representación.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2028954

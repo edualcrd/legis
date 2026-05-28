@@ -1,0 +1,20 @@
+RUBRO: SUSPENSIÓN EN AMPARO DIRECTO LABORAL. SU NEGATIVA CONTRA LA EJECUCIÓN DE LA REINSTALACIÓN A QUE FUE CONDENADA LA PARTE PATRONAL, ES EFICAZ PARA CONSIDERAR ASEGURADA LA SUBSISTENCIA DE LA PERSONA TRABAJADORA, SI ÉSTA RECURRE ESA RESOLUCIÓN.
+
+CLAVE DE TESIS: PR.P.T.CS. J/16 L (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; Plenos Regionales; Gaceta S.J.F.; Libro 42, Octubre de 2024; Tomo I, Volumen 1; Pág. 567
+INSTANCIA: PLENO REGIONAL EN MATERIAS PENAL Y DE TRABAJO DE LA REGIÓN CENTRO-SUR, CON RESIDENCIA EN LA CIUDAD DE MÉXICO. (Plenos Regionales)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2024-10-04T10:14:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2029430
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: La suspensión en amparo directo laboral resulta eficaz para asegurar la subsistencia de la persona trabajadora cuando se niega contra la ejecución de una sentencia que condena a la parte patronal a su reinstalación, siempre que la trabajadora recurra esa resolución denegatoria. El criterio establece que la negativa de la suspensión no impide que se considere protegida la subsistencia del trabajador durante el trámite del recurso, reconociendo así la vulnerabilidad económica inherente a quien ha sido despedido y busca revertir esa situación mediante los medios de impugnación disponibles. Esta protección se fundamenta en la necesidad de garantizar condiciones mínimas de vida digna mientras se resuelve el conflicto laboral en las instancias superiores.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2029430

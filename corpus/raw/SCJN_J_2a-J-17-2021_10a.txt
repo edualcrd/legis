@@ -1,0 +1,20 @@
+RUBRO: CONTRATOS COLECTIVOS DE TRABAJO. LA APLICACIÓN DE LAS NUEVAS REGLAS PARA LA REVISIÓN DE LOS QUE FUERON CELEBRADOS CON ANTERIORIDAD A LA ENTRADA EN VIGOR DEL DECRETO POR EL QUE SE REFORMÓ LA LEY FEDERAL DEL TRABAJO, PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACIÓN EL 1 DE MAYO DE 2019, NO CONTRAVIENE EL PRINCIPIO DE IRRETROACTIVIDAD DE LA LEY.
+
+CLAVE DE TESIS: 2a./J. 17/2021 (10a.)
+LOCALIZACIÓN: [J]; 10a. Época; 2a. Sala; Gaceta S.J.F.; Libro 84, Marzo de 2021; Tomo II; Pág. 1543
+INSTANCIA: Segunda Sala (S.C.J.N.)
+ÉPOCA: 10a. Época
+FECHA DE PUBLICACIÓN: 2021-03-26T10:29:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2022879
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: La aplicación de las nuevas reglas para la revisión de contratos colectivos de trabajo celebrados antes de la entrada en vigor del Decreto de reforma a la Ley Federal del Trabajo publicado el 1 de mayo de 2019 no viola el principio de irretroactividad de la ley, toda vez que estas disposiciones regulan procedimientos y requisitos para revisiones futuras de tales contratos y no pretenden modificar retroactivamente los efectos ya consumados de actos jurídicos pasados. El criterio establecido reconoce que las normas procedimentales y sustantivas que rigen la revisión de contratos colectivos pueden aplicarse a contratos anteriores sin contravenir la irretroactividad, en tanto que se trata de regular cómo se llevará a cabo la revisión prospectiva y no de deshacer derechos ya adquiridos. Esta interpretación permite que las reformas laborales se implementen de manera uniforme en el sistema de relaciones colectivas de trabajo, sin que ello implique una aplicación retroactiva prohibida constitucionalmente.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2022879

@@ -1,0 +1,20 @@
+RUBRO: CAJAS DE AHORRO DE LOS TRABAJADORES Y SOCIEDADES COOPERATIVAS DE AHORRO Y PRÉSTAMO. SUS DIFERENCIAS.
+
+CLAVE DE TESIS: 1a./J. 60/2017 (10a.)
+LOCALIZACIÓN: [J]; 10a. Época; 1a. Sala; Gaceta S.J.F.; Libro 45, Agosto de 2017; Tomo I; Pág. 255
+INSTANCIA: Primera Sala (S.C.J.N.)
+ÉPOCA: 10a. Época
+FECHA DE PUBLICACIÓN: 2017-08-25T10:33:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2014952
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: Las cajas de ahorro de los trabajadores y las sociedades cooperativas de ahorro y préstamo constituyen figuras jurídicas distintas con características y regulaciones diferentes en el ámbito laboral y cooperativo mexicano. El criterio establecido por la jurisprudencia diferencia estas instituciones en cuanto a su naturaleza, objeto social, estructura organizacional y régimen legal aplicable, reconociendo que las cajas de ahorro son asociaciones de trabajadores con fines de beneficio mutuo, mientras que las sociedades cooperativas de ahorro y préstamo son entidades reguladas por leyes específicas de carácter financiero y cooperativo. Esta distinción es relevante para determinar cuál es el marco normativo aplicable a cada una y los derechos y obligaciones que corresponden a sus miembros.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2014952

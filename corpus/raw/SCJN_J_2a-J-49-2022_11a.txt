@@ -1,0 +1,20 @@
+RUBRO: INCREMENTO DE PENSIONES JUBILATORIAS DE TRABAJADORES DE PETRÓLEOS MEXICANOS. PARA DETERMINARLO DEBE TOMARSE EN CONSIDERACIÓN EL CONTRATO COLECTIVO DE TRABAJO VIGENTE AL MOMENTO EN QUE AQUÉL SE VERIFICA Y NO EL QUE ESTABA EN VIGOR CUANDO SE OTORGÓ LA PENSIÓN RESPECTIVA.
+
+CLAVE DE TESIS: 2a./J. 49/2022 (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; 2a. Sala; Gaceta S.J.F.; Libro 18, Octubre de 2022; Tomo III; Pág. 2465
+INSTANCIA: Segunda Sala (S.C.J.N.)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2022-10-07T10:17:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2025329
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: El supuesto jurídico que resuelve este criterio es la determinación del incremento de pensiones jubilatorias de trabajadores de Petróleos Mexicanos cuando existe cambio en el contrato colectivo de trabajo. El criterio establecido señala que para calcular el incremento de la pensión debe considerarse el contrato colectivo vigente en el momento en que se verifica el incremento, y no aquel que estaba en vigor cuando originalmente se otorgó la pensión, lo que implica que los pensionados tienen derecho a que sus prestaciones se actualicen conforme a las condiciones laborales actuales y no permanezcan fijas a las condiciones históricas de su otorgamiento.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2025329

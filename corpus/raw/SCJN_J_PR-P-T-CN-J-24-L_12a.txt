@@ -1,0 +1,20 @@
+RUBRO: PENSIONES DE INVALIDEZ, VEJEZ Y CESANTÍA EN EDAD AVANZADA. SI POR ERROR ATRIBUIBLE AL INSTITUTO MEXICANO DEL SEGURO SOCIAL, DESPUÉS DE HABER SIDO NIVELADAS AL SALARIO MÍNIMO EN SU MONTO, NO SE INCLUYEN LAS ASIGNACIONES FAMILIARES O AYUDAS ASISTENCIALES, NO OPERA LA PRESCRIPCIÓN RESPECTO DE LAS DIFERENCIAS QUE SE RECLAMEN POR ESOS CONCEPTOS.
+
+CLAVE DE TESIS: PR.P.T.CN. J/24 L (11a.)
+LOCALIZACIÓN: [J]; 12a. Época; Plenos Regionales; Gaceta S.J.F.; Libro 2, Octubre de 2025; Tomo III, Volumen 1; Pág. 299
+INSTANCIA: PLENO REGIONAL EN MATERIAS PENAL Y DE TRABAJO DE LA REGIÓN CENTRO-NORTE, CON RESIDENCIA EN LA CIUDAD DE MÉXICO. (Plenos Regionales)
+ÉPOCA: 12a. Época
+FECHA DE PUBLICACIÓN: 2025-10-17T10:27:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2031347
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: Cuando el Instituto Mexicano del Seguro Social comete un error atribuible a su gestión al nivelar pensiones de invalidez, vejez y cesantía en edad avanzada al salario mínimo, omitiendo la inclusión de asignaciones familiares o ayudas asistenciales, se establece que no opera la prescripción para reclamar las diferencias derivadas de esos conceptos no incluidos. El criterio reconoce que la omisión de tales prestaciones constituye un incumplimiento de las obligaciones del Instituto que no puede ser convalidado por el transcurso del tiempo, permitiendo al pensionado ejercitar su derecho a percibir el monto completo que le corresponde sin limitación temporal.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2031347

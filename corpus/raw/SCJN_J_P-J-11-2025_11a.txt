@@ -1,0 +1,20 @@
+RUBRO: TERMINACIÓN DE LA RELACIÓN LABORAL BUROCRÁTICA DE LOS TRABAJADORES CON FUNCIONES DE BASE QUE LABORARON UN PERIODO INFERIOR A SEIS MESES. OBLIGACIÓN DE JUSTIFICARLA A PARTIR DE UNA RAZÓN SUFICIENTE AUN CUANDO EL TRABAJADOR NO GOCE DEL DERECHO DE ESTABILIDAD EN EL EMPLEO.
+
+CLAVE DE TESIS: P./J. 11/2025 (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; Pleno; Gaceta S.J.F.; Libro 52, Agosto de 2025; Tomo III, Volumen 1; Pág. 310
+INSTANCIA: Pleno (S.C.J.N.)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2025-08-15T10:23:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2030979
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: La terminación de la relación laboral burocrática de trabajadores con funciones de base que laboraron un período inferior a seis meses requiere que la administración pública justifique tal decisión mediante una razón suficiente, independientemente de que estos trabajadores no gocen del derecho de estabilidad en el empleo. El criterio establece que aunque la ley no otorgue estabilidad laboral a quienes no cumplen el período mínimo de seis meses, la autoridad empleadora no puede actuar de manera arbitraria, sino que debe demostrar la existencia de una causa válida y objetiva que justifique la terminación de la relación de trabajo. De esta forma, se garantiza un mínimo de protección procesal y razonabilidad en el ejercicio de las facultades administrativas, evitando despidos infundados aun en casos donde no existe derecho a la reinstalación.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2030979

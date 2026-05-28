@@ -1,0 +1,20 @@
+RUBRO: CONCILIACIÓN PREJUDICIAL. ES INNECESARIO AGOTARLA RESPECTO DE QUIEN OCUPE LA PLAZA CUYO DERECHO PREFERENTE SE DEMANDE EN EL JUICIO LABORAL, AL TENER CARÁCTER DE TERCERO INTERESADO Y NO DE CODEMANDADO.
+
+CLAVE DE TESIS: X.3o.T. J/1 L (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; T.C.C.; Gaceta S.J.F.; Libro 34, Febrero de 2024; Tomo V; Pág. 4314
+INSTANCIA: TERCER TRIBUNAL COLEGIADO EN MATERIA DE TRABAJO DEL DÉCIMO CIRCUITO. (T.C.C.)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2024-02-09T10:11:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2028148
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: La conciliación prejudicial no es requisito previo cuando en un juicio laboral se demanda el derecho preferente a una plaza ocupada por un tercero interesado, ya que este no actúa como codemandado sino como parte con interés legítimo en el resultado del proceso. El criterio establece que la naturaleza jurídica del tercero ocupante de la plaza lo excluye de la obligación de agotar la etapa conciliatoria, permitiendo que el procedimiento avance directamente a la etapa de demanda sin necesidad de intentar previamente la conciliación respecto de esta persona.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2028148

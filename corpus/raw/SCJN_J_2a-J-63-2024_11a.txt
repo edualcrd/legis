@@ -1,0 +1,20 @@
+RUBRO: PRESCRIPCIÓN EN MATERIA LABORAL. FORMA DE COMPUTAR EL PLAZO DE 2 MESES PREVISTO EN EL ARTÍCULO 518 DE LA LEY FEDERAL DEL TRABAJO PARA EJERCER LAS ACCIONES DE LAS PERSONAS QUE SEAN SEPARADAS DEL EMPLEO.
+
+CLAVE DE TESIS: 2a./J. 63/2024 (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; 2a. Sala; Gaceta S.J.F.; Libro 41, Septiembre de 2024; Tomo III, Volumen 2; Pág. 1449
+INSTANCIA: Segunda Sala (S.C.J.N.)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2024-09-20T10:29:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2029403
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: La prescripción en materia laboral se configura cuando una persona separada del empleo no ejercita sus acciones dentro del plazo establecido por la ley. El criterio establece que el plazo de dos meses previsto en el artículo 518 de la Ley Federal del Trabajo debe computarse de manera continua a partir del momento en que ocurre la separación del empleo, sin que se admitan interrupciones o suspensiones que dilaten el término para el ejercicio de las acciones derivadas de dicha separación. Esta regla de cómputo es fundamental para determinar la oportunidad con que el trabajador debe acudir ante las autoridades laborales competentes para hacer valer sus derechos, bajo el riesgo de que su inacción durante ese período origine la pérdida de su derecho de acción por prescripción.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2029403

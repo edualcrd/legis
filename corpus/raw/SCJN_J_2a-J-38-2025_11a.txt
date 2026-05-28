@@ -1,0 +1,20 @@
+RUBRO: INTERESES POR SALARIOS VENCIDOS. DEBEN CUANTIFICARSE EN CANTIDAD LÍQUIDA EN EL LAUDO O SENTENCIA CONDENATORIA.
+
+CLAVE DE TESIS: 2a./J. 38/2025 (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; 2a. Sala; Gaceta S.J.F.; Libro 52, Agosto de 2025; Tomo II, Volumen 1; Pág. 1235
+INSTANCIA: Segunda Sala (S.C.J.N.)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2025-08-08T10:16:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2030829
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: El supuesto jurídico que resuelve es la determinación de los intereses derivados de salarios vencidos que deben ser pagados como consecuencia de una condena laboral. El criterio establecido es que los intereses por salarios vencidos deben ser cuantificados en cantidad líquida y precisa dentro del laudo o sentencia condenatoria, evitando dejar su cálculo para un momento posterior o dejarlo indeterminado, con el propósito de que la prestación sea exigible de manera inmediata y clara al momento de ejecutarse la resolución.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2030829

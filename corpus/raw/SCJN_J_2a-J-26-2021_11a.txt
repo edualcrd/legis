@@ -1,0 +1,20 @@
+RUBRO: CONTRATOS DE ENGANCHE Y REENGANCHE VOLUNTARIO DE SOLDADOS. EL SEGUNDO PÁRRAFO DEL ARTÍCULO 154 DE LA LEY ORGÁNICA DEL EJÉRCITO Y FUERZA AÉREA MEXICANOS, AL PREVER EL LÍMITE DE NUEVE AÑOS PARA PRESTAR SUS SERVICIOS NO VULNERA EL DERECHO A LA LIBERTAD DE TRABAJO NI A LA NO DISCRIMINACIÓN.
+
+CLAVE DE TESIS: 2a./J. 26/2021 (10a.)
+LOCALIZACIÓN: [J]; 11a. Época; 2a. Sala; Gaceta S.J.F.; Libro 1, Mayo de 2021; Tomo II; Pág. 1850
+INSTANCIA: Segunda Sala (S.C.J.N.)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2021-05-14T10:19:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2023102
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: El supuesto jurídico que resuelve es si el límite de nueve años establecido en el segundo párrafo del artículo 154 de la Ley Orgánica del Ejército y Fuerza Aérea Mexicanos para la prestación de servicios militares vulnera derechos fundamentales. El criterio establecido es que dicha limitación temporal no transgrede el derecho a la libertad de trabajo ni al principio de no discriminación, toda vez que responde a objetivos constitucionales legítimos inherentes a la naturaleza de la relación laboral militar y a la necesidad de mantener la estructura y disciplina de las fuerzas armadas. La restricción se justifica por razones de interés público y seguridad nacional que prevalecen sobre la autonomía individual en este contexto específico.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2023102

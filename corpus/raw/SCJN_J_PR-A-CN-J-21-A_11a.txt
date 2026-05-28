@@ -1,0 +1,20 @@
+RUBRO: MONTO MÁXIMO DE LAS PENSIONES OTORGADAS POR EL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO (ISSSTE). DEBE CUANTIFICARSE TOMANDO EN CONSIDERACIÓN EL ÚLTIMO AÑO DE COTIZACIÓN DEL TRABAJADOR.
+
+CLAVE DE TESIS: PR.A.CN. J/21 A (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; Plenos Regionales; Gaceta S.J.F.; Libro 29, Septiembre de 2023; Tomo IV; Pág. 3903
+INSTANCIA: PLENO REGIONAL EN MATERIA ADMINISTRATIVA DE LA REGIÓN CENTRO-NORTE, CON RESIDENCIA EN LA CIUDAD DE MÉXICO. (Plenos Regionales)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2023-09-22T10:31:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2027255
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: El supuesto jurídico que resuelve este criterio es la determinación del monto máximo de las pensiones que otorga el ISSSTE cuando existe una limitación legal en la cuantía de la prestación. El criterio establecido señala que para calcular dicho monto máximo debe tomarse en consideración el último año de cotización del trabajador, lo que implica que la base de cálculo debe corresponder al período más reciente de aportaciones y no a períodos anteriores, garantizando así que la pensión refleje la situación económica más actual del derechohabiente al momento de su jubilación o retiro.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2027255

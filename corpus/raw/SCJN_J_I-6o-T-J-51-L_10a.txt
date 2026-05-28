@@ -1,0 +1,20 @@
+RUBRO: AGUINALDO DE LOS TRABAJADORES AL SERVICIO DEL ESTADO. EL CÓMPUTO DEL TÉRMINO PARA QUE OPERE LA PRESCRIPCIÓN DE LA ACCIÓN PARA DEMANDAR SU PAGO INICIA A PARTIR DE LA FECHA EN QUE ES EXIGIBLE.
+
+CLAVE DE TESIS: I.6o.T. J/51 L (10a.)
+LOCALIZACIÓN: [J]; 10a. Época; T.C.C.; Gaceta S.J.F.; Libro 77, Agosto de 2020; Tomo VI; Pág. 5797
+INSTANCIA: SEXTO TRIBUNAL COLEGIADO EN MATERIA DE TRABAJO DEL PRIMER CIRCUITO. (T.C.C.)
+ÉPOCA: 10a. Época
+FECHA DE PUBLICACIÓN: 2020-08-07T10:15:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2021829
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: La prescripción de la acción para demandar el pago del aguinaldo de los trabajadores al servicio del Estado comienza a contarse desde el momento en que la prestación se vuelve exigible, es decir, cuando nace el derecho del trabajador a recibirla y puede ser reclamada. Este criterio establece que el término prescriptivo no se cuenta desde la fecha en que debería haberse pagado convencionalmente, sino desde aquella en que la obligación patronal se hace jurídicamente exigible, permitiendo que el trabajador tenga claridad sobre cuándo inicia el plazo dentro del cual puede ejercitar su derecho de acción ante los tribunales competentes.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2021829

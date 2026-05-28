@@ -1,0 +1,20 @@
+RUBRO: PENSIÓN COMPENSATORIA. LA MUJER QUE DEMANDA SU PAGO CON EL ARGUMENTO DE QUE SE DEDICÓ PREPONDERANTEMENTE AL TRABAJO DEL HOGAR Y AL CUIDADO Y EDUCACIÓN DE SUS HIJOS, CON PERSPECTIVA DE GÉNERO, REVIERTE LA CARGA DE LA PRUEBA AL DEUDOR ALIMENTARIO.
+
+CLAVE DE TESIS: VII.2o.C. J/2 C (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; T.C.C.; Gaceta S.J.F.; Libro 23, Marzo de 2023; Tomo IV; Pág. 3542
+INSTANCIA: SEGUNDO TRIBUNAL COLEGIADO EN MATERIA CIVIL DEL SÉPTIMO CIRCUITO. (T.C.C.)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2023-03-17T10:20:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2026170
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: La pensión compensatoria se otorga a la mujer que acredita haberse dedicado preponderantemente al trabajo del hogar y al cuidado de los hijos durante la relación matrimonial, situación que, analizada con perspectiva de género, invierte la carga probatoria trasladándola al deudor alimentario, quien debe demostrar que tal dedicación no existió o que la actora cuenta con medios económicos suficientes para su subsistencia, reconociendo así el valor económico del trabajo doméstico y las desventajas que genera en la capacidad de autosuficiencia de la mujer al momento de la disolución del vínculo matrimonial.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2026170

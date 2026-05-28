@@ -1,0 +1,20 @@
+RUBRO: AUTORIDAD RESPONSABLE PARA EFECTOS DEL JUICIO DE AMPARO. NO TIENE ESE CARÁCTER LA QUE ES VINCULADA POR EL TRIBUNAL DE TRABAJO PARA EL CUMPLIMIENTO EFECTIVO DEL LAUDO, EN TÉRMINOS DE LA LEY NÚMERO 364 ESTATAL DEL SERVICIO CIVIL DE VERACRUZ.
+
+CLAVE DE TESIS: VII.2o.T. J/29 L (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; T.C.C.; Gaceta S.J.F.; Libro 48, Abril de 2025; Tomo I, Volumen 1; Pág. 537
+INSTANCIA: SEGUNDO TRIBUNAL COLEGIADO EN MATERIA DE TRABAJO DEL SÉPTIMO CIRCUITO. (T.C.C.)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2025-04-04T10:08:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2030184
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: Cuando un tribunal de trabajo vincula a una autoridad para el cumplimiento efectivo de un laudo conforme a la Ley Número 364 estatal del Servicio Civil de Veracruz, dicha autoridad no adquiere el carácter de autoridad responsable para efectos del juicio de amparo, ya que su intervención es meramente ejecutiva y derivada de la orden del tribunal laboral, no constituyendo un acto de autoridad propio que afecte derechos fundamentales de manera directa e inmediata. El criterio establecido es que la responsabilidad por el cumplimiento del laudo recae en el tribunal que lo dictó y lo vincula, siendo este último el sujeto pasivo legítimo en el amparo, mientras que la autoridad vinculada actúa como un mero instrumento de ejecución sin autonomía decisoria.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2030184

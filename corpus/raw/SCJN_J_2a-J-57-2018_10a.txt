@@ -1,0 +1,20 @@
+RUBRO: PENSIONES A CARGO DEL INSTITUTO MEXICANO DEL SEGURO SOCIAL. EL ARTÍCULO 273, FRACCIÓN I, INCISO A), DE LA DEROGADA LEY DEL SEGURO SOCIAL, LO OBLIGA A PAGAR LAS DIFERENCIAS RESPECTIVAS DESDE LA FECHA EN QUE OTORGÓ ESA PRESTACIÓN, SIEMPRE Y CUANDO LE SEA IMPUTABLE EL ERROR ARITMÉTICO EN SU CUANTIFICACIÓN Y NO PROVENGA DE DATOS INCORRECTOS PROPORCIONADOS POR EL PATRÓN.
+
+CLAVE DE TESIS: 2a./J. 57/2018 (10a.)
+LOCALIZACIÓN: [J]; 10a. Época; 2a. Sala; Gaceta S.J.F.; Libro 56, Julio de 2018; Tomo I; Pág. 558
+INSTANCIA: Segunda Sala (S.C.J.N.)
+ÉPOCA: 10a. Época
+FECHA DE PUBLICACIÓN: 2018-07-06T10:13:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2017359
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: El Instituto Mexicano del Seguro Social tiene la obligación de pagar las diferencias en pensiones cuando ha cometido un error aritmético en su cuantificación, debiendo retrotraer el pago desde la fecha en que otorgó originalmente la prestación, conforme al artículo 273, fracción I, inciso a), de la derogada Ley del Seguro Social; sin embargo, esta obligación solo procede cuando el error es imputable al Instituto y no deriva de datos incorrectos proporcionados por el patrón, estableciéndose así un criterio que protege al pensionado pero que exime de responsabilidad al Instituto cuando la información deficiente proviene de terceros.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2017359

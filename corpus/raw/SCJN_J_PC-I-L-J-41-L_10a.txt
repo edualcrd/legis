@@ -1,0 +1,20 @@
+RUBRO: TRABAJADORES TRANSITORIOS DE PETRÓLEOS MEXICANOS. LAS CONDICIONANTES PREVISTAS EN LAS CLÁUSULAS 4, 5, 6 Y 103 DEL CONTRATO COLECTIVO DE TRABAJO QUE RIGE SUS RELACIONES, RELATIVAS A QUE PREVIO A SU CONTRATACIÓN APRUEBEN LOS EXÁMENES MÉDICOS Y DE APTITUD, SON LEGALES.
+
+CLAVE DE TESIS: PC.I.L. J/41 L (10a.)
+LOCALIZACIÓN: [J]; 10a. Época; Plenos de Circuito; Gaceta S.J.F.; Libro 58, Septiembre de 2018; Tomo II; Pág. 2041
+INSTANCIA: PLENO EN MATERIA DE TRABAJO DEL PRIMER CIRCUITO. (Plenos de Circuito)
+ÉPOCA: 10a. Época
+FECHA DE PUBLICACIÓN: 2018-09-28T10:37:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2018027
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: El supuesto jurídico que resuelve es la legalidad de las condicionantes establecidas en el contrato colectivo de trabajo de Petróleos Mexicanos respecto a que los trabajadores transitorios deben aprobar exámenes médicos y de aptitud previo a su contratación. El criterio establecido es que tales cláusulas contractuales son legales y válidas, permitiendo que la empresa condicione la contratación de personal transitorio al cumplimiento de estos requisitos de salud y capacidad laboral como medidas razonables de protección y selección de personal.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2018027

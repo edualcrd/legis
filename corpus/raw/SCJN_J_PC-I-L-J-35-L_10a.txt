@@ -1,0 +1,20 @@
+RUBRO: UNIVERSIDAD AUTÓNOMA CHAPINGO. LA PRIMA ADICIONAL PREVISTA EN LA CLÁUSULA 40 DEL CONTRATO COLECTIVO DE TRABAJO CELEBRADO ENTRE AQUÉLLA Y SU SINDICATO, NO ES APLICABLE EN FAVOR DE LOS TRABAJADORES DEL TERCER TURNO ESPECIAL A QUE ALUDE LA PROPIA CLÁUSULA.
+
+CLAVE DE TESIS: PC.I.L. J/35 L (10a.)
+LOCALIZACIÓN: [J]; 10a. Época; Plenos de Circuito; Gaceta S.J.F.; Libro 50, Enero de 2018; Tomo III; Pág. 1776
+INSTANCIA: PLENO EN MATERIA DE TRABAJO DEL PRIMER CIRCUITO. (Plenos de Circuito)
+ÉPOCA: 10a. Época
+FECHA DE PUBLICACIÓN: 2018-01-19T10:20:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2016033
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: La Universidad Autónoma Chapingo enfrentaba la cuestión de si la prima adicional establecida en la cláusula 40 de su contrato colectivo de trabajo era exigible para los trabajadores del tercer turno especial mencionado en esa misma disposición. El criterio establecido por la SCJN determinó que dicha prima adicional no resulta aplicable a favor de los trabajadores adscritos al tercer turno especial, conforme a lo previsto en la propia cláusula 40 del contrato colectivo, lo que implica que la interpretación de las prestaciones contractuales debe ceñirse a los términos específicos y limitaciones que el propio instrumento colectivo establece para cada categoría de trabajadores.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2016033

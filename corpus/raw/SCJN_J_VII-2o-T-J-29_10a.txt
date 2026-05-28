@@ -1,0 +1,20 @@
+RUBRO: COSA JUZGADA EN EL JUICIO LABORAL. DEBE ANALIZARSE DE OFICIO POR EL TRIBUNAL DE TRABAJO, INCLUSO EN AMPARO DIRECTO, AUNQUE NO HAYA SIDO OPUESTA DICHA EXCEPCIÓN PERENTORIA POR ALGUNA DE LAS PARTES, SI DE AUTOS SE ADVIERTE LA EXISTENCIA DE UNA VERDAD LEGAL INMUTABLE.
+
+CLAVE DE TESIS: VII.2o.T. J/29 (10a.)
+LOCALIZACIÓN: [J]; 10a. Época; T.C.C.; Gaceta S.J.F.; Libro 55, Junio de 2018; Tomo IV; Pág. 2560
+INSTANCIA: SEGUNDO TRIBUNAL COLEGIADO EN MATERIA DE TRABAJO DEL SÉPTIMO CIRCUITO. (T.C.C.)
+ÉPOCA: 10a. Época
+FECHA DE PUBLICACIÓN: 2018-06-08T10:14:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2017110
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: La cosa juzgada en materia laboral constituye una excepción perentoria que debe ser examinada de oficio por el tribunal competente, incluso cuando se tramita un amparo directo y aunque las partes no la hayan alegado expresamente, siempre que del expediente se desprendan elementos que demuestren la existencia de una verdad legal inmutable derivada de una sentencia anterior que haya resuelto la misma controversia. El criterio establecido reconoce que la cosa juzgada opera como un principio de orden público que protege la seguridad jurídica y la estabilidad de las resoluciones, por lo que su análisis no puede quedar supeditado a la iniciativa de las partes sino que constituye una obligación del juzgador de verificarla de manera oficiosa cuando los elementos del caso lo evidencien.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2017110

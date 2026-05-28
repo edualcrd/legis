@@ -1,0 +1,20 @@
+RUBRO: COMPETENCIA POR TERRITORIO PARA CONOCER DEL AMPARO INDIRECTO CONTRA LA OMISIÓN DE DICTAR EL LAUDO EN UN JUICIO SUSTANCIADO ANTE UNA JUNTA EXTINGUIDA. SE SURTE EN FAVOR DEL JUZGADO DE DISTRITO QUE EJERZA JURISDICCIÓN EN EL LUGAR DONDE RESIDA LA AUTORIDAD LABORAL QUE DEBE EMITIR LA RESOLUCIÓN EN SUSTITUCIÓN DE AQUÉLLA.
+
+CLAVE DE TESIS: VII.2o.T. J/2 L (12a.)
+LOCALIZACIÓN: [J]; 12a. Época; T.C.C.; Semanario Judicial de la Federación
+INSTANCIA: SEGUNDO TRIBUNAL COLEGIADO EN MATERIA DE TRABAJO DEL SEPTIMO CIRCUITO. (T.C.C.)
+ÉPOCA: 12a. Época
+FECHA DE PUBLICACIÓN: 2026-04-10T10:14:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2031998
+FUENTE: Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: Cuando se promueve un amparo indirecto contra la omisión de dictar laudo en un juicio sustanciado ante una junta laboral extinguida, la competencia territorial se determina conforme al lugar donde resida la autoridad laboral que debe emitir la resolución en sustitución de la junta desaparecida, siendo competente el Juzgado de Distrito que ejerza jurisdicción en ese territorio. Este criterio resuelve el supuesto de conflicto competencial que surge cuando la autoridad responsable del acto omiso ya no existe como tal, estableciendo que la competencia se surte a favor del juzgado cuya circunscripción territorial coincida con la residencia de la autoridad sustituta que debe cumplir con la obligación omitida.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2031998

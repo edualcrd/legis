@@ -1,0 +1,20 @@
+RUBRO: RENUNCIA. CONFORME AL PRINCIPIO DE PRIMACÍA DE LA REALIDAD, LOS TRIBUNALES LABORALES DEBEN ANALIZAR SU VEROSIMILITUD, TOMANDO EN CUENTA LAS CARACTERÍSTICAS PARTICULARES DEL CASO Y LAS CONDICIONES PERSONALES DEL TRABAJADOR.
+
+CLAVE DE TESIS: XVII.3o.C.T. J/1 L (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; T.C.C.; Gaceta S.J.F.; Libro 29, Septiembre de 2023; Tomo V; Pág. 5230
+INSTANCIA: TERCER TRIBUNAL COLEGIADO EN MATERIAS CIVIL Y DE TRABAJO DEL DÉCIMO SÉPTIMO CIRCUITO. (T.C.C.)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2023-09-22T10:31:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2027272
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: La renuncia de un trabajador debe ser analizada por los tribunales laborales considerando el principio de primacía de la realidad, lo que implica examinar su verosimilitud más allá de la mera formalidad del documento presentado, atendiendo a las circunstancias específicas del caso y a las condiciones personales del trabajador involucrado. Este criterio busca evitar que se utilice la renuncia como un mecanismo para evadir las obligaciones del patrón o para simular un despido, garantizando que la voluntad del trabajador sea genuina y no producto de presión, engaño o circunstancias que comprometan su libertad de decisión.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2027272

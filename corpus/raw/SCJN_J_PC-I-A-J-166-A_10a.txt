@@ -1,0 +1,20 @@
+RUBRO: IMPUESTO SOBRE LA RENTA. PARA SU CÁLCULO RESPECTO DE LOS INGRESOS DERIVADOS DE SALARIOS CAÍDOS, RESULTA APLICABLE LA MECÁNICA PREVISTA EN EL ARTÍCULO 95 DE LA LEY DE LA MATERIA, AL TRATARSE DE UNA INDEMNIZACIÓN DERIVADA DE LA TERMINACIÓN DE LA RELACIÓN LABORAL.
+
+CLAVE DE TESIS: PC.I.A. J/166 A (10a.)
+LOCALIZACIÓN: [J]; 10a. Época; Plenos de Circuito; Gaceta S.J.F.; Libro 85, Abril de 2021; Tomo II; Pág. 1432
+INSTANCIA: PLENO EN MATERIA ADMINISTRATIVA DEL PRIMER CIRCUITO. (Plenos de Circuito)
+ÉPOCA: 10a. Época
+FECHA DE PUBLICACIÓN: 2021-04-30T10:34:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2023036
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: El supuesto jurídico que resuelve este criterio es la determinación del tratamiento fiscal aplicable a los ingresos derivados de salarios caídos cuando se genera una indemnización por terminación de la relación laboral. El criterio establecido señala que para el cálculo del impuesto sobre la renta respecto de estos ingresos debe aplicarse la mecánica prevista en el artículo 95 de la Ley del Impuesto sobre la Renta, toda vez que los salarios caídos constituyen una indemnización que surge de la conclusión de la relación laboral y, por tanto, deben sujetarse al régimen fiscal especial establecido para este tipo de prestaciones.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2023036

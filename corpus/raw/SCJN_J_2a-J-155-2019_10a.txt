@@ -1,0 +1,20 @@
+RUBRO: PRUEBA PERICIAL EN EL JUICIO LABORAL. LA JUNTA PUEDE DESIGNAR PERITO A FAVOR DEL TRABAJADOR AUNQUE ÉSTE YA HUBIERA REALIZADO DESIGNACIÓN, CONFORME A LOS ARTÍCULOS 780 Y 824 DE LA LEY FEDERAL DEL TRABAJO, EN SU TEXTO ANTERIOR A LA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN EL 1 DE MAYO DE 2019.
+
+CLAVE DE TESIS: 2a./J. 155/2019 (10a.)
+LOCALIZACIÓN: [J]; 10a. Época; 2a. Sala; Gaceta S.J.F.; Libro 73, Diciembre de 2019; Tomo I; Pág. 562
+INSTANCIA: Segunda Sala (S.C.J.N.)
+ÉPOCA: 10a. Época
+FECHA DE PUBLICACIÓN: 2019-12-06T10:18:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2021248
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: La Junta de Conciliación y Arbitraje puede designar de oficio un perito a favor del trabajador en el juicio laboral, incluso cuando el trabajador ya hubiera realizado su propia designación pericial, conforme a lo establecido en los artículos 780 y 824 de la Ley Federal del Trabajo en su texto anterior a la reforma del 1 de mayo de 2019. El criterio reconoce que la facultad de la Junta para designar peritos de oficio es independiente de las designaciones que las partes hayan realizado, permitiendo así garantizar la equidad procesal y el acceso a prueba pericial especializada, particularmente en favor de la parte trabajadora que frecuentemente se encuentra en desventaja económica para costear sus propios peritos.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2021248

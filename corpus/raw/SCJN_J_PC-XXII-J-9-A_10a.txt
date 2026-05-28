@@ -1,0 +1,20 @@
+RUBRO: BONO DE DESPENSA Y PREVISIÓN SOCIAL MÚLTIPLE. LOS PENSIONADOS CONFORME A LA LEY DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO ABROGADA, Y CONFORME AL RÉGIMEN DEL ARTÍCULO DÉCIMO TRANSITORIO DEL DECRETO POR EL QUE SE EXPIDE LA NUEVA LEY DEL INSTITUTO REFERIDO, TIENEN DERECHO A SU INCREMENTO EN PROPORCIÓN AL AUMENTO QUE RECIBAN LOS TRABAJADORES EN ACTIVO, CON INDEPENDENCIA DEL PUESTO QUE OCUPABAN AL JUBILARSE.
+
+CLAVE DE TESIS: PC.XXII. J/9 A (10a.)
+LOCALIZACIÓN: [J]; 10a. Época; Plenos de Circuito; Gaceta S.J.F.; Libro 34, Septiembre de 2016; Tomo II; Pág. 999
+INSTANCIA: PLENO DEL VIGESIMO SEGUNDO CIRCUITO. (Plenos de Circuito)
+ÉPOCA: 10a. Época
+FECHA DE PUBLICACIÓN: 2016-09-30T10:39:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2012672
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: La jurisprudencia resuelve el supuesto de pensionados del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado que reclaman el incremento proporcional del bono de despensa y previsión social múltiple conforme a los aumentos otorgados a los trabajadores en activo. El criterio establecido es que estos pensionados, ya sea bajo la ley abrogada o conforme al régimen del artículo décimo transitorio del nuevo decreto, tienen derecho a recibir el incremento del bono en la misma proporción que los trabajadores activos, independientemente del puesto que hayan ocupado al momento de su jubilación, reconociendo así la paridad en el trato de prestaciones entre activos y pensionados.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2012672

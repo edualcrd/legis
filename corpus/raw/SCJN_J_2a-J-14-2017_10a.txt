@@ -1,0 +1,20 @@
+RUBRO: TRABAJADORES DE CONFIANZA AL SERVICIO DEL ESTADO DE TLAXCALA O DE SUS MUNICIPIOS. NO TIENEN DERECHO A LA ESTABILIDAD EN EL EMPLEO.
+
+CLAVE DE TESIS: 2a./J. 14/2017 (10a.)
+LOCALIZACIÓN: [J]; 10a. Época; 2a. Sala; Gaceta S.J.F.; Libro 40, Marzo de 2017; Tomo II; Pág. 1355
+INSTANCIA: Segunda Sala (S.C.J.N.)
+ÉPOCA: 10a. Época
+FECHA DE PUBLICACIÓN: 2017-03-03T10:06:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2013785
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: Los trabajadores de confianza al servicio del Estado de Tlaxcala o de sus municipios carecen del derecho a la estabilidad en el empleo, ya que su relación laboral se caracteriza por la naturaleza discrecional de su designación y la confianza depositada en ellos por la administración pública. El criterio establecido reconoce que estos servidores públicos pueden ser removidos de sus cargos sin necesidad de causa justificada, en virtud de que la confianza es el elemento esencial que fundamenta su permanencia en el puesto. Esta conclusión se aplica específicamente a los trabajadores de confianza en la administración estatal y municipal tlaxcalteca, diferenciándolos de los trabajadores de base que sí gozan de protección en materia de estabilidad laboral.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2013785

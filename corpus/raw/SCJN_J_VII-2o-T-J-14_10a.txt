@@ -1,0 +1,20 @@
+RUBRO: PRIMA DE ANTIGÜEDAD DE LOS TRABAJADORES DEL ORGANISMO DENOMINADO SERVICIOS DE SALUD DEL ESTADO DE VERACRUZ. TIENEN DERECHO A SU PAGO SÓLO A PARTIR DE LA FECHA EN LA QUE FUERON DESINCORPORADOS DE LA ADMINISTRACIÓN PÚBLICA FEDERAL.
+
+CLAVE DE TESIS: VII.2o.T. J/14 (10a.)
+LOCALIZACIÓN: [J]; 10a. Época; T.C.C.; Gaceta S.J.F.; Libro 43, Junio de 2017; Tomo IV; Pág. 2669
+INSTANCIA: SEGUNDO TRIBUNAL COLEGIADO EN MATERIA DE TRABAJO DEL SÉPTIMO CIRCUITO. (T.C.C.)
+ÉPOCA: 10a. Época
+FECHA DE PUBLICACIÓN: 2017-06-23T10:29:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2014597
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: Los trabajadores del organismo Servicios de Salud del Estado de Veracruz que fueron desincorporados de la administración pública federal tienen derecho al pago de la prima de antigüedad únicamente a partir de la fecha en que se efectuó tal desincorporación, estableciendo el criterio de que este derecho no se genera retroactivamente desde el inicio de su relación laboral, sino que surge como consecuencia del cambio de su condición jurídica al pasar a formar parte de una entidad estatal, momento a partir del cual se reconoce su derecho a percibir esta prestación conforme a la legislación laboral aplicable.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2014597

@@ -1,0 +1,20 @@
+RUBRO: COMPETENCIA PARA CONOCER Y RESOLVER LOS CONFLICTOS LABORALES ENTRE EMPRESAS DE PARTICIPACIÓN ESTATAL MAYORITARIA Y SUS PERSONAS TRABAJADORAS. CORRESPONDE A LOS TRIBUNALES LABORALES FEDERALES DE ASUNTOS INDIVIDUALES.
+
+CLAVE DE TESIS: PR.P.T.CN. J/3 L (12a.)
+LOCALIZACIÓN: [J]; 12a. Época; Plenos Regionales; Gaceta S.J.F.; Libro 5, Enero de 2026; Tomo IV, Volumen 1; Pág. 291
+INSTANCIA: PLENO REGIONAL EN MATERIAS PENAL Y DE TRABAJO DE LA REGIÓN CENTRO-NORTE, CON RESIDENCIA EN LA CIUDAD DE MÉXICO. (Plenos Regionales)
+ÉPOCA: 12a. Época
+FECHA DE PUBLICACIÓN: 2026-01-23T10:24:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2031682
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: Los conflictos laborales suscitados entre empresas de participación estatal mayoritaria y sus trabajadores presentan la cuestión de competencia sobre qué autoridad jurisdiccional debe conocer de tales controversias. El criterio establecido por la jurisprudencia determina que los tribunales laborales federales de asuntos individuales son los órganos competentes para conocer y resolver estos conflictos, reconociendo así la naturaleza federal de las relaciones laborales en entidades donde el Estado es accionista mayoritario. Esta asignación de competencia garantiza una aplicación uniforme de la normativa laboral federal en aquellos casos donde interviene capital estatal preponderante.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2031682

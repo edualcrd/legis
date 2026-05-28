@@ -1,0 +1,20 @@
+RUBRO: COMPETENCIA POR RAZÓN DE TERRITORIO DE LA AUTORIDAD LABORAL. PARA DETERMINARLA CUANDO SE DEMANDA A LA COMISIÓN FEDERAL DE ELECTRICIDAD (CFE) Y AL SINDICATO ÚNICO DE TRABAJADORES ELECTRICISTAS DE LA REPÚBLICA MEXICANA (SUTERM), DEBE CONSIDERARSE EL DOMICILIO DEL CENTRO DE TRABAJO DONDE EL ACTOR PRESTÓ SUS SERVICIOS, SIEMPRE QUE EL SINDICATO CUENTE CON REPRESENTACIÓN EN ESE LUGAR.
+
+CLAVE DE TESIS: PR.L.CS. J/4 L (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; Plenos Regionales; Gaceta S.J.F.; Libro 23, Marzo de 2023; Tomo III; Pág. 2747
+INSTANCIA: PLENO REGIONAL EN MATERIA DE TRABAJO DE LA REGIÓN CENTRO-SUR, CON RESIDENCIA EN LA CIUDAD DE MÉXICO. (Plenos Regionales)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2023-03-31T10:34:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2026234
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: La competencia territorial de la autoridad laboral cuando se demanda conjuntamente a la Comisión Federal de Electricidad y al Sindicato Único de Trabajadores Electricistas de la República Mexicana se determina conforme al domicilio del centro de trabajo donde el actor prestó sus servicios, siempre que el sindicato tenga representación en esa localidad, criterio que resuelve el conflicto de jurisdicción que surge cuando existen múltiples sujetos demandados ubicados en diferentes territorios y permite establecer que la competencia se fija en función del lugar donde se ejecutó la relación laboral y no en la sede principal de las instituciones involucradas.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2026234

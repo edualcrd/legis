@@ -1,0 +1,20 @@
+RUBRO: ACCIÓN DE NULIDAD DE UN CONVENIO SANCIONADO POR LA AUTORIDAD LABORAL. EL JUEZ ESTÁ FACULTADO PARA EXAMINAR DE OFICIO, EN EL ACUERDO INICIAL, SU PROCEDENCIA.
+
+CLAVE DE TESIS: PR.L.CS. J/65 L (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; Plenos Regionales; Gaceta S.J.F.; Libro 34, Febrero de 2024; Tomo II; Pág. 1805
+INSTANCIA: PLENO REGIONAL EN MATERIA DE TRABAJO DE LA REGIÓN CENTRO-SUR, CON RESIDENCIA EN LA CIUDAD DE MÉXICO. (Plenos Regionales)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2024-02-23T10:25:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2028234
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: En los casos donde se promueve una acción de nulidad en contra de un convenio que ha sido sancionado por la autoridad laboral, el juez se encuentra facultado para examinar de oficio, en el acuerdo inicial, la procedencia de dicha acción, lo que implica que puede verificar desde el inicio del procedimiento si existen los requisitos y condiciones necesarios para que la demanda sea admisible, sin necesidad de esperar a que las partes lo aleguen o prueben, ejerciendo así un control de legalidad sobre los actos de la autoridad laboral que han validado el convenio cuestionado.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2028234

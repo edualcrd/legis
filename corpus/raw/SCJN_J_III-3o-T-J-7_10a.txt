@@ -1,0 +1,20 @@
+RUBRO: VIOLACIÓN A LAS LEYES DEL PROCEDIMIENTO EN MATERIA LABORAL. LA CONSTITUYE LA FALTA DE FIRMA DEL SECRETARIO DE LA JUNTA EN LAS ACTUACIONES TRASCENDENTES (AUTO DE RADICACIÓN, ACUERDOS DE ADMISIÓN O DESISTIMIENTO DE PRUEBAS, AUTO POR EL QUE SE DECLARA CERRADA LA INSTRUCCIÓN, ENTRE OTROS) LO QUE PROVOCA SU INVALIDEZ Y LA DE LAS ACTUACIONES SUBSECUENTES.
+
+CLAVE DE TESIS: III.3o.T. J/7 (10a.)
+LOCALIZACIÓN: [J]; 10a. Época; T.C.C.; Gaceta S.J.F.; Libro 58, Septiembre de 2018; Tomo III; Pág. 2265
+INSTANCIA: TERCER TRIBUNAL COLEGIADO EN MATERIA DE TRABAJO DEL TERCER CIRCUITO. (T.C.C.)
+ÉPOCA: 10a. Época
+FECHA DE PUBLICACIÓN: 2018-09-21T10:30:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2017966
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: La falta de firma del secretario de la junta en actuaciones trascendentes del procedimiento laboral, tales como el auto de radicación, acuerdos de admisión o desistimiento de pruebas y auto de cierre de instrucción, constituye una violación a las leyes del procedimiento que provoca la invalidez de tales actuaciones y de todas las que deriven de ellas, toda vez que la firma del secretario es un requisito esencial que garantiza la autenticidad y legalidad de los actos procesales en materia laboral.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2017966

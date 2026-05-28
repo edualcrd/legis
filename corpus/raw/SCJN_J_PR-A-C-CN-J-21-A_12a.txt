@@ -1,0 +1,20 @@
+RUBRO: MULTA IMPUESTA AL PATRÓN POR EL CENTRO DE CONCILIACIÓN LABORAL DEL ESTADO DE GUANAJUATO, EN TÉRMINOS DEL ARTÍCULO 684-E, FRACCIÓN IV, DE LA LEY FEDERAL DEL TRABAJO. ES DE NATURALEZA LABORAL.
+
+CLAVE DE TESIS: PR.A.C.CN. J/21 A (12a.)
+LOCALIZACIÓN: [J]; 12a. Época; Plenos Regionales; Gaceta S.J.F.; Libro 6, Febrero de 2026; Tomo II, Volumen 1; Pág. 441
+INSTANCIA: PLENO REGIONAL EN MATERIAS ADMINISTRATIVA Y CIVIL DE LA REGIÓN CENTRO-NORTE, CON RESIDENCIA EN LA CIUDAD DE MÉXICO. (Plenos Regionales)
+ÉPOCA: 12a. Época
+FECHA DE PUBLICACIÓN: 2026-02-13T10:15:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2031764
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: La multa impuesta al patrón por el Centro de Conciliación Laboral del Estado de Guanajuato en términos del artículo 684-E, fracción IV, de la Ley Federal del Trabajo tiene naturaleza laboral, lo que significa que las controversias derivadas de su imposición deben ser conocidas por la jurisdicción laboral y no por la jurisdicción civil o administrativa. Este criterio establece que las sanciones pecuniarias dictadas por los centros de conciliación en el ejercicio de sus funciones de vigilancia y cumplimiento de las normas laborales constituyen actos propios del derecho laboral, sujetos a los procedimientos y recursos previstos en la materia laboral.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2031764

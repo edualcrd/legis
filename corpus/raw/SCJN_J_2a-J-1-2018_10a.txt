@@ -1,0 +1,20 @@
+RUBRO: PRUEBAS EN EL PROCEDIMIENTO LABORAL. EL ACUERDO QUE ORDENA DAR VISTA A LAS PARTES CON LA CERTIFICACIÓN SECRETARIAL PREVISTA EN EL ARTÍCULO 885 DE LA LEY FEDERAL DEL TRABAJO, DEBE NOTIFICARSE PERSONALMENTE.
+
+CLAVE DE TESIS: 2a./J. 1/2018 (10a.)
+LOCALIZACIÓN: [J]; 10a. Época; 2a. Sala; Gaceta S.J.F.; Libro 51, Febrero de 2018; Tomo I; Pág. 705
+INSTANCIA: Segunda Sala (S.C.J.N.)
+ÉPOCA: 10a. Época
+FECHA DE PUBLICACIÓN: 2018-02-16T10:18:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2016217
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: El supuesto jurídico que resuelve es la forma en que debe notificarse el acuerdo mediante el cual el tribunal ordena dar vista a las partes con la certificación secretarial de pruebas en el procedimiento laboral. El criterio establecido es que dicho acuerdo debe notificarse personalmente a las partes, no pudiendo realizarse por otros medios de notificación, garantizando así que las partes tengan conocimiento efectivo de la orden de vista con la certificación prevista en el artículo 885 de la Ley Federal del Trabajo.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2016217

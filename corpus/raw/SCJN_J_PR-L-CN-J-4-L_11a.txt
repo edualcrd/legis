@@ -1,0 +1,20 @@
+RUBRO: CONFLICTOS INDIVIDUALES DE SEGURIDAD SOCIAL. CUANDO LA DEMANDA NO CUMPLA CON LOS REQUISITOS PREVISTOS EN EL ARTÍCULO 899-C, FRACCIÓN VI, DE LA LEY FEDERAL DEL TRABAJO, Y LA PARTE ACTORA INCUMPLA CON LA PREVENCIÓN FORMULADA POR EL SECRETARIO INSTRUCTOR, EL TRIBUNAL DE TRABAJO DEBE INADMITIR LA DEMANDA CON RESERVA EXPRESA DE DERECHOS PARA PRESENTARLA NUEVAMENTE EN EL MOMENTO EN QUE SE CUENTE CON CUALQUIERA DE LOS ELEMENTOS PROBATORIOS A QUE ALUDE LA FRACCIÓN Y ARTÍCULO CITADOS.
+
+CLAVE DE TESIS: PR.L.CN. J/4 L (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; Plenos Regionales; Gaceta S.J.F.; Libro 28, Agosto de 2023; Tomo III; Pág. 2629
+INSTANCIA: PLENO REGIONAL EN MATERIA DE TRABAJO DE LA REGIÓN CENTRO-NORTE, CON RESIDENCIA EN MONTERREY, NUEVO LEÓN. (Plenos Regionales)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2023-08-04T10:12:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2026915
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: En los conflictos individuales de seguridad social, cuando la demanda no satisface los requisitos establecidos en el artículo 899-C, fracción VI, de la Ley Federal del Trabajo y la parte actora incumple con la prevención formulada por el secretario instructor, el tribunal de trabajo debe inadmitir la demanda con reserva expresa de derechos, permitiendo que la parte actora presente nuevamente su demanda en el momento en que cuente con cualquiera de los elementos probatorios a que se refiere dicho precepto, evitando así la pérdida definitiva de su derecho de acción mientras subsane las deficiencias procesales identificadas.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2026915

@@ -1,0 +1,20 @@
+RUBRO: COMPETENCIA POR RAZÓN DE FUERO PARA CONOCER DEL PROCEDIMIENTO DE HUELGA INSTADO PARA REVISAR UN CONTRATO COLECTIVO QUE RIGE EN CENTROS DE TRABAJO UBICADOS EN MÁS DE UNA ENTIDAD FEDERATIVA. CORRESPONDE A LAS AUTORIDADES LABORALES FEDERALES.
+
+CLAVE DE TESIS: PR.L.CS. J/29 L (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; Plenos Regionales; Gaceta S.J.F.; Libro 28, Agosto de 2023; Tomo III; Pág. 2464
+INSTANCIA: PLENO REGIONAL EN MATERIA DE TRABAJO DE LA REGIÓN CENTRO-SUR, CON RESIDENCIA EN LA CIUDAD DE MÉXICO. (Plenos Regionales)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2023-08-18T10:26:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2027007
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: Cuando se promueve un procedimiento de huelga con el propósito de revisar un contrato colectivo que rige en centros de trabajo ubicados en más de una entidad federativa, la competencia para conocer del asunto corresponde a las autoridades laborales federales, ya que la naturaleza multijurisdiccional del conflicto y la aplicación de normas que trascienden los límites de una sola entidad federativa requieren de la intervención de la jurisdicción federal para garantizar la uniformidad en la resolución y la protección de los derechos colectivos de los trabajadores involucrados.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2027007

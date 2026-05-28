@@ -1,0 +1,20 @@
+RUBRO: PROCEDIMIENTO LABORAL. ANTE LA VIOLACIÓN CONSISTENTE EN LA AUSENCIA DE FIRMA DEL SECRETARIO DE LA JUNTA O DE ALGUNO DE LOS INTEGRANTES DE ÉSTA EN UNA ACTUACIÓN, SI LA PARTE QUEJOSA (PRINCIPAL O ADHESIVA) ES EL PATRÓN, DEBE PRECISAR LA FORMA EN QUE TRASCENDIÓ EN SU PERJUICIO AL RESULTADO DEL FALLO.
+
+CLAVE DE TESIS: PC.III.L. J/1 L (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; Plenos de Circuito; Gaceta S.J.F.; Libro 3, Julio de 2021; Tomo II; Pág. 2132
+INSTANCIA: PLENO EN MATERIA DE TRABAJO DEL TERCER CIRCUITO. (Plenos de Circuito)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2021-07-02T10:09:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2023336
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: Cuando en un procedimiento laboral se presenta la violación consistente en la ausencia de firma del secretario de la junta o de alguno de sus integrantes en una actuación, si la parte quejosa es el patrón, este debe precisar de manera específica la forma en que tal defecto trascendió en su perjuicio al resultado del fallo, ya que de lo contrario no puede considerarse que se haya causado un agravio reparable mediante el juicio de amparo; el criterio establece que la mera omisión formal no es suficiente para demostrar el daño procesal, sino que es necesario acreditar la relación causal entre la falta de firma y el resultado desfavorable de la sentencia.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2023336

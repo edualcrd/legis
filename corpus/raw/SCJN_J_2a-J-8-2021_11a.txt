@@ -1,0 +1,20 @@
+RUBRO: INCAPACIDAD PARCIAL PERMANENTE. EL CERTIFICADO MÉDICO EN EL QUE EL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO LA HACE CONSTAR (FORMATO RT-09) ES UNA RESOLUCIÓN DEFINITIVA IMPUGNABLE ANTE EL TRIBUNAL FEDERAL DE JUSTICIA ADMINISTRATIVA, SIEMPRE QUE OSTENTE LA APROBACIÓN DEL SUBCOMITÉ DE MEDICINA DEL TRABAJO DE DICHO INSTITUTO [SUSTITUCIÓN DE LA JURISPRUDENCIA 2a./J. 123/2018 (10a.)].
+
+CLAVE DE TESIS: 2a./J. 8/2021 (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; 2a. Sala; Gaceta S.J.F.; Libro 6, Octubre de 2021; Tomo II; Pág. 2126
+INSTANCIA: Segunda Sala (S.C.J.N.)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2021-10-29T10:39:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2023722
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: El supuesto jurídico que resuelve es la naturaleza jurídica del certificado médico formato RT-09 expedido por el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado que constata una incapacidad parcial permanente. El criterio establecido es que dicho certificado, cuando cuenta con la aprobación del Subcomité de Medicina del Trabajo del Instituto, constituye una resolución definitiva que es impugnable ante el Tribunal Federal de Justicia Administrativa, lo que permite al trabajador cuestionar la determinación de incapacidad a través de los medios de defensa administrativos correspondientes.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2023722

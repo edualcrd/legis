@@ -1,0 +1,20 @@
+RUBRO: OFRECIMIENTO DE TRABAJO. ES DE MALA FE SI EL PATRÓN NO OTORGA AL TRABAJADOR LA POSIBILIDAD DE ELEGIR ENTRE PERMANECER EN LA FUENTE DE TRABAJO O SALIR DE ELLA PARA DISFRUTAR DE LA MEDIA HORA DE DESCANSO PREVISTA EN EL ARTÍCULO 63 DE LA LEY FEDERAL DEL TRABAJO.
+
+CLAVE DE TESIS: 2a./J. 121/2018 (10a.)
+LOCALIZACIÓN: [J]; 10a. Época; 2a. Sala; Gaceta S.J.F.; Libro 61, Diciembre de 2018; Tomo I; Pág. 597
+INSTANCIA: Segunda Sala (S.C.J.N.)
+ÉPOCA: 10a. Época
+FECHA DE PUBLICACIÓN: 2018-12-07T10:19:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2018540
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: El supuesto jurídico que resuelve es la situación en que el patrón ofrece trabajo al empleado durante el tiempo destinado al descanso obligatorio sin permitirle la opción de rechazarlo. El criterio establecido es que tal conducta constituye ofrecimiento de mala fe, ya que vulnera el derecho del trabajador a disfrutar efectivamente de la media hora de descanso prevista en el artículo 63 de la Ley Federal del Trabajo, al no otorgarle la posibilidad real de elegir entre continuar laborando o hacer uso de su descanso.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2018540

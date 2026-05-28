@@ -1,0 +1,20 @@
+RUBRO: DESCUENTO DE LA CUOTA DEL SEGURO DE ENFERMEDADES NO PROFESIONALES Y DE MATERNIDAD A LOS PENSIONADOS O PENSIONISTAS. EL PREVISTO EN EL ARTÍCULO 25, FRACCIÓN I, DE LA LEY DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO DE SONORA, VULNERA EL DERECHO A LA SEGURIDAD SOCIAL [APLICACIÓN DE LA JURISPRUDENCIA TEMÁTICA P./J. 27/2016 (10a.)].
+
+CLAVE DE TESIS: V.1o.P.A. J/2 A (10a.)
+LOCALIZACIÓN: [J]; 10a. Época; T.C.C.; Gaceta S.J.F.; Libro 83, Febrero de 2021; Tomo III; Pág. 2686
+INSTANCIA: PRIMER TRIBUNAL COLEGIADO EN MATERIAS PENAL Y ADMINISTRATIVA DEL QUINTO CIRCUITO. (T.C.C.)
+ÉPOCA: 10a. Época
+FECHA DE PUBLICACIÓN: 2021-02-26T10:28:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2022745
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: El supuesto jurídico que resuelve es la constitucionalidad del descuento de la cuota del seguro de enfermedades no profesionales y de maternidad aplicado a los pensionados o pensionistas conforme al artículo 25, fracción I, de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado de Sonora. El criterio establecido determina que dicho descuento vulnera el derecho a la seguridad social reconocido constitucionalmente, por lo que resulta inconstitucional la retención de estas cuotas a los pensionistas, quienes ya han cumplido con sus obligaciones contributivas durante su vida laboral activa. Esta resolución aplica la jurisprudencia temática P./J. 27/2016 de la Décima Sala para proteger los derechos de seguridad social de los pensionados frente a descuentos que afecten sus prestaciones.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2022745

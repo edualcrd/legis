@@ -1,0 +1,20 @@
+RUBRO: AMPLIACIÓN DE LA DEMANDA EN EL JUICIO LABORAL BUROCRÁTICO EN EL ESTADO DE JALISCO. NO ES APLICABLE EXACTAMENTE NI POR ANALOGÍA LA JURISPRUDENCIA 2a./J. 35/95 DE LA SEGUNDA SALA DE LA SUPREMA CORTE DE JUSTICIA DE LA NACIÓN, PARA DILUCIDAR HASTA QUÉ ETAPA PROCESAL SE DEBE ESTIMAR OPORTUNA SU PRESENTACIÓN EN TÉRMINOS DE LA LEY PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS.
+
+CLAVE DE TESIS: PC.III.L. J/4 L (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; Plenos de Circuito; Gaceta S.J.F.; Libro 15, Julio de 2022; Tomo III; Pág. 2699
+INSTANCIA: PLENO EN MATERIA DE TRABAJO DEL TERCER CIRCUITO. (Plenos de Circuito)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2022-07-15T10:22:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2024982
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: La ampliación de la demanda en el juicio laboral burocrático en el Estado de Jalisco constituye un supuesto procesal cuya oportunidad no puede resolverse mediante la aplicación exacta ni analógica de la jurisprudencia 2a./J. 35/95 de la Segunda Sala de la Suprema Corte de Justicia de la Nación, ya que dicha jurisprudencia fue establecida para contextos distintos al de los servidores públicos estatales y municipales jaliscienses. El criterio que se establece es que la determinación del momento procesal hasta el cual resulta procedente presentar la ampliación de la demanda debe analizarse conforme a las disposiciones específicas aplicables al régimen laboral de los servidores públicos del Estado de Jalisco y sus municipios, sin trasladar mecánicamente los estándares jurisprudenciales diseñados para otras materias o jurisdicciones.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2024982

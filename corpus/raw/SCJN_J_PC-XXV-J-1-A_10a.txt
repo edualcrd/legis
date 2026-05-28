@@ -1,0 +1,20 @@
+RUBRO: BONO DE DESPENSA Y PREVISIÓN SOCIAL MÚLTIPLE. LOS PENSIONADOS CONFORME A LA LEY DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO ABROGADA, TIENEN DERECHO AL INCREMENTO DE ESAS PRESTACIONES, CON INDEPENDENCIA DEL PUESTO QUE OCUPABAN AL MOMENTO DE RECIBIR LA PENSIÓN [APLICACIÓN POR ANALOGÍA DE LA JURISPRUDENCIA 2a./J. 41/2012 (10a.)].
+
+CLAVE DE TESIS: PC.XXV. J/1 A (10a.)
+LOCALIZACIÓN: [J]; 10a. Época; Plenos de Circuito; Gaceta S.J.F.; Libro 37, Diciembre de 2016; Tomo II; Pág. 1127
+INSTANCIA: PLENO DEL VIGESIMO QUINTO CIRCUITO. (Plenos de Circuito)
+ÉPOCA: 10a. Época
+FECHA DE PUBLICACIÓN: 2016-12-09T10:21:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2013293
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: Los pensionados conforme a la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado abrogada tienen derecho al incremento del bono de despensa y previsión social múltiple, independientemente del puesto que ocupaban al momento de recibir la pensión, criterio que se aplica por analogía con la jurisprudencia establecida, reconociendo que estas prestaciones constituyen derechos adquiridos que no pueden ser limitados por cambios en la categoría laboral del trabajador al momento de su jubilación.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2013293

@@ -1,0 +1,20 @@
+RUBRO: SUSPENSIÓN PROVISIONAL CON EFECTOS RESTITUTORIOS EN EL JUICIO DE AMPARO INDIRECTO. PARÁMETROS QUE DEBE CONSIDERAR LA PERSONA JUZGADORA CUANDO SE RECLAMA LA DETERMINACIÓN DEL REGISTRO CIVIL QUE NIEGA EL FUTURO REGISTRO DE UNA PERSONA NO NACIDA CON MOTIVO DE UN CONTRATO DE MATERNIDAD SUBROGADA, SIN LOS DATOS DE LA PERSONA GESTANTE.
+
+CLAVE DE TESIS: PR.C.CS. J/27 C (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; Plenos Regionales; Gaceta S.J.F.; Libro 34, Febrero de 2024; Tomo IV; Pág. 3942
+INSTANCIA: PLENO REGIONAL EN MATERIA CIVIL DE LA REGIÓN CENTRO-SUR, CON RESIDENCIA EN GUADALAJARA, JALISCO. (Plenos Regionales)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2024-02-02T10:04:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2028136
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: La suspensión provisional con efectos restitutorios en el juicio de amparo indirecto procede cuando se reclama una determinación del registro civil que niega el futuro registro de una persona no nacida derivada de un contrato de maternidad subrogada sin los datos de la persona gestante, debiendo la persona juzgadora evaluar parámetros como la verosimilitud del derecho invocado, el daño irreparable que se causaría de no otorgarse la medida cautelar, y la ponderación entre los derechos fundamentales en conflicto, particularmente el derecho a la identidad y filiación de la persona por nacer frente a los principios que rigen el registro civil, a fin de determinar si la suspensión debe tener efectos restitutorios que permitan el registro anticipado de la persona gestante o si deben adoptarse otras medidas que protejan integralmente los derechos involucrados.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2028136

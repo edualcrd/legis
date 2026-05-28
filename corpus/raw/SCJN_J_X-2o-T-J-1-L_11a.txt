@@ -1,0 +1,20 @@
+RUBRO: CONFLICTO COMPETENCIAL POR RAZÓN DE FUERO EN MATERIA LABORAL. ANTE LA FALTA DE PRUEBAS QUE ACREDITEN FEHACIENTEMENTE QUÉ ÓRGANO DEBE CONOCER DEL ASUNTO, CORRESPONDE A LA AUTORIDAD QUE PREVINO EN SU CONOCIMIENTO.
+
+CLAVE DE TESIS: X.2o.T. J/1 L (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; T.C.C.; Gaceta S.J.F.; Libro 15, Julio de 2022; Tomo V; Pág. 4323
+INSTANCIA: SEGUNDO TRIBUNAL COLEGIADO EN MATERIA DE TRABAJO DEL DÉCIMO CIRCUITO. (T.C.C.)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2022-07-01T10:08:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2024908
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: Cuando se presenta un conflicto de competencia por razón de fuero en materia laboral y no existen pruebas que demuestren de manera fehaciente cuál es la autoridad competente para conocer del asunto, el criterio establecido es que la autoridad que primero intervino en el conocimiento del caso es la que debe continuar con su tramitación y resolución. Este criterio resuelve el supuesto jurídico de la indeterminación de competencia territorial o jurisdiccional en controversias laborales cuando la prueba no permite establecer con certeza el fuero competente, evitando así la parálisis procesal y garantizando que el asunto sea resuelto por alguna autoridad.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2024908

@@ -1,0 +1,20 @@
+RUBRO: CARGA PROBATORIA EN EL JUICIO LABORAL. CUANDO SE DEMANDA EL PAGO DE APORTACIONES AL SISTEMA ESTATAL DE AHORRO PARA EL RETIRO DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE JALISCO (SEDAR), CON MOTIVO DE UN DESPIDO INJUSTIFICADO, CORRESPONDE AL TITULAR DE LA ENTIDAD PÚBLICA PATRONAL.
+
+CLAVE DE TESIS: PR.L.CS. J/6 L (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; Plenos Regionales; Gaceta S.J.F.; Libro 24, Abril de 2023; Tomo III; Pág. 1902
+INSTANCIA: PLENO REGIONAL EN MATERIA DE TRABAJO DE LA REGIÓN CENTRO-SUR, CON RESIDENCIA EN LA CIUDAD DE MÉXICO. (Plenos Regionales)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2023-04-14T10:18:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2026266
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: Cuando un servidor público demanda el pago de aportaciones al Sistema Estatal de Ahorro para el Retiro (SEDAR) como consecuencia de un despido injustificado, la carga probatoria de acreditar la legalidad del despido recae sobre el titular de la entidad pública patronal, quien debe demostrar que existieron causas justificadas para la terminación de la relación laboral. Este criterio establece que en los juicios laborales donde se cuestiona la validez de un despido, la entidad empleadora no puede evadir su obligación probatoria argumentando que corresponde al trabajador demostrar la injusticia del despido, sino que es ella quien debe probar los hechos que sustentan la medida disciplinaria adoptada. De esta manera, se protege el derecho del servidor público a obtener las prestaciones derivadas de su relación laboral cuando el despido no ha sido debidamente justificado conforme a la ley.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2026266

@@ -1,0 +1,20 @@
+RUBRO: DEMANDA LABORAL. PROCEDE ADMITIRLA CUANDO LA ACTORA ADJUNTA LA CONSTANCIA DE NO CONCILIACIÓN SÓLO CON UNA DEMANDADA, Y RESERVARLA RESPECTO DE LOS RESTANTES DEMANDADOS, HASTA QUE SE AGOTE LA ETAPA PREJUDICIAL CON ÉSTOS (LEY FEDERAL DEL TRABAJO VIGENTE A PARTIR DEL 2 DE MAYO DE 2019).
+
+CLAVE DE TESIS: II.2o.T. J/3 L (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; T.C.C.; Gaceta S.J.F.; Libro 11, Marzo de 2022; Tomo IV; Pág. 2796
+INSTANCIA: SEGUNDO TRIBUNAL COLEGIADO EN MATERIA DE TRABAJO DEL SEGUNDO CIRCUITO. (T.C.C.)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2022-03-25T10:28:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2024348
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: Cuando en una demanda laboral la actora adjunta la constancia de no conciliación únicamente respecto de una de las demandadas, el criterio establecido es que debe admitirse la demanda en relación con esa demandada y reservarse su admisión respecto de los restantes demandados hasta que se agote la etapa prejudicial con cada uno de ellos, conforme a lo dispuesto en la Ley Federal del Trabajo vigente a partir del 2 de mayo de 2019.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2024348

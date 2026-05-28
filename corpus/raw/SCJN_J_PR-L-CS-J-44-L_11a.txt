@@ -1,0 +1,20 @@
+RUBRO: COMPETENCIA FUNCIONAL POR RAZÓN DE GRADO. NO SE ACTUALIZA EN FAVOR DE UNA JUNTA ESPECIAL DE LA FEDERAL DE CONCILIACIÓN Y ARBITRAJE PARA CONOCER DE UNA DEMANDA LABORAL PROMOVIDA CONFORME A LA LEY FEDERAL DEL TRABAJO VIGENTE CON POSTERIORIDAD A LA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN EL 1 DE MAYO DE 2019.
+
+CLAVE DE TESIS: PR.L.CS. J/44 L (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; Plenos Regionales; Gaceta S.J.F.; Libro 29, Septiembre de 2023; Tomo III; Pág. 2909
+INSTANCIA: PLENO REGIONAL EN MATERIA DE TRABAJO DE LA REGIÓN CENTRO-SUR, CON RESIDENCIA EN LA CIUDAD DE MÉXICO. (Plenos Regionales)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2023-09-29T10:38:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2027293
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: La competencia funcional por razón de grado no se actualiza en favor de una Junta Especial de la Federación de Conciliación y Arbitraje cuando se promueve una demanda laboral conforme a la Ley Federal del Trabajo vigente después de la reforma publicada el 1 de mayo de 2019, estableciendo que las modificaciones normativas derivadas de dicha reforma determinan la competencia de los órganos jurisdiccionales laborales y que las Juntas Especiales no adquieren competencia adicional por cambios en la legislación sustantiva, manteniéndose su ámbito de conocimiento conforme a lo establecido en la normativa aplicable al momento de la promoción de la demanda.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2027293

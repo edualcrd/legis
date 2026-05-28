@@ -1,0 +1,20 @@
+RUBRO: ORGANISMO PÚBLICO DESCENTRALIZADO "SERVICIOS DE SALUD JALISCO". SU DIRECTOR GENERAL NO TIENE FACULTADES PARA OTORGAR PODERES DE REPRESENTACIÓN EN MATERIA LABORAL CONFORME A LA LEY QUE LO REGULA, EN SU TEXTO ANTERIOR A LA REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL LOCAL EL 19 DE SEPTIEMBRE DE 2017.
+
+CLAVE DE TESIS: PC.III.L. J/28 L (10a.)
+LOCALIZACIÓN: [J]; 10a. Época; Plenos de Circuito; Gaceta S.J.F.; Libro 57, Agosto de 2018; Tomo II; Pág. 2039
+INSTANCIA: PLENO EN MATERIA DE TRABAJO DEL TERCER CIRCUITO. (Plenos de Circuito)
+ÉPOCA: 10a. Época
+FECHA DE PUBLICACIÓN: 2018-08-17T10:25:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2017601
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: El supuesto jurídico que resuelve es la determinación de las facultades del Director General de Servicios de Salud Jalisco para otorgar poderes de representación en materia laboral conforme a la normativa que lo regula. El criterio establecido es que el Director General de dicho organismo público descentralizado carece de facultades para otorgar poderes de representación en asuntos laborales, conforme al texto de la ley que lo regulaba antes de la reforma publicada en el Periódico Oficial local el 19 de septiembre de 2017, lo que implica que cualquier poder otorgado por esa autoridad en esa materia carecería de validez legal.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2017601

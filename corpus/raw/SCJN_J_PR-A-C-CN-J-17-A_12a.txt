@@ -1,0 +1,20 @@
+RUBRO: PRIMA DE ANTIGÜEDAD PREVISTA EN EL ARTÍCULO 80 DE LA LEY DEL TRABAJO DE LOS SERVIDORES PÚBLICOS DEL ESTADO Y MUNICIPIOS DEL ESTADO DE MÉXICO. NO PROCEDE SU PAGO A LOS INTEGRANTES DE LOS CUERPOS DE GUARDIAS DE SEGURIDAD INDUSTRIAL, BANCARIA Y COMERCIAL DEL VALLE CUAUTITLÁN-TEXCOCO, DEL VALLE DE TOLUCA Y VIGILANCIA AUXILIAR Y URBANA DEL ESTADO DE MÉXICO, COMO CONCEPTO INTEGRADOR PARA EL CÁLCULO DEL FINIQUITO POR SU RENUNCIA VOLUNTARIA.
+
+CLAVE DE TESIS: PR.A.C.CN. J/17 A (12a.)
+LOCALIZACIÓN: [J]; 12a. Época; Plenos Regionales; Gaceta S.J.F.; Libro 5, Enero de 2026; Tomo V, Volumen 1; Pág. 816
+INSTANCIA: PLENO REGIONAL EN MATERIAS ADMINISTRATIVA Y CIVIL DE LA REGIÓN CENTRO-NORTE, CON RESIDENCIA EN LA CIUDAD DE MÉXICO. (Plenos Regionales)
+ÉPOCA: 12a. Época
+FECHA DE PUBLICACIÓN: 2026-01-30T10:31:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2031721
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: La jurisprudencia resuelve el supuesto de si la prima de antigüedad prevista en el artículo 80 de la Ley del Trabajo de los Servidores Públicos del Estado y Municipios del Estado de México debe integrarse al finiquito de los miembros de los cuerpos de guardias de seguridad industrial, bancaria y comercial, estableciendo como criterio que dicha prima no procede como concepto integrador para el cálculo del finiquito cuando media renuncia voluntaria de estos trabajadores. El artículo 80 de la Ley del Trabajo de los Servidores Públicos del Estado y Municipios del Estado de México es la norma que regula esta prestación.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2031721

@@ -1,0 +1,20 @@
+RUBRO: ANTIGÜEDAD DE LOS TRABAJADORES AL SERVICIO DEL ESTADO. LA ACCIÓN PARA IMPUGNAR SU RECONOCIMIENTO PUEDE PRESCRIBIR EN EL PLAZO DE UN AÑO.
+
+CLAVE DE TESIS: PC.I.L. J/53 L (10a.)
+LOCALIZACIÓN: [J]; 10a. Época; Plenos de Circuito; Gaceta S.J.F.; Libro 71, Octubre de 2019; Tomo III; Pág. 2355
+INSTANCIA: PLENO EN MATERIA DE TRABAJO DEL PRIMER CIRCUITO. (Plenos de Circuito)
+ÉPOCA: 10a. Época
+FECHA DE PUBLICACIÓN: 2019-10-04T10:14:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2020714
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: La prescripción de la acción para impugnar el reconocimiento de antigüedad de los trabajadores al servicio del Estado se rige por un plazo de un año, estableciendo que las controversias relativas a la determinación del tiempo de servicio no pueden ejercitarse indefinidamente sino que se encuentran sujetas a un término de caducidad que protege la certidumbre jurídica y la estabilidad de las relaciones laborales en el sector público. El criterio jurisprudencial reconoce que, aunque la antigüedad es un elemento fundamental para determinar derechos laborales como indemnizaciones y prestaciones, la acción para cuestionar su reconocimiento no puede mantenerse en suspenso perpetuamente, por lo que transcurrido un año desde que pudo ejercerse tal acción, se extingue el derecho de quien pretenda impugnarla.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2020714

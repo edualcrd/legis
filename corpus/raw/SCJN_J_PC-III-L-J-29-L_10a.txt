@@ -1,0 +1,20 @@
+RUBRO: SALARIOS VENCIDOS. CONFORME A LA LEY PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS, VIGENTE DEL 27 DE SEPTIEMBRE DE 2012 AL 19 DE SEPTIEMBRE DE 2013, CUANDO LA ENTIDAD PÚBLICA DEMANDADA NO ACREDITA LA CAUSA DE TERMINACIÓN O CESE, RESULTA IMPROCEDENTE LA CONDENA AL PAGO DE AQUÉLLOS.
+
+CLAVE DE TESIS: PC.III.L. J/29 L (10a.)
+LOCALIZACIÓN: [J]; 10a. Época; Plenos de Circuito; Gaceta S.J.F.; Libro 59, Octubre de 2018; Tomo II; Pág. 1911
+INSTANCIA: PLENO EN MATERIA DE TRABAJO DEL TERCER CIRCUITO. (Plenos de Circuito)
+ÉPOCA: 10a. Época
+FECHA DE PUBLICACIÓN: 2018-10-05T10:15:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2018089
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: Cuando una entidad pública demandada no acredita la causa de terminación o cese del servidor público conforme a la Ley para los Servidores Públicos del Estado de Jalisco y sus Municipios vigente del 27 de septiembre de 2012 al 19 de septiembre de 2013, el criterio establecido es que resulta improcedente condenar al pago de salarios vencidos, toda vez que la falta de prueba sobre la justificación del despido impide que se genere la obligación de indemnización por este concepto, siendo necesario que la administración pública demuestre fehacientemente los motivos legales que sustentaron la terminación de la relación laboral para que pueda exonerarse del pago de prestaciones derivadas del cese.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2018089

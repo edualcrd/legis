@@ -1,0 +1,20 @@
+RUBRO: SUBCONTRATACIÓN LABORAL. LA DEROGACIÓN DEL PÁRRAFO SEGUNDO DEL ARTÍCULO 75 DE LA LEY DEL SEGURO SOCIAL, MEDIANTE DECRETO PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACIÓN EL 23 DE ABRIL DE 2021, NO CONTRAVIENE EL PRINCIPIO DE IRRETROACTIVIDAD DE LA LEY.
+
+CLAVE DE TESIS: 2a./J. 86/2023 (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; 2a. Sala; Gaceta S.J.F.; Libro 33, Enero de 2024; Tomo III; Pág. 2753
+INSTANCIA: Segunda Sala (S.C.J.N.)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2024-01-05T10:06:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2027941
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: La derogación del párrafo segundo del artículo 75 de la Ley del Seguro Social publicada el 23 de abril de 2021 no viola el principio de irretroactividad de la ley, ya que este principio protege derechos adquiridos pero no impide que el legislador elimine normas que regulaban situaciones futuras o que permitían prácticas específicas. El criterio establecido reconoce que la derogación de una disposición legal que autorizaba la subcontratación laboral bajo ciertos supuestos constituye un cambio normativo válido que se aplica prospectivamente sin afectar retroactivamente derechos ya consolidados. Esta resolución confirma que la modificación legislativa, aunque elimine una práctica previamente permitida, respeta el principio de irretroactividad al no desconocer derechos ya adquiridos bajo la vigencia anterior de la norma.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2027941

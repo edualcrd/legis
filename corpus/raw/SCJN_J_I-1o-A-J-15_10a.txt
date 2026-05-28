@@ -1,0 +1,20 @@
+RUBRO: CALIFICACIÓN DE UN SINIESTRO COMO ENFERMEDAD O ACCIDENTE DE TRABAJO. CONSTITUYE UN ACTO DEFINITIVO IMPUGNABLE POR EL PATRÓN A TRAVÉS DEL RECURSO DE INCONFORMIDAD PREVISTO EN EL ARTÍCULO 294 DE LA LEY DEL SEGURO SOCIAL.
+
+CLAVE DE TESIS: I.1o.A. J/15 (10a.)
+LOCALIZACIÓN: [J]; 10a. Época; T.C.C.; Gaceta S.J.F.; Libro 43, Junio de 2017; Tomo IV; Pág. 2461
+INSTANCIA: PRIMER TRIBUNAL COLEGIADO EN MATERIA ADMINISTRATIVA DEL PRIMER CIRCUITO. (T.C.C.)
+ÉPOCA: 10a. Época
+FECHA DE PUBLICACIÓN: 2017-06-02T10:08:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2014410
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: La calificación de un siniestro como enfermedad o accidente de trabajo constituye un acto administrativo definitivo que puede ser impugnado por el patrón mediante el recurso de inconformidad establecido en el artículo 294 de la Ley del Seguro Social, lo que permite al empleador cuestionar la determinación inicial realizada por las autoridades del Instituto Mexicano del Seguro Social respecto de la naturaleza del evento dañoso. Este criterio reconoce que aunque la calificación inicial es vinculante en principio, no es inmutable, y otorga al patrón una vía de defensa administrativa para controvertir aquellas determinaciones que considere incorrectas, garantizando así el acceso a un procedimiento de revisión que respete sus derechos de audiencia y defensa.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2014410

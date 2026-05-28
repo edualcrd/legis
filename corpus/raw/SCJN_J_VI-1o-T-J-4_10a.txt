@@ -1,0 +1,20 @@
+RUBRO: TRABAJADORES DE BASE AL SERVICIO DEL ESTADO DE PUEBLA. EL DESPIDO BASADO EN LA FALTA DE PRESUPUESTO PARA EL PAGO DE SU SALARIO ES INJUSTIFICADO, AL NO ESTAR PREVISTA ESA CAUSA DE RESCISIÓN DE LA RELACIÓN LABORAL EN LA LEY RELATIVA.
+
+CLAVE DE TESIS: VI.1o.T. J/4  (10a.)
+LOCALIZACIÓN: [J]; 10a. Época; T.C.C.; Gaceta S.J.F.; Libro 59, Octubre de 2018; Tomo III; Pág. 2116
+INSTANCIA: PRIMER TRIBUNAL COLEGIADO EN MATERIA DE TRABAJO DEL SEXTO CIRCUITO. (T.C.C.)
+ÉPOCA: 10a. Época
+FECHA DE PUBLICACIÓN: 2018-10-19T10:29:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2018221
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: El supuesto jurídico que resuelve es el despido de trabajadores de base al servicio del Estado de Puebla fundamentado en la insuficiencia presupuestaria para el pago de salarios. El criterio establecido es que tal causa de terminación de la relación laboral es injustificada, toda vez que la falta de presupuesto no se encuentra contemplada como causal válida de rescisión en la ley aplicable a estos servidores públicos, por lo que el despido carece de fundamento legal y constituye un acto arbitrario que vulnera los derechos laborales del trabajador.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2018221

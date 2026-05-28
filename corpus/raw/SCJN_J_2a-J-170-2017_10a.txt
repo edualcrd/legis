@@ -1,0 +1,20 @@
+RUBRO: INSTITUCIONES DE SEGUROS DE PENSIONES. TIENEN EL CARÁCTER DE TERCERO PERJUDICADAS EN EL JUICIO DE AMPARO INDIRECTO, SI EN LA ETAPA DE CUMPLIMIENTO DE UNA EJECUTORIA QUE ORDENA AL INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES ENTREGAR A LOS QUEJOSOS LOS RECURSOS DE LA SUBCUENTA DE VIVIENDA, ACREDITAN HABER CELEBRADO CON ÉSTOS CONTRATO DE SEGURO PARA EL PAGO DE SU PENSIÓN POR RENTA VITALICIA (RÉGIMEN DE LA LEY DE AMPARO ABROGADA).
+
+CLAVE DE TESIS: 2a./J. 170/2017 (10a.)
+LOCALIZACIÓN: [J]; 10a. Época; 2a. Sala; Gaceta S.J.F.; Libro 50, Enero de 2018; Tomo I; Pág. 401
+INSTANCIA: Segunda Sala (S.C.J.N.)
+ÉPOCA: 10a. Época
+FECHA DE PUBLICACIÓN: 2018-01-26T10:27:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2016055
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: Las instituciones de seguros de pensiones adquieren la calidad de tercero perjudicado en el juicio de amparo indirecto cuando, durante la etapa de cumplimiento de una ejecutoria que ordena al Instituto del Fondo Nacional de la Vivienda para los Trabajadores entregar recursos de la subcuenta de vivienda a los quejosos, acreditan haber celebrado con estos últimos un contrato de seguro para el pago de pensión por renta vitalicia, toda vez que la ejecución de la sentencia ampara podría afectar directamente sus derechos e intereses derivados de tales contratos de aseguramiento.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2016055

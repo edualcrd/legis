@@ -1,0 +1,20 @@
+RUBRO: CONSTANCIA DE NO CONCILIACIÓN. LA PERSONA JUZGADORA EN MATERIA LABORAL NO CUENTA CON FACULTADES PARA ANALIZAR, COMO REQUISITO DE PROCEDIBILIDAD, LA LEGALIDAD DE LA RAZÓN POR LA CUAL EL PROCEDIMIENTO CONCLUYÓ SIN CONCILIAR, CUANDO NO FUE POSIBLE CITAR A QUIEN A LA POSTRE SE DEMANDA.
+
+CLAVE DE TESIS: PR.L.CN. J/6 L (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; Plenos Regionales; Gaceta S.J.F.; Libro 27, Julio de 2023; Tomo II; Pág. 1638
+INSTANCIA: PLENO REGIONAL EN MATERIA DE TRABAJO DE LA REGIÓN CENTRO-NORTE, CON RESIDENCIA EN MONTERREY, NUEVO LEÓN. (Plenos Regionales)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2023-07-14T10:21:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2026879
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: La persona juzgadora en materia laboral no tiene facultades para examinar, como requisito de procedibilidad, la legalidad de los motivos por los cuales no se logró la conciliación cuando la citación de la parte demandada resultó imposible, ya que en estos casos la falta de conciliación es una consecuencia inevitable de la imposibilidad de citar y no un acto que requiera validación judicial respecto de su causa. El criterio establecido reconoce que la constancia de no conciliación en estas circunstancias constituye un requisito formal que se satisface por la imposibilidad material de la citación, sin que corresponda al juzgador analizar la legalidad de dicha imposibilidad como condición para la procedencia de la demanda.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2026879

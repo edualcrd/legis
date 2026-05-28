@@ -1,0 +1,20 @@
+RUBRO: INEMBARGABILIDAD DE LA SUBCUENTA DE AHORRO PARA EL RETIRO, CESANTÍA EN EDAD AVANZADA Y VEJEZ PREVISTA EN EL PÁRRAFO TERCERO DEL ARTÍCULO 79 DE LA LEY DE LOS SISTEMAS DE AHORRO PARA EL RETIRO. INTERPRETACIÓN CONFORME EN ATENCIÓN A LOS DERECHOS ALIMENTARIOS DE LA NIÑEZ.
+
+CLAVE DE TESIS: 1a./J. 250/2025 (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; 1a. Sala; Gaceta S.J.F.; Libro 52, Agosto de 2025; Tomo V, Volumen 2; Pág. 1098
+INSTANCIA: Primera Sala (S.C.J.N.)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2025-08-29T10:37:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2031092
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: La jurisprudencia resuelve el supuesto de conflicto entre la inembargabilidad de la subcuenta de ahorro para el retiro, cesantía en edad avanzada y vejez y los derechos alimentarios de menores de edad, estableciendo que debe realizarse una interpretación conforme a la Constitución que permita excepcionar la protección absoluta de dichos fondos cuando se trata de garantizar alimentos a la niñez, reconociendo que los derechos alimentarios constituyen una prioridad superior conforme a los estándares de protección de derechos humanos. El criterio establece que la inembargabilidad prevista en el párrafo tercero del artículo 79 de la Ley de los Sistemas de Ahorro para el Retiro no es absoluta e incondicional, sino que debe ceder ante la necesidad de asegurar el cumplimiento de obligaciones alimentarias hacia menores, en tanto que la protección de la infancia y sus derechos fundamentales prevalecen sobre la protección patrimonial de los fondos de retiro
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2031092

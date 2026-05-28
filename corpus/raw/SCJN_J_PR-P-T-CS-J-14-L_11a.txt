@@ -1,0 +1,20 @@
+RUBRO: JUBILACIÓN POR AJUSTES DE PERSONAL DE TRABAJADORES DE CONFIANZA DE PETRÓLEOS MEXICANOS Y ORGANISMOS SUBSIDIARIOS. CUANDO SE AUTORIZA CON DISPENSA DE EDAD SE CONFIGURA UNA JUBILACIÓN EXCEPCIONAL Y SU CÁLCULO DEBE SER PROPORCIONAL A LA EDAD Y AÑOS DE SERVICIO PRESTADOS [ARTÍCULO 85, INCISO B), RELACIONADO CON EL 82, REGLA II, DEL REGLAMENTO DE TRABAJO RELATIVO VIGENTE EN 2019].
+
+CLAVE DE TESIS: PR.P.T.CS. J/14 L (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; Plenos Regionales; Gaceta S.J.F.; Libro 41, Septiembre de 2024; Tomo III, Volumen 2; Pág. 1594
+INSTANCIA: PLENO REGIONAL EN MATERIAS PENAL Y DE TRABAJO DE LA REGIÓN CENTRO-SUR, CON RESIDENCIA EN LA CIUDAD DE MÉXICO. (Plenos Regionales)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2024-09-20T10:29:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2029395
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: La jubilación por ajustes de personal de trabajadores de confianza de Petróleos Mexicanos constituye una jubilación excepcional cuando se autoriza con dispensa de edad, supuesto en el cual el cálculo de la prestación debe ser proporcional tanto a la edad como a los años de servicio efectivamente prestados, conforme a lo establecido en el artículo 85, inciso B), relacionado con el artículo 82, regla II, del Reglamento de Trabajo vigente en 2019, a fin de garantizar que la pensión refleje adecuadamente la contribución laboral del trabajador aun cuando no cumpla con los requisitos etarios ordinarios.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2029395

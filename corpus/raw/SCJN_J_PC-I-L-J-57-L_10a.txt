@@ -1,0 +1,20 @@
+RUBRO: ACTAS ADMINISTRATIVAS LEVANTADAS A TRABAJADORES AL SERVICIO DEL ESTADO. PARA SU VALIDEZ ES INNECESARIO QUE EL PATRÓN PRESENTE TESTIGOS DE CARGO.
+
+CLAVE DE TESIS: PC.I.L. J/57  L (10a.)
+LOCALIZACIÓN: [J]; 10a. Época; Plenos de Circuito; Gaceta S.J.F.; Libro 71, Octubre de 2019; Tomo III; Pág. 2207
+INSTANCIA: PLENO EN MATERIA DE TRABAJO DEL PRIMER CIRCUITO. (Plenos de Circuito)
+ÉPOCA: 10a. Época
+FECHA DE PUBLICACIÓN: 2019-10-18T10:28:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2020822
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: Las actas administrativas levantadas a trabajadores al servicio del Estado constituyen documentos que registran hechos o conductas del servidor público, y la jurisprudencia establece que para su validez no es requisito indispensable que el patrón presente testigos de cargo que corroboren los hechos consignados en el acta, siendo suficiente que el documento contenga los elementos esenciales que demuestren su autenticidad y que conste la participación del trabajador en su levantamiento, sin que la ausencia de testigos afecte su eficacia probatoria en los procedimientos administrativos o laborales posteriores.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2020822

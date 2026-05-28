@@ -1,0 +1,20 @@
+RUBRO: DOCUMENTO DE ELECCIÓN PREVISTO EN EL "REGLAMENTO PARA EL EJERCICIO DEL DERECHO DE OPCIÓN QUE TIENEN LOS TRABAJADORES DE CONFORMIDAD CON LOS ARTÍCULOS QUINTO Y SÉPTIMO TRANSITORIOS DEL DECRETO POR EL QUE SE EXPIDE LA LEY DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO", SI CARECE DE HUELLA DIGITAL DE LA PERSONA TRABAJADORA, NO DEMUESTRA SU VOLUNTAD DE EJERCER EL DERECHO DE OPCIÓN DE RÉGIMEN PENSIONARIO.
+
+CLAVE DE TESIS: PR.A.CS. J/46 A (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; Plenos Regionales; Gaceta S.J.F.; Libro 34, Febrero de 2024; Tomo III; Pág. 2704
+INSTANCIA: PLENO REGIONAL EN MATERIA ADMINISTRATIVA DE LA REGIÓN CENTRO-SUR, CON RESIDENCIA EN CUERNAVACA, MORELOS. (Plenos Regionales)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2024-02-09T10:11:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2028152
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: El supuesto jurídico que resuelve es la validez de un documento de elección de régimen pensionario cuando carece de la huella digital del trabajador. El criterio establecido es que la ausencia de huella digital en el documento de elección impide demostrar la voluntad inequívoca del trabajador de ejercer su derecho de opción entre regímenes pensionarios conforme a lo previsto en el Reglamento para el ejercicio de dicho derecho. Por tanto, sin este elemento de identificación biométrica, el documento no constituye prueba suficiente de la manifestación de voluntad requerida para que surta efectos la elección del régimen pensionario.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2028152

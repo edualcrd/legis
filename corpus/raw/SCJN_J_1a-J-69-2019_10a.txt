@@ -1,0 +1,20 @@
+RUBRO: DEFENSA ADECUADA EN LA AUDIENCIA INICIAL DEL PROCEDIMIENTO PENAL ACUSATORIO. LA CALIDAD DE LICENCIADO EN DERECHO DEL DEFENSOR DEBE ACREDITARSE CON EL REGISTRO PREVIO DE LA CÉDULA PROFESIONAL EN LOS SISTEMAS DE REGISTRO O ANTE LOS EMPLEADOS JUDICIALES DESIGNADOS PARA TAL EFECTO, Y CON LA SIMPLE MENCIÓN QUE DE ESOS DATOS SE HAGA EN LA AUDIENCIA RESPECTIVA.
+
+CLAVE DE TESIS: 1a./J. 69/2019 (10a.)
+LOCALIZACIÓN: [J]; 10a. Época; 1a. Sala; Gaceta S.J.F.; Libro 71, Octubre de 2019; Tomo I; Pág. 959
+INSTANCIA: Primera Sala (S.C.J.N.)
+ÉPOCA: 10a. Época
+FECHA DE PUBLICACIÓN: 2019-10-25T10:35:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2020892
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: La defensa adecuada en la audiencia inicial del procedimiento penal acusatorio requiere que el defensor acredite su calidad de licenciado en derecho, lo cual se satisface mediante el registro previo de la cédula profesional en los sistemas de registro o ante los empleados judiciales designados para tal efecto, siendo suficiente la simple mención de esos datos durante la audiencia respectiva. El criterio establece que no es necesario presentar documentación original o copia certificada de la cédula profesional en la audiencia, sino que basta con que conste el registro previo y se haga referencia a él verbalmente en el acto procesal. Esta interpretación busca garantizar el derecho fundamental a la defensa adecuada sin imponer requisitos formales excesivos que obstaculicen el acceso a la justicia.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2020892

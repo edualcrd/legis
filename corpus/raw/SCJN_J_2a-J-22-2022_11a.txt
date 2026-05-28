@@ -1,0 +1,20 @@
+RUBRO: RESCISIÓN DEL CONTRATO DE ENGANCHE A SOLDADOS Y CABOS. EL ARTÍCULO 43, FRACCIÓN III, DEL REGLAMENTO DE RECLUTAMIENTO DE PERSONAL PARA EL EJÉRCITO Y FUERZA AÉREA MEXICANOS, QUE PREVÉ QUE LA ÚNICA FORMA DE NOTIFICAR EL INICIO DEL PROCEDIMIENTO SERÁ MEDIANTE LA PUBLICACIÓN EN LA ORDEN GENERAL DE LA PLAZA DE MÉXICO, VIOLA EL DERECHO FUNDAMENTAL DE ACCESO A LA JUSTICIA.
+
+CLAVE DE TESIS: 2a./J. 22/2022 (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; 2a. Sala; Gaceta S.J.F.; Libro 12, Abril de 2022; Tomo II; Pág. 1568
+INSTANCIA: Segunda Sala (S.C.J.N.)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2022-04-22T10:26:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2024513
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: La rescisión del contrato de enganche de soldados y cabos requiere que se notifique el inicio del procedimiento de manera que garantice el acceso efectivo a la justicia, por lo que el criterio establecido declara que la disposición reglamentaria que limita la notificación únicamente a la publicación en la Orden General de la Plaza de México resulta violatoria del derecho fundamental de acceso a la justicia, al no asegurar que el afectado tenga conocimiento real y oportuno del procedimiento en su contra. Esta restricción en el método de notificación impide que los militares puedan ejercer adecuadamente su derecho de defensa y acceder a los medios de impugnación disponibles, comprometiendo así las garantías de debido proceso que deben rodear cualquier procedimiento que afecte derechos fundamentales.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2024513

@@ -1,0 +1,20 @@
+RUBRO: SUSPENSIÓN EN AMPARO DIRECTO EN MATERIA LABORAL. PROCEDE CONCEDERLA SIN NECESIDAD DE GARANTIZAR LA SUBSISTENCIA DE LA PARTE ACTORA, SI GOZA DE UNA PENSIÓN JUBILATORIA CUYA NULIDAD DEMANDA.
+
+CLAVE DE TESIS: PR.P.T.CS. J/55 L (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; Plenos Regionales; Gaceta S.J.F.; Libro 51, Julio de 2025; Tomo II, Volumen 1; Pág. 567
+INSTANCIA: PLENO REGIONAL EN MATERIAS PENAL Y DE TRABAJO DE LA REGIÓN CENTRO-SUR, CON RESIDENCIA EN LA CIUDAD DE MÉXICO. (Plenos Regionales)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2025-07-11T10:18:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2030765
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: La suspensión en amparo directo en materia laboral procede cuando el demandante cuestiona la validez de una pensión jubilatoria de la cual es beneficiario, sin que sea necesario que garantice su subsistencia mediante depósito o caución, toda vez que la existencia de ingresos derivados de dicha pensión constituye un medio de vida que justifica la procedencia de la medida cautelar, permitiendo así que el trabajador jubilado pueda continuar percibiendo sus prestaciones mientras se resuelve el fondo del asunto sin exponerse a un daño irreparable.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2030765

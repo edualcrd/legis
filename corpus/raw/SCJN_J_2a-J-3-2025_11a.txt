@@ -1,0 +1,20 @@
+RUBRO: COSA JUZGADA EN EL JUICIO LABORAL. LA AUTORIDAD JURISDICCIONAL DEBE ALLEGARSE DE LAS PRUEBAS NECESARIAS PARA SU ESTUDIO.
+
+CLAVE DE TESIS: 2a./J. 3/2025 (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; 2a. Sala; Gaceta S.J.F.; Libro 47, Marzo de 2025; Tomo I, Volumen 1; Pág. 109
+INSTANCIA: Segunda Sala (S.C.J.N.)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2025-03-07T10:10:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2030038
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: La cosa juzgada en el juicio laboral se configura cuando existe una sentencia que ha adquirido firmeza y resuelve sobre el fondo de la controversia, impidiendo que la misma materia sea nuevamente controvertida entre las partes. El criterio establecido señala que la autoridad jurisdiccional tiene la obligación de allegarse de todas las pruebas necesarias para realizar un estudio exhaustivo de los hechos controvertidos, a fin de determinar si efectivamente existe identidad de partes, acción y causa petendi que caracteriza a la cosa juzgada, sin poder limitarse a un análisis superficial de los elementos procesales.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2030038

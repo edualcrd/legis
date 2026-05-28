@@ -1,0 +1,20 @@
+RUBRO: RECURSO DE REVISIÓN FISCAL. LA PERSONA TITULAR DE LA SUBDIRECCIÓN DE LO CONTENCIOSO DE LA DIRECCIÓN JURÍDICA DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO (ISSSTE), CARECE DE LEGITIMACIÓN PARA INTERPONERLO.
+
+CLAVE DE TESIS: I.3o.A. J/3 A (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; T.C.C.; Gaceta S.J.F.; Libro 40, Agosto de 2024; Tomo I, Volumen 1; Pág. 461
+INSTANCIA: TERCER TRIBUNAL COLEGIADO EN MATERIA ADMINISTRATIVA DEL PRIMER CIRCUITO. (T.C.C.)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2024-08-02T10:10:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2029218
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: El supuesto jurídico que resuelve es la determinación de quién tiene legitimación para interponer un recurso de revisión fiscal en representación del ISSSTE. El criterio establecido es que la persona titular de la Subdirección de lo Contencioso de la Dirección Jurídica del ISSSTE carece de legitimación para interponer este recurso, lo que implica que dicho cargo no confiere la facultad legal necesaria para actuar en esta materia en nombre de la institución.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2029218

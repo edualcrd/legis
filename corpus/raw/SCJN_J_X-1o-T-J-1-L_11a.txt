@@ -1,0 +1,20 @@
+RUBRO: AUDIENCIA DE JUICIO EN EL NUEVO SISTEMA DE JUSTICIA LABORAL. ES INNECESARIO CELEBRAR UNA NUEVA CUANDO EN UN AMPARO DIRECTO SE CONCEDE LA PROTECCIÓN CONSTITUCIONAL POR UNA VIOLACIÓN COMETIDA EN EL DICTADO DE LA SENTENCIA RECLAMADA, AL PODER REPARARSE CON LA EMISIÓN POR ESCRITO DE UNA NUEVA RESOLUCIÓN QUE NO CONTENGA LOS VICIOS DETECTADOS.
+
+CLAVE DE TESIS: X.1o.T. J/1 L (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; T.C.C.; Gaceta S.J.F.; Libro 15, Julio de 2022; Tomo V; Pág. 4307
+INSTANCIA: PRIMER TRIBUNAL COLEGIADO EN MATERIA DE TRABAJO DEL DÉCIMO CIRCUITO. (T.C.C.)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2022-07-01T10:08:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2024904
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: Cuando en un amparo directo se otorga la protección constitucional por vicios cometidos en la sentencia de juicio laboral dictada conforme al nuevo sistema de justicia laboral, no es necesario que el tribunal ordene celebrar una nueva audiencia de juicio, ya que la violación puede repararse mediante la emisión por escrito de una nueva resolución que corrija los defectos identificados, sin que sea indispensable repetir el procedimiento oral para subsanar la afectación de derechos fundamentales del quejoso.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2024904

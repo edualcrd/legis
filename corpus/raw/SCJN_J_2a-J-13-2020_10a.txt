@@ -1,0 +1,20 @@
+RUBRO: LEGITIMACIÓN EN EL JUICIO DE AMPARO DIRECTO. LA TIENEN LAS PERSONAS MORALES OFICIALES PARA PROMOVERLO CONTRA LAS RESOLUCIONES DEL TRIBUNAL AGRARIO EN LAS QUE SE LES CONDENE AL PAGO DE UNA INDEMNIZACIÓN POR DAÑOS Y PERJUICIOS CON MOTIVO DE LA RESCISIÓN DE UN CONVENIO DE OCUPACIÓN PREVIA DE TIERRAS EJIDALES O COMUNALES.
+
+CLAVE DE TESIS: 2a./J. 13/2020 (10a.)
+LOCALIZACIÓN: [J]; 10a. Época; 2a. Sala; Gaceta S.J.F.; Libro 75, Febrero de 2020; Tomo I; Pág. 843
+INSTANCIA: Segunda Sala (S.C.J.N.)
+ÉPOCA: 10a. Época
+FECHA DE PUBLICACIÓN: 2020-02-28T10:30:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2021698
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: Las personas morales oficiales tienen legitimación activa para promover juicio de amparo directo en contra de las resoluciones del Tribunal Agrario que las condenen al pago de indemnización por daños y perjuicios derivados de la rescisión de un convenio de ocupación previa de tierras ejidales o comunales, toda vez que tales resoluciones afectan directamente sus intereses jurídicos al imponer obligaciones pecuniarias que pueden vulnerar sus derechos fundamentales, siendo procedente el amparo directo como medio de control constitucional para cuestionar la legalidad y constitucionalidad de dichas sentencias agrarias.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2021698

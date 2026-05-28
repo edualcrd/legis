@@ -1,0 +1,20 @@
+RUBRO: BONO ANUAL DE ANTIGÜEDAD. EL ARTÍCULO 8o. TRANSITORIO DE LA LEY DEL SERVICIO CIVIL DEL ESTADO DE NUEVO LEÓN, QUE EXIGE DISTINTOS AÑOS DE SERVICIO A MUJERES (VEINTIOCHO) Y HOMBRES (TREINTA) PARA TENER DERECHO A DICHA PRESTACIÓN, NO VIOLA LOS PRINCIPIOS DE IGUALDAD ANTE LA LEY, NI EL QUE ORDENA QUE A TRABAJO IGUAL CORRESPONDERÁ SALARIO IGUAL, SIN TENER EN CUENTA EL SEXO, PREVISTOS EN LOS ARTÍCULOS 4o., PRIMER PÁRRAFO, Y 123, APARTADO B, FRACCIÓN V, DE LA CONSTITUCIÓN FEDERAL, RESPECTIVAMENTE.
+
+CLAVE DE TESIS: PR.L.CN. J/2 L (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; Plenos Regionales; Gaceta S.J.F.; Libro 26, Junio de 2023; Tomo V; Pág. 4846
+INSTANCIA: PLENO REGIONAL EN MATERIA DE TRABAJO DE LA REGIÓN CENTRO-NORTE, CON RESIDENCIA EN MONTERREY, NUEVO LEÓN. (Plenos Regionales)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2023-06-16T10:22:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2026687
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: El supuesto jurídico que resuelve es la constitucionalidad de una norma estatal que establece requisitos diferenciados de antigüedad según el sexo del servidor público para acceder a un bono anual. El criterio establecido sostiene que esta distinción no viola los principios de igualdad ante la ley ni el de salario igual por trabajo igual, reconociendo que la medida responde a una política de protección social diferenciada basada en circunstancias objetivas relacionadas con la condición de las mujeres. Los artículos invocados como parámetro de control son el artículo 4o., primer párrafo, y el artículo 123, apartado B, fracción V, de la Constitución Federal.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2026687

@@ -1,0 +1,20 @@
+RUBRO: PRUEBA PERICIAL EN MEDIO AMBIENTE OFRECIDA PARA DEMOSTRAR UNA ENFERMEDAD PROFESIONAL. CUANDO NO PUEDA DESAHOGARSE EN LA FUENTE DE TRABAJO (PORQUE CERRÓ O POR ALGÚN IMPEDIMENTO SIMILAR), LAS JUNTAS DEBEN ORDENAR LA PRÁCTICA DE LAS DILIGENCIAS NECESARIAS PARA EL ESCLARECIMIENTO DE LA VERDAD.
+
+CLAVE DE TESIS: VII.2o.T. J/26 (10a.)
+LOCALIZACIÓN: [J]; 10a. Época; T.C.C.; Gaceta S.J.F.; Libro 51, Febrero de 2018; Tomo III; Pág. 1340
+INSTANCIA: SEGUNDO TRIBUNAL COLEGIADO EN MATERIA DE TRABAJO DEL SÉPTIMO CIRCUITO. (T.C.C.)
+ÉPOCA: 10a. Época
+FECHA DE PUBLICACIÓN: 2018-02-23T10:25:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2016283
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: Cuando se ofrece prueba pericial en materia ambiental para acreditar una enfermedad profesional y no puede practicarse en la fuente de trabajo por su cierre u otro impedimento similar, el supuesto jurídico que resuelve es la imposibilidad material de desahogar la prueba en su lugar de origen; el criterio establecido es que las juntas de conciliación y arbitraje tienen la obligación de ordenar las diligencias necesarias para el esclarecimiento de la verdad, garantizando así el derecho a la prueba del trabajador y permitiendo que se practique la pericia en condiciones alternas que permitan demostrar las condiciones ambientales que originaron la enfermedad profesional.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2016283

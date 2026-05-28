@@ -1,0 +1,20 @@
+RUBRO: COMPENSACIÓN PREVISTA EN EL ARTÍCULO 50 DEL REGLAMENTO DE TRABAJO DEL PERSONAL DE CONFIANZA DE PETRÓLEOS MEXICANOS Y EMPRESAS PRODUCTIVAS SUBSIDIARIAS VIGENTE A PARTIR DEL 16 DE DICIEMBRE DE 2015. PARA OTORGARLA, AL TRATARSE DE UNA PRESTACIÓN EXTRALEGAL, EL OPERARIO DEBE PROBAR QUE LA SOLICITÓ.
+
+CLAVE DE TESIS: PC.X. J/2 L (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; Plenos de Circuito; Gaceta S.J.F.; Libro 10, Febrero de 2022; Tomo II; Pág. 1905
+INSTANCIA: PLENO DEL DECIMO CIRCUITO. (Plenos de Circuito)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2022-02-04T10:06:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2024124
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: La compensación prevista en el artículo 50 del Reglamento de Trabajo del Personal de Confianza de Petróleos Mexicanos y Empresas Productivas Subsidiarias constituye una prestación extralegal cuya procedencia requiere que el trabajador acredite haberla solicitado formalmente, ya que al no derivar directamente de la ley, su otorgamiento depende de la voluntad de las partes y de la demostración expresa de su demanda. El criterio establecido por la jurisprudencia determina que la carga probatoria recae en el operario que reclama esta compensación, quien debe demostrar tanto la solicitud como el cumplimiento de los requisitos específicos establecidos en el reglamento aplicable a partir del 16 de diciembre de 2015.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2024124

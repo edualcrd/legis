@@ -1,0 +1,20 @@
+RUBRO: MINUTAS DE REUNIONES DE TRABAJO APORTADAS AL JUICIO LABORAL POR LA PARTE DEMANDADA PARA DESVIRTUAR EL DESPIDO ATRIBUIDO POR LA PARTE TRABAJADORA A UNO DE SUS ASISTENTES. NO TIENEN EL CARÁCTER DE DOCUMENTOS PÚBLICOS SI NO FUERON SUSCRITAS POR UNA AUTORIDAD INVESTIDA DE FE PÚBLICA O EN EJERCICIO DE SUS FUNCIONES Y, POR TANTO, CARECEN DE VALOR PROBATORIO, SALVO QUE SE FORTALEZCAN CON ALGUNA OTRA PRUEBA.
+
+CLAVE DE TESIS: PR.L.CS. J/45 L (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; Plenos Regionales; Gaceta S.J.F.; Libro 30, Octubre de 2023; Tomo IV; Pág. 3895
+INSTANCIA: PLENO REGIONAL EN MATERIA DE TRABAJO DE LA REGIÓN CENTRO-SUR, CON RESIDENCIA EN LA CIUDAD DE MÉXICO. (Plenos Regionales)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2023-10-13T10:23:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2027457
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: Las minutas de reuniones de trabajo aportadas por la demandada para desvirtuar un despido carecen de valor probatorio como documentos públicos cuando no fueron suscritas por una autoridad investida de fe pública en ejercicio de sus funciones, por lo que su eficacia probatoria depende de que se fortalezcan con otras pruebas que corroboren su contenido y autenticidad. El criterio establece que la sola presentación de estos documentos privados, sin respaldo adicional, resulta insuficiente para desvanecer las alegaciones del trabajador respecto a la causa del despido, requiriéndose elementos probatorios complementarios que otorguen credibilidad a lo documentado en tales minutas.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2027457

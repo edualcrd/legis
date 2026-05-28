@@ -1,0 +1,20 @@
+RUBRO: RENUNCIA. CUANDO EL DOCUMENTO RESPECTIVO CONTENGA DOS ELEMENTOS DE SUSCRIPCIÓN, COMO SON LA HUELLA DACTILAR Y LA FIRMA AUTÓGRAFA, BASTA QUE SE ACREDITE LA VERACIDAD DE UNO DE ELLOS PARA DARLE PLENA EFICACIA PROBATORIA (ARTÍCULO 802 DE LA LEY FEDERAL DEL TRABAJO VIGENTE HASTA EL 30 DE NOVIEMBRE DE 2012).
+
+CLAVE DE TESIS: 2a./J. 6/2021 (10a.)
+LOCALIZACIÓN: [J]; 10a. Época; 2a. Sala; Gaceta S.J.F.; Libro 85, Abril de 2021; Tomo I; Pág. 615
+INSTANCIA: Segunda Sala (S.C.J.N.)
+ÉPOCA: 10a. Época
+FECHA DE PUBLICACIÓN: 2021-04-30T10:34:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2023053
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: La renuncia laboral que contiene dos elementos de suscripción, como la huella dactilar y la firma autógrafa, adquiere plena eficacia probatoria cuando se acredita la veracidad de al menos uno de estos elementos, sin necesidad de que ambos sean verificados. El criterio establece que la concurrencia de múltiples formas de autenticación en un documento de renuncia permite que la prueba de la autenticidad de cualquiera de ellas sea suficiente para conferir validez al acto, conforme al artículo 802 de la Ley Federal del Trabajo vigente hasta el 30 de noviembre de 2012.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2023053

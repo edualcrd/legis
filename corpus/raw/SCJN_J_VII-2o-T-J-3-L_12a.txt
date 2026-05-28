@@ -1,0 +1,20 @@
+RUBRO: CUOTAS DE SEGURIDAD SOCIAL ANTE EL INSTITUTO DE PENSIONES DEL ESTADO DE VERACRUZ. CORRESPONDE PAGARLAS A LA PARTE TRABAJADORA, NO OBSTANTE QUE LA PATRONAL NO LA HUBIESE INSCRITO DESDE EL INICIO DE LA RELACIÓN DE TRABAJO.
+
+CLAVE DE TESIS: VII.2o.T. J/3 L (12a.)
+LOCALIZACIÓN: [J]; 12a. Época; T.C.C.; Gaceta S.J.F.; Libro 7, Marzo de 2026; Tomo III, Volumen 1; Pág. 901
+INSTANCIA: SEGUNDO TRIBUNAL COLEGIADO EN MATERIA DE TRABAJO DEL SÉPTIMO CIRCUITO. (T.C.C.)
+ÉPOCA: 12a. Época
+FECHA DE PUBLICACIÓN: 2026-03-20T10:23:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2031897
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: El supuesto jurídico que resuelve es la obligación de pago de cuotas de seguridad social ante el Instituto de Pensiones del Estado de Veracruz cuando la parte patronal no ha inscrito al trabajador desde el inicio de la relación laboral. El criterio establecido es que la parte trabajadora tiene la obligación de contribuir con sus cuotas de seguridad social independientemente de que el patrón haya incumplido con la inscripción oportuna, ya que la obligación de cotización es una responsabilidad que recae sobre el trabajador como parte de sus deberes derivados de la relación de trabajo, sin que el incumplimiento patronal en materia de registro exima al trabajador de sus aportaciones.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2031897

@@ -1,0 +1,20 @@
+RUBRO: ACCIÓN DE NULIDAD EN LA VÍA LABORAL. ES PROCEDENTE CONTRA LOS CONVENIOS LABORALES QUE CAREZCAN DE LAS FIRMAS DE LA TOTALIDAD DE LOS MIEMBROS DE LA JUNTA DE CONCILIACIÓN Y ARBITRAJE.
+
+CLAVE DE TESIS: PC.V. J/7 L (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; Plenos de Circuito; Gaceta S.J.F.; Libro 15, Julio de 2022; Tomo III; Pág. 2696
+INSTANCIA: PLENO DEL QUINTO CIRCUITO (Plenos de Circuito)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2022-07-08T10:15:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2024933
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: La acción de nulidad en la vía laboral es procedente cuando se promueve contra convenios laborales que no cuentan con las firmas de la totalidad de los miembros que integran la junta de conciliación y arbitraje, ya que la ausencia de estas firmas implica un vicio en la formación del acto que afecta su validez y eficacia jurídica. El criterio establece que la firma de todos los miembros de la junta constituye un requisito esencial para la validez del convenio, de modo que su omisión permite al interesado impugnar el acto mediante la acción de nulidad correspondiente. Esta exigencia garantiza que el acto jurisdiccional refleje la voluntad colegiada de la junta y cumple con los principios de legalidad y debido proceso en materia laboral.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2024933

@@ -1,0 +1,20 @@
+RUBRO: CADUCIDAD DE LA INSTANCIA EN MATERIA LABORAL. FORMA DE COMPUTAR EL TÉRMINO PARA QUE OPERE EN LOS JUICIOS DEL CONOCIMIENTO DEL TRIBUNAL DE ARBITRAJE Y ESCALAFÓN DEL ESTADO DE COLIMA.
+
+CLAVE DE TESIS: XXXII. J/1 L (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; T.C.C.; Gaceta S.J.F.; Libro 18, Octubre de 2022; Tomo IV; Pág. 3282
+INSTANCIA: TRIBUNAL COLEGIADO DEL TRIGÉSIMO SEGUNDO CIRCUITO. (T.C.C.)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2022-10-21T10:31:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2025380
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: La caducidad de la instancia en materia laboral opera cuando transcurre el término legal sin que las partes realicen acto procesal alguno que impulse el procedimiento, y en los juicios del conocimiento del Tribunal de Arbitraje y Escalafón del Estado de Colima se computa a partir de la última diligencia practicada o acto procesal realizado por cualquiera de las partes, de modo que si durante ese lapso no hay movimiento procesal que demuestre el interés de las partes en continuar con el litigio, la instancia se extingue y el juicio se tiene por terminado, lo que constituye una sanción procesal que busca evitar la paralización indefinida de los procedimientos laborales.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2025380

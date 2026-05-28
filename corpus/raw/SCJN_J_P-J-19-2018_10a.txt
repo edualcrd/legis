@@ -1,0 +1,20 @@
+RUBRO: DILIGENCIA DE NOTIFICACIÓN DE CUALQUIER ACTO. POR REGLA GENERAL, LA ENTENDIDA CON UN MENOR DE EDAD AUN CUANDO SEA EMPLEADO DEL BUSCADO, NO PUEDE SURTIR PLENOS EFECTOS JURÍDICOS Y, POR ENDE, ES ILEGAL.
+
+CLAVE DE TESIS: P./J. 19/2018 (10a.)
+LOCALIZACIÓN: [J]; 10a. Época; Pleno; Gaceta S.J.F.; Libro 55, Junio de 2018; Tomo I; Pág. 9
+INSTANCIA: Pleno (S.C.J.N.)
+ÉPOCA: 10a. Época
+FECHA DE PUBLICACIÓN: 2018-06-08T10:14:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2017120
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: La diligencia de notificación de cualquier acto procesal practicada con un menor de edad, aun cuando éste sea empleado del destinatario, no puede surtir plenos efectos jurídicos por regla general, siendo por tanto ilegal. El criterio establecido reconoce que la capacidad para recibir notificaciones válidas requiere que el receptor sea una persona con capacidad legal plena, de modo que la entrega de documentos a menores de edad no satisface los requisitos formales necesarios para que la notificación despliegue sus consecuencias jurídicas, independientemente de la relación laboral que el menor pudiera tener con la persona a quien va dirigida la notificación.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2017120

@@ -1,0 +1,20 @@
+RUBRO: CONFLICTOS INDIVIDUALES DE SEGURIDAD SOCIAL. QUÉ DEBE ENTENDERSE POR "ÚLTIMO ESTADO DE CUENTA INDIVIDUAL DE AHORRO PARA EL RETIRO", COMO REQUISITO PREVISTO EN LA FRACCIÓN VI DEL ARTÍCULO 899-C DE LA LEY FEDERAL DEL TRABAJO.
+
+CLAVE DE TESIS: VII.2o.T. J/34 (10a.)
+LOCALIZACIÓN: [J]; 10a. Época; T.C.C.; Gaceta S.J.F.; Libro 59, Octubre de 2018; Tomo III; Pág. 2030
+INSTANCIA: SEGUNDO TRIBUNAL COLEGIADO EN MATERIA DE TRABAJO DEL SÉPTIMO CIRCUITO. (T.C.C.)
+ÉPOCA: 10a. Época
+FECHA DE PUBLICACIÓN: 2018-10-19T10:29:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2018139
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: En los conflictos individuales de seguridad social, el "último estado de cuenta individual de ahorro para el retiro" a que se refiere la fracción VI del artículo 899-C de la Ley Federal del Trabajo debe entenderse como el documento que refleja el saldo actualizado de la cuenta individual del trabajador en la administradora de fondos para el retiro, el cual constituye un requisito esencial para acreditar la existencia y cuantía de los recursos acumulados en el sistema de pensiones. Este criterio establece que dicho estado de cuenta debe ser expedido por la administradora correspondiente y debe contener información verificable sobre el patrimonio del trabajador en su cuenta de retiro, siendo un elemento probatorio fundamental para resolver controversias relacionadas con derechos pensionarios y prestaciones de seguridad social derivadas del régimen de contribución definida.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2018139

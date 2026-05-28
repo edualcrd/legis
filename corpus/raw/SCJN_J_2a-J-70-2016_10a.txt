@@ -1,0 +1,20 @@
+RUBRO: OFRECIMIENTO DE TRABAJO. CUANDO SE FORMULA CON UNA JORNADA MENOR A LA ALEGADA EN LA DEMANDA, QUE ESTÁ EN EL PARÁMETRO MÁXIMO LEGAL SEMANAL, AL TRABAJADOR QUE PERCIBE UN SALARIO QUE COMPRENDE EL PAGO DE COMISIONES SOBRE EL VALOR DE LA MERCANCÍA VENDIDA O COLOCADA, ES DE BUENA FE, SALVO QUE SEA INFERIOR A ESE MÁXIMO LEGAL.
+
+CLAVE DE TESIS: 2a./J. 70/2016 (10a.)
+LOCALIZACIÓN: [J]; 10a. Época; 2a. Sala; Gaceta S.J.F.; Libro 33, Agosto de 2016; Tomo II; Pág. 1149
+INSTANCIA: Segunda Sala (S.C.J.N.)
+ÉPOCA: 10a. Época
+FECHA DE PUBLICACIÓN: 2016-08-12T10:20:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2012244
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: El supuesto jurídico que resuelve es la validez del ofrecimiento de trabajo formulado por el patrón cuando propone una jornada menor a la alegada en la demanda, en casos donde el trabajador percibe un salario que incluye comisiones sobre ventas o colocación de mercancía. El criterio establecido es que tal ofrecimiento se considera de buena fe cuando la jornada propuesta se mantiene dentro del parámetro máximo legal semanal, lo que permite al patrón cumplir con su obligación de reinstalación o pago de prestaciones sin incurrir en responsabilidad adicional, siempre que la jornada ofrecida no sea inferior a ese máximo legal establecido.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2012244

@@ -1,0 +1,20 @@
+RUBRO: SALARIOS CAÍDOS. ES IMPROCEDENTE DESCONTAR DE LA CONDENA RESPECTIVA EL PAGO DE LOS COMPRENDIDOS EN EL LAPSO EN QUE LA AUTORIDAD LABORAL SUSPENDIÓ SUS ACTIVIDADES O TÉRMINOS PROCESALES CON MOTIVO DE LA CONTINGENCIA SANITARIA PRODUCIDA POR EL VIRUS SARS-CoV-2 (COVID-19) (LEY FEDERAL DEL TRABAJO EN SU TEXTO ANTERIOR A LA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN EL 30 DE NOVIEMBRE DE 2012).
+
+CLAVE DE TESIS: PR.L.CS. J/14 L (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; Plenos Regionales; Gaceta S.J.F.; Libro 25, Mayo de 2023; Tomo III; Pág. 2746
+INSTANCIA: PLENO REGIONAL EN MATERIA DE TRABAJO DE LA REGIÓN CENTRO-SUR, CON RESIDENCIA EN LA CIUDAD DE MÉXICO. (Plenos Regionales)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2023-05-12T10:17:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2026434
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: Cuando se condena al pago de salarios caídos derivados de un despido injustificado, es improcedente descontar de dicha condena los salarios correspondientes al período en que la autoridad laboral suspendió sus actividades o términos procesales como consecuencia de la contingencia sanitaria por COVID-19, ya que tal suspensión no es imputable al trabajador ni constituye un período en el que haya dejado de estar disponible para laborar, por lo que el patrón debe cubrir la totalidad de los salarios caídos sin reducción alguna por el tiempo de inactividad procesal ocasionado por la pandemia.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2026434

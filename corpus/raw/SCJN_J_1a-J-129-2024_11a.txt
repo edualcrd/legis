@@ -1,0 +1,20 @@
+RUBRO: DESINDEXACIÓN DEL SALARIO MÍNIMO. LA REFORMA CONSTITUCIONAL EN LA MATERIA NO ESTABLECE UNA REGLA ABSOLUTA DE SUSTITUCIÓN DEL SALARIO MÍNIMO POR LA UNIDAD DE MEDIDA Y ACTUALIZACIÓN (UMA), SINO UNA REGLA DE JUICIO APLICABLE CASO POR CASO.
+
+CLAVE DE TESIS: 1a./J. 129/2024 (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; 1a. Sala; Gaceta S.J.F.; Libro 40, Agosto de 2024; Tomo IV, Volumen 1; Pág. 274
+INSTANCIA: Primera Sala (S.C.J.N.)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2024-08-23T10:31:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2029315
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: La reforma constitucional en materia de desindexación del salario mínimo resuelve el supuesto de si existe una sustitución automática y absoluta del salario mínimo por la Unidad de Medida y Actualización (UMA) en todas las disposiciones legales. El criterio establecido es que la reforma no consagra una regla de sustitución mecánica e indiscriminada, sino que establece una regla de juicio que debe aplicarse caso por caso, considerando la naturaleza y función de cada norma legal para determinar si procede la sustitución o si el salario mínimo debe mantenerse como referencia. Esta interpretación permite una aplicación flexible y contextualizada de la desindexación, evitando consecuencias no deseadas en áreas donde el salario mínimo cumple funciones específicas distintas a la de ser índice de actualización.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2029315

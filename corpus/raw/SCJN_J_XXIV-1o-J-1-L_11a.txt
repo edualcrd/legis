@@ -1,0 +1,20 @@
+RUBRO: DEMANDA DE AMPARO INDIRECTO. PROCEDE SU DESECHAMIENTO EN EL AUTO INICIAL DE TRÁMITE CUANDO LOS ACTOS RECLAMADOS NO PROVIENEN DE UNA AUTORIDAD PARA EFECTOS DE LA PROCEDENCIA DEL JUICIO, POR DERIVAR DE UNA RELACIÓN DE COORDINACIÓN (CANCELACIÓN DE UNA LICENCIA SINDICAL A UN TRABAJADOR DE BASE AL SERVICIO DEL ESTADO) [INAPLICABILIDAD DE LA TESIS DE JURISPRUDENCIA 2a./J. 54/2012 (10a.)].
+
+CLAVE DE TESIS: XXIV.1o. J/1 L (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; T.C.C.; Gaceta S.J.F.; Libro 23, Marzo de 2023; Tomo IV; Pág. 3379
+INSTANCIA: PRIMER TRIBUNAL COLEGIADO DEL VIGÉSIMO CUARTO CIRCUITO. (T.C.C.)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2023-03-24T10:27:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2026202
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: La demanda de amparo indirecto procede a ser desechada en el auto inicial de trámite cuando los actos reclamados no provienen de una autoridad para efectos de la procedencia del juicio, específicamente cuando derivan de una relación de coordinación, como ocurre en el caso de la cancelación de una licencia sindical a un trabajador de base al servicio del Estado, situación en la que no existe la relación de subordinación característica de los actos de autoridad. El criterio establecido inaaplica la tesis de jurisprudencia 2a./J. 54/2012 (10a.) al determinar que la falta de calidad de autoridad en quien emite el acto impugnado constituye un motivo válido para el desechamiento de la demanda en la etapa inicial del procedimiento de amparo, sin necesidad de profundizar en el análisis de otros requisitos de procedencia.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2026202

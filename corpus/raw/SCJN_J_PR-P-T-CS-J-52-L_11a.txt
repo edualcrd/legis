@@ -1,0 +1,20 @@
+RUBRO: INCOMPETENCIA POR DECLINATORIA EN EL NUEVO SISTEMA DE JUSTICIA LABORAL. PASOS A SEGUIR POR LA PERSONA JUZGADORA CUANDO LA DECRETA OFICIOSAMENTE.
+
+CLAVE DE TESIS: PR.P.T.CS. J/52 L (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; Plenos Regionales; Gaceta S.J.F.; Libro 50, Junio de 2025; Tomo IV, Volumen 2; Pág. 1141
+INSTANCIA: PLENO REGIONAL EN MATERIAS PENAL Y DE TRABAJO DE LA REGIÓN CENTRO-SUR, CON RESIDENCIA EN LA CIUDAD DE MÉXICO. (Plenos Regionales)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2025-06-27T10:33:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2030636
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: Cuando la persona juzgadora decreta de oficio la incompetencia por declinatoria en el nuevo sistema de justicia laboral, debe seguir un procedimiento específico que implica reconocer que carece de competencia para conocer del asunto y remitir el expediente al tribunal competente, sin que sea necesario que las partes lo soliciten expresamente. El criterio establece que la declinatoria de competencia puede ser declarada por el juzgador en cualquier momento del proceso, incluso sin petición de parte, cuando advierte que el tribunal no es el territorialmente competente o que existe otra causa de incompetencia conforme a las reglas de distribución de competencias en materia laboral. Los pasos a seguir incluyen la emisión de un auto que declare la incompetencia, la fundamentación clara de las razones por las cuales el tribunal no es competente, y la remisión ordenada del expediente al tribunal que sí lo sea, garantizando así la debida administración de justicia y el respeto al principio de competencia establecido en la ley.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2030636

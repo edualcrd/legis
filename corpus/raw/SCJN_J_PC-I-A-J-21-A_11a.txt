@@ -1,0 +1,20 @@
+RUBRO: AMPARO INDIRECTO CONTRA LOS LINEAMIENTOS POR MEDIO DE LOS CUALES SE OTORGA EL PAGO POR CONCEPTO DE AGUINALDO AL PERSONAL TÉCNICO OPERATIVO, DE BASE Y CONFIANZA, DE HABERES Y POLICÍAS COMPLEMENTARIAS DE LA ADMINISTRACIÓN PÚBLICA CENTRALIZADA, DESCONCENTRADA Y DELEGACIONES DEL ENTONCES GOBIERNO DEL DISTRITO FEDERAL, RECLAMADOS COMO NORMA HETEROAPLICATIVA. EL OFICIO INFORMATIVO DE LA APLICACIÓN DE DICHA NORMATIVA PARA EL CÁLCULO DEL AGUINALDO CONSTITUYE EL PRIMER ACTO DE APLICACIÓN PARA EFECTOS DEL JUICIO DE AMPARO.
+
+CLAVE DE TESIS: PC.I.A. J/21 A (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; Plenos de Circuito; Gaceta S.J.F.; Libro 21, Enero de 2023; Tomo III; Pág. 3321
+INSTANCIA: PLENO EN MATERIA ADMINISTRATIVA DEL PRIMER CIRCUITO. (Plenos de Circuito)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2023-01-20T10:21:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2025797
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: El supuesto jurídico que resuelve este criterio es la procedencia del amparo indirecto en contra de lineamientos administrativos que regulan el otorgamiento del pago de aguinaldo al personal de la administración pública del entonces Gobierno del Distrito Federal, cuando tales lineamientos se reclaman como normas heteroaplicativas. El criterio establecido es que el oficio informativo mediante el cual se comunica la aplicación de dichos lineamientos para el cálculo del aguinaldo constituye el primer acto de aplicación para efectos del juicio de amparo, lo que permite determinar cuándo surge la lesión y la procedencia de la demanda amparo indirecto contra este tipo de disposiciones administrativas de carácter general.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2025797

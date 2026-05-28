@@ -1,0 +1,20 @@
+RUBRO: LAUDO. LA PATRONAL CUENTA CON 15 DÍAS HÁBILES PARA SU CUMPLIMIENTO VOLUNTARIO, Y ANTE SU ABSTENCIÓN, EL TRABAJADOR DEBE SOLICITAR SU EJECUCIÓN FORZOSA DENTRO DEL TÉRMINO DE 2 AÑOS (LEGISLACIÓN DEL ESTADO DE TAMAULIPAS).
+
+CLAVE DE TESIS: PC.XIX. J/5 L (10a.)
+LOCALIZACIÓN: [J]; 10a. Época; Plenos de Circuito; Gaceta S.J.F.; Libro 48, Noviembre de 2017; Tomo II; Pág. 1137
+INSTANCIA: PLENO DEL DECIMONOVENO CIRCUITO. (Plenos de Circuito)
+ÉPOCA: 10a. Época
+FECHA DE PUBLICACIÓN: 2017-11-10T10:21:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2015483
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: El laudo arbitral en materia laboral genera para la patronal la obligación de cumplimiento voluntario dentro de un plazo de 15 días hábiles contados a partir de su notificación; transcurrido este término sin que la empresa cumpla, el trabajador debe promover la ejecución forzosa del laudo ante la autoridad competente, debiendo ejercitar esta acción dentro del término de prescripción de 2 años, pasado el cual se extingue el derecho a exigir coactivamente el cumplimiento de las prestaciones ordenadas en la sentencia arbitral, conforme a la legislación laboral del estado de Tamaulipas.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2015483

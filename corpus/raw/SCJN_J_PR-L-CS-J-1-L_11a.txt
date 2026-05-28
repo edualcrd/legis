@@ -1,0 +1,20 @@
+RUBRO: COMPETENCIA LABORAL TRATÁNDOSE DE EMPRESAS QUE REQUIEREN CONCESIÓN FEDERAL EN MATERIA DE TELECOMUNICACIONES O RADIODIFUSIÓN. EL REGISTRO PÚBLICO DE CONCESIONES (RPC), PUBLICADO EN LA PÁGINA DE INTERNET DEL INSTITUTO FEDERAL DE TELECOMUNICACIONES (IFT), ES UN HECHO PÚBLICO Y NOTORIO PARA DETERMINARLA.
+
+CLAVE DE TESIS: PR.L.CS. J/1 L (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; Plenos Regionales; Gaceta S.J.F.; Libro 23, Marzo de 2023; Tomo III; Pág. 2679
+INSTANCIA: PLENO REGIONAL EN MATERIA DE TRABAJO DE LA REGIÓN CENTRO-SUR, CON RESIDENCIA EN LA CIUDAD DE MÉXICO. (Plenos Regionales)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2023-03-24T10:27:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2026194
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: Cuando una empresa requiere concesión federal en materia de telecomunicaciones o radiodifusión, la competencia laboral se determina conforme a la naturaleza jurídica de la empresa concesionaria, siendo el Registro Público de Concesiones publicado en la página de internet del Instituto Federal de Telecomunicaciones un hecho público y notorio que puede ser consultado para acreditar tal condición sin necesidad de prueba adicional. Este criterio establece que los juzgadores pueden tomar conocimiento oficial de dicho registro para resolver cuestiones de competencia en materia laboral, evitando así dilaciones innecesarias en los procedimientos y permitiendo una determinación clara y objetiva de la jurisdicción competente en controversias laborales que involucren a empresas concesionarias del sector de telecomunicaciones o radiodifusión.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2026194

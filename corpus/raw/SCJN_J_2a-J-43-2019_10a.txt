@@ -1,0 +1,20 @@
+RUBRO: PRIMA DE ANTIGÜEDAD. TIENEN DERECHO A SU PAGO LOS TRABAJADORES BUROCRÁTICOS DE CONFIANZA EN EL CASO DE MUERTE O TRATÁNDOSE DE SU SEPARACIÓN VOLUNTARIA, CUANDO CUMPLAN EL PERIODO MÍNIMO DE AÑOS DE SERVICIOS QUE EXIJA LA LEY (LEGISLACIONES DEL ESTADO DE MORELOS Y DEL ESTADO DE MÉXICO).
+
+CLAVE DE TESIS: 2a./J. 43/2019 (10a.)
+LOCALIZACIÓN: [J]; 10a. Época; 2a. Sala; Gaceta S.J.F.; Libro 64, Marzo de 2019; Tomo II; Pág. 1904
+INSTANCIA: Segunda Sala (S.C.J.N.)
+ÉPOCA: 10a. Época
+FECHA DE PUBLICACIÓN: 2019-03-22T10:25:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2019552
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: Los trabajadores burocráticos de confianza tienen derecho al pago de prima de antigüedad en dos supuestos específicos: cuando fallecen o cuando se separan voluntariamente del servicio, siempre que hayan cumplido el período mínimo de años de servicios que establezca la ley aplicable. El criterio establecido reconoce que la condición de confianza no excluye a estos trabajadores del derecho a percibir esta prestación, contrario a lo que podría interpretarse de manera restrictiva, extendiendo la protección a situaciones de muerte del trabajador y separación voluntaria, no solo a los supuestos de despido injustificado. Esta jurisprudencia aplica conforme a las legislaciones laborales del Estado de Morelos y del Estado de México.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2019552

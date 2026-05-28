@@ -1,0 +1,20 @@
+RUBRO: MULTA PREVISTA EN EL ARTÍCULO 95 DE LA LEY BUROCRÁTICA DEL ESTADO DE GUERRERO. SU APLICACIÓN POR EL TRIBUNAL LABORAL PARA HACER CUMPLIR SUS DETERMINACIONES EN AQUELLOS ASUNTOS RESUELTOS, INCLUSO ANTES DE SU REFORMA EL 25 DE AGOSTO DE 2015, NO VIOLA EL PRINCIPIO DE IRRETROACTIVIDAD DE LA LEY.
+
+CLAVE DE TESIS: XXI.2o.C.T. J/2 (10a.)
+LOCALIZACIÓN: [J]; 10a. Época; T.C.C.; Gaceta S.J.F.; Libro 46, Septiembre de 2017; Tomo III; Pág. 1766
+INSTANCIA: SEGUNDO TRIBUNAL COLEGIADO EN MATERIAS CIVIL Y DE TRABAJO DEL VIGÉSIMO PRIMER CIRCUITO. (T.C.C.)
+ÉPOCA: 10a. Época
+FECHA DE PUBLICACIÓN: 2017-09-29T10:38:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2015183
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: El supuesto jurídico que resuelve es la aplicación retroactiva de la multa prevista en el artículo 95 de la Ley Burocrática del Estado de Guerrero por parte del tribunal laboral para hacer cumplir sus determinaciones en asuntos resueltos antes de la reforma del 25 de agosto de 2015. El criterio establecido es que dicha aplicación no viola el principio de irretroactividad de la ley, toda vez que la multa funciona como un mecanismo coercitivo para el cumplimiento de resoluciones ya dictadas y no como una sanción sustantiva que modifique derechos adquiridos. El artículo 95 de la Ley Burocrática del Estado de Guerrero es el fundamento normativo de esta determinación.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2015183

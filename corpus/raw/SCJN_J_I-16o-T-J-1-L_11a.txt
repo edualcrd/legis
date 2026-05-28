@@ -1,0 +1,20 @@
+RUBRO: SEPARACIÓN DE JUICIOS EN MATERIA LABORAL. ANTES DE DECRETARLA DE OFICIO, LA PERSONA JUZGADORA DEBE SEGUIR LAS REGLAS DE LA ACUMULACIÓN.
+
+CLAVE DE TESIS: I.16o.T. J/1 L (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; T.C.C.; Gaceta S.J.F.; Libro 35, Marzo de 2024; Tomo VII; Pág. 6340
+INSTANCIA: DÉCIMO SEXTO TRIBUNAL COLEGIADO EN MATERIA DE TRABAJO DEL PRIMER CIRCUITO. (T.C.C.)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2024-03-22T10:25:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2028498
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: La jurisprudencia resuelve el supuesto de cuándo procede la separación de juicios en materia laboral, estableciendo que antes de que la persona juzgadora decrete la separación de oficio, debe necesariamente seguir las reglas de la acumulación de autos, lo que implica que debe existir un análisis previo sobre si los juicios pueden o deben acumularse conforme a los requisitos legales aplicables, y solo cuando se determine que no es procedente la acumulación podrá ordenarse la separación de los procesos.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2028498

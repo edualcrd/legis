@@ -1,0 +1,20 @@
+RUBRO: IRRETROACTIVIDAD DE LA JURISPRUDENCIA. LA APLICACIÓN DE LA TESIS 2a./J. 33/2021 (11a.) PARA LA RESOLUCIÓN DE JUICIOS LABORALES INICIADOS CON ANTERIORIDAD AL 13 DE DICIEMBRE DE 2021 NO VULNERA ESE PRINCIPIO, AL NO EXISTIR UNA JURISPRUDENCIA PREVIA QUE PUDIERA SER SUPERADA, MODIFICADA O ABANDONADA NI AFECTARSE LA SEGURIDAD JURÍDICA DE LOS JUSTICIABLES.
+
+CLAVE DE TESIS: 2a./J. 5/2023 (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; 2a. Sala; Gaceta S.J.F.; Libro 23, Marzo de 2023; Tomo III; Pág. 2363
+INSTANCIA: Segunda Sala (S.C.J.N.)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2023-03-10T10:13:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2026116
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: La jurisprudencia resuelve el supuesto de si la aplicación de la tesis 2a./J. 33/2021 (11a.) en juicios laborales iniciados antes del 13 de diciembre de 2021 viola el principio de irretroactividad, estableciendo como criterio que no existe tal vulneración porque no hay una jurisprudencia previa que sea superada, modificada o abandonada, y tampoco se afecta la seguridad jurídica de los justiciables al aplicar este nuevo criterio a procedimientos ya iniciados.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2026116

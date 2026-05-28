@@ -1,0 +1,20 @@
+RUBRO: COMPETENCIA POR MATERIA PARA CONOCER DEL JUICIO DE AMPARO INDIRECTO PROMOVIDO CONTRA LA RESOLUCIÓN DEL INSTITUTO MEXICANO DEL SEGURO SOCIAL (IMSS) QUE DECLARA IMPROCEDENTE LA SOLICITUD DE PENSIÓN POR VIUDEZ. CORRESPONDE A LOS JUZGADOS DE DISTRITO EN MATERIA ADMINISTRATIVA.
+
+CLAVE DE TESIS: PR.A.C.CN. J/36 A (12a.)
+LOCALIZACIÓN: [J]; 12a. Época; Plenos Regionales; Semanario Judicial de la Federación
+INSTANCIA: PLENO REGIONAL EN MATERIAS ADMINISTRATIVA Y CIVIL DE LA REGIÓN CENTRO-NORTE, CON RESIDENCIA EN LA CIUDAD DE MÉXICO (Plenos Regionales)
+ÉPOCA: 12a. Época
+FECHA DE PUBLICACIÓN: 2026-04-17T10:21:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2032032
+FUENTE: Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: La competencia para conocer del juicio de amparo indirecto promovido contra resoluciones del Instituto Mexicano del Seguro Social que declaran improcedente una solicitud de pensión por viudez corresponde a los juzgados de distrito en materia administrativa, toda vez que se trata de actos de autoridad administrativa derivados de la aplicación de la ley de seguridad social que afectan derechos de los gobernados en materia de prestaciones sociales. El criterio establece que la naturaleza administrativa del acto impugnado, independientemente de que se derive de un procedimiento administrativo interno del IMSS, determina la competencia material del órgano jurisdiccional que debe conocer del amparo, siendo los juzgados de distrito en materia administrativa los órganos competentes para resolver este tipo de controversias.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2032032

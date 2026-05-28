@@ -1,0 +1,20 @@
+RUBRO: AGUINALDO DE LAS PERSONAS TRABAJADORAS DE LABORATORIOS DE BIOLÓGICOS Y REACTIVOS DE MÉXICO, S.A. DE C.V. (BIRMEX). DEBE PAGARSE CON EL SALARIO TABULAR (CONCEPTO 500) AL QUE HACE REFERENCIA EL TABULADOR MENSUAL DE SUELDOS Y SALARIOS.
+
+CLAVE DE TESIS: PR.P.T.CS. J/32 L (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; Plenos Regionales; Gaceta S.J.F.; Libro 46, Febrero de 2025; Tomo IV, Volumen 1; Pág. 498
+INSTANCIA: PLENO REGIONAL EN MATERIAS PENAL Y DE TRABAJO DE LA REGIÓN CENTRO-SUR, CON RESIDENCIA EN LA CIUDAD DE MÉXICO. (Plenos Regionales)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2025-02-28T10:30:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2029996
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: El supuesto jurídico que resuelve es la determinación de la base salarial sobre la cual debe calcularse el aguinaldo de los trabajadores de BIRMEX cuando existe un tabulador mensual de sueldos y salarios. El criterio establecido es que el aguinaldo debe pagarse con base en el salario tabular identificado como concepto 500 en el tabulador mensual, lo que garantiza que la prestación se calcule sobre la remuneración oficial y estructurada de la empresa, evitando interpretaciones discrecionales sobre qué componentes salariales deben incluirse en su cálculo.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2029996

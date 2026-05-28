@@ -1,0 +1,20 @@
+RUBRO: PENSIÓN POR ASCENDENCIA. ES POSIBLE OTORGARLA AL FAMILIAR QUE FUNGIÓ COMO PROGENITOR DE UNA PERSONA TRABAJADORA FALLECIDA, EN ATENCIÓN A LOS DERECHOS A LA IGUALDAD Y A LA PROTECCIÓN DE LA FAMILIA.
+
+CLAVE DE TESIS: P./J. 64/2026 (12a.)
+LOCALIZACIÓN: [J]; 12a. Época; Pleno; Semanario Judicial de la Federación
+INSTANCIA: Pleno (S.C.J.N.)
+ÉPOCA: 12a. Época
+FECHA DE PUBLICACIÓN: 2026-05-08T10:13:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2032103
+FUENTE: Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: La pensión por ascendencia puede otorgarse al familiar que fungió como progenitor de una persona trabajadora fallecida, aun cuando no sea el progenitor biológico, en atención a los derechos constitucionales a la igualdad y a la protección de la familia. Este criterio reconoce que la relación filial relevante para efectos de la seguridad social no se limita al vínculo biológico, sino que comprende las relaciones de facto donde existe una relación de dependencia económica y afectiva equiparable a la de un progenitor. La aplicación de este criterio busca evitar discriminación y garantizar la protección integral de la familia en sus diversas manifestaciones, permitiendo que quienes ejercieron efectivamente el rol parental accedan a las prestaciones derivadas de la muerte del trabajador.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2032103

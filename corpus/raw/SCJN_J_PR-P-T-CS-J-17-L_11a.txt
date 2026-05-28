@@ -1,0 +1,20 @@
+RUBRO: FALTAS DE ASISTENCIA INJUSTIFICADAS. MOMENTO EN QUE INICIA EL CÓMPUTO DEL PLAZO PRESCRIPTIVO, PREVISTO EN LA FRACCIÓN I DEL ARTÍCULO 517 DE LA LEY FEDERAL DEL TRABAJO.
+
+CLAVE DE TESIS: PR.P.T.CS. J/17 L (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; Plenos Regionales; Gaceta S.J.F.; Libro 43, Noviembre de 2024; Tomo II, Volumen 1; Pág. 666
+INSTANCIA: PLENO REGIONAL EN MATERIAS PENAL Y DE TRABAJO DE LA REGIÓN CENTRO-SUR, CON RESIDENCIA EN LA CIUDAD DE MÉXICO. (Plenos Regionales)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2024-11-08T10:19:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2029474
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: El supuesto jurídico que resuelve es el momento a partir del cual comienza a contarse el plazo de prescripción para que el patrón ejercite la acción de rescindir el contrato de trabajo por faltas de asistencia injustificadas. El criterio establecido determina que el cómputo del plazo prescriptivo inicia desde el momento en que se configura la causal de rescisión, es decir, cuando se actualiza la conducta del trabajador consistente en las inasistencias injustificadas que la ley contempla. Conforme a la fracción I del artículo 517 de la Ley Federal del Trabajo, el patrón debe ejercer su derecho de rescisión dentro del plazo de prescripción establecido, contado a partir de que la falta se comete y no desde que el patrón toma conocimiento de ella.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2029474

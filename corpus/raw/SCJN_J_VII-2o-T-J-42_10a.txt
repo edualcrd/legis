@@ -1,0 +1,20 @@
+RUBRO: TRABAJADORES JUBILADOS DE LA INDUSTRIA AZUCARERA, ALCOHOLERA Y SIMILARES DE LA REPÚBLICA MEXICANA. EL PAGO DEL BONO DE PREVISIÓN SOCIAL MENSUAL PREVISTO EN EL CONTRATO LEY RELATIVO, ES IMPROCEDENTE CUANDO RECIBEN EL MONTO DE SU PENSIÓN JUBILATORIA EN UNA SOLA EXHIBICIÓN DE MANERA ANTICIPADA.
+
+CLAVE DE TESIS: VII.2o.T. J/42 (10a.)
+LOCALIZACIÓN: [J]; 10a. Época; T.C.C.; Gaceta S.J.F.; Libro 63, Febrero de 2019; Tomo II; Pág. 2460
+INSTANCIA: SEGUNDO TRIBUNAL COLEGIADO EN MATERIA DE TRABAJO DEL SÉPTIMO CIRCUITO. (T.C.C.)
+ÉPOCA: 10a. Época
+FECHA DE PUBLICACIÓN: 2019-02-15T10:17:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2019333
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: El supuesto jurídico que resuelve este criterio es la procedencia del pago del bono de previsión social mensual a trabajadores jubilados de la industria azucarera, alcoholera y similares cuando reciben su pensión jubilatoria en forma de pago único anticipado. El criterio establecido determina que dicho bono de previsión social mensual resulta improcedente cuando el trabajador jubilado ha optado por recibir el monto total de su pensión en una sola exhibición de manera anticipada, lo que implica que la percepción del beneficio de forma concentrada excluye el derecho a los pagos mensuales adicionales previstos en el contrato ley aplicable a esta rama industrial.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2019333

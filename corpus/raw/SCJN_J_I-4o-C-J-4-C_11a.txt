@@ -1,0 +1,20 @@
+RUBRO: CRÉDITOS A FAVOR DEL INSTITUTO MEXICANO DEL SEGURO SOCIAL (IMSS). SU PREFERENCIA SÓLO OPERA RESPECTO DE LOS DE NATURALEZA FISCAL.
+
+CLAVE DE TESIS: I.4o.C. J/4 C (10a.)
+LOCALIZACIÓN: [J]; 11a. Época; T.C.C.; Gaceta S.J.F.; Libro 9, Enero de 2022; Tomo IV; Pág. 2808
+INSTANCIA: CUARTO TRIBUNAL COLEGIADO EN MATERIA CIVIL DEL PRIMER CIRCUITO. (T.C.C.)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2022-01-14T10:15:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2024033
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: El supuesto jurídico que resuelve es la determinación del alcance de la preferencia que ostenta el Instituto Mexicano del Seguro Social en el cobro de sus créditos. El criterio establecido es que la preferencia del IMSS únicamente opera respecto de aquellos créditos que tienen naturaleza fiscal, es decir, aquellos derivados de obligaciones tributarias o de seguridad social de carácter contributivo, excluyendo de este beneficio a los créditos de otra índole que pudiera tener el Instituto en su calidad de acreedor.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2024033

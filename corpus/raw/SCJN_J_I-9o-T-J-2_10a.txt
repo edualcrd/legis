@@ -1,0 +1,20 @@
+RUBRO: TRABAJADORES DE CONFIANZA AL SERVICIO DEL ESTADO. BASTA QUE DESARROLLEN ALGUNA DE LAS FUNCIONES DESCRITAS EN EL ARTÍCULO 5o., FRACCIÓN II, DE LA LEY RELATIVA, PARA SER CONSIDERADOS CON ESE CARÁCTER.
+
+CLAVE DE TESIS: I.9o.T. J/2 (10a.)
+LOCALIZACIÓN: [J]; 10a. Época; T.C.C.; Gaceta S.J.F.; Libro 39, Febrero de 2017; Tomo III; Pág. 2122
+INSTANCIA: NOVENO TRIBUNAL COLEGIADO EN MATERIA DE TRABAJO DEL PRIMER CIRCUITO. (T.C.C.)
+ÉPOCA: 10a. Época
+FECHA DE PUBLICACIÓN: 2017-02-10T10:12:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2013642
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: Los trabajadores de confianza al servicio del Estado son aquellos que desempeñan funciones de dirección, inspección, vigilancia y control, o de carácter general en la administración pública. El criterio establecido por la jurisprudencia determina que basta que un trabajador desarrolle alguna de las funciones descritas en el artículo 5o., fracción II, de la Ley Federal de los Trabajadores al Servicio del Estado para ser considerado como trabajador de confianza, independientemente de su denominación o categoría formal. Esta clasificación tiene implicaciones significativas en materia de derechos laborales, estabilidad en el empleo y aplicabilidad de las disposiciones de protección al trabajador.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2013642

@@ -1,0 +1,20 @@
+RUBRO: DESCUENTOS REALIZADOS A LA PENSIÓN CON MOTIVO DE UN CRÉDITO CON GARANTÍA HIPOTECARIA CUYA EXISTENCIA SE CUESTIONA. LA ACCIÓN PARA RECLAMAR SU DEVOLUCIÓN AL FOVISSSTE DEBE INTENTARSE EN LA VÍA LABORAL.
+
+CLAVE DE TESIS: PC.VIII. J/4 L (10a.)
+LOCALIZACIÓN: [J]; 10a. Época; Plenos de Circuito; Gaceta S.J.F.; Libro 41, Abril de 2017; Tomo II; Pág. 1207
+INSTANCIA: PLENO DEL OCTAVO CIRCUITO. (Plenos de Circuito)
+ÉPOCA: 10a. Época
+FECHA DE PUBLICACIÓN: 2017-04-28T10:32:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2014147
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: Cuando un pensionado cuestiona la existencia de un crédito con garantía hipotecaria que originó descuentos a su pensión, la acción para reclamar la devolución de tales descuentos al FOVISSSTE debe ejercitarse a través de la vía laboral, ya que se trata de una controversia que surge de la relación de seguridad social derivada del sistema de pensiones y que afecta directamente los derechos prestacionales del trabajador, siendo competencia de los tribunales laborales conocer de estas cuestiones relacionadas con el cumplimiento de obligaciones en materia de seguridad social.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2014147

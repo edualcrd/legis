@@ -1,0 +1,20 @@
+RUBRO: SUSPENSIÓN PROVISIONAL EN EL JUICIO DE AMPARO. ES IMPROCEDENTE CONCEDERLA RESPECTO DE LAS OMISIONES DE TRAMITAR, INTEGRAR Y RESOLVER UNA SOLICITUD DE PENSIÓN POR JUBILACIÓN PRESENTADA ANTE EL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES AL SERVICIO DE LOS PODERES DEL ESTADO DE PUEBLA (ISSSTEP) [APLICACIÓN DE LA JURISPRUDENCIA 1a./J. 70/2019 (10a.)].
+
+CLAVE DE TESIS: PR.A.CS. J/7 A (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; Plenos Regionales; Gaceta S.J.F.; Libro 27, Julio de 2023; Tomo II; Pág. 2271
+INSTANCIA: PLENO REGIONAL EN MATERIA ADMINISTRATIVA DE LA REGIÓN CENTRO-SUR, CON RESIDENCIA EN CUERNAVACA, MORELOS. (Plenos Regionales)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2023-07-14T10:21:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2026894
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: La suspensión provisional en el juicio de amparo es improcedente cuando se reclaman omisiones administrativas relativas al trámite, integración y resolución de una solicitud de pensión por jubilación ante el ISSSTEP, conforme a la jurisprudencia que establece que las medidas cautelares no pueden otorgarse respecto de actos omisivos de naturaleza administrativa que requieren de un análisis de fondo sobre derechos pensionarios. El criterio aplicable determina que la suspensión provisional carece de utilidad práctica en estos casos, ya que la reparación integral del daño demanda una sentencia de fondo que declare los derechos del trabajador y ordene el cumplimiento de las obligaciones omitidas, no una medida cautelar que suspenda actos que por su propia naturaleza omisiva no pueden ser suspendidos en el sentido técnico-jurídico requerido.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2026894

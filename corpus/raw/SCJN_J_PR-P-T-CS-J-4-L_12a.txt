@@ -1,0 +1,20 @@
+RUBRO: ORGANISMOS PÚBLICOS DESCENTRALIZADOS LOCALES. CUANDO LA NEGOCIACIÓN COLECTIVA DETERMINA EL RÉGIMEN LABORAL APLICABLE, ÉSTE PREVALECE SOBRE EL DECRETO DE CREACIÓN PARA FIJAR LA LEGISLACIÓN SUSTANTIVA Y PROCESAL APLICABLES, ASÍ COMO LA COMPETENCIA JURISDICCIONAL [APLICACIÓN ANALÓGICA DE LA JURISPRUDENCIA 2a./J. 55/2023 (11a.)].
+
+CLAVE DE TESIS: PR.P.T.CS. J/4 L (12a.)
+LOCALIZACIÓN: [J]; 12a. Época; Plenos Regionales; Gaceta S.J.F.; Libro 6, Febrero de 2026; Tomo II, Volumen 1; Pág. 510
+INSTANCIA: PLENO REGIONAL EN MATERIAS PENAL Y DE TRABAJO DE LA REGIÓN CENTRO-SUR, CON RESIDENCIA EN LA CIUDAD DE MÉXICO. (Plenos Regionales)
+ÉPOCA: 12a. Época
+FECHA DE PUBLICACIÓN: 2026-02-13T10:15:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2031749
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: Cuando un organismo público descentralizado local tiene un régimen laboral determinado por negociación colectiva, dicho régimen prevalece sobre lo establecido en su decreto de creación para efectos de fijar tanto la legislación sustantiva y procesal aplicable como la competencia jurisdiccional correspondiente, criterio que se aplica por analogía a la jurisprudencia de la Segunda Sala respecto de organismos similares.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2031749

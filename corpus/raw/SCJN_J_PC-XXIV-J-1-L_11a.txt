@@ -1,0 +1,20 @@
+RUBRO: COMPETENCIA PARA CONOCER DE LOS CONFLICTOS O PROCEDIMIENTOS DE HUELGA TRAMITADOS POR EL SINDICATO DE TRABAJADORES ACADÉMICOS Y ADMINISTRATIVOS DE LAS UNIVERSIDADES TECNOLÓGICAS DEL ESTADO DE NAYARIT "STAAUTN" (DE BAHÍA DE BANDERAS, DE LA COSTA Y DE LA SIERRA). CONFORME AL PRINCIPIO DE ESPECIALIDAD PARA LA INTERPRETACIÓN DE NORMAS JURÍDICAS, CORRESPONDE A LA JUNTA LOCAL DE CONCILIACIÓN Y ARBITRAJE, POR TRATARSE DE ORGANISMOS PÚBLICOS DESCENTRALIZADOS.
+
+CLAVE DE TESIS: PC.XXIV. J/1 L (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; Plenos de Circuito; Gaceta S.J.F.; Libro 9, Enero de 2022; Tomo III; Pág. 2028
+INSTANCIA: PLENO DEL VIGESIMO CUARTO CIRCUITO (Plenos de Circuito)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2022-01-07T10:08:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2023980
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: La Suprema Corte de Justicia de la Nación resuelve que los conflictos o procedimientos de huelga promovidos por el sindicato de trabajadores académicos y administrativos de las universidades tecnológicas del estado de Nayarit son competencia de la Junta Local de Conciliación y Arbitraje, toda vez que dichas universidades constituyen organismos públicos descentralizados y, conforme al principio de especialidad para la interpretación de normas jurídicas, corresponde a dicha junta conocer de las controversias laborales que surjan entre estos entes y sus trabajadores, independientemente de que se trate de procedimientos de huelga.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2023980

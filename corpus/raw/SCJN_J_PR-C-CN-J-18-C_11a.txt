@@ -1,0 +1,20 @@
+RUBRO: INCIDENTE DE PAGO DE HONORARIOS DE ABOGADOS PATRONOS O PROCURADORES. CONSTITUYE MATERIALMENTE UN JUICIO AUTÓNOMO DISTINTO DEL PRINCIPAL, POR LO QUE LA SENTENCIA QUE LO RESUELVE TIENE EL CARÁCTER DE DEFINITIVA Y EN SU CONTRA PROCEDE EL JUICIO DE AMPARO DIRECTO (LEGISLACIONES DE LOS ESTADOS DE SONORA Y DE BAJA CALIFORNIA).
+
+CLAVE DE TESIS: PR.C.CN. J/18 C (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; Plenos Regionales; Gaceta S.J.F.; Libro 29, Septiembre de 2023; Tomo IV; Pág. 3591
+INSTANCIA: PLENO REGIONAL EN MATERIA CIVIL DE LA REGIÓN CENTRO-NORTE, CON RESIDENCIA EN LA CIUDAD DE MÉXICO. (Plenos Regionales)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2023-09-22T10:31:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2027248
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: El incidente de pago de honorarios de abogados patronos o procuradores constituye materialmente un juicio autónomo y distinto del procedimiento principal, por lo que la sentencia que lo resuelve adquiere el carácter de definitiva y en su contra procede el juicio de amparo directo, permitiendo así que las partes cuestionen ante la jurisdicción federal las resoluciones que afecten sus derechos en materia de honorarios profesionales.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2027248

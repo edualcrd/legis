@@ -1,0 +1,20 @@
+RUBRO: COMPETENCIA POR MATERIA PARA CONOCER DEL AMPARO INDIRECTO CONTRA EL ARTÍCULO 29, PÁRRAFO SEGUNDO, DE LA LEY DEL INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES. CORRESPONDE A LOS JUZGADOS DE DISTRITO EN MATERIA ADMINISTRATIVA.
+
+CLAVE DE TESIS: PR.A.C.CS. J/36 A (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; Plenos Regionales; Gaceta S.J.F.; Libro 53, Septiembre de 2025; Tomo III, Volumen 1; Pág. 498
+INSTANCIA: PLENO REGIONAL EN MATERIAS ADMINISTRATIVA Y CIVIL DE LA REGIÓN CENTRO-SUR, CON RESIDENCIA EN LA CIUDAD DE MÉXICO. (Plenos Regionales)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2025-09-19T10:28:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2031248
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: La competencia para conocer del amparo indirecto en contra de actos derivados del artículo 29, párrafo segundo, de la Ley del Instituto del Fondo Nacional de la Vivienda para los Trabajadores se resuelve estableciendo que corresponde a los Juzgados de Distrito en materia administrativa, toda vez que se trata de actos de naturaleza administrativa emanados de una institución de seguridad social. El criterio fija que cuando se cuestiona la legalidad de disposiciones o actos relacionados con la administración de fondos de vivienda para trabajadores, la competencia material recae en la jurisdicción administrativa especializada y no en otras instancias, garantizando así una resolución técnicamente adecuada de controversias que involucran derechos laborales y de seguridad social.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2031248

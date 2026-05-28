@@ -1,0 +1,20 @@
+RUBRO: MULTA PREVISTA EN EL ARTÍCULO 48, QUINTO PÁRRAFO, DE LA LEY FEDERAL DEL TRABAJO. ES IMPROCEDENTE IMPONERLA POR NO HABER LOGRADO LA SOLUCIÓN DEL CONFLICTO EN LA CONCILIACIÓN PREJUDICIAL.
+
+CLAVE DE TESIS: VII.2o.T. J/24 L (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; T.C.C.; Gaceta S.J.F.; Libro 48, Abril de 2025; Tomo I, Volumen 1; Pág. 570
+INSTANCIA: SEGUNDO TRIBUNAL COLEGIADO EN MATERIA DE TRABAJO DEL SÉPTIMO CIRCUITO. (T.C.C.)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2025-04-04T10:08:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2030198
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: La multa prevista en el artículo 48, quinto párrafo, de la Ley Federal del Trabajo resulta improcedente cuando no se ha logrado la solución del conflicto durante la etapa de conciliación prejudicial, ya que esta sanción presupone el incumplimiento de una obligación específica derivada de un acuerdo conciliatorio alcanzado, no la mera falta de acuerdo entre las partes. El criterio establecido es que la imposición de multa requiere que exista previamente un compromiso conciliatorio que haya sido incumplido, de modo que la ausencia de solución en la conciliación prejudicial, por sí sola, no genera la base legal para aplicar esta sanción económica.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2030198

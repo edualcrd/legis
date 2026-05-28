@@ -1,0 +1,20 @@
+RUBRO: VÍA ORAL CIVIL. ES LA IDÓNEA CUANDO UN ORGANISMO PÚBLICO DESCENTRALIZADO DEMANDA EL PAGO DE UN PRÉSTAMO OTORGADO A UN ELEMENTO EN ACTIVO O PENSIONADO, AL CONSTITUIR UNA PRESTACIÓN DE CARÁCTER LABORAL CONSIGNADA EN EL TÍTULO DE CRÉDITO BASE DE LA ACCIÓN.
+
+CLAVE DE TESIS: I.10o.C. J/1 C (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; T.C.C.; Gaceta S.J.F.; Libro 6, Octubre de 2021; Tomo IV; Pág. 3493
+INSTANCIA: DÉCIMO TRIBUNAL COLEGIADO EN MATERIA CIVIL DEL PRIMER CIRCUITO. (T.C.C.)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2021-10-29T10:39:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2023734
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: Cuando un organismo público descentralizado demanda el pago de un préstamo otorgado a un trabajador en activo o pensionado, la vía oral civil es la procedimentalmente idónea, ya que la prestación reclamada constituye una prestación de carácter laboral que se encuentra consignada en el título de crédito que fundamenta la acción, lo que le confiere naturaleza laboral al litigio a pesar de que formalmente se presente como una controversia de carácter civil. El criterio establece que la calificación de la vía procesal debe atender a la naturaleza sustantiva de la prestación controvertida y no únicamente a la forma en que se presenta la demanda, permitiendo que controversias que involucren derechos laborales sean tramitadas por la vía oral civil cuando así corresponda según su contenido material.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2023734

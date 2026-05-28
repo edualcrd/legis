@@ -1,0 +1,20 @@
+RUBRO: MULTA EN EL JUICIO LABORAL. PARA IMPONERLA SE REQUIERE ACREDITAR UNA CONDUCTA NOTORIAMENTE IMPROCEDENTE Y QUE BUSQUE PROLONGAR, DILATAR U OBSTACULIZAR LA SUSTANCIACIÓN O RESOLUCIÓN DEL JUICIO [ARTÍCULOS 48, PÁRRAFO QUINTO, Y 48 BIS, FRACCIÓN I, INCISO D), DE LA LEY FEDERAL DEL TRABAJO].
+
+CLAVE DE TESIS: PR.P.T.CN. J/9 L (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; Plenos Regionales; Gaceta S.J.F.; Libro 38, Junio de 2024; Tomo III; Pág. 3000
+INSTANCIA: PLENO REGIONAL EN MATERIAS PENAL Y DE TRABAJO DE LA REGIÓN CENTRO-NORTE, CON RESIDENCIA EN LA CIUDAD DE MÉXICO. (Plenos Regionales)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2024-06-14T10:20:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2029016
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: La multa en el juicio laboral procede cuando se acredita una conducta notoriamente improcedente que tenga como propósito prolongar, dilatar u obstaculizar la sustanciación o resolución del juicio, conforme a lo establecido en los artículos 48, párrafo quinto, y 48 bis, fracción I, inciso d), de la Ley Federal del Trabajo. El criterio jurisprudencial establece que no basta la simple comisión de actos procesales irregulares, sino que es necesario demostrar la intención deliberada de la parte de entorpecer el desarrollo del procedimiento laboral. Esta exigencia de acreditación rigurosa de la conducta dilatorio busca proteger el derecho de acceso a la justicia laboral mientras se sanciona únicamente aquellas conductas que manifiestamente busquen obstruir la resolución del conflicto.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2029016

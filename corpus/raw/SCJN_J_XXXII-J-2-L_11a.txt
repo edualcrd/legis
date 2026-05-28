@@ -1,0 +1,20 @@
+RUBRO: NOMBRAMIENTO DE BASE DEFINITIVO DE LOS TRABAJADORES AL SERVICIO DEL ESTADO DE COLIMA. CORRESPONDE AL PATRÓN DEMOSTRAR LA IMPROCEDENCIA DE SU OTORGAMIENTO SI AFIRMA QUE EL PUESTO RECLAMADO NO ES UNA PLAZA VACANTE (INTERINA O PROVISIONAL) O DE NUEVA CREACIÓN.
+
+CLAVE DE TESIS: XXXII. J/2 L (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; T.C.C.; Gaceta S.J.F.; Libro 47, Marzo de 2025; Tomo III, Volumen 1; Pág. 959
+INSTANCIA: TRIBUNAL COLEGIADO DEL TRIGÉSIMO SEGUNDO CIRCUITO. (T.C.C.)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2025-03-28T10:31:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2030159
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: Cuando un trabajador al servicio del Estado de Colima demanda el otorgamiento de un nombramiento de base definitivo, corresponde al patrón acreditar la improcedencia de tal prestación si sostiene que el puesto no constituye una plaza vacante, ya sea interina o provisional, o que se trata de una plaza de nueva creación; en caso de que el patrón no demuestre estas circunstancias, debe otorgarse el nombramiento de base definitivo solicitado, pues la carga probatoria recae en quien alega hechos que justifican la negativa a otorgar esta prestación laboral.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2030159

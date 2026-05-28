@@ -1,0 +1,20 @@
+RUBRO: ABOGADO PATRONO DESIGNADO EN UN JUICIO CIVIL, EN TÉRMINOS DEL ARTÍCULO 25 DEL CÓDIGO DE PROCEDIMIENTOS CIVILES PARA EL ESTADO DE PUEBLA. AL EQUIPARARSE LEGALMENTE A UN MANDATARIO O PROCURADOR JUDICIAL, ESTÁ LEGITIMADO PARA PROMOVER EL JUICIO DE AMPARO EN NOMBRE DE SU PATROCINADO.
+
+CLAVE DE TESIS: PC.VI.C. J/5 C (10a.)
+LOCALIZACIÓN: [J]; 10a. Época; Plenos de Circuito; Gaceta S.J.F.; Libro 51, Febrero de 2018; Tomo II; Pág. 778
+INSTANCIA: PLENO EN MATERIA CIVIL DEL SEXTO CIRCUITO. (Plenos de Circuito)
+ÉPOCA: 10a. Época
+FECHA DE PUBLICACIÓN: 2018-02-02T10:04:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2016134
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: El supuesto jurídico que resuelve es la legitimación procesal del abogado patrono designado conforme al artículo 25 del Código de Procedimientos Civiles para el Estado de Puebla para promover un juicio de amparo en representación de su patrocinado. El criterio establecido es que al equipararse legalmente el abogado patrono a un mandatario o procurador judicial, adquiere la capacidad y legitimación necesaria para actuar como parte en el juicio de amparo en nombre de quien lo designó, sin que sea necesario un poder notarial adicional para tal efecto.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2016134

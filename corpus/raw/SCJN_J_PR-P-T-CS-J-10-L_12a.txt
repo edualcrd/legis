@@ -1,0 +1,20 @@
+RUBRO: CONFLICTOS POR SEPARACIÓN DE JUICIOS LABORALES. SI EL TRIBUNAL COLEGIADO DE CIRCUITO DETERMINA QUE ES IMPROCEDENTE LA SEPARACIÓN DECRETADA POR UN TRIBUNAL LABORAL DEBE ORDENAR QUE SE REINCORPORE AL JUICIO PRIMIGENIO EL ASUNTO MATERIA DEL CONFLICTO.
+
+CLAVE DE TESIS: PR.P.T.CS.  J/10 L (12a.)
+LOCALIZACIÓN: [J]; 12a. Época; Plenos Regionales; Semanario Judicial de la Federación
+INSTANCIA: PLENO REGIONAL EN MATERIA PENAL Y DE TRABAJO DE LA REGIÓN CENTRO SUR, CON RESIDENCIA EN LA CIUDAD DE MÉXICO (Plenos Regionales)
+ÉPOCA: 12a. Época
+FECHA DE PUBLICACIÓN: 2026-05-08T10:13:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2032080
+FUENTE: Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: Cuando un tribunal laboral decreta la separación de un juicio y el Tribunal Colegiado de Circuito determina que tal separación es improcedente, el criterio establecido es que el órgano colegiado debe ordenar la reincorporación del asunto controvertido al juicio original, a fin de que se continúe con la tramitación conjunta de todas las cuestiones que guardan conexidad y que fueron indebidamente fraccionadas, evitando así la fragmentación procesal que podría afectar la debida administración de justicia laboral.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2032080

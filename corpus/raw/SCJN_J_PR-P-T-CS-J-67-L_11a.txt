@@ -1,0 +1,20 @@
+RUBRO: SUSPENSIÓN PROVISIONAL CON EFECTOS RESTITUTORIOS. ES IMPROCEDENTE CONTRA LA OMISIÓN DE DICTAR EL LAUDO EN EL PROCEDIMIENTO LABORAL.
+
+CLAVE DE TESIS: PR.P.T.CS. J/67 L (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; Plenos Regionales; Gaceta S.J.F.; Libro 53, Septiembre de 2025; Tomo I, Volumen 1; Pág. 768
+INSTANCIA: PLENO REGIONAL EN MATERIAS PENAL Y DE TRABAJO DE LA REGIÓN CENTRO-SUR, CON RESIDENCIA EN LA CIUDAD DE MÉXICO. (Plenos Regionales)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2025-09-05T10:14:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2031218
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: La suspensión provisional es improcedente cuando se promueve contra la omisión de dictar laudo en un procedimiento laboral, ya que este acto de autoridad no es susceptible de ser paralizado mediante esta medida cautelar. El criterio establece que la suspensión provisional requiere un acto consumado y determinado que pueda ser efectivamente suspendido, y la omisión de dictar resolución no constituye un acto que permita la restitución de la situación jurídica anterior. Por tanto, ante la falta de pronunciamiento del tribunal laboral, el trabajador o patrón debe acudir a los recursos ordinarios y extraordinarios previstos en la ley para obtener la resolución pendiente, no a la vía de la suspensión provisional.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2031218

@@ -1,0 +1,20 @@
+RUBRO: TRABAJADORES DE BASE DE LA FISCALÍA GENERAL DEL ESTADO DE VERACRUZ DE IGNACIO DE LA LLAVE. EL ARTÍCULO 78 DE LA LEY ORGÁNICA RELATIVA, AL PREVER UN RÉGIMEN JURÍDICO DISTINTO PARA LOS SERVIDORES PÚBLICOS QUE OPERAN EL SISTEMA PENAL ACUSATORIO, NO VIOLA EN PERJUICIO DE AQUÉLLOS LOS ARTÍCULOS 14 Y 123, APARTADO B, FRACCIÓN IX, DE LA CONSTITUCIÓN FEDERAL (LEGISLACIÓN VIGENTE A PARTIR DEL 30 DE ENERO DE 2015).
+
+CLAVE DE TESIS: VII.2o.T. J/13 L (11a.)
+LOCALIZACIÓN: [J]; 12a. Época; T.C.C.; Gaceta S.J.F.; Libro 1, Septiembre de 2025; Tomo I, Volumen 1; Pág. 705
+INSTANCIA: SEGUNDO TRIBUNAL COLEGIADO EN MATERIA DE TRABAJO DEL SÉPTIMO CIRCUITO. (T.C.C.)
+ÉPOCA: 12a. Época
+FECHA DE PUBLICACIÓN: 2025-09-26T10:35:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2031305
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: El supuesto jurídico que resuelve es si el artículo 78 de la Ley Orgánica de la Fiscalía General del Estado de Veracruz, al establecer un régimen jurídico diferenciado para los servidores públicos que operan el sistema penal acusatorio, viola los derechos de los trabajadores de base de esa institución. El criterio establecido es que dicha disposición no transgrede los artículos 14 y 123, apartado B, fracción IX, de la Constitución Federal, toda vez que la diferenciación normativa responde a la naturaleza específica de las funciones que desempeñan estos servidores públicos en el contexto del sistema penal acusatorio, sin que ello implique una violación a las garantías de legalidad y seguridad social que protegen a los trabajadores al servicio del Estado.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2031305

@@ -1,0 +1,20 @@
+RUBRO: CONFLICTOS DERIVADOS DE LA SEPARACIÓN DE JUICIOS LABORALES. LOS TRIBUNALES COLEGIADOS DE CIRCUITO SON COMPETENTES PARA RESOLVERLOS [INTERRUPCIÓN DE LA JURISPRUDENCIA PR.L.CS. J/50 L (11a.)].
+
+CLAVE DE TESIS: PR.P.T.CS. J/23 L (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; Plenos Regionales; Gaceta S.J.F.; Libro 43, Noviembre de 2024; Tomo II, Volumen 1; Pág. 588
+INSTANCIA: PLENO REGIONAL EN MATERIAS PENAL Y DE TRABAJO DE LA REGIÓN CENTRO-SUR, CON RESIDENCIA EN LA CIUDAD DE MÉXICO. (Plenos Regionales)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2024-11-08T10:19:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2029468
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: Los conflictos que surgen cuando se separan juicios laborales que originalmente debieron tramitarse en conjunto plantean una cuestión de competencia que corresponde resolver a los tribunales colegiados de circuito, quienes tienen la facultad de determinar si la separación fue procedente y de resolver las controversias derivadas de tal división procesal. Este criterio establece que la competencia para conocer de estos conflictos no recae en las autoridades laborales de primera instancia, sino en la instancia colegiada, la cual debe analizar si la separación de autos fue conforme a derecho y resolver las consecuencias jurídicas que de ella deriven.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2029468

@@ -1,0 +1,20 @@
+RUBRO: CONFLICTO INDIVIDUAL DE SEGURIDAD SOCIAL INCOADO CONTRA EL INSTITUTO DE PENSIONES DEL ESTADO DE JALISCO (IPEJAL). NO RESULTA APLICABLE SUPLETORIAMENTE EL PROCEDIMIENTO ESPECIAL PREVISTO EN EL ARTÍCULO 899-A DE LA LEY FEDERAL DEL TRABAJO.
+
+CLAVE DE TESIS: PC.III.L. J/35 L (10a.)
+LOCALIZACIÓN: [J]; 10a. Época; Plenos de Circuito; Gaceta S.J.F.; Libro 82, Enero de 2021; Tomo I; Pág. 826
+INSTANCIA: PLENO EN MATERIA DE TRABAJO DEL TERCER CIRCUITO. (Plenos de Circuito)
+ÉPOCA: 10a. Época
+FECHA DE PUBLICACIÓN: 2021-01-08T10:09:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2022593
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: El supuesto jurídico que resuelve es la aplicabilidad supletoria del procedimiento especial establecido en el artículo 899-A de la Ley Federal del Trabajo en conflictos individuales de seguridad social promovidos contra institutos de pensiones estatales como el IPEJAL. El criterio establecido es que dicho procedimiento especial no resulta aplicable de manera supletoria en estos casos, ya que los conflictos de seguridad social contra organismos estatales de pensiones se rigen por su propia normatividad y procedimientos específicos, sin que proceda la aplicación analógica o supletoria de las disposiciones laborales federales diseñadas para controversias de naturaleza distinta.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2022593

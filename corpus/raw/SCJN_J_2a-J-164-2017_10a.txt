@@ -1,0 +1,20 @@
+RUBRO: SUPLENCIA DE LA QUEJA DEFICIENTE EN MATERIA LABORAL. CUANDO EL TRABAJADOR QUEJOSO EXPRESAMENTE MANIFIESTA ESTAR CONFORME CON ALGUNA PARTE DEL LAUDO, EL TRIBUNAL COLEGIADO DE CIRCUITO ESTÁ IMPEDIDO PARA EXAMINAR DE OFICIO EN SU INTEGRIDAD SU LEGALIDAD.
+
+CLAVE DE TESIS: 2a./J. 164/2017 (10a.)
+LOCALIZACIÓN: [J]; 10a. Época; 2a. Sala; Gaceta S.J.F.; Libro 50, Enero de 2018; Tomo I; Pág. 490
+INSTANCIA: Segunda Sala (S.C.J.N.)
+ÉPOCA: 10a. Época
+FECHA DE PUBLICACIÓN: 2018-01-05T10:06:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2015901
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: En materia laboral, cuando un trabajador quejoso manifiesta expresamente su conformidad con alguna parte del laudo, el Tribunal Colegiado de Circuito se encuentra impedido para ejercer la suplencia de la queja deficiente y examinar de oficio la legalidad íntegra de la resolución, ya que la manifestación de conformidad constituye una limitación voluntaria al alcance del juicio de amparo que vincula al tribunal revisor a los agravios específicamente planteados, impidiendo que amplíe su análisis más allá de lo consentido por el propio trabajador.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2015901

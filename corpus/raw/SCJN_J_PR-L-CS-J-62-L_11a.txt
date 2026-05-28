@@ -1,0 +1,20 @@
+RUBRO: COMPETENCIA POR RAZÓN DE TERRITORIO DE LOS TRIBUNALES LABORALES FEDERALES DE ASUNTOS INDIVIDUALES. INTERPRETACIÓN DEL ARTÍCULO 700, FRACCIÓN II, INCISO B), DE LA LEY FEDERAL DEL TRABAJO.
+
+CLAVE DE TESIS: PR.L.CS. J/62 L (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; Plenos Regionales; Gaceta S.J.F.; Libro 35, Marzo de 2024; Tomo V; Pág. 4768
+INSTANCIA: PLENO REGIONAL EN MATERIA DE TRABAJO DE LA REGIÓN CENTRO-SUR, CON RESIDENCIA EN LA CIUDAD DE MÉXICO. (Plenos Regionales)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2024-03-22T10:25:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2028460
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: La competencia territorial de los tribunales laborales federales de asuntos individuales se determina conforme al artículo 700, fracción II, inciso b), de la Ley Federal del Trabajo, el cual establece que serán competentes los tribunales del lugar donde se prestaron los servicios o donde ocurrió el hecho que originó la demanda laboral. El criterio jurisprudencial resuelve el supuesto de conflictos de competencia territorial cuando existen múltiples lugares de prestación de servicios o cuando la relación laboral se ejecuta en diferentes jurisdicciones, precisando que debe atenderse al lugar donde se generó el acto o hecho que motiva la controversia laboral. Esta interpretación busca garantizar que el trabajador pueda acceder a la justicia laboral en el territorio más cercano a donde ocurrieron los hechos relevantes de la relación de trabajo.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2028460

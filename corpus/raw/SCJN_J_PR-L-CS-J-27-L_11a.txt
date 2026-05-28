@@ -1,0 +1,20 @@
+RUBRO: COMPETENCIA PARA CONOCER DE LOS CONFLICTOS SUSCITADOS ENTRE EL ORGANISMO DESCENTRALIZADO CAMINOS Y PUENTES FEDERALES DE INGRESOS Y SERVICIOS CONEXOS (CAPUFE) Y SUS TRABAJADORES. CORRESPONDE AL TRIBUNAL FEDERAL DE CONCILIACIÓN Y ARBITRAJE.
+
+CLAVE DE TESIS: PR.L.CS. J/27 L (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; Plenos Regionales; Gaceta S.J.F.; Libro 26, Junio de 2023; Tomo V; Pág. 4878
+INSTANCIA: PLENO REGIONAL EN MATERIA DE TRABAJO DE LA REGIÓN CENTRO-SUR, CON RESIDENCIA EN LA CIUDAD DE MÉXICO. (Plenos Regionales)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2023-06-30T10:36:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2026797
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: El supuesto jurídico que resuelve este rubro es la determinación de la autoridad competente para conocer de los conflictos laborales entre el organismo descentralizado CAPUFE y sus trabajadores. El criterio establecido establece que corresponde al Tribunal Federal de Conciliación y Arbitraje la competencia para conocer de tales controversias, lo que refleja la naturaleza de organismo descentralizado de la administración pública federal que ostenta CAPUFE y la consecuente aplicación del régimen laboral federal para sus relaciones con el personal.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2026797

@@ -1,0 +1,20 @@
+RUBRO: APORTACIONES DE "CESANTÍA EN EDAD AVANZADA Y VEJEZ". LAS PERSONAS MAYORES DE 25 AÑOS, DESCENDIENTES DE UNA PERSONA TRABAJADORA FALLECIDA QUE LAS SOLICITAN, DEBEN EXHIBIR CON SU DEMANDA LA CONSTANCIA DE OTORGAMIENTO O NEGATIVA DE PENSIÓN EXPEDIDA POR EL INSTITUTO MEXICANO DEL SEGURO SOCIAL (IMSS).
+
+CLAVE DE TESIS: PR.P.T.CS. J/8 L (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; Plenos Regionales; Gaceta S.J.F.; Libro 39, Julio de 2024; Tomo II, Volumen 1; Pág. 445
+INSTANCIA: PLENO REGIONAL EN MATERIAS PENAL Y DE TRABAJO DE LA REGIÓN CENTRO-SUR, CON RESIDENCIA EN LA CIUDAD DE MÉXICO. (Plenos Regionales)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2024-07-12T10:19:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2029160
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: Cuando personas mayores de 25 años, descendientes de un trabajador fallecido, demandan el reembolso de aportaciones de cesantía en edad avanzada y vejez, deben acreditar ante el tribunal su solicitud previa ante el Instituto Mexicano del Seguro Social mediante la constancia de otorgamiento o negativa de pensión que ese organismo expida, requisito procesal indispensable para que la demanda sea procedente y el juzgador pueda resolver sobre el derecho a las aportaciones reclamadas.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2029160

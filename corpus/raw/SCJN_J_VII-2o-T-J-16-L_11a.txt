@@ -1,0 +1,20 @@
+RUBRO: TRABAJADORES AL SERVICIO DEL ESTADO. SI RECIBEN DINERO POR PARTE DE LA CIUDADANÍA (POR EL COBRO DE IMPUESTOS, DERECHOS O CUALQUIER NUMERARIO QUE INGRESE A LA DEPENDENCIA), TIENEN EL CARÁCTER DE CONFIANZA, EN TÉRMINOS DEL ARTÍCULO 7o., FRACCIÓN III, DE LA LEY NÚMERO 364 ESTATAL DEL SERVICIO CIVIL DE VERACRUZ.
+
+CLAVE DE TESIS: VII.2o.T. J/16 L (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; T.C.C.; Gaceta S.J.F.; Libro 28, Agosto de 2023; Tomo IV; Pág. 4327
+INSTANCIA: SEGUNDO TRIBUNAL COLEGIADO EN MATERIA DE TRABAJO DEL SÉPTIMO CIRCUITO. (T.C.C.)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2023-08-18T10:26:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2027041
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: Los trabajadores al servicio del Estado que reciben dinero proveniente de la ciudadanía, ya sea por cobro de impuestos, derechos o cualquier numerario que ingrese a la dependencia, adquieren el carácter de servidores públicos de confianza conforme a lo establecido en el artículo 7o., fracción III, de la Ley Número 364 Estatal del Servicio Civil de Veracruz, criterio que reconoce que el manejo de recursos públicos constituye una función que requiere especial confianza y responsabilidad por parte de la administración pública.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2027041

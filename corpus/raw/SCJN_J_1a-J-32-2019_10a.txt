@@ -1,0 +1,20 @@
+RUBRO: CONTRATO DE CRÉDITO DEL INFONAVIT. PARA LA PROCEDENCIA DE LA ACCIÓN DE SU VENCIMIENTO ANTICIPADO, NO ES INDISPENSABLE QUE EN LA DEMANDA SE PIDA EXPRESAMENTE LA RESCISIÓN.
+
+CLAVE DE TESIS: 1a./J. 32/2019 (10a.)
+LOCALIZACIÓN: [J]; 10a. Época; 1a. Sala; Gaceta S.J.F.; Libro 66, Mayo de 2019; Tomo II; Pág. 903
+INSTANCIA: Primera Sala (S.C.J.N.)
+ÉPOCA: 10a. Época
+FECHA DE PUBLICACIÓN: 2019-05-24T10:29:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2019907
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: El supuesto jurídico que resuelve es la procedencia de la acción de vencimiento anticipado de un contrato de crédito del Infonavit cuando el deudor incumple sus obligaciones. El criterio establecido es que para que proceda la demanda de vencimiento anticipado no es requisito indispensable que se pida expresamente la rescisión del contrato, ya que el vencimiento anticipado constituye una consecuencia legal del incumplimiento que puede ejercitarse independientemente de si se solicita formalmente la terminación del contrato.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2019907

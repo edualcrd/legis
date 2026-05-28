@@ -1,0 +1,20 @@
+RUBRO: PRUEBAS EN EL JUICIO LABORAL. EL ARTÍCULO 885, PRIMER PÁRRAFO, DE LA LEY FEDERAL DEL TRABAJO, AL ESTABLECER LA SANCIÓN DE SU DESISTIMIENTO TÁCITO ANTE LA OMISIÓN DE LAS PARTES DE PRONUNCIARSE RESPECTO DE LA VISTA OTORGADA CON MOTIVO DE LA CERTIFICACIÓN DEL SECRETARIO DE QUE YA NO QUEDAN PRUEBAS POR DESAHOGAR, NO VIOLA LOS DERECHOS HUMANOS AL DEBIDO PROCESO Y A LA TUTELA JUDICIAL EFECTIVA (TEXTO ANTERIOR A LA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN EL 1 DE MAYO DE 2019).
+
+CLAVE DE TESIS: PC.III.L. J/33 L (10a.)
+LOCALIZACIÓN: [J]; 10a. Época; Plenos de Circuito; Gaceta S.J.F.; Libro 74, Enero de 2020; Tomo II; Pág. 1725
+INSTANCIA: PLENO EN MATERIA DE TRABAJO DEL TERCER CIRCUITO. (Plenos de Circuito)
+ÉPOCA: 10a. Época
+FECHA DE PUBLICACIÓN: 2020-01-17T10:18:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2021428
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: El artículo 885, primer párrafo, de la Ley Federal del Trabajo establece que cuando el secretario certifica que ya no quedan pruebas por desahogar y las partes no se pronuncian respecto de la vista otorgada, se produce el desistimiento tácito de las pruebas no desahogadas, criterio que la jurisprudencia considera compatible con los derechos humanos al debido proceso y a la tutela judicial efectiva, toda vez que la norma otorga a las partes la oportunidad de manifestarse sobre dicha certificación y el desistimiento tácito constituye una consecuencia procesal razonable de su inactividad, sin que ello implique una vulneración a sus garantías fundamentales.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2021428

@@ -1,0 +1,20 @@
+RUBRO: PERSONALIDAD EN EL JUICIO DE AMPARO INDIRECTO. LA PREVENCIÓN A QUIEN PROMUEVE LA DEMANDA OSTENTÁNDOSE COMO APODERADO DEL ACTOR EN EL JUICIO LABORAL PARA QUE LA ACREDITE, NO OBSTANTE QUE EXHIBIÓ COPIA SIMPLE DEL ACUERDO DONDE SE LE RECONOCIÓ TAL CARÁCTER POR LA AUTORIDAD RESPONSABLE, ES ILEGAL.
+
+CLAVE DE TESIS: VI.1o.T. J/2 L (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; T.C.C.; Gaceta S.J.F.; Libro 23, Marzo de 2023; Tomo IV; Pág. 3552
+INSTANCIA: PRIMER TRIBUNAL COLEGIADO EN MATERIA DE TRABAJO DEL SEXTO CIRCUITO. (T.C.C.)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2023-03-24T10:27:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2026217
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: Cuando en un juicio de amparo indirecto se promueve la demanda por quien se ostenta como apoderado del actor en el juicio laboral, la autoridad responsable no puede prevenir al promovente para que acredite su personalidad si ya exhibió copia simple del acuerdo donde se le reconoció tal carácter, pues tal prevención resulta ilegal al existir ya constancia en el expediente laboral que respalda su legitimación procesal. El criterio establece que la presentación de copia simple del documento que acredita el apoderamiento, cuando consta en autos de la autoridad responsable, es suficiente para demostrar la personalidad del apoderado sin necesidad de requerimientos adicionales que obstaculicen el acceso a la justicia constitucional.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2026217

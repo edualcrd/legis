@@ -1,0 +1,20 @@
+RUBRO: UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO. LOS CONCEPTOS DENOMINADOS PAGO POR AJUSTE SALARIAL, PRIMA VACACIONAL Y AGUINALDO CONTEMPLADOS EN EL CONTRATO COLECTIVO DE TRABAJO CELEBRADO ENTRE AQUELLA INSTITUCIÓN Y SU SINDICATO, INTEGRAN EL SALARIO PARA EL CÁLCULO DE LA GRATIFICACIÓN POR JUBILACIÓN DE SUS TRABAJADORES ADMINISTRATIVOS.
+
+CLAVE DE TESIS: PC.I.L. J/46 L (10a.)
+LOCALIZACIÓN: [J]; 10a. Época; Plenos de Circuito; Gaceta S.J.F.; Libro 65, Abril de 2019; Tomo II; Pág. 1842
+INSTANCIA: PLENO EN MATERIA DE TRABAJO DEL PRIMER CIRCUITO. (Plenos de Circuito)
+ÉPOCA: 10a. Época
+FECHA DE PUBLICACIÓN: 2019-04-05T10:09:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2019655
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: La Suprema Corte de Justicia de la Nación resolvió que en el caso de los trabajadores administrativos de la Universidad Nacional Autónoma de México, los conceptos de pago por ajuste salarial, prima vacacional y aguinaldo establecidos en el contrato colectivo de trabajo deben considerarse como parte integrante del salario para efectos del cálculo de la gratificación por jubilación, determinando así que estas prestaciones no constituyen conceptos separados sino componentes del salario base que debe tomarse en cuenta al momento de liquidar los beneficios de retiro de los trabajadores.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2019655

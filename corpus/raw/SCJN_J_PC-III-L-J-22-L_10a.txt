@@ -1,0 +1,20 @@
+RUBRO: PROCEDIMIENTO LABORAL. SI EN EL AMPARO DIRECTO PROMOVIDO POR EL PATRÓN CONTRA EL LAUDO SE CONSTATA, INCLUSO DE OFICIO, QUE LAS ACTUACIONES INTEGRANTES DEL PROCESO DONDE SE DICTÓ ESTÁN INCOMPLETAS, EL TRIBUNAL COLEGIADO DE CIRCUITO DEBE DECLARAR LA INCONSTITUCIONALIDAD DEL FALLO RECLAMADO Y ORDENAR LA REPOSICIÓN DE AQUÉL.
+
+CLAVE DE TESIS: PC.III.L. J/22 L (10a.)
+LOCALIZACIÓN: [J]; 10a. Época; Plenos de Circuito; Gaceta S.J.F.; Libro 45, Agosto de 2017; Tomo III; Pág. 2030
+INSTANCIA: PLENO EN MATERIA DE TRABAJO DEL TERCER CIRCUITO. (Plenos de Circuito)
+ÉPOCA: 10a. Época
+FECHA DE PUBLICACIÓN: 2017-08-18T10:26:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2014935
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: Cuando en un amparo directo promovido por el patrón en contra de un laudo laboral se advierte, incluso de oficio, que las actuaciones procesales que integran el expediente donde se dictó la sentencia están incompletas, el tribunal colegiado de circuito debe declarar la inconstitucionalidad del fallo reclamado y ordenar su reposición, ya que la falta de integración del expediente vulnera el derecho de defensa y el debido proceso del patrón, impidiéndole ejercer adecuadamente sus derechos de audiencia y prueba durante el procedimiento laboral.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2014935

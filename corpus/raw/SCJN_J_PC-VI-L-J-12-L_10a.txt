@@ -1,0 +1,20 @@
+RUBRO: TRABAJADORES DE CONFIANZA DEL INSTITUTO MEXICANO DEL SEGURO SOCIAL (IMSS). EL "NOTIFICADOR-LOCALIZADOR" NO TIENE ESA CATEGORÍA.
+
+CLAVE DE TESIS: PC.VI.L. J/12 L (10a.)
+LOCALIZACIÓN: [J]; 10a. Época; Plenos de Circuito; Gaceta S.J.F.; Libro 79, Octubre de 2020; Tomo II; Pág. 1617
+INSTANCIA: PLENO EN MATERIA DE TRABAJO DEL SEXTO CIRCUITO. (Plenos de Circuito)
+ÉPOCA: 10a. Época
+FECHA DE PUBLICACIÓN: 2020-10-30T10:40:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2022339
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: El supuesto jurídico que resuelve es la determinación de si los trabajadores que desempeñan funciones de "notificador-localizador" en el Instituto Mexicano del Seguro Social pueden ser clasificados como trabajadores de confianza. El criterio establecido es que dichos trabajadores no tienen la categoría de confianza, ya que sus funciones no implican la representación del patrón ni el ejercicio de autoridad sobre otros trabajadores, requisitos esenciales para ser considerados como tales conforme a la naturaleza de sus actividades en la institución.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2022339

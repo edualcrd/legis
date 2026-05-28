@@ -1,0 +1,20 @@
+RUBRO: DERECHOS HUMANOS EN MATERIA LABORAL. VÍAS PROCESALES PARA SU DEFENSA Y GARANTÍA EN LAS RELACIONES ENTRE PARTICULARES.
+
+CLAVE DE TESIS: I.5o.T. J/8 L (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; T.C.C.; Gaceta S.J.F.; Libro 23, Marzo de 2023; Tomo IV; Pág. 3424
+INSTANCIA: QUINTO TRIBUNAL COLEGIADO EN MATERIA DE TRABAJO DEL PRIMER CIRCUITO. (T.C.C.)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2023-03-10T10:13:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2026108
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: La defensa de los derechos humanos en materia laboral en las relaciones entre particulares requiere de vías procesales específicas que garanticen su protección efectiva, reconociendo que estos derechos no solo vinculan al Estado sino también a los sujetos privados en su calidad de empleadores. El criterio establecido sostiene que los derechos humanos laborales deben ser tutelados a través de mecanismos procesales adecuados que permitan a los trabajadores accionar contra particulares empleadores, superando la tradicional limitación de que los derechos fundamentales solo se hacen valer contra autoridades. Así, se reconoce que las garantías constitucionales y convencionales en materia laboral tienen eficacia horizontal, obligando a los particulares a respetar los derechos humanos de sus trabajadores y permitiendo que estos acudan a las vías procesales correspondientes para su defensa y reparación.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2026108

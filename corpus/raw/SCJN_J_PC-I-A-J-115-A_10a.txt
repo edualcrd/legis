@@ -1,0 +1,20 @@
+RUBRO: CONTRATO DE ADQUISICIÓN DE IMPORTACIÓN CELEBRADO POR LA SECRETARÍA DE LA DEFENSA NACIONAL CON UN PARTICULAR. LA FALTA DE AVISO DE LA PARTE AFECTADA A LA OTRA, DENTRO DE LAS 72 HORAS SIGUIENTES A QUE SE SUSCITE EL CASO FORTUITO O LA CAUSA DE FUERZA MAYOR QUE MOTIVEN SU INCUMPLIMIENTO, ES CAUSA DE SU RESCISIÓN.
+
+CLAVE DE TESIS: PC.I.A. J/115 A (10a.)
+LOCALIZACIÓN: [J]; 10a. Época; Plenos de Circuito; Gaceta S.J.F.; Libro 48, Noviembre de 2017; Tomo II; Pág. 938
+INSTANCIA: PLENO EN MATERIA ADMINISTRATIVA DEL PRIMER CIRCUITO. (Plenos de Circuito)
+ÉPOCA: 10a. Época
+FECHA DE PUBLICACIÓN: 2017-11-24T10:35:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2015638
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: El supuesto jurídico que resuelve es la responsabilidad contractual derivada del incumplimiento de obligaciones en un contrato de adquisición de importación celebrado por la Secretaría de la Defensa Nacional con un particular, específicamente cuando se presenta un caso fortuito o causa de fuerza mayor. El criterio establecido es que la falta de notificación oportuna de la parte afectada a la otra dentro del plazo de 72 horas siguientes a la ocurrencia del evento que motiva el incumplimiento constituye una causa válida para la rescisión del contrato, independientemente de que el incumplimiento mismo haya sido originado por circunstancias ajenas a la voluntad de las partes.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2015638

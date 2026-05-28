@@ -1,0 +1,20 @@
+RUBRO: APORTACIONES AL FONDO DE PENSIONES A CARGO DE JUBILADOS O PENSIONADOS. EFECTOS DEL AMPARO POR INCONSTITUCIONALIDAD DE LOS ARTÍCULOS 11, FRACCIÓN II, 13, PÁRRAFO SEGUNDO, Y 46 DE LA ABROGADA LEY DE PENSIONES PARA LOS TRABAJADORES AL SERVICIO DEL ESTADO DE NAYARIT.
+
+CLAVE DE TESIS: PR.A.C.CN. J/89 A (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; Plenos Regionales; Gaceta S.J.F.; Libro 52, Agosto de 2025; Tomo III, Volumen 2; Pág. 1011
+INSTANCIA: PLENO REGIONAL EN MATERIAS ADMINISTRATIVA Y CIVIL DE LA REGIÓN CENTRO-NORTE, CON RESIDENCIA EN LA CIUDAD DE MÉXICO. (Plenos Regionales)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2025-08-15T10:23:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2030898
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: El supuesto jurídico que resuelve es la constitucionalidad de las disposiciones que obligaban a jubilados y pensionados a realizar aportaciones al fondo de pensiones. El criterio establecido determina que tales aportaciones resultan inconstitucionales, ya que vulneran derechos adquiridos al momento de la jubilación o pensionamiento, impidiendo que se continúe cobrando a los trabajadores que ya han cumplido los requisitos legales para obtener su prestación. Los artículos declarados inconstitucionales son el 11, fracción II, el 13, párrafo segundo, y el 46 de la abrogada Ley de Pensiones para los Trabajadores al Servicio del Estado de Nayarit.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2030898

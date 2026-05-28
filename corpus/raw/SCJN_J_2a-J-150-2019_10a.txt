@@ -1,0 +1,20 @@
+RUBRO: CONFLICTOS INDIVIDUALES DE SEGURIDAD SOCIAL. LINEAMIENTOS QUE DEBERÁ SEGUIR EL TRIBUNAL COLEGIADO DE CIRCUITO EN LOS CASOS EN QUE LA JUNTA RESPONSABLE HAYA OMITIDO PREVENIR AL ASEGURADO A EFECTO DE QUE PRESENTARA EL "ÚLTIMO ESTADO DE LA CUENTA INDIVIDUAL DE AHORRO PARA EL RETIRO", LA SOLICITUD DE LA CONSTANCIA RESPECTIVA ANTE EL INSTITUTO MEXICANO DEL SEGURO SOCIAL O LA SOLICITUD DE EMISIÓN DEL ESTADO DE CUENTA ANTE LA ADMINISTRADORA DE FONDOS PARA EL RETIRO (AFORE) DEL TRABAJADOR.
+
+CLAVE DE TESIS: 2a./J. 150/2019 (10a.)
+LOCALIZACIÓN: [J]; 10a. Época; 2a. Sala; Gaceta S.J.F.; Libro 72, Noviembre de 2019; Tomo I; Pág. 498
+INSTANCIA: Segunda Sala (S.C.J.N.)
+ÉPOCA: 10a. Época
+FECHA DE PUBLICACIÓN: 2019-11-15T10:26:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2021033
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: Cuando la junta de conciliación y arbitraje omite prevenir al asegurado para que presente el último estado de la cuenta individual de ahorro para el retiro o solicite la constancia respectiva ante el Instituto Mexicano del Seguro Social o ante la Administradora de Fondos para el Retiro, el Tribunal Colegiado de Circuito debe establecer lineamientos específicos para resolver estos conflictos individuales de seguridad social, considerando que tal omisión afecta el derecho del trabajador a acreditar su situación contributiva y sus derechos pensionarios, por lo que el tribunal debe suplir esta deficiencia procesal en beneficio del asegurado para garantizar el acceso a la justicia en materia de seguridad social.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2021033

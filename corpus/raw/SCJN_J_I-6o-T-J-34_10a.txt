@@ -1,0 +1,20 @@
+RUBRO: TRABAJADORES AL SERVICIO DEL ESTADO. PRÓRROGA DE LAS LICENCIAS SOLICITADAS A SU PUESTO DE BASE.
+
+CLAVE DE TESIS: I.6o.T. J/34 (10a.)
+LOCALIZACIÓN: [J]; 10a. Época; T.C.C.; Gaceta S.J.F.; Libro 40, Marzo de 2017; Tomo IV; Pág. 2573
+INSTANCIA: SEXTO TRIBUNAL COLEGIADO EN MATERIA DE TRABAJO DEL PRIMER CIRCUITO. (T.C.C.)
+ÉPOCA: 10a. Época
+FECHA DE PUBLICACIÓN: 2017-03-31T10:34:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2014039
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: La prórroga de licencias solicitadas por trabajadores al servicio del Estado respecto a su puesto de base constituye un acto administrativo que debe sujetarse a los procedimientos y requisitos establecidos en la normatividad aplicable, siendo que el criterio jurisprudencial establece que la administración pública tiene la facultad de otorgar o negar tales prórrogas conforme a las disposiciones legales vigentes, pero debe hacerlo de manera motivada y fundamentada, respetando los derechos del trabajador y sin incurrir en arbitrariedad que vulnere sus garantías individuales.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2014039

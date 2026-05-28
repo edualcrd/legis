@@ -1,0 +1,20 @@
+RUBRO: COMPETENCIA PARA CONOCER DE LA DEMANDA PRESENTADA ANTES DEL NUEVO SISTEMA DE JUSTICIA LABORAL. CORRESPONDE A UNA JUNTA DE CONCILIACIÓN Y ARBITRAJE Y, DE HABERSE EXTINGUIDO, A LA HOMÓLOGA DESIGNADA CONFORME AL DECRETO CORRESPONDIENTE.
+
+CLAVE DE TESIS: PR.P.T.CS. J/50 L (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; Plenos Regionales; Gaceta S.J.F.; Libro 50, Junio de 2025; Tomo IV, Volumen 2; Pág. 988
+INSTANCIA: PLENO REGIONAL EN MATERIAS PENAL Y DE TRABAJO DE LA REGIÓN CENTRO-SUR, CON RESIDENCIA EN LA CIUDAD DE MÉXICO. (Plenos Regionales)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2025-06-27T10:33:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2030619
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: Cuando se presenta una demanda laboral antes de la entrada en vigor del nuevo sistema de justicia laboral, la competencia para conocer del asunto corresponde a la junta de conciliación y arbitraje que originalmente fue competente, y en caso de que esta se haya extinguido, la competencia se traslada a la junta homóloga que sea designada conforme a lo establecido en el decreto de transición correspondiente, garantizando así la continuidad del proceso y la protección de los derechos de las partes involucradas.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2030619

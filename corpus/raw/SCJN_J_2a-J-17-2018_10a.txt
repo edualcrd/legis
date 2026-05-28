@@ -1,0 +1,20 @@
+RUBRO: HORAS DE TRABAJO EXTRAORDINARIAS. NO PROCEDE SU PAGO A LOS MIEMBROS DE LAS INSTITUCIONES POLICIALES, NI SIQUIERA BAJO UNA INTERPRETACIÓN CONFORME, CUANDO LAS RESPECTIVAS LEGISLACIONES SECUNDARIAS PROSCRIBAN ESA PRESTACIÓN.
+
+CLAVE DE TESIS: 2a./J. 17/2018 (10a.)
+LOCALIZACIÓN: [J]; 10a. Época; 2a. Sala; Gaceta S.J.F.; Libro 52, Marzo de 2018; Tomo II; Pág. 1321
+INSTANCIA: Segunda Sala (S.C.J.N.)
+ÉPOCA: 10a. Época
+FECHA DE PUBLICACIÓN: 2018-03-16T10:19:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2016430
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: El supuesto jurídico que resuelve es la procedencia del pago de horas de trabajo extraordinarias para miembros de instituciones policiales cuando las legislaciones secundarias aplicables expresamente prohíben esa prestación. El criterio establecido es que no procede el pago de horas extraordinarias a los policías incluso bajo una interpretación conforme a la Constitución, cuando la ley secundaria correspondiente expresamente proscribe esta prestación, lo que significa que la prohibición legislativa prevalece sobre cualquier intento de armonización constitucional para reconocer el derecho al pago de tiempo extra.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2016430

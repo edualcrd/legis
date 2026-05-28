@@ -1,0 +1,20 @@
+RUBRO: INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES. PROCEDE EL JUICIO DE AMPARO CONTRA LA OMISIÓN DE DAR RESPUESTA A UNA SOLICITUD FORMULADA EN EJERCICIO DEL DERECHO DE PETICIÓN.
+
+CLAVE DE TESIS: 2a./J. 93/2018 (10a.)
+LOCALIZACIÓN: [J]; 10a. Época; 2a. Sala; Gaceta S.J.F.; Libro 58, Septiembre de 2018; Tomo I; Pág. 1021
+INSTANCIA: Segunda Sala (S.C.J.N.)
+ÉPOCA: 10a. Época
+FECHA DE PUBLICACIÓN: 2018-09-07T10:16:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2017817
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: El supuesto jurídico que resuelve este criterio es la procedencia del juicio de amparo cuando una autoridad administrativa, en este caso el Instituto del Fondo Nacional de la Vivienda para los Trabajadores, incurre en la omisión de dar respuesta a una solicitud presentada por un particular en ejercicio de su derecho de petición. El criterio establecido es que la falta de respuesta a una petición constituye un acto omisivo susceptible de ser combatido a través del juicio de amparo, ya que viola el derecho fundamental de petición reconocido en la Constitución, permitiendo así que los gobernados cuenten con una vía efectiva para exigir que las autoridades cumplan con su obligación de responder a las solicitudes que les formulan.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2017817

@@ -1,0 +1,20 @@
+RUBRO: PRESTACIONES EXTRALEGALES. LA CONTESTACIÓN DE LA DEMANDA EN SENTIDO AFIRMATIVO, NO DESVIRTUADA EN EL JUICIO LABORAL, ES SUFICIENTE PARA ACREDITAR LOS TÉRMINOS DEL CONTRATO COLECTIVO DE TRABAJO O LAS CLÁUSULAS RELATIVAS Y SU PROCEDENCIA, AUN CUANDO ÉSTOS NO SE HAYAN EXHIBIDO (LEY FEDERAL DEL TRABAJO EN SU TEXTO ANTERIOR A LAS REFORMAS PUBLICADAS EN EL DIARIO OFICIAL DE LA FEDERACIÓN DE 1 DE MAYO DE 2019 Y LEY DEL TRABAJO DE LOS SERVIDORES PÚBLICOS DEL ESTADO Y MUNICIPIOS DEL ESTADO DE MÉXICO).
+
+CLAVE DE TESIS: PC.II.L. J/1 L (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; Plenos de Circuito; Gaceta S.J.F.; Libro 6, Octubre de 2021; Tomo II; Pág. 3019
+INSTANCIA: PLENO EN MATERIA DE TRABAJO DEL SEGUNDO CIRCUITO. (Plenos de Circuito)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2021-10-22T10:32:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2023707
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: Cuando se reclaman prestaciones extralegales derivadas de un contrato colectivo de trabajo, la contestación afirmativa de la demanda que no sea desvirtuada durante el juicio constituye prueba suficiente para acreditar los términos y cláusulas del contrato colectivo y la procedencia de tales prestaciones, incluso en ausencia de la exhibición del documento original. Este criterio se aplica conforme a la Ley Federal del Trabajo en su texto anterior a las reformas publicadas en el Diario Oficial de la Federación de 1 de mayo de 2019 y a la Ley del Trabajo de los Servidores Públicos del Estado y Municipios del Estado de México, permitiendo que la confesión de la parte demandada supla la falta de documentación cuando no es controvertida en el procedimiento laboral.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2023707

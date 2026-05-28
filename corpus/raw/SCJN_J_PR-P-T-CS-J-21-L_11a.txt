@@ -1,0 +1,20 @@
+RUBRO: CONTRATACIÓN TEMPORAL DE TRABAJADORES AL SERVICIO DEL GOBIERNO DE LA CIUDAD DE MÉXICO. LOS "LINEAMIENTOS PARA EL PROGRAMA DE ESTABILIDAD LABORAL, MEDIANTE NOMBRAMIENTO POR TIEMPO FIJO Y PRESTACIÓN DE SERVICIOS U OBRA DETERMINADOS", SON INSUFICIENTES PARA JUSTIFICARLA.
+
+CLAVE DE TESIS: PR.P.T.CS. J/21 L (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; Plenos Regionales; Gaceta S.J.F.; Libro 42, Octubre de 2024; Tomo II, Volumen 1; Pág. 123
+INSTANCIA: PLENO REGIONAL EN MATERIAS PENAL Y DE TRABAJO DE LA REGIÓN CENTRO-SUR, CON RESIDENCIA EN LA CIUDAD DE MÉXICO. (Plenos Regionales)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2024-10-11T10:21:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2029431
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: Los lineamientos para contratación temporal de trabajadores al servicio del Gobierno de la Ciudad de México mediante nombramiento por tiempo fijo y prestación de servicios u obra determinados resultan insuficientes para justificar legalmente la contratación temporal, ya que carecen de los elementos normativos necesarios para establecer las causas y condiciones que permitan apartarse del principio de estabilidad en el empleo. El criterio establece que la mera existencia de un programa administrativo no constituye fundamento válido para limitar derechos laborales fundamentales, siendo necesario que la normatividad aplicable contenga disposiciones claras y específicas que justifiquen objetivamente la naturaleza temporal de la relación laboral.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2029431

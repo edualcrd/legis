@@ -1,0 +1,20 @@
+RUBRO: PROCEDIMIENTO LABORAL. NO EXISTE ANTINOMIA ENTRE LOS PÁRRAFOS PRIMERO Y SÉPTIMO DEL ARTÍCULO 873-A DE LA LEY FEDERAL DEL TRABAJO, POR ESTABLECER, RESPECTIVAMENTE, QUE CUANDO NO SE PRESENTE LA CONTESTACIÓN DE LA DEMANDA SE TENDRÁ POR PERDIDO EL DERECHO A OFRECER PRUEBAS, Y QUE SE PUEDEN OFRECER PRUEBAS EN CONTRARIO PARA CIERTOS SUPUESTOS.
+
+CLAVE DE TESIS: 2a./J. 79/2023 (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; 2a. Sala; Gaceta S.J.F.; Libro 32, Diciembre de 2023; Tomo III; Pág. 2276
+INSTANCIA: Segunda Sala (S.C.J.N.)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2023-12-08T10:20:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2027815
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: El supuesto jurídico que resuelve es la aparente contradicción entre las disposiciones del artículo 873-A de la Ley Federal del Trabajo respecto a la presentación de pruebas cuando no se contesta la demanda laboral. El criterio establecido es que no existe antinomia entre el párrafo primero, que establece la pérdida del derecho a ofrecer pruebas por falta de contestación de demanda, y el párrafo séptimo, que permite ofrecer pruebas en contrario para ciertos supuestos específicos, siendo ambas disposiciones aplicables en sus respectivos contextos sin contradicción normativa. El artículo 873-A de la Ley Federal del Trabajo es la norma que fundamenta esta resolución.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2027815

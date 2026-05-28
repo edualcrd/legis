@@ -1,0 +1,20 @@
+RUBRO: INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO. CUANDO SE CONDENA A UNA DEPENDENCIA PÚBLICA A RECONOCER LA EXISTENCIA DE LA RELACIÓN LABORAL, NO PROCEDE CONDENARLA A LA INSCRIPCIÓN Y AL PAGO RETROACTIVO DE LAS APORTACIONES RELATIVAS A SU FONDO DE VIVIENDA Y AL SISTEMA DE AHORRO PARA EL RETIRO, CUANDO NO FUERON RECLAMADAS EXPRESAMENTE.
+
+CLAVE DE TESIS: PC.I.L. J/25 L (10a.)
+LOCALIZACIÓN: [J]; 10a. Época; Plenos de Circuito; Gaceta S.J.F.; Libro 35, Octubre de 2016; Tomo III; Pág. 2063
+INSTANCIA: PLENO EN MATERIA DE TRABAJO DEL PRIMER CIRCUITO. (Plenos de Circuito)
+ÉPOCA: 10a. Época
+FECHA DE PUBLICACIÓN: 2016-10-21T10:31:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2012878
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: Cuando se condena a una dependencia pública a reconocer la existencia de una relación laboral, no procede condenarla simultáneamente a la inscripción y al pago retroactivo de las aportaciones al fondo de vivienda y al sistema de ahorro para el retiro si estas prestaciones no fueron reclamadas expresamente en la demanda, ya que el principio de congruencia procesal limita la sentencia a lo solicitado por las partes y no permite que el juzgador otorgue prestaciones que no fueron materia de la litis, aun cuando deriven lógicamente del reconocimiento de la relación laboral.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2012878

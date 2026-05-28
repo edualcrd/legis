@@ -1,0 +1,20 @@
+RUBRO: COMPETENCIA PARA CONOCER DEL JUICIO ORAL MERCANTIL. CORRESPONDE A LOS JUECES MENORES DEL ESTADO DE MORELOS Y NO A LOS DE PRIMERA INSTANCIA, SI LA CUANTÍA DE LOS ASUNTOS NO EXCEDE DE MIL DOSCIENTAS VECES EL SALARIO MÍNIMO GENERAL VIGENTE EN LA ENTIDAD.
+
+CLAVE DE TESIS: XVIII.C. J/1 (10a.)
+LOCALIZACIÓN: [J]; 10a. Época; T.C.C.; Gaceta S.J.F.; Libro 38, Enero de 2017; Tomo IV; Pág. 2104
+INSTANCIA: TRIBUNAL COLEGIADO EN MATERIA CIVIL DEL DÉCIMO OCTAVO CIRCUITO. (T.C.C.)
+ÉPOCA: 10a. Época
+FECHA DE PUBLICACIÓN: 2017-01-13T10:14:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2013450
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: La competencia para conocer de juicios orales mercantiles se determina conforme a la cuantía de la controversia, correspondiendo a los jueces menores del Estado de Morelos el conocimiento de aquellos asuntos cuya cuantía no exceda de mil doscientas veces el salario mínimo general vigente en la entidad, excluyendo de esta competencia a los jueces de primera instancia en estos casos específicos. El criterio establece que la jurisdicción mercantil en materia oral se distribuye entre órganos jurisdiccionales distintos según parámetros económicos objetivos, privilegiando la actuación de jueces menores cuando se cumplen los requisitos cuantitativos señalados.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2013450

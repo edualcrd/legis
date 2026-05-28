@@ -1,0 +1,20 @@
+RUBRO: SUSPENSIÓN DEL PROCEDIMIENTO LABORAL. UNA VEZ ADMITIDA LA DEMANDA, PROCEDE POR FALTA DE LAS CONSTANCIAS DE NO CONCILIACIÓN POR ALGUNOS DEMANDADOS (LEY FEDERAL DEL TRABAJO VIGENTE A PARTIR DEL 2 DE MAYO DE 2019).
+
+CLAVE DE TESIS: II.2o.T. J/4 L (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; T.C.C.; Gaceta S.J.F.; Libro 13, Mayo de 2022; Tomo IV; Pág. 4421
+INSTANCIA: SEGUNDO TRIBUNAL COLEGIADO EN MATERIA DE TRABAJO DEL SEGUNDO CIRCUITO. (T.C.C.)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2022-05-13T10:18:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2024629
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: La suspensión del procedimiento laboral procede cuando, después de admitida la demanda, faltan las constancias de no conciliación respecto de algunos de los demandados, conforme a lo establecido en la Ley Federal del Trabajo vigente a partir del 2 de mayo de 2019. El criterio reconoce que la falta de cumplimiento del requisito de conciliación previa ante la Junta de Conciliación y Arbitraje respecto de ciertos demandados constituye un obstáculo procesal que justifica la suspensión del procedimiento hasta que se subsane tal deficiencia. Esta medida garantiza que se respete el procedimiento obligatorio de conciliación para todos los demandados, asegurando que el proceso laboral cumpla con los requisitos formales exigidos por la ley.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2024629

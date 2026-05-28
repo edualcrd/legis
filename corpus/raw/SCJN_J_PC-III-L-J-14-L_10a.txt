@@ -1,0 +1,20 @@
+RUBRO: GARANTÍA DE SUBSISTENCIA OTORGADA AL TRABAJADOR EN TANTO SE RESUELVE EL JUICIO DE AMPARO, EN TÉRMINOS DE LOS ARTÍCULOS 174 DE LA LEY DE LA MATERIA ABROGADA Y 190 DE LA VIGENTE. ES IMPROCEDENTE ORDENAR QUE SE DEVUELVA AL PATRÓN EL MONTO RESPECTIVO, AUN CUANDO SE CONCEDA LA PROTECCIÓN DE LA JUSTICIA FEDERAL.
+
+CLAVE DE TESIS: PC.III.L. J/14 L (10a.)
+LOCALIZACIÓN: [J]; 10a. Época; Plenos de Circuito; Gaceta S.J.F.; Libro 33, Agosto de 2016; Tomo III; Pág. 1850
+INSTANCIA: PLENO EN MATERIA DE TRABAJO DEL TERCER CIRCUITO. (Plenos de Circuito)
+ÉPOCA: 10a. Época
+FECHA DE PUBLICACIÓN: 2016-08-12T10:20:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2012250
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: La garantía de subsistencia otorgada al trabajador durante la tramitación del juicio de amparo, conforme a los artículos 174 de la Ley Federal del Trabajo abrogada y 190 de la vigente, constituye una medida cautelar destinada a proteger la subsistencia del trabajador mientras se resuelve el fondo del asunto. El criterio establecido determina que aun cuando se otorgue la protección de la justicia federal al patrón, es improcedente ordenar la devolución del monto de la garantía de subsistencia ya pagada al trabajador, toda vez que dicha prestación tiene naturaleza de medida de protección social y no constituye un pago indebido susceptible de restitución.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2012250

@@ -1,0 +1,20 @@
+RUBRO: PRIMA DE ANTIGÜEDAD. ES IMPROCEDENTE PAGARLA A LOS TRABAJADORES DEL INSTITUTO JALISCIENSE DE ASISTENCIA SOCIAL CON MOTIVO DE SU EXTINCIÓN.
+
+CLAVE DE TESIS: PR.P.T.CS. J/47 L (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; Plenos Regionales; Gaceta S.J.F.; Libro 50, Junio de 2025; Tomo I, Volumen 2; Pág. 1094
+INSTANCIA: PLENO REGIONAL EN MATERIAS PENAL Y DE TRABAJO DE LA REGIÓN CENTRO-SUR, CON RESIDENCIA EN LA CIUDAD DE MÉXICO. (Plenos Regionales)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2025-06-06T10:12:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2030501
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: La prima de antigüedad resulta improcedente en el caso de los trabajadores del Instituto Jalisciense de Asistencia Social cuando se extingue dicha institución, estableciendo que la naturaleza jurídica de la entidad y las circunstancias de su desaparición no generan por sí mismas la obligación de pagar esta prestación a los trabajadores afectados, criterio que distingue entre la terminación de relaciones laborales ordinarias y los supuestos especiales derivados de la extinción de organismos públicos.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2030501

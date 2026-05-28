@@ -1,0 +1,20 @@
+RUBRO: PENSIONES OTORGADAS POR EL INSTITUTO MEXICANO DEL SEGURO SOCIAL (IMSS). EL AÑO CALENDARIO ANTERIOR A QUE SE REFIERE EL ARTÍCULO DÉCIMO PRIMERO TRANSITORIO DEL DECRETO POR EL QUE SE REFORMAN DIVERSAS DISPOSICIONES DE LA LEY DEL SEGURO SOCIAL, PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACIÓN EL 20 DE DICIEMBRE DE 2001, PARA EFECTOS DE SU ACTUALIZACIÓN ANUAL, COMPRENDE DEL 1 DE ENERO AL 31 DE DICIEMBRE DEL AÑO INMEDIATO ANTERIOR.
+
+CLAVE DE TESIS: 2a./J. 37/2021 (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; 2a. Sala; Gaceta S.J.F.; Libro 9, Enero de 2022; Tomo II; Pág. 1312
+INSTANCIA: Segunda Sala (S.C.J.N.)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2022-01-28T10:29:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2024112
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: El supuesto jurídico que resuelve es la determinación del período que debe considerarse como "año calendario anterior" para efectos de la actualización anual de las pensiones otorgadas por el IMSS conforme al Artículo Décimo Primero Transitorio del Decreto de reforma a la Ley del Seguro Social publicado el 20 de diciembre de 2001. El criterio establecido establece que dicho año calendario anterior comprende del 1 de enero al 31 de diciembre del año inmediato anterior, lo que permite una aplicación clara y uniforme del mecanismo de actualización de pensiones sin ambigüedades respecto al período de referencia para calcular los ajustes anuales que correspondan a los pensionados del Instituto.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2024112

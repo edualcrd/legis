@@ -1,0 +1,20 @@
+RUBRO: PENSIONES POR JUBILACIÓN, CESANTÍA EN EDAD AVANZADA Y VIUDEZ. EL TRIBUNAL ESTATAL DE CONCILIACIÓN Y ARBITRAJE DEL ESTADO DE MORELOS ES COMPETENTE PARA CONOCER Y RESOLVER LOS CONFLICTOS INDIVIDUALES RELACIONADOS CON AQUÉLLAS, SUSCITADOS ENTRE UN MUNICIPIO DE LA ENTIDAD Y SUS TRABAJADORES O SUS BENEFICIARIOS.
+
+CLAVE DE TESIS: PC.XVIII.L. J/3 L (10a.)
+LOCALIZACIÓN: [J]; 10a. Época; Plenos de Circuito; Gaceta S.J.F.; Libro 42, Mayo de 2017; Tomo II; Pág. 1426
+INSTANCIA: PLENO EN MATERIA DE TRABAJO DEL DECIMOCTAVO CIRCUITO. (Plenos de Circuito)
+ÉPOCA: 10a. Época
+FECHA DE PUBLICACIÓN: 2017-05-12T10:17:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2014236
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: El supuesto jurídico que resuelve este criterio es la competencia para conocer de conflictos individuales en materia de pensiones por jubilación, cesantía en edad avanzada y viudez cuando se suscitan entre un municipio y sus trabajadores o beneficiarios. El criterio establecido determina que el Tribunal Estatal de Conciliación y Arbitraje del Estado de Morelos es la autoridad competente para conocer y resolver este tipo de controversias laborales, reconociendo así la jurisdicción estatal en materia de conflictos individuales de trabajo derivados de prestaciones pensionarias entre entidades municipales y sus trabajadores.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2014236

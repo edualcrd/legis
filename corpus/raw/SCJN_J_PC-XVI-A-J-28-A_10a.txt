@@ -1,0 +1,20 @@
+RUBRO: AUTO INICIAL DE TRÁMITE DE LA DEMANDA DE AMPARO. NO ES LA ACTUACIÓN PROCESAL OPORTUNA PARA ANALIZAR SI EL ACTO RECLAMADO AL INSTITUTO DEL FONDO NACIONAL DE LA VIVIENDA PARA LOS TRABAJADORES (INFONAVIT), RELATIVO A LA RULETA DE NOTARIOS Y A LA IMPLEMENTACIÓN DE LOS REQUISITOS PARA LA ESCRITURACIÓN, PROVIENE DE UNA AUTORIDAD PARA EFECTOS DEL JUICIO DE AMPARO.
+
+CLAVE DE TESIS: PC.XVI.A. J/28 A (10a.)
+LOCALIZACIÓN: [J]; 10a. Época; Plenos de Circuito; Gaceta S.J.F.; Libro 77, Agosto de 2020; Tomo V; Pág. 4634
+INSTANCIA: PLENO EN MATERIA ADMINISTRATIVA DEL DECIMOSEXTO CIRCUITO. (Plenos de Circuito)
+ÉPOCA: 10a. Época
+FECHA DE PUBLICACIÓN: 2020-08-07T10:15:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2021838
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: El auto inicial de trámite de la demanda de amparo no constituye la actuación procesal idónea para examinar si el acto reclamado al Instituto del Fondo Nacional de la Vivienda para los Trabajadores (Infonavit) en materia de ruleta de notarios e implementación de requisitos para la escrituración proviene de una autoridad en los términos del juicio de amparo, por lo que tal cuestión debe ser resuelta en la sentencia definitiva cuando se analice el fondo del asunto y se determine si existe la competencia material del juzgador para conocer de la controversia planteada.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2021838

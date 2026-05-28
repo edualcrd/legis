@@ -1,0 +1,20 @@
+RUBRO: CONFLICTO COMPETENCIAL SUSCITADO ENTRE UN TRIBUNAL LABORAL DEL PODER JUDICIAL Y EL TRIBUNAL DE ARBITRAJE, AMBOS DEL ESTADO DE BAJA CALIFORNIA. SU RESOLUCIÓN CORRESPONDE A LAS SALAS O AL PLENO DEL TRIBUNAL SUPERIOR DE JUSTICIA DE ESA ENTIDAD FEDERATIVA.
+
+CLAVE DE TESIS: XV.2o. J/1 L (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; T.C.C.; Gaceta S.J.F.; Libro 23, Marzo de 2023; Tomo IV; Pág. 3304
+INSTANCIA: SEGUNDO TRIBUNAL COLEGIADO DEL DÉCIMO QUINTO CIRCUITO. (T.C.C.)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2023-03-17T10:20:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2026153
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: Cuando surge un conflicto de competencia entre un tribunal laboral del Poder Judicial y un tribunal de arbitraje, ambos del mismo estado, la resolución de tal controversia corresponde a las Salas o al Pleno del Tribunal Superior de Justicia de esa entidad federativa, quien tiene la facultad de dirimir cuál órgano jurisdiccional es competente para conocer del asunto en cuestión. Este criterio establece que los conflictos competenciales entre autoridades judiciales locales deben resolverse por el máximo tribunal de la entidad, evitando que ambas instancias continúen en disputa sobre su jurisdicción y garantizando una solución definitiva que clarifique cuál tribunal debe sustanciar el litigio laboral.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2026153

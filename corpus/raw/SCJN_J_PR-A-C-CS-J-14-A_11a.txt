@@ -1,0 +1,20 @@
+RUBRO: SUSPENSIÓN DE OFICIO Y DE PLANO EN AMPARO INDIRECTO. PROCEDE CONTRA LA OMISIÓN DEL INSTITUTO MEXICANO DEL SEGURO SOCIAL (IMSS) DE BRINDAR ATENCIÓN MÉDICA ESPECIALIZADA URGENTE AL GRADO DE PONER EN PELIGRO LA VIDA DEL QUEJOSO.
+
+CLAVE DE TESIS: PR.A.C.CS. J/14 A (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; Plenos Regionales; Gaceta S.J.F.; Libro 46, Febrero de 2025; Tomo IV, Volumen 1; Pág. 576
+INSTANCIA: PLENO REGIONAL EN MATERIAS ADMINISTRATIVA Y CIVIL DE LA REGIÓN CENTRO-SUR, CON RESIDENCIA EN LA CIUDAD DE MÉXICO. (Plenos Regionales)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2025-02-28T10:30:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2030020
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: La suspensión de oficio y de plano en amparo indirecto procede cuando el Instituto Mexicano del Seguro Social omite proporcionar atención médica especializada urgente en circunstancias que ponen en peligro inminente la vida del quejoso, ya que en estos casos existe un riesgo irreparable que justifica la intervención inmediata del juzgador sin necesidad de que la parte lo solicite expresamente. El criterio establece que la gravedad de la omisión en materia de prestación de servicios médicos de emergencia, particularmente cuando existe amenaza a la vida, constituye un supuesto excepcional que autoriza al tribunal a decretar la suspensión de manera oficiosa, priorizando la protección del derecho fundamental a la salud sobre los requisitos procedimentales ordinarios.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2030020

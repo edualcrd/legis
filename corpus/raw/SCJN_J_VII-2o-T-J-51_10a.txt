@@ -1,0 +1,20 @@
+RUBRO: VIOLACIÓN PROCESAL ANÁLOGA EN MATERIA LABORAL. LA CONSTITUYE LA OMISIÓN DE LA JUNTA DE PREVENIR AL TRABAJADOR PARA QUE MANIFIESTE SI ES SU DESEO LLAMAR COMO DEMANDADO A QUIEN DE LOS AUTOS DEL JUICIO APARECE COMO PROBABLE RESPONSABLE DE LA RELACIÓN LABORAL.
+
+CLAVE DE TESIS: VII.2o.T. J/51 (10a.)
+LOCALIZACIÓN: [J]; 10a. Época; T.C.C.; Gaceta S.J.F.; Libro 67, Junio de 2019; Tomo VI; Pág. 5021
+INSTANCIA: SEGUNDO TRIBUNAL COLEGIADO EN MATERIA DE TRABAJO DEL SÉPTIMO CIRCUITO. (T.C.C.)
+ÉPOCA: 10a. Época
+FECHA DE PUBLICACIÓN: 2019-06-28T10:34:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2020230
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: La violación procesal análoga en materia laboral se configura cuando la junta omite prevenir al trabajador para que manifieste su voluntad de llamar como demandado a quien de los autos aparece como probable responsable de la relación laboral, lo que constituye un incumplimiento de las obligaciones procedimentales que garantizan el derecho de defensa y acceso a la justicia del trabajador. El criterio establece que esta omisión vulnera principios fundamentales del procedimiento laboral al impedir que el actor pueda ejercer plenamente su derecho de acción al no poder designar correctamente al demandado responsable de la relación jurídica que reclama. Esta falta de prevención constituye un vicio procesal que afecta la validez del procedimiento y puede ser materia de revisión a través de los medios de impugnación correspondientes.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2020230

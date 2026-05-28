@@ -1,0 +1,20 @@
+RUBRO: PRÉSTAMOS PERSONALES GARANTIZADOS CON PAGARÉ OTORGADOS POR ORGANISMOS PÚBLICOS DESCENTRALIZADOS EN FAVOR DE SUS TRABAJADORES, PENSIONADOS O DERECHOHABIENTES. LA ACCIÓN CAUSAL DEBE INTENTARSE EN LA VÍA CIVIL.
+
+CLAVE DE TESIS: 1a./J. 56/2025 (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; 1a. Sala; Gaceta S.J.F.; Libro 50, Junio de 2025; Tomo II, Volumen 1; Pág. 81
+INSTANCIA: Primera Sala (S.C.J.N.)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2025-06-13T10:19:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2030541
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: Los préstamos personales garantizados con pagaré otorgados por organismos públicos descentralizados a sus trabajadores, pensionados o derechohabientes constituyen actos de naturaleza civil y no laboral, por lo que las controversias derivadas de su incumplimiento deben ventilarse en la jurisdicción civil ordinaria y no ante las autoridades laborales. El criterio establece que aunque exista una relación laboral o de seguridad social entre las partes, la acción causal para reclamar el cumplimiento de la obligación crediticia debe intentarse por la vía civil, ya que el pagaré es un instrumento mercantil cuya ejecución corresponde a los tribunales civiles competentes.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2030541

@@ -1,0 +1,20 @@
+RUBRO: COMPETENCIA LABORAL. SE SURTE A FAVOR DE LA AUTORIDAD FEDERAL, CUANDO SE RECLAMA EL PAGO DE LA AYUDA SINDICAL POR DEFUNCIÓN DE UN TRABAJADOR DEL INSTITUTO MEXICANO DEL SEGURO SOCIAL, AFILIADO A SU SINDICATO NACIONAL.
+
+CLAVE DE TESIS: 2a./J. 15/2023 (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; 2a. Sala; Gaceta S.J.F.; Libro 24, Abril de 2023; Tomo II; Pág. 1671
+INSTANCIA: Segunda Sala (S.C.J.N.)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2023-04-21T10:25:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2026323
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: La competencia para conocer de controversias laborales relativas al pago de la ayuda sindical por defunción de un trabajador del Instituto Mexicano del Seguro Social que se encuentra afiliado a su sindicato nacional corresponde a la autoridad federal, ya que se trata de una prestación derivada de la relación laboral entre el trabajador y un organismo descentralizado de la administración pública federal. El criterio establece que cuando la controversia involucra prestaciones sindicales vinculadas con trabajadores de instituciones federales como el IMSS, la jurisdicción competente es la federal y no la local, independientemente de que la ayuda tenga origen en la organización sindical. Esta determinación de competencia se fundamenta en la naturaleza federal de la institución empleadora y en la necesidad de mantener uniformidad en la interpretación de las normas laborales aplicables a los trabajadores del sector público federal.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2026323

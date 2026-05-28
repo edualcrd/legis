@@ -1,0 +1,20 @@
+RUBRO: TRABAJADORES DE CONFIANZA DE NACIONAL FINANCIERA, SOCIEDAD NACIONAL DE CRÉDITO, INSTITUCIÓN DE BANCA DE DESARROLLO (NAFIN). HIPÓTESIS EN LA QUE TIENEN DERECHO AL PAGO DE SALARIOS CAÍDOS.
+
+CLAVE DE TESIS: PC.I.L. J/68 L (10a.)
+LOCALIZACIÓN: [J]; 10a. Época; Plenos de Circuito; Gaceta S.J.F.; Libro 81, Diciembre de 2020; Tomo II; Pág. 1528
+INSTANCIA: PLENO EN MATERIA DE TRABAJO DEL PRIMER CIRCUITO. (Plenos de Circuito)
+ÉPOCA: 10a. Época
+FECHA DE PUBLICACIÓN: 2020-12-04T10:16:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2022538
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: Los trabajadores de confianza de Nacional Financiera tienen derecho al pago de salarios caídos cuando son separados de su empleo sin causa justificada o sin que se haya seguido el procedimiento legal establecido para su despido, reconociéndose que aunque ocupen posiciones de confianza, no pierden la protección fundamental de recibir la remuneración correspondiente a los días laborados o por los que debieron haber laborado durante el período en que se prolongó indebidamente su separación del servicio. El criterio establece que la condición de trabajador de confianza no exime al patrón de sus obligaciones de pago y que los salarios caídos constituyen una prestación que debe cubrirse cuando se acredita que la terminación de la relación laboral fue injustificada o procedimentalmente irregular.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2022538

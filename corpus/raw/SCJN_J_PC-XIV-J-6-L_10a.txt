@@ -1,0 +1,20 @@
+RUBRO: PENSIÓN JUBILATORIA DE LOS TRABAJADORES DEL INSTITUTO MEXICANO DEL SEGURO SOCIAL. CORRESPONDE A ÉSTE PROBAR SU EXCEPCIÓN EN EL SENTIDO DE QUE ESTÁ AUTORIZADO PARA REALIZAR LA DEDUCCIÓN POR EL CONCEPTO 107 DENOMINADO "PROVISIÓN FONDO DE JUBILACIÓN" Y QUE SU MONTO EQUIVALE A ALGUNO DE LOS PORCENTAJES AUTORIZADOS, MEDIANTE LA EXHIBICIÓN DEL DESGLOSE ARITMÉTICO CORRESPONDIENTE Y, SI NO LO HACE, PROCEDE CONDENARLO A QUE LO REALICE Y LO PRESENTE AL JUBILADO O PENSIONADO, A FIN DE QUE PUEDA VERIFICAR SI EL MONTO ES CORRECTO.
+
+CLAVE DE TESIS: PC.XIV. J/6 L (10a.)
+LOCALIZACIÓN: [J]; 10a. Época; Plenos de Circuito; Gaceta S.J.F.; Libro 42, Mayo de 2017; Tomo II; Pág. 1351
+INSTANCIA: PLENO DEL DECIMOCUARTO CIRCUITO. (Plenos de Circuito)
+ÉPOCA: 10a. Época
+FECHA DE PUBLICACIÓN: 2017-05-12T10:17:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2014235
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: El supuesto jurídico que resuelve es la deducción por concepto 107 denominado "Provisión Fondo de Jubilación" que realiza el Instituto Mexicano del Seguro Social en las pensiones jubilatorias de sus trabajadores. El criterio establecido es que corresponde al Instituto probar su excepción demostrando que está autorizado para efectuar tal deducción y que el monto equivale a alguno de los porcentajes autorizados, mediante la exhibición del desglose aritmético correspondiente; en caso de no hacerlo, procede condenarlo a que realice y presente dicho desglose al jubilado o pensionado para que pueda verificar la corrección del monto.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2014235

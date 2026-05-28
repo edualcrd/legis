@@ -1,0 +1,20 @@
+RUBRO: PRIMA DE ANTIGÜEDAD. NO TIENEN DERECHO A SU PAGO LOS TRABAJADORES DEL ORGANISMO PÚBLICO DENOMINADO "SERVICIOS DE EDUCACIÓN PÚBLICA DESCENTRALIZADA DEL ESTADO DE SINALOA".
+
+CLAVE DE TESIS: 2a./J. 40/2017 (10a.)
+LOCALIZACIÓN: [J]; 10a. Época; 2a. Sala; Gaceta S.J.F.; Libro 42, Mayo de 2017; Tomo I; Pág. 694
+INSTANCIA: Segunda Sala (S.C.J.N.)
+ÉPOCA: 10a. Época
+FECHA DE PUBLICACIÓN: 2017-05-26T10:31:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2014347
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: El supuesto jurídico que resuelve es la procedencia del derecho a la prima de antigüedad para los trabajadores del organismo público denominado "Servicios de Educación Pública Descentralizada del Estado de Sinaloa". El criterio establecido es que estos trabajadores no tienen derecho al pago de prima de antigüedad, lo que implica que su condición como empleados de un organismo público descentralizado estatal los excluye de este beneficio que sí corresponde a los trabajadores sujetos al régimen de la ley laboral federal o local aplicable.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2014347

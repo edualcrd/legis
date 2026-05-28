@@ -1,0 +1,20 @@
+RUBRO: COMPETENCIA EN MATERIA LABORAL. SI UN TRIBUNAL SE DECLARA INCOMPETENTE PARA CONOCER DE UN ASUNTO CUYA COMPETENCIA FUE DECLINADA ORIGINALMENTE POR UN DIVERSO ÓRGANO JURISDICCIONAL, NO PUEDE ENVIARLO A UN TERCER ÓRGANO QUE CONSIDERE COMPETENTE, SINO QUE DEBE REMITIRLO AL TRIBUNAL COLEGIADO DE CIRCUITO QUE DEBA DECIDIR EL CONFLICTO COMPETENCIAL.
+
+CLAVE DE TESIS: 2a./J. 83/2024 (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; 2a. Sala; Gaceta S.J.F.; Libro 42, Octubre de 2024; Tomo III, Volumen 1; Pág. 327
+INSTANCIA: Segunda Sala (S.C.J.N.)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2024-10-18T10:28:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2029440
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: Cuando un tribunal se declara incompetente para conocer de un asunto cuya competencia fue previamente declinada por otro órgano jurisdiccional, surge un conflicto competencial que no puede resolverse remitiendo el caso a un tercer tribunal que se considere competente, sino que debe ser enviado al Tribunal Colegiado de Circuito correspondiente para que resuelva el conflicto de competencia entre los órganos jurisdiccionales involucrados. Este criterio establece que la solución a los conflictos competenciales en materia laboral requiere la intervención de la autoridad competente para dirimir tales controversias, evitando que los tribunales de primera instancia resuelvan por sí mismos dónde debe radicarse el conocimiento del asunto.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2029440

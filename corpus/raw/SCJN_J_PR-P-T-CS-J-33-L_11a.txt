@@ -1,0 +1,20 @@
+RUBRO: AMPARO INDIRECTO. ES IMPROCEDENTE CONTRA LA DETERMINACIÓN DEL CENTRO FEDERAL DE CONCILIACIÓN Y REGISTRO LABORAL QUE TIENE POR DEPOSITADA Y REGISTRADA EL ACTA DE RENDICIÓN DE CUENTAS SINDICALES.
+
+CLAVE DE TESIS: PR.P.T.CS. J/33 L (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; Plenos Regionales; Gaceta S.J.F.; Libro 46, Febrero de 2025; Tomo IV, Volumen 1; Pág. 548
+INSTANCIA: PLENO REGIONAL EN MATERIAS PENAL Y DE TRABAJO DE LA REGIÓN CENTRO-SUR, CON RESIDENCIA EN LA CIUDAD DE MÉXICO. (Plenos Regionales)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2025-02-28T10:30:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2029999
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: El amparo indirecto resulta improcedente cuando se interpone en contra de la determinación del Centro Federal de Conciliación y Registro Laboral que declara depositada y registrada el acta de rendición de cuentas sindicales, toda vez que tal acto administrativo no causa un daño directo, inmediato e irreparable a los derechos de los quejosos, sino que constituye un acto de mero trámite que forma parte de un procedimiento administrativo más amplio cuya consumación depende de actos posteriores, por lo que la vía del amparo indirecto no es la idónea para controvertir este tipo de determinaciones.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2029999

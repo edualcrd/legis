@@ -1,0 +1,20 @@
+RUBRO: INTERESES GENERADOS CONFORME AL ARTÍCULO 48, TERCER PÁRRAFO, DE LA LEY FEDERAL DEL TRABAJO. FORMA DE CUANTIFICARLOS.
+
+CLAVE DE TESIS: PC.I.L. J/21 L (10a.)
+LOCALIZACIÓN: [J]; 10a. Época; Plenos de Circuito; Gaceta S.J.F.; Libro 33, Agosto de 2016; Tomo III; Pág. 1911
+INSTANCIA: PLENO EN MATERIA DE TRABAJO DEL PRIMER CIRCUITO. (Plenos de Circuito)
+ÉPOCA: 10a. Época
+FECHA DE PUBLICACIÓN: 2016-08-05T10:05:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2012194
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: El supuesto jurídico que resuelve es la determinación de la forma correcta de cuantificar los intereses generados por prestaciones laborales conforme al artículo 48, tercer párrafo, de la Ley Federal del Trabajo. El criterio establecido establece la metodología específica para calcular dichos intereses, asegurando que se aplique adecuadamente la disposición legal que regula los intereses sobre las prestaciones de seguridad social y otras prestaciones que genera el patrón. Esta jurisprudencia precisa cómo deben computarse los intereses a fin de garantizar el cumplimiento correcto de las obligaciones patronales en materia de prestaciones laborales conforme al artículo 48, tercer párrafo, de la Ley Federal del Trabajo.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2012194

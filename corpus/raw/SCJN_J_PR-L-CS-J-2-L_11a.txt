@@ -1,0 +1,20 @@
+RUBRO: OFRECIMIENTO DE TRABAJO. PARA DETERMINAR SI EL PATRÓN INCURRIÓ EN UNA CONDUCTA PROCESAL INDEBIDA Y PARA SU CALIFICACIÓN RESULTA INSUFICIENTE, PER SE, QUE EN LA DILIGENCIA DE REINSTALACIÓN SE OMITA PONER A DISPOSICIÓN DEL TRABAJADOR LAS HERRAMIENTAS Y/O UTENSILIOS NECESARIOS PARA EL DESEMPEÑO DE SUS LABORES.
+
+CLAVE DE TESIS: PR.L.CS. J/2 L (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; Plenos Regionales; Gaceta S.J.F.; Libro 24, Abril de 2023; Tomo III; Pág. 2226
+INSTANCIA: PLENO REGIONAL EN MATERIA DE TRABAJO DE LA REGIÓN CENTRO-SUR, CON RESIDENCIA EN LA CIUDAD DE MÉXICO. (Plenos Regionales)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2023-04-14T10:18:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2026248
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: El supuesto jurídico que resuelve este criterio es la determinación de si el patrón incurre en conducta procesal indebida cuando durante la diligencia de reinstalación omite poner a disposición del trabajador las herramientas y utensilios necesarios para desempeñar sus labores. El criterio establecido señala que la sola omisión de proporcionar tales herramientas y utensilios resulta insuficiente, por sí misma, para calificar la conducta patronal como indebida en términos procesales, lo que implica que se requiere un análisis más profundo de las circunstancias del caso para determinar si existe una verdadera intención de incumplir con la reinstalación o si se trata de una situación que no configura necesariamente una conducta procesal reprobable.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2026248

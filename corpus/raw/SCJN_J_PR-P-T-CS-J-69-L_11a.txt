@@ -1,0 +1,20 @@
+RUBRO: COMPETENCIA POR RAZÓN DE FUERO PARA CONOCER DE CONTROVERSIAS LABORALES ENTRE UNA EMPRESA DEDICADA A LA DISTRIBUCIÓN Y COMERCIALIZACIÓN DE CERVEZA, PERO NO A SU PRODUCCIÓN, Y SUS TRABAJADORES. CORRESPONDE A LOS TRIBUNALES LABORALES LOCALES.
+
+CLAVE DE TESIS: PR.P.T.CS. J/69 L (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; Plenos Regionales; Gaceta S.J.F.; Libro 53, Septiembre de 2025; Tomo I, Volumen 1; Pág. 567
+INSTANCIA: PLENO REGIONAL EN MATERIAS PENAL Y DE TRABAJO DE LA REGIÓN CENTRO-SUR, CON RESIDENCIA EN LA CIUDAD DE MÉXICO. (Plenos Regionales)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2025-09-05T10:14:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2031143
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: La controversia laboral entre una empresa dedicada a la distribución y comercialización de cerveza y sus trabajadores debe ser conocida por los tribunales laborales locales, ya que aunque la empresa opera en el sector cervecero, su actividad no constituye producción de cerveza sino únicamente distribución y comercialización, lo que excluye la competencia federal que corresponde a las empresas productoras. El criterio establece que la competencia por razón de fuero se determina conforme a la naturaleza de la actividad económica principal de la empresa, siendo determinante que la distribución y comercialización no generan la competencia federal reservada para la industria productiva cervecera, por lo que estas controversias deben ser resueltas por la jurisdicción laboral local.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2031143

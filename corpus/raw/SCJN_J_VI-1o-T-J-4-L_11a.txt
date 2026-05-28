@@ -1,0 +1,20 @@
+RUBRO: PRESCRIPCIÓN DE LA ACCIÓN DE DESIGNACIÓN DE BENEFICIARIOS EN MATERIA LABORAL BUROCRÁTICA. SU ESTUDIO OFICIOSO POR EL TRIBUNAL DE ARBITRAJE DEL ESTADO DE PUEBLA ES IMPROCEDENTE.
+
+CLAVE DE TESIS: VI.1o.T. J/4 L (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; T.C.C.; Gaceta S.J.F.; Libro 34, Febrero de 2024; Tomo V; Pág. 4421
+INSTANCIA: PRIMER TRIBUNAL COLEGIADO EN MATERIA DE TRABAJO DEL SEXTO CIRCUITO. (T.C.C.)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2024-02-09T10:11:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2028173
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: La prescripción de la acción para designar beneficiarios en materia laboral burocrática constituye una cuestión que debe ser alegada y probada por la parte interesada, siendo improcedente que el tribunal de arbitraje del Estado de Puebla la estudie de oficio, ya que se trata de un derecho disponible que corresponde exclusivamente al trabajador ejercitar dentro de los plazos establecidos por la ley, sin que la autoridad jurisdiccional pueda suplir la inactividad de las partes en este aspecto.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2028173

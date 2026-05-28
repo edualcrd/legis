@@ -1,0 +1,20 @@
+RUBRO: PARTICIPACIÓN DE LOS TRABAJADORES EN LAS UTILIDADES. EL ARTÍCULO 127, FRACCIÓN VIII, DE LA LEY FEDERAL DEL TRABAJO NO VIOLA EL PRINCIPIO DE IRRETROACTIVIDAD DE LA LEY NI EL DERECHO DE PARTICIPACIÓN EN LAS UTILIDADES DE LA FUENTE DE TRABAJO.
+
+CLAVE DE TESIS: 2a./J. 66/2024 (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; 2a. Sala; Gaceta S.J.F.; Libro 40, Agosto de 2024; Tomo IV, Volumen 1; Pág. 531
+INSTANCIA: Segunda Sala (S.C.J.N.)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2024-08-23T10:31:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2029329
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: El supuesto jurídico que resuelve es si el artículo 127, fracción VIII, de la Ley Federal del Trabajo viola el principio de irretroactividad de la ley o el derecho de participación en las utilidades de la fuente de trabajo. El criterio establecido es que dicha disposición no transgrede tales principios, ya que la regulación de la participación de los trabajadores en las utilidades puede establecer condiciones y limitaciones sin afectar el derecho fundamental mismo, siempre que se respete la naturaleza y esencia de este derecho. El artículo 127, fracción VIII, de la Ley Federal del Trabajo es la norma que se analiza en este criterio.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2029329

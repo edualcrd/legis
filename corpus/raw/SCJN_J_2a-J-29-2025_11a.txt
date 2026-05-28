@@ -1,0 +1,20 @@
+RUBRO: PENSIONES OTORGADAS POR EL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO. PLAZO PARA RECLAMAR EN AMPARO LA RESOLUCIÓN QUE LAS SUSPENDE, MODIFICA O RESTRINGE.
+
+CLAVE DE TESIS: 2a./J. 29/2025 (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; 2a. Sala; Gaceta S.J.F.; Libro 52, Agosto de 2025; Tomo II, Volumen 1; Pág. 1270
+INSTANCIA: Segunda Sala (S.C.J.N.)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2025-08-08T10:16:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2030852
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: La suspensión, modificación o restricción de pensiones otorgadas por el Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado constituye un acto de autoridad susceptible de ser impugnado mediante juicio de amparo, debiendo el afectado ejercitar esta acción dentro del plazo establecido por la ley para cuestionar tales resoluciones administrativas que afecten derechos ya reconocidos y en ejercicio, siendo que el criterio jurisprudencial establece que el término para promover el amparo corre a partir de la notificación de la resolución que suspende, modifica o restringe la pensión, sin que la condición de pensionado del trabajador estatal exima al Instituto de cumplir con los requisitos procedimentales y sustantivos que la ley exige para tales actos.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2030852

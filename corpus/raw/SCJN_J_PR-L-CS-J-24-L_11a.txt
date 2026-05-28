@@ -1,0 +1,20 @@
+RUBRO: CONFLICTOS LABORALES SUSCITADOS ENTRE EL CONSEJO DE LA JUDICATURA DEL ESTADO DE JALISCO Y SUS TRABAJADORES. PARA RESOLVERLOS ES APLICABLE LA LEY PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS.
+
+CLAVE DE TESIS: PR.L.CS. J/24 L (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; Plenos Regionales; Gaceta S.J.F.; Libro 26, Junio de 2023; Tomo V; Pág. 5041
+INSTANCIA: PLENO REGIONAL EN MATERIA DE TRABAJO DE LA REGIÓN CENTRO-SUR, CON RESIDENCIA EN LA CIUDAD DE MÉXICO. (Plenos Regionales)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2023-06-30T10:36:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2026800
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: Los conflictos laborales que surjan entre el Consejo de la Judicatura del Estado de Jalisco y sus trabajadores deben resolverse conforme a la Ley para los Servidores Públicos del Estado de Jalisco y sus Municipios, y no bajo el régimen de la legislación laboral ordinaria, toda vez que los empleados de dicho órgano revisten la calidad de servidores públicos estatales sujetos a un régimen jurídico especial que deroga la aplicación de las normas generales del derecho laboral, estableciéndose así que la competencia y los procedimientos para dirimir tales controversias deben ajustarse a lo dispuesto en la normatividad específica que rige a los servidores públicos de la entidad federativa.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2026800

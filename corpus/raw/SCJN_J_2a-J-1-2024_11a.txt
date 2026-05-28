@@ -1,0 +1,20 @@
+RUBRO: CONFLICTOS INDIVIDUALES DE SEGURIDAD SOCIAL. EL OTORGAMIENTO O LA NEGATIVA DE PENSIÓN DE LA RAMA DEL SEGURO DE RIESGOS DE TRABAJO EXPEDIDOS POR EL INSTITUTO MEXICANO DEL SEGURO SOCIAL, ES UN REQUISITO PREVIO A LA PROMOCIÓN DE UN JUICIO DE ESA NATURALEZA EN EL QUE SE RECLAME EL PAGO DE ESA PENSIÓN.
+
+CLAVE DE TESIS: 2a./J. 1/2024 (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; 2a. Sala; Gaceta S.J.F.; Libro 34, Febrero de 2024; Tomo II; Pág. 1667
+INSTANCIA: Segunda Sala (S.C.J.N.)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2024-02-09T10:11:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2028150
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: El otorgamiento o la negativa de pensión de la rama del seguro de riesgos de trabajo expedidos por el Instituto Mexicano del Seguro Social constituye un requisito previo indispensable para que un trabajador pueda promover un conflicto individual de seguridad social en el que reclame el pago de dicha prestación. El criterio establece que no es posible accionar judicialmente para exigir una pensión por riesgos de trabajo sin que previamente el Instituto haya emitido una resolución expresa, ya sea otorgando o negando la pensión, lo que permite que el trabajador tenga un acto administrativo concreto que impugnar ante los tribunales competentes.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2028150

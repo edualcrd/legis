@@ -1,0 +1,20 @@
+RUBRO: CERTIFICADOS MÉDICOS EXHIBIDOS ANTE LAS JUNTAS DE CONCILIACIÓN Y ARBITRAJE PARA EFECTOS DEL ARTÍCULO 785 DE LA LEY FEDERAL DEL TRABAJO VIGENTE A PARTIR DEL 1 DE DICIEMBRE DEL 2012. SON VÁLIDOS AUNQUE NO ESPECIFIQUEN EL NOMBRE DE LA INSTITUCIÓN QUE OTORGÓ EL TÍTULO PROFESIONAL AL MÉDICO PARTICULAR QUE LOS EMITIÓ.
+
+CLAVE DE TESIS: 2a./J. 152/2017 (10a.)
+LOCALIZACIÓN: [J]; 10a. Época; 2a. Sala; Gaceta S.J.F.; Libro 49, Diciembre de 2017; Tomo I; Pág. 581
+INSTANCIA: Segunda Sala (S.C.J.N.)
+ÉPOCA: 10a. Época
+FECHA DE PUBLICACIÓN: 2017-12-01T10:13:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2015768
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: Los certificados médicos presentados ante las juntas de conciliación y arbitraje conforme al artículo 785 de la Ley Federal del Trabajo vigente a partir del 1 de diciembre de 2012 son válidos aunque no especifiquen el nombre de la institución que otorgó el título profesional al médico particular que los emitió, siempre que conste la cédula profesional del médico y se acredite su capacidad para expedir tales documentos. El criterio establece que la omisión de la institución educativa que expidió el título profesional no invalida el certificado médico, ya que lo relevante es verificar que el médico cuente con cédula profesional válida y esté legitimado para emitir tales documentos. Esta interpretación flexibiliza los requisitos formales de los certificados médicos sin comprometer la validez probatoria de los mismos en los procedimientos laborales.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2015768

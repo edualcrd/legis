@@ -1,0 +1,20 @@
+RUBRO: MUJERES TRABAJADORAS DE CONFIANZA AL SERVICIO DEL ESTADO QUE HUBIEREN SIDO DESPEDIDAS CON MOTIVO DE SU ESTADO DE EMBARAZO O DURANTE EL PERIODO DE POSTPARTO O LACTANCIA. ES PROCEDENTE SU REINSTALACIÓN EN EL EMPLEO Y EL PAGO DE SALARIOS CAÍDOS.
+
+CLAVE DE TESIS: PC.I.L. J/76 L (10a.)
+LOCALIZACIÓN: [J]; 11a. Época; Plenos de Circuito; Gaceta S.J.F.; Libro 1, Mayo de 2021; Tomo II; Pág. 2201
+INSTANCIA: PLENO EN MATERIA DE TRABAJO DEL PRIMER CIRCUITO. (Plenos de Circuito)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2021-05-14T10:19:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2023113
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: Las mujeres trabajadoras de confianza al servicio del Estado que sean despedidas por causa de su estado de embarazo o durante los períodos de postparto o lactancia tienen derecho a ser reinstaladas en su empleo y a recibir el pago de los salarios caídos, reconociendo que tales despidos constituyen actos discriminatorios y violatorios de sus derechos fundamentales, independientemente de su condición de trabajadoras de confianza. El criterio establece que la protección contra el despido por maternidad es un derecho irrenunciable que prevalece sobre cualquier otra consideración laboral, incluyendo la naturaleza de la relación de trabajo, y que la reinstalación y la compensación salarial son las medidas procedentes para reparar el daño causado por tales despidos injustificados.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2023113

@@ -1,0 +1,20 @@
+RUBRO: JUICIO LABORAL BUROCRÁTICO QUE SE RESUELVE EN UN TÉRMINO MAYOR A 6 MESES. AL NO PREVER LA LEY DEL SERVICIO CIVIL DEL ESTADO DE MORELOS UNA SANCIÓN PARA ESTE CASO, DEBE APLICARSE SUPLETORIAMENTE EL ARTÍCULO 48, PÁRRAFO TERCERO, DE LA LEY FEDERAL DEL TRABAJO E INDEMNIZAR AL TRABAJADOR POR DICHA TARDANZA.
+
+CLAVE DE TESIS: XVIII.1o.T. J/2 (10a.)
+LOCALIZACIÓN: [J]; 10a. Época; T.C.C.; Gaceta S.J.F.; Libro 53, Abril de 2018; Tomo III; Pág. 1832
+INSTANCIA: PRIMER TRIBUNAL COLEGIADO EN MATERIA DE TRABAJO DEL DÉCIMO OCTAVO CIRCUITO. (T.C.C.)
+ÉPOCA: 10a. Época
+FECHA DE PUBLICACIÓN: 2018-04-20T10:24:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2016661
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: Cuando un juicio laboral burocrático se resuelve en un término mayor a seis meses y la ley local aplicable no prevé sanción alguna por esta tardanza, debe aplicarse supletoriamente el artículo 48, párrafo tercero, de la Ley Federal del Trabajo, el cual establece que el patrón debe indemnizar al trabajador por los daños y perjuicios derivados de la demora en la resolución del conflicto laboral. Este criterio reconoce que la falta de regulación específica en la legislación estatal no puede dejar sin protección al trabajador burocrático, por lo que la norma federal actúa como mecanismo supletorio para garantizar la reparación del daño causado por la dilación procesal injustificada.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2016661

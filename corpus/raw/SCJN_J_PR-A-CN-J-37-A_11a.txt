@@ -1,0 +1,20 @@
+RUBRO: PENSIONES DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO (ISSSTE). LAS OTORGADAS CON ANTERIORIDAD AL INICIO DE LA VIGENCIA DEL DECRETO POR EL QUE SE DECLARAN REFORMADAS Y ADICIONADAS DIVERSAS DISPOSICIONES DE LA CONSTITUCIÓN POLÍTICA DE LOS ESTADOS UNIDOS MEXICANOS, EN MATERIA DE DESINDEXACIÓN DEL SALARIO MÍNIMO, PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACIÓN EL 27 DE ENERO DE 2016, DEBEN CUANTIFICARSE CON BASE EN EL VALOR DE LA UNIDAD DE MEDIDA Y ACTUALIZACIÓN (UMA) Y NO EN EL SALARIO MÍNIMO.
+
+CLAVE DE TESIS: PR.A.CN. J/37 A (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; Plenos Regionales; Gaceta S.J.F.; Libro 32, Diciembre de 2023; Tomo III; Pág. 3166
+INSTANCIA: PLENO REGIONAL EN MATERIA ADMINISTRATIVA DE LA REGIÓN CENTRO-NORTE, CON RESIDENCIA EN LA CIUDAD DE MÉXICO. (Plenos Regionales)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2023-12-01T10:13:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2027745
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: Las pensiones del ISSSTE otorgadas antes de la entrada en vigor del decreto de desindexación del salario mínimo publicado el 27 de enero de 2016 deben cuantificarse utilizando la Unidad de Medida y Actualización (UMA) en lugar del salario mínimo, estableciendo así que la reforma constitucional en materia de desindexación se aplica retroactivamente a las prestaciones pensionarias ya concedidas, modificando la base de cálculo de estas prestaciones conforme al nuevo parámetro establecido por la reforma.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2027745

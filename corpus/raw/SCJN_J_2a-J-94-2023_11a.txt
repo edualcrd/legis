@@ -1,0 +1,20 @@
+RUBRO: SUBCONTRATACIÓN LABORAL. LA RESPONSABILIDAD SOLIDARIA QUE SE ATRIBUYE AL BENEFICIARIO DE LOS SERVICIOS DE SUBCONTRATACIÓN EN CASO DE INCUMPLIMIENTO DE LAS OBLIGACIONES LABORALES Y DE SEGURIDAD SOCIAL POR PARTE DEL PRESTADOR DE LOS SERVICIOS, NO CONTRAVIENE LOS PRINCIPIOS DE CERTEZA Y DE SEGURIDAD JURÍDICA.
+
+CLAVE DE TESIS: 2a./J. 94/2023 (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; 2a. Sala; Gaceta S.J.F.; Libro 33, Enero de 2024; Tomo III; Pág. 2991
+INSTANCIA: Segunda Sala (S.C.J.N.)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2024-01-05T10:06:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2027946
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: La subcontratación laboral genera un supuesto en el que el beneficiario de los servicios puede ser responsable solidariamente por el incumplimiento de obligaciones laborales y de seguridad social del prestador de servicios, y este criterio no viola los principios de certeza y seguridad jurídica porque establece claramente quiénes son los obligados, en qué circunstancias surge la responsabilidad y cuáles son las consecuencias legales derivadas de tal incumplimiento, proporcionando así un marco normativo predecible y definido para las partes involucradas en relaciones de subcontratación.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2027946

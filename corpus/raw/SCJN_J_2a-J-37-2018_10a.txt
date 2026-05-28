@@ -1,0 +1,20 @@
+RUBRO: SUSPENSIÓN EN AMPARO INDIRECTO CONTRA LA EJECUCIÓN DE UN LAUDO. LA OBLIGACIÓN DE GARANTIZAR LA SUBSISTENCIA DEL TRABAJADOR MIENTRAS SE RESUELVE EL JUICIO DE AMPARO, NO ES EXIGIBLE AL TERCERO EXTRAÑO AL JUICIO LABORAL, SINO EN SU CASO, LA GARANTÍA A QUE SE REFIERE EL ARTÍCULO 132 DE LA LEY DE AMPARO.
+
+CLAVE DE TESIS: 2a./J. 37/2018 (10a.)
+LOCALIZACIÓN: [J]; 10a. Época; 2a. Sala; Gaceta S.J.F.; Libro 53, Abril de 2018; Tomo I; Pág. 822
+INSTANCIA: Segunda Sala (S.C.J.N.)
+ÉPOCA: 10a. Época
+FECHA DE PUBLICACIÓN: 2018-04-27T10:31:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2016697
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: La suspensión en amparo indirecto contra la ejecución de un laudo plantea el supuesto de si el tercero extraño al juicio laboral debe garantizar la subsistencia del trabajador mientras se resuelve el amparo. El criterio establecido es que tal obligación no recae sobre el tercero ajeno al proceso laboral, sino que en su caso procede la garantía prevista en el artículo 132 de la Ley de Amparo, que es el mecanismo legal aplicable para asegurar la efectividad de la suspensión sin imponer cargas desproporcionadas a quien no fue parte de la controversia laboral original.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2016697

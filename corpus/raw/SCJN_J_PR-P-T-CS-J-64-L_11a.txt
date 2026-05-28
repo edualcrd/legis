@@ -1,0 +1,20 @@
+RUBRO: RÉGIMEN DE JUBILACIONES Y PENSIONES DE LOS TRABAJADORES DEL INSTITUTO MEXICANO DEL SEGURO SOCIAL. EL PAGO DE DOS O MÁS PENSIONES A UNA SOLA PERSONA NO PUEDE REBASAR EL LÍMITE ESTABLECIDO EN SUS ARTÍCULOS 4 Y 5.
+
+CLAVE DE TESIS: PR.P.T.CS. J/64 L (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; Plenos Regionales; Gaceta S.J.F.; Libro 52, Agosto de 2025; Tomo III, Volumen 2; Pág. 1280
+INSTANCIA: PLENO REGIONAL EN MATERIAS PENAL Y DE TRABAJO DE LA REGIÓN CENTRO-SUR, CON RESIDENCIA EN LA CIUDAD DE MÉXICO. (Plenos Regionales)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2025-08-15T10:23:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2030966
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: El supuesto jurídico que resuelve es la acumulación de múltiples pensiones en favor de un mismo beneficiario dentro del régimen de jubilaciones y pensiones del Instituto Mexicano del Seguro Social. El criterio establecido establece que cuando una persona percibe dos o más pensiones simultáneamente, el monto total de las prestaciones no puede exceder los límites máximos establecidos en los artículos 4 y 5 del régimen aplicable, evitando así un enriquecimiento injustificado y garantizando la sostenibilidad del sistema de seguridad social.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2030966

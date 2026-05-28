@@ -1,0 +1,20 @@
+RUBRO: SALARIOS VENCIDOS. CÁLCULO DE LOS INTERESES QUE SE GENERAN UNA VEZ AGOTADO EL PERIODO DE 12 MESES DE AQUÉLLOS.
+
+CLAVE DE TESIS: 2a./J. 165/2016 (10a.)
+LOCALIZACIÓN: [J]; 10a. Época; 2a. Sala; Gaceta S.J.F.; Libro 37, Diciembre de 2016; Tomo I; Pág. 850
+INSTANCIA: Segunda Sala (S.C.J.N.)
+ÉPOCA: 10a. Época
+FECHA DE PUBLICACIÓN: 2016-12-09T10:21:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2013286
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: El supuesto jurídico que resuelve este rubro es la determinación de cómo calcular los intereses que se generan sobre los salarios vencidos después de que ha transcurrido un período de 12 meses desde su vencimiento. El criterio establecido es que una vez agotado el plazo de 12 meses contado desde el vencimiento de los salarios adeudados, los intereses que se generen sobre esta prestación deben calcularse conforme a las disposiciones legales aplicables para el pago de obligaciones vencidas, garantizando así que el trabajador reciba una compensación justa por el tiempo transcurrido sin percibir su remuneración.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2013286

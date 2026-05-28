@@ -1,0 +1,20 @@
+RUBRO: APORTACIONES PATRONALES EN LOS RAMOS DE CESANTÍA EN EDAD AVANZADA Y VEJEZ. LOS ELEMENTOS ESENCIALES PARA QUE LOS PATRONES LAS CALCULEN SE DESPRENDEN DE UN ANÁLISIS SISTEMÁTICO DE LA LEY DEL SEGURO SOCIAL.
+
+CLAVE DE TESIS: 2a./J. 61/2024 (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; 2a. Sala; Gaceta S.J.F.; Libro 40, Agosto de 2024; Tomo II, Volumen 1; Pág. 399
+INSTANCIA: Segunda Sala (S.C.J.N.)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2024-08-09T10:17:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2029231
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: Las aportaciones patronales en los ramos de cesantía en edad avanzada y vejez requieren que los patrones identifiquen correctamente los elementos esenciales para su cálculo, los cuales se derivan de un análisis sistemático e integral de la Ley del Seguro Social, considerando las disposiciones que regulan tanto la base de cotización como los porcentajes aplicables según la rama de aseguramiento de que se trate. El criterio establecido por la jurisprudencia determina que no es suficiente una interpretación aislada de disposiciones normativas, sino que es necesario realizar un análisis armónico de toda la legislación en materia de seguridad social para identificar correctamente cuáles son los componentes que deben considerarse en el cálculo de estas aportaciones obligatorias. Esta interpretación sistemática garantiza que los patrones cumplan adecuadamente con sus obligaciones contributivas sin incurrir en omisiones o errores que pudieran derivar en responsabilidades fiscales o laborales.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2029231

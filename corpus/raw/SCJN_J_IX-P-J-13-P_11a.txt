@@ -1,0 +1,20 @@
+RUBRO: PRISIÓN PREVENTIVA OFICIOSA. LA APLICACIÓN DEL TEST DE PROPORCIONALIDAD PARA RESOLVER RESPECTO DE SU IMPOSICIÓN, DE ACUERDO CON LO ORDENADO POR LA CORTE INTERAMERICANA DE DERECHOS HUMANOS EN EL CASO GARCÍA RODRÍGUEZ Y OTRO VS. MÉXICO, EN LAS ENTIDADES FEDERATIVAS CON UN MENOR NÚMERO DE PERSONAS SUJETAS A DICHA MEDIDA, NO REPRESENTA UNA INUSITADA CARGA DE TRABAJO PARA LOS OPERADORES DEL SISTEMA PENAL ACUSATORIO.
+
+CLAVE DE TESIS: IX.P. J/13 P (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; T.C.C.; Gaceta S.J.F.; Libro 32, Diciembre de 2023; Tomo IV; Pág. 3778
+INSTANCIA: TRIBUNAL COLEGIADO EN MATERIA PENAL DEL NOVENO CIRCUITO. (T.C.C.)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2023-12-01T10:13:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2027764
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: La prisión preventiva oficiosa en delitos graves requiere que los jueces apliquen un test de proporcionalidad conforme a los estándares establecidos por la Corte Interamericana de Derechos Humanos en el caso García Rodríguez y otro vs. México, criterio que establece que esta evaluación individualizada no constituye una carga de trabajo desproporcionada para los operadores del sistema penal acusatorio, particularmente en aquellas entidades federativas donde existe un menor número de personas sujetas a esta medida cautelar, permitiendo así conciliar la seguridad pública con el respeto a los derechos fundamentales de los imputados.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2027764

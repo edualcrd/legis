@@ -1,0 +1,20 @@
+RUBRO: PRESCRIPCIÓN DE LA ACCIÓN DE REINSTALACIÓN O INDEMNIZACIÓN POR DESPIDO INJUSTIFICADO DE LOS TRABAJADORES DEL INSTITUTO ELECTORAL DEL ESTADO DE MORELOS O DEL TRIBUNAL ESTATAL ELECTORAL. NORMA APLICABLE PARA RESOLVER LOS CONFLICTOS RELATIVOS.
+
+CLAVE DE TESIS: PC.XVIII.L. J/2 L (10a.)
+LOCALIZACIÓN: [J]; 10a. Época; Plenos de Circuito; Gaceta S.J.F.; Libro 36, Noviembre de 2016; Tomo III; Pág. 1925
+INSTANCIA: PLENO EN MATERIA DE TRABAJO DEL DECIMOCTAVO CIRCUITO. (Plenos de Circuito)
+ÉPOCA: 10a. Época
+FECHA DE PUBLICACIÓN: 2016-11-25T10:36:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2013164
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: La prescripción de la acción de reinstalación o indemnización por despido injustificado de los trabajadores del Instituto Electoral del Estado de Morelos o del Tribunal Estatal Electoral se rige por las normas aplicables a los servidores públicos estatales y no por la legislación laboral ordinaria, toda vez que estos organismos constituyen autoridades electorales cuyo personal tiene una naturaleza jurídica especial. El criterio establecido determina que los conflictos derivados del despido de estos trabajadores deben resolverse conforme a la normatividad específica que regula las relaciones de trabajo en el sector público estatal, considerando la estructura y funciones propias de las instituciones electorales, lo que implica la aplicación de plazos de prescripción distintos a los previstos para los trabajadores del sector privado.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2013164

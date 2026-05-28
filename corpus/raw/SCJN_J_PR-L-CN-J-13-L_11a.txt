@@ -1,0 +1,20 @@
+RUBRO: PROCEDIMIENTO DE EJECUCIÓN DE LAUDO BUROCRÁTICO. CORRESPONDE AL EJECUTANTE SU INICIO E IMPULSO DE LAS DILIGENCIAS TENDENTES A ESE OBJETIVO, EN TÉRMINOS DEL ARTÍCULO 145 DE LA LEY DEL SERVICIO CIVIL DE LOS TRABAJADORES AL SERVICIO DE LOS PODERES DEL ESTADO Y MUNICIPIOS DE BAJA CALIFORNIA Y LEGISLACIONES BUROCRÁTICAS SIMILARES DE DISTINTOS ESTADOS.
+
+CLAVE DE TESIS: PR.L.CN. J/13 L (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; Plenos Regionales; Gaceta S.J.F.; Libro 30, Octubre de 2023; Tomo III; Pág. 3519
+INSTANCIA: PLENO REGIONAL EN MATERIA DE TRABAJO DE LA REGIÓN CENTRO-NORTE, CON RESIDENCIA EN MONTERREY, NUEVO LEÓN. (Plenos Regionales)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2023-10-06T10:16:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2027396
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: El supuesto jurídico que resuelve este criterio es la determinación de quién tiene la responsabilidad de iniciar e impulsar el procedimiento de ejecución de un laudo burocrático una vez que ha sido dictado. El criterio establecido es que corresponde al ejecutante, es decir, a la parte que obtuvo una sentencia favorable en el procedimiento laboral burocrático, la carga de iniciar y promover todas las diligencias necesarias para lograr la ejecución del laudo, conforme a lo dispuesto en el artículo 145 de la Ley del Servicio Civil de los Trabajadores al Servicio de los Poderes del Estado y Municipios de Baja California y en legislaciones burocráticas similares de otros estados.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2027396

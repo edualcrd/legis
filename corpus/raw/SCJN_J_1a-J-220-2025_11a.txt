@@ -1,0 +1,20 @@
+RUBRO: LIBERTAD DE TRABAJO, AUTONOMÍA DE LA VOLUNTAD Y LIBRE CONTRATACIÓN. LA OBLIGACIÓN DE LOS CONCESIONARIOS DE DESIGNAR A UNA PERSONA INGENIERA RESPONSABLE PARA ASEGURAR EL CUMPLIMIENTO DE LAS NORMAS DE SEGURIDAD EN LAS MINAS, NO VULNERA DICHAS PRERROGATIVAS.
+
+CLAVE DE TESIS: 1a./J. 220/2025 (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; 1a. Sala; Gaceta S.J.F.; Libro 52, Agosto de 2025; Tomo V, Volumen 1; Pág. 814
+INSTANCIA: Primera Sala (S.C.J.N.)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2025-08-29T10:37:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2031100
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: La obligación impuesta a los concesionarios mineros de designar a una persona ingeniera responsable para garantizar el cumplimiento de las normas de seguridad en las minas constituye una medida regulatoria que, aunque limita la autonomía de la voluntad en la contratación, no vulnera la libertad de trabajo ni el derecho a la libre contratación, toda vez que se trata de una exigencia legal orientada a proteger la seguridad e integridad física de los trabajadores, objetivo que justifica constitucionalmente la restricción de dichas prerrogativas en el contexto de la actividad minera.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2031100

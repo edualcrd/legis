@@ -1,0 +1,20 @@
+RUBRO: SISTEMA DE AHORRO PARA EL RETIRO. FORMA DE DETERMINAR A QUIÉN CORRESPONDE EL MONTO CONSTITUTIVO DE LA CUENTA INDIVIDUAL (ESTABLECIMIENTO DE BENEFICIARIOS), EN CASO DEL FALLECIMIENTO DEL TRABAJADOR TITULAR.
+
+CLAVE DE TESIS: PC.I.L. J/30 L (10a.)
+LOCALIZACIÓN: [J]; 10a. Época; Plenos de Circuito; Gaceta S.J.F.; Libro 44, Julio de 2017; Tomo I; Pág. 850
+INSTANCIA: PLENO EN MATERIA DE TRABAJO DEL PRIMER CIRCUITO. (Plenos de Circuito)
+ÉPOCA: 10a. Época
+FECHA DE PUBLICACIÓN: 2017-07-14T10:21:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2014760
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: En caso de fallecimiento del trabajador titular de una cuenta individual en el Sistema de Ahorro para el Retiro, la determinación de quién tiene derecho al monto constitutivo de dicha cuenta se realiza conforme a las reglas de establecimiento de beneficiarios previamente designados por el trabajador, y en ausencia de designación expresa, se aplican las disposiciones legales que establecen un orden sucesorio específico entre los posibles beneficiarios. El criterio jurisprudencial establece que la identificación del beneficiario debe realizarse de conformidad con lo que el propio trabajador haya manifestado en vida, respetando su voluntad testamentaria o las designaciones que haya formalizado ante la institución administradora, y solo en defecto de tales designaciones se acude al orden legal de sucesión establecido por la ley.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2014760

@@ -1,0 +1,20 @@
+RUBRO: INDEMNIZACIÓN POR RIESGO DE TRABAJO. TRATÁNDOSE DE TRABAJADORES DE CONFIANZA DE PETRÓLEOS MEXICANOS JUBILADOS CON ANTERIORIDAD A LA DETERMINACIÓN DEL GRADO DE INCAPACIDAD POR RIESGO, SÓLO SE TOMARÁN EN CUENTA LOS INCREMENTOS AL SALARIO GENERADOS HASTA EL MOMENTO EN QUE CONCLUYÓ LA RELACIÓN LABORAL.
+
+CLAVE DE TESIS: 2a./J. 97/2018 (10a.)
+LOCALIZACIÓN: [J]; 10a. Época; 2a. Sala; Gaceta S.J.F.; Libro 58, Septiembre de 2018; Tomo I; Pág. 987
+INSTANCIA: Segunda Sala (S.C.J.N.)
+ÉPOCA: 10a. Época
+FECHA DE PUBLICACIÓN: 2018-09-21T10:30:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2017906
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: Cuando un trabajador de confianza de Petróleos Mexicanos se jubila antes de que se determine el grado de incapacidad derivada de un riesgo de trabajo, la indemnización correspondiente se calcula considerando únicamente los incrementos salariales que se generaron hasta la fecha en que terminó la relación laboral, excluyendo cualquier aumento posterior a la jubilación. Este criterio establece que el salario base para el cálculo de la indemnización por riesgo de trabajo no puede incluir incrementos que ocurrieron después de la conclusión de la relación laboral, limitando así el monto indemnizatorio al salario efectivamente devengado durante el período de vigencia del contrato de trabajo.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2017906

@@ -1,0 +1,20 @@
+RUBRO: COMPETENCIA PARA CONOCER DE LOS CONFLICTOS LABORALES SUSCITADOS ENTRE LA UNIVERSIDAD TECNOLÓGICA DE NOGALES, SONORA Y SUS TRABAJADORES, CON ANTERIORIDAD A LA ENTRADA EN VIGOR DEL NUEVO SISTEMA DE JUSTICIA LABORAL EN EL ESTADO. CORRESPONDE A LA JUNTA ESPECIAL DE CONCILIACIÓN Y ARBITRAJE DEL NORESTE DEL ESTADO DE SONORA, CON SEDE EN NOGALES.
+
+CLAVE DE TESIS: PR.P.T.CN. J/2 L (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; Plenos Regionales; Gaceta S.J.F.; Libro 36, Abril de 2024; Tomo III; Pág. 2706
+INSTANCIA: PLENO REGIONAL EN MATERIAS PENAL Y DE TRABAJO DE LA REGIÓN CENTRO-NORTE, CON RESIDENCIA EN LA CIUDAD DE MÉXICO. (Plenos Regionales)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2024-04-19T10:23:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2028613
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: La competencia para conocer de los conflictos laborales suscitados entre la Universidad Tecnológica de Nogales, Sonora y sus trabajadores con anterioridad a la entrada en vigor del nuevo sistema de justicia laboral en la entidad se determina conforme a las reglas de competencia territorial y material vigentes al momento de la promoción de la demanda, correspondiendo a la Junta Especial de Conciliación y Arbitraje del Noreste del Estado de Sonora, con sede en Nogales, el conocimiento de tales controversias en razón de que dicha institución educativa se encuentra ubicada en la jurisdicción territorial de esa junta y la materia es laboral, criterio que atiende al principio de que la competencia se determina por las circunstancias existentes al momento de la interposición de la demanda y no por cambios legislativos posteriores que modifiquen el sistema de impartición de justicia laboral.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2028613

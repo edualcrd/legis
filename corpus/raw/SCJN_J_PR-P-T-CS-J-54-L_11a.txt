@@ -1,0 +1,20 @@
+RUBRO: SALARIOS CAÍDOS DE LOS TRABAJADORES AL SERVICIO DEL ESTADO, O DE EMPRESAS PRODUCTIVAS O PÚBLICAS DEL ESTADO. AL CUANTIFICARLOS DEBEN DESCONTARSE LOS PERCIBIDOS CON MOTIVO DE UNA DIVERSA CONTRATACIÓN CON LA MISMA ENTIDAD, DURANTE EL PERIODO QUE ABARCA LA CONDENA [ABANDONO DE LA JURISPRUDENCIA PR.P.T.CS. J/1 L (11a.)].
+
+CLAVE DE TESIS: PR.P.T.CS. J/54 L (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; Plenos Regionales; Gaceta S.J.F.; Libro 50, Junio de 2025; Tomo IV, Volumen 2; Pág. 1246
+INSTANCIA: PLENO REGIONAL EN MATERIAS PENAL Y DE TRABAJO DE LA REGIÓN CENTRO-SUR, CON RESIDENCIA EN LA CIUDAD DE MÉXICO. (Plenos Regionales)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2025-06-27T10:33:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2030657
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: Cuando se condena al pago de salarios caídos a trabajadores al servicio del Estado o de empresas productivas o públicas del Estado, la cuantificación de estos debe incluir el descuento de los salarios que el trabajador haya percibido durante el mismo período por concepto de una diversa contratación con la misma entidad empleadora, evitando así un enriquecimiento injustificado del trabajador al cobrar dos remuneraciones simultáneamente por servicios prestados a la misma institución. Este criterio modifica la jurisprudencia anterior que no contemplaba tal descuento, estableciendo que la reparación del daño debe ser equitativa y proporcional a la efectiva privación de ingresos sufrida.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2030657

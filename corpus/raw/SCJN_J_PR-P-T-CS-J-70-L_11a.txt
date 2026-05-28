@@ -1,0 +1,20 @@
+RUBRO: NOTIFICACIÓN POR BUZÓN ELECTRÓNICO EN EL JUICIO LABORAL. MOMENTO EN EL QUE SURTE EFECTOS.
+
+CLAVE DE TESIS: PR.P.T.CS. J/70 L (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; Plenos Regionales; Gaceta S.J.F.; Libro 53, Septiembre de 2025; Tomo III, Volumen 1; Pág. 567
+INSTANCIA: PLENO REGIONAL EN MATERIAS PENAL Y DE TRABAJO DE LA REGIÓN CENTRO-SUR, CON RESIDENCIA EN LA CIUDAD DE MÉXICO. (Plenos Regionales)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2025-09-19T10:28:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2031260
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: La notificación realizada a través del buzón electrónico en el procedimiento laboral surte efectos en el momento en que el destinatario accede a la plataforma y consulta el documento notificado, no desde el envío del mismo, estableciéndose así que la efectividad de la diligencia depende del acto de consulta y no de la mera transmisión del aviso, lo que garantiza que la parte tenga conocimiento real de las actuaciones procesales y pueda ejercer oportunamente sus derechos de defensa dentro del juicio laboral.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2031260

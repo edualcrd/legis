@@ -1,0 +1,20 @@
+RUBRO: JUSTICIA LABORAL. LOS ÓRGANOS JURISDICCIONALES DEBEN APLICAR E INTERPRETAR LAS CUESTIONES DE LEGALIDAD ORDINARIA SIN DESATENDER LOS MANDATOS CONSTITUCIONALES Y CONVENCIONALES, CON EL FIN DE ADOPTAR UNA SOLUCIÓN DEL CASO CONCRETO QUE PERMITA ARMONIZAR, CUMPLIR Y RESPETAR EL CONTENIDO DE LOS DERECHOS HUMANOS QUE SEAN APLICABLES.
+
+CLAVE DE TESIS: I.5o.T. J/7 L (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; T.C.C.; Gaceta S.J.F.; Libro 22, Febrero de 2023; Tomo III; Pág. 3300
+INSTANCIA: QUINTO TRIBUNAL COLEGIADO EN MATERIA DE TRABAJO DEL PRIMER CIRCUITO. (T.C.C.)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2023-02-03T10:05:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2025902
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: Los órganos jurisdiccionales en materia laboral deben resolver las cuestiones de legalidad ordinaria considerando simultáneamente los mandatos constitucionales y convencionales, de modo que la interpretación y aplicación de las normas ordinarias se realice de manera armónica con los derechos humanos aplicables al caso concreto. El criterio establece que la solución jurisdiccional debe permitir el cumplimiento y respeto integral de los derechos humanos, evitando que la aplicación literal de la ley ordinaria vulnere o desatienda los estándares constitucionales y convencionales que rigen la materia laboral.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2025902

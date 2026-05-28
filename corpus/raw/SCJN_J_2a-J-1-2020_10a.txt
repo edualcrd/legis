@@ -1,0 +1,20 @@
+RUBRO: AGUINALDO. PROCEDE SU PAGO AUN CUANDO NO SE DEMANDE EXPRESAMENTE, SI PROSPERA LA ACCIÓN DE REINSTALACIÓN.
+
+CLAVE DE TESIS: 2a./J. 1/2020 (10a.)
+LOCALIZACIÓN: [J]; 10a. Época; 2a. Sala; Gaceta S.J.F.; Libro 75, Febrero de 2020; Tomo I; Pág. 725
+INSTANCIA: Segunda Sala (S.C.J.N.)
+ÉPOCA: 10a. Época
+FECHA DE PUBLICACIÓN: 2020-02-07T10:09:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2021557
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: Cuando el trabajador demanda su reinstalación en el empleo y esta acción prospera, el patrón se encuentra obligado al pago del aguinaldo correspondiente al año en que ocurrió el despido, aun cuando el trabajador no haya formulado expresamente esta prestación en sus petitorios. El criterio establece que la reinstalación implica la continuidad de la relación laboral y, por tanto, genera el derecho a todas las prestaciones inherentes a dicha relación, incluyendo el aguinaldo, sin necesidad de que sea demandado de forma específica. Esta obligación surge de pleno derecho como consecuencia de la sentencia que ordena la reinstalación, independientemente de que haya sido o no materia de la demanda original.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2021557

@@ -1,0 +1,20 @@
+RUBRO: CONFLICTO COMPETENCIAL EN MATERIA LABORAL SUSCITADO ENTRE AUTORIDADES DE NATURALEZA ADMINISTRATIVA O JURISDICCIONAL. POR RAZÓN DE TERRITORIO SU CONOCIMIENTO CORRESPONDE AL TRIBUNAL COLEGIADO DE CIRCUITO QUE EJERZA JURISDICCIÓN SOBRE EL ÓRGANO QUE PREVINO EN EL CONOCIMIENTO DEL ASUNTO.
+
+CLAVE DE TESIS: X.1o.T. J/2 L (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; T.C.C.; Gaceta S.J.F.; Libro 17, Septiembre de 2022; Tomo V; Pág. 4750
+INSTANCIA: PRIMER TRIBUNAL COLEGIADO EN MATERIA DE TRABAJO DEL DÉCIMO CIRCUITO. (T.C.C.)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2022-09-02T10:11:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2025182
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: Cuando surge un conflicto de competencia en materia laboral entre autoridades administrativas o jurisdiccionales por razón de territorio, el conocimiento de dicho conflicto corresponde al Tribunal Colegiado de Circuito que ejerce jurisdicción sobre la autoridad que previno en el conocimiento del asunto, es decir, aquella que se avocó primero al conocimiento de la controversia. Este criterio establece un mecanismo de resolución de conflictos competenciales que privilegia la jurisdicción territorial del órgano que asumió la competencia de manera inicial, evitando así la duplicidad de procedimientos y garantizando una resolución ordenada de las controversias laborales.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2025182

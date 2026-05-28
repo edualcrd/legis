@@ -1,0 +1,20 @@
+RUBRO: PRIMA DE ANTIGÜEDAD Y RECOMPENSA POR AÑOS DE SERVICIOS. SON PRESTACIONES LABORALES DE DISTINTA NATURALEZA, Y NO SON EQUIPARABLES ENTRE SÍ (LEGISLACIÓN DEL ESTADO DE DURANGO).
+
+CLAVE DE TESIS: XXV.3o. J/1 (10a.)
+LOCALIZACIÓN: [J]; 10a. Época; T.C.C.; Gaceta S.J.F.; Libro 73, Diciembre de 2019; Tomo II; Pág. 955
+INSTANCIA: TERCER TRIBUNAL COLEGIADO DEL VIGÉSIMO QUINTO CIRCUITO. (T.C.C.)
+ÉPOCA: 10a. Época
+FECHA DE PUBLICACIÓN: 2019-12-06T10:18:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2021247
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: La prima de antigüedad y la recompensa por años de servicios constituyen prestaciones laborales de naturaleza jurídica diferente que no pueden ser equiparadas ni confundidas entre sí, ya que cada una responde a fundamentos y finalidades distintos en el ordenamiento laboral duranguense. El criterio establece que ambas prestaciones tienen características propias que las distinguen, por lo que no es procedente considerarlas como equivalentes o intercambiables al momento de determinar los derechos y obligaciones de las partes en la relación laboral. Esta distinción es fundamental para garantizar que el trabajador reciba el reconocimiento y la protección que corresponde a cada prestación conforme a su propia regulación legal.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2021247

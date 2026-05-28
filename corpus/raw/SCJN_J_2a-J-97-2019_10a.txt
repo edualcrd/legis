@@ -1,0 +1,20 @@
+RUBRO: CADUCIDAD EN EL PROCEDIMIENTO LABORAL. PROCEDE SU ANÁLISIS EN AMPARO DIRECTO CUANDO SE RECLAME LA OMISIÓN DE LA AUTORIDAD RESPONSABLE DE DECLARARLA DE OFICIO (LEGISLACIONES DE LOS ESTADOS DE PUEBLA Y DE JALISCO).
+
+CLAVE DE TESIS: 2a./J. 97/2019 (10a.)
+LOCALIZACIÓN: [J]; 10a. Época; 2a. Sala; Gaceta S.J.F.; Libro 69, Agosto de 2019; Tomo III; Pág. 2401
+INSTANCIA: Segunda Sala (S.C.J.N.)
+ÉPOCA: 10a. Época
+FECHA DE PUBLICACIÓN: 2019-08-09T10:17:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2020358
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: La caducidad en el procedimiento laboral es una cuestión que puede ser analizada en amparo directo cuando se reclama que la autoridad responsable omitió declararla de oficio, conforme a las legislaciones laborales de los estados de Puebla y Jalisco. El criterio establece que aunque la caducidad es una excepción que generalmente debe ser invocada por la parte interesada, su omisión por parte de la autoridad laboral constituye un acto susceptible de control constitucional a través del juicio de amparo, ya que la declaración de oficio de la caducidad es una obligación que la ley laboral impone a los tribunales del trabajo. De esta manera, cuando la autoridad responsable incumple con esta obligación legal, el amparo directo resulta procedente como medio de defensa para hacer valer el derecho a que se aplique correctamente la ley laboral en cuanto a los plazos de caducidad establecidos.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2020358

@@ -1,0 +1,20 @@
+RUBRO: LEGITIMACIÓN EN EL JUICIO DE AMPARO DIRECTO. CARECE DE ÉSTA EL FISCAL GENERAL DEL ESTADO DE GUANAJUATO CUANDO CONTROVIERTE UNA SENTENCIA DEL PLENO DEL TRIBUNAL DE JUSTICIA ADMINISTRATIVA EN LA QUE SE LE RECLAMÓ EL DESPIDO VERBAL DE UN ELEMENTO DE SEGURIDAD PÚBLICA.
+
+CLAVE DE TESIS: PC.XVI.A. J/2 A (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; Plenos de Circuito; Gaceta S.J.F.; Libro 9, Enero de 2022; Tomo III; Pág. 2475
+INSTANCIA: PLENO EN MATERIA ADMINISTRATIVA DEL DECIMOSEXTO CIRCUITO. (Plenos de Circuito)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2022-01-21T10:22:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2024078
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: El Fiscal General del Estado de Guanajuato carece de legitimación activa para promover un juicio de amparo directo en contra de una sentencia del Tribunal de Justicia Administrativa que resolvió sobre el despido verbal de un elemento de seguridad pública, toda vez que la controversia se suscitó entre el trabajador y la institución empleadora, siendo el servidor público destituido quien ostenta el interés jurídico directo para impugnar la resolución que le afecta, mientras que el Fiscal General, en su carácter de representante de la institución, no es parte en el litigio laboral y carece de la legitimación requerida para controvertir sentencias que no le causan agravio directo en sus derechos o intereses propios.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2024078

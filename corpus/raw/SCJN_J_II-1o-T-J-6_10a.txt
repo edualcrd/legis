@@ -1,0 +1,20 @@
+RUBRO: CONCEPTOS DE VIOLACIÓN INOPERANTES. LO SON AQUELLOS QUE EN UN SEGUNDO JUICIO DE AMPARO EL QUEJOSO ADUCE LA INEXISTENCIA DEL DESPIDO, YA QUE ESA CIRCUNSTANCIA LA DEBIÓ IMPUGNAR EN EL AMPARO ADHESIVO, POR SER UN PUNTO DECISORIO IMPLÍCITO, AL CALIFICARSE DE BUENA FE EL OFRECIMIENTO DE TRABAJO EN UN PRIMER LAUDO.
+
+CLAVE DE TESIS: II.1o.T. J/6 (10a.)
+LOCALIZACIÓN: [J]; 10a. Época; T.C.C.; Gaceta S.J.F.; Libro 50, Enero de 2018; Tomo IV; Pág. 1965
+INSTANCIA: PRIMER TRIBUNAL COLEGIADO EN MATERIA DE TRABAJO DEL SEGUNDO CIRCUITO. (T.C.C.)
+ÉPOCA: 10a. Época
+FECHA DE PUBLICACIÓN: 2018-01-12T10:13:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2015951
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: En un segundo juicio de amparo, resultan inoperantes los conceptos de violación mediante los cuales el quejoso cuestiona la inexistencia del despido, toda vez que esta circunstancia debió ser impugnada en el amparo adhesivo del primer juicio, por constituir un punto decisorio implícito al haberse calificado de buena fe el ofrecimiento de trabajo en el laudo inicial, lo que impide replantear la cuestión en una nueva demanda de amparo.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2015951

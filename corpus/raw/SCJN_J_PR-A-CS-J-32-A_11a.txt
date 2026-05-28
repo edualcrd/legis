@@ -1,0 +1,20 @@
+RUBRO: COMPETENCIA POR MATERIA PARA CONOCER DE UN AMPARO EN REVISIÓN, CUANDO EN UN JUICIO DE AMPARO INDIRECTO SE RECLAME EL PROCESO LEGISLATIVO DE CREACIÓN DE DISPOSICIONES NORMATIVAS RELACIONADAS CON EL COBRO DE IMPUESTOS Y DERECHOS QUE SE GENEREN CON MOTIVO DE LA PROTOCOLIZACIÓN DE LA ADJUDICACIÓN DE UN BIEN INMUEBLE, AUN CUANDO DERIVE DE LA EJECUCIÓN DE UN LAUDO DICTADO EN UN JUICIO LABORAL. CORRESPONDE A UN TRIBUNAL COLEGIADO DE CIRCUITO ESPECIALIZADO EN MATERIA ADMINISTRATIVA.
+
+CLAVE DE TESIS: PR.A.CS. J/32 A (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; Plenos Regionales; Gaceta S.J.F.; Libro 32, Diciembre de 2023; Tomo III; Pág. 2450
+INSTANCIA: PLENO REGIONAL EN MATERIA ADMINISTRATIVA DE LA REGIÓN CENTRO-SUR, CON RESIDENCIA EN CUERNAVACA, MORELOS. (Plenos Regionales)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2023-12-15T10:27:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2027854
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: Cuando en un juicio de amparo indirecto se cuestiona el proceso legislativo de creación de disposiciones normativas relacionadas con el cobro de impuestos y derechos generados por la protocolización de la adjudicación de un bien inmueble, aun cuando derive de la ejecución de un laudo dictado en un juicio laboral, la competencia por materia para conocer del amparo en revisión corresponde a un Tribunal Colegiado de Circuito especializado en materia administrativa, ya que el acto reclamado se vincula fundamentalmente con cuestiones tributarias y administrativas más que con la materia laboral de origen.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2027854

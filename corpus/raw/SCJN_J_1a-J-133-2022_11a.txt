@@ -1,0 +1,20 @@
+RUBRO: COMPENSACIÓN ECONÓMICA. EL REQUISITO CONSISTENTE EN QUE LA PERSONA QUE LA SOLICITE HAYA REALIZADO TRABAJO DEL HOGAR O DE CUIDADO NO VIOLA EL DERECHO A LA PROPIEDAD.
+
+CLAVE DE TESIS: 1a./J. 133/2022 (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; 1a. Sala; Gaceta S.J.F.; Libro 20, Diciembre de 2022; Tomo I; Pág. 1205
+INSTANCIA: Primera Sala (S.C.J.N.)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2022-12-02T10:14:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2025559
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: El supuesto jurídico que resuelve es si el requisito legal de que quien solicita compensación económica haya realizado trabajo del hogar o de cuidado constituye una violación al derecho a la propiedad. El criterio establecido es que tal requisito no viola el derecho a la propiedad, ya que la compensación económica es una prestación que la ley vincula específicamente al desempeño de estas actividades, por lo que exigir que se haya realizado efectivamente el trabajo del hogar o de cuidado es una condición legítima y proporcional que no afecta arbitrariamente el patrimonio de quien debe pagarla, sino que lo condiciona a la existencia del supuesto de hecho que la genera.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2025559

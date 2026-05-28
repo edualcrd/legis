@@ -1,0 +1,20 @@
+RUBRO: SERVICIOS MÉDICOS PARA LOS TRABAJADORES AL SERVICIO DEL ESTADO DE CHIHUAHUA. EL ARTÍCULO 25, FRACCIÓN II, DEL REGLAMENTO RELATIVO, AL EXIGIR MAYORES REQUISITOS PARA SU PRESTACIÓN AL CÓNYUGE VARÓN QUE A LA MUJER, VIOLA LOS DERECHOS FUNDAMENTALES A LA IGUALDAD JURÍDICA Y A LA NO DISCRIMINACIÓN.
+
+CLAVE DE TESIS: XVII.1o.P.A. J/21 (10a.)
+LOCALIZACIÓN: [J]; 10a. Época; T.C.C.; Gaceta S.J.F.; Libro 66, Mayo de 2019; Tomo III; Pág. 2389
+INSTANCIA: PRIMER TRIBUNAL COLEGIADO EN MATERIAS PENAL Y ADMINISTRATIVA DEL DÉCIMO SÉPTIMO CIRCUITO. (T.C.C.)
+ÉPOCA: 10a. Época
+FECHA DE PUBLICACIÓN: 2019-05-17T10:22:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2019892
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: El supuesto jurídico que resuelve es la discriminación en el acceso a servicios médicos para trabajadores al servicio del Estado de Chihuahua cuando se exigen requisitos diferenciados según el género del cónyuge beneficiario. El criterio establecido es que las normas reglamentarias que impongan mayores exigencias para que el cónyuge varón acceda a estos servicios, en comparación con lo requerido para la cónyuge mujer, vulneran los derechos fundamentales a la igualdad jurídica y a la no discriminación reconocidos en la Constitución Política de los Estados Unidos Mexicanos. El artículo 25, fracción II, del Reglamento relativo es la disposición que incurre en esta violación al establecer trato desigual basado en el género.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2019892

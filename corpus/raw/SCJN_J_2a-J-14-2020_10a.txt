@@ -1,0 +1,20 @@
+RUBRO: ACTOS DE AUTORIDAD PARA EFECTOS DEL JUICIO DE AMPARO. NO TIENEN ESE CARÁCTER LAS DETERMINACIONES DE LA SECRETARÍA DE EDUCACIÓN DEL ESTADO DE JALISCO, DERIVADAS DE UN CONCURSO DE OPOSICIÓN PARA LA PROMOCIÓN DE ASCENSO A UN NIVEL O CATEGORÍA SUPERIOR PARA LOS TRABAJADORES DE LA EDUCACIÓN DEL ESTADO, CONSISTENTES EN LA NEGATIVA A OTORGAR UNA PLAZA AL QUEJOSO Y SU ENTREGA A UN TERCERO.
+
+CLAVE DE TESIS: 2a./J. 14/2020 (10a.)
+LOCALIZACIÓN: [J]; 10a. Época; 2a. Sala; Gaceta S.J.F.; Libro 77, Agosto de 2020; Tomo V; Pág. 4389
+INSTANCIA: Segunda Sala (S.C.J.N.)
+ÉPOCA: 10a. Época
+FECHA DE PUBLICACIÓN: 2020-08-07T10:15:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2021827
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: Las determinaciones de la Secretaría de Educación del Estado de Jalisco que niegan el otorgamiento de una plaza en un concurso de oposición para ascenso de trabajadores de la educación y la entregan a un tercero no constituyen actos de autoridad para efectos del juicio de amparo, toda vez que tales decisiones derivan de relaciones laborales entre la dependencia y sus trabajadores, las cuales se rigen por normas de derecho laboral y no por actos de autoridad en sentido constitucional, por lo que la controversia debe ventilarse ante la jurisdicción laboral competente y no a través del amparo.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2021827

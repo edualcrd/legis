@@ -1,0 +1,20 @@
+RUBRO: FALTA DE FIRMA DEL ACUERDO DE ADMISIÓN O RADICACIÓN DE LA DEMANDA LABORAL. AL TRATARSE DE UNA VIOLACIÓN FORMAL QUE SE CONVALIDA CON LAS POSTERIORES ACTUACIONES QUE POSIBILITAN LA EMISIÓN DEL LAUDO, NO ES NECESARIO ORDENAR LA REPOSICIÓN DEL PROCEDIMIENTO.
+
+CLAVE DE TESIS: 2a./J. 5/2025 (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; 2a. Sala; Gaceta S.J.F.; Libro 47, Marzo de 2025; Tomo III, Volumen 1; Pág. 576
+INSTANCIA: Segunda Sala (S.C.J.N.)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2025-03-28T10:31:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2030144
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: La falta de firma del acuerdo de admisión o radicación de la demanda laboral constituye una violación formal en el procedimiento laboral que, sin embargo, se convalida cuando las partes realizan actuaciones posteriores que permiten la continuación del proceso y la emisión del laudo, por lo que no resulta necesario ordenar la reposición del procedimiento completo, toda vez que la finalidad del acto procesal se ha cumplido a través de esas actuaciones subsecuentes que demuestran la voluntad de las partes de continuar con el litigio.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2030144

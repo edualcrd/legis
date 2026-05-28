@@ -1,0 +1,20 @@
+RUBRO: PRUEBA DE INFORMES EN EL JUICIO LABORAL. ES ILEGAL SU DESECHAMIENTO SUSTENTADO EN EL HECHO DE QUE QUIEN DEBE RENDIRLO ES PARTE, FORMAL Y MATERIAL, EN EL PROCEDIMIENTO.
+
+CLAVE DE TESIS: VII.2o.T. J/15 (10a.)
+LOCALIZACIÓN: [J]; 10a. Época; T.C.C.; Gaceta S.J.F.; Libro 44, Julio de 2017; Tomo II; Pág. 945
+INSTANCIA: SEGUNDO TRIBUNAL COLEGIADO EN MATERIA DE TRABAJO DEL SÉPTIMO CIRCUITO. (T.C.C.)
+ÉPOCA: 10a. Época
+FECHA DE PUBLICACIÓN: 2017-07-14T10:21:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2014765
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: El supuesto jurídico que resuelve es la admisibilidad de la prueba de informes en el juicio laboral cuando quien debe rendirlo es parte en el procedimiento. El criterio establecido es que resulta ilegal desechar esta prueba únicamente por el hecho de que el informante sea parte formal y material del juicio, ya que la ley laboral no establece tal impedimento y la condición de parte no invalida per se la capacidad de rendir un informe que puede ser controvertido y valorado conforme a las reglas de la sana crítica.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2014765

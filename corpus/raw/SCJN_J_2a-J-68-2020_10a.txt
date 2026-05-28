@@ -1,0 +1,20 @@
+RUBRO: REPOSICIÓN DEL PROCEDIMIENTO LABORAL. ANTE LA FALTA DE FIRMA DEL PRESIDENTE O DEL AUXILIAR DE LA JUNTA DE CONCILIACIÓN Y ARBITRAJE, ASÍ COMO DEL SECRETARIO DE ACUERDOS QUE INTERVINIERON EN ALGUNA DE LAS ETAPAS DE LA AUDIENCIA TRIFÁSICA, PROCEDE CONCEDER EL AMPARO PARA DEJAR INSUBSISTENTE EL LAUDO Y ORDENAR AQUÉLLA PARA SUBSANAR ESA IRREGULARIDAD, INCLUYENDO LAS ACTUACIONES SUBSECUENTES.
+
+CLAVE DE TESIS: 2a./J. 68/2020 (10a.)
+LOCALIZACIÓN: [J]; 10a. Época; 2a. Sala; Gaceta S.J.F.; Libro 83, Febrero de 2021; Tomo I; Pág. 966
+INSTANCIA: Segunda Sala (S.C.J.N.)
+ÉPOCA: 10a. Época
+FECHA DE PUBLICACIÓN: 2021-02-12T10:14:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2022696
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: Cuando en el procedimiento laboral ante la Junta de Conciliación y Arbitraje faltan las firmas del presidente o del auxiliar, así como del secretario de acuerdos que intervinieron en alguna etapa de la audiencia trifásica, se configura una irregularidad procesal que afecta la validez del laudo, por lo que procede otorgar el amparo para dejar insubsistente la sentencia y ordenar la reposición del procedimiento desde la etapa donde ocurrió la omisión, incluyendo todas las actuaciones posteriores que deriven de esta nulidad.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2022696

@@ -1,0 +1,20 @@
+RUBRO: IMPUESTO SOBRE REMUNERACIONES AL TRABAJO PERSONAL. LA SEGUNDA SOBRETASA ADICIONADA AL ARTÍCULO 3 DE LA LEY DE INGRESOS DEL ESTADO DE BAJA CALIFORNIA PARA EL EJERCICIO FISCAL DEL AÑO 2022, VIOLA EL PRINCIPIO DE PROPORCIONALIDAD TRIBUTARIA (REFORMA PUBLICADA EN EL PERIÓDICO OFICIAL LOCAL EL 27 DE OCTUBRE DE 2022).
+
+CLAVE DE TESIS: PR.A.C.CN. J/100 A (11a.)
+LOCALIZACIÓN: [J]; 12a. Época; Plenos Regionales; Gaceta S.J.F.; Libro 3, Noviembre de 2025; Tomo I, Volumen 1; Pág. 689
+INSTANCIA: PLENO REGIONAL EN MATERIAS ADMINISTRATIVA Y CIVIL DE LA REGIÓN CENTRO-NORTE, CON RESIDENCIA EN LA CIUDAD DE MÉXICO. (Plenos Regionales)
+ÉPOCA: 12a. Época
+FECHA DE PUBLICACIÓN: 2025-11-07T10:18:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2031431
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: La Segunda Sala de la SCJN resuelve que la sobretasa adicionada al artículo 3 de la Ley de Ingresos del Estado de Baja California para 2022 constituye una violación al principio de proporcionalidad tributaria, estableciendo como criterio que las cargas fiscales deben guardar una relación razonable y equilibrada con la capacidad contributiva del sujeto pasivo, de modo que no pueden incrementarse de manera desproporcionada sin justificación objetiva que lo sustente. El rubro refiere implícitamente a principios constitucionales de tributación contenidos en la Constitución Política de los Estados Unidos Mexicanos.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2031431

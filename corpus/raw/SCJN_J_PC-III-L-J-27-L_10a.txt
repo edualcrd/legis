@@ -1,0 +1,20 @@
+RUBRO: COLEGIO DE BACHILLERES DEL ESTADO DE JALISCO. LA JUNTA ESPECIAL DE LA LOCAL DE CONCILIACIÓN Y ARBITRAJE DE LA ENTIDAD, ES COMPETENTE PARA CONOCER DE LOS CONFLICTOS LABORALES SUSCITADOS ENTRE DICHO ORGANISMO PÚBLICO DESCENTRALIZADO Y SUS TRABAJADORES, CON MOTIVO DE LA TERMINACIÓN DE LOS EFECTOS DE SUS NOMBRAMIENTOS O DE SUS CONTRATOS INDIVIDUALES DE TRABAJO, POR INCUMPLIMIENTO A LA OBLIGACIÓN DOCENTE DE EVALUARSE.
+
+CLAVE DE TESIS: PC.III.L. J/27 L (10a.)
+LOCALIZACIÓN: [J]; 10a. Época; Plenos de Circuito; Gaceta S.J.F.; Libro 55, Junio de 2018; Tomo III; Pág. 1621
+INSTANCIA: PLENO EN MATERIA DE TRABAJO DEL TERCER CIRCUITO. (Plenos de Circuito)
+ÉPOCA: 10a. Época
+FECHA DE PUBLICACIÓN: 2018-06-22T10:28:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2017212
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: La Junta Especial de Conciliación y Arbitraje del Estado de Jalisco es competente para conocer de los conflictos laborales que surjan entre el Colegio de Bachilleres del Estado de Jalisco, como organismo público descentralizado, y sus trabajadores cuando se produce la terminación de sus nombramientos o contratos individuales de trabajo por incumplimiento de la obligación docente de someterse a evaluación. El criterio establece que la competencia jurisdiccional en materia laboral se determina por la naturaleza de la relación laboral y la entidad empleadora, independientemente de que se trate de un organismo público descentralizado, siendo la junta local la instancia competente para resolver controversias derivadas del incumplimiento de obligaciones contractuales específicas como la evaluación docente. Esta resolución reconoce que los conflictos laborales generados por el incumplimiento de obligaciones inherentes al desempeño del trabajo, aun cuando se trate de personal de instituciones públicas, deben ser resueltos por las juntas de conc
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2017212

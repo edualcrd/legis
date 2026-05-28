@@ -1,0 +1,20 @@
+RUBRO: PRUEBA PERICIAL MÉDICA EN EL JUICIO LABORAL. ANTE LA DISCREPANCIA ENTRE EL DICTAMEN DEL EXPERTO NOMBRADO POR EL ACTOR PARA ACREDITAR SU ESTADO DE INVALIDEZ Y LA PRESUNCIÓN DE INEXISTENCIA DE ESE PADECIMIENTO DERIVADA DE SU CONTUMACIA A SER EXAMINADO POR EL ESPECIALISTA DE LA DEMANDADA, LA JUNTA DEBE DESIGNAR UN PERITO TERCERO.
+
+CLAVE DE TESIS: PC.IV.L. J/17 L (10a.)
+LOCALIZACIÓN: [J]; 10a. Época; Plenos de Circuito; Gaceta S.J.F.; Libro 44, Julio de 2017; Tomo I; Pág. 695
+INSTANCIA: PLENO EN MATERIA DE TRABAJO DEL CUARTO CIRCUITO. (Plenos de Circuito)
+ÉPOCA: 10a. Época
+FECHA DE PUBLICACIÓN: 2017-07-14T10:21:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2014757
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: Cuando en un juicio laboral existe discrepancia entre el dictamen pericial del experto designado por el actor para acreditar invalidez y la presunción de inexistencia del padecimiento que surge de la negativa del demandante a ser examinado por el especialista de la demandada, la junta debe resolver esta controversia designando un perito tercero que actúe como árbitro en la materia. Este criterio reconoce que la contumacia a someterse a examen médico genera una presunción en contra del actor, pero no elimina la necesidad de que la junta cuente con un dictamen imparcial y confiable para determinar la verdadera existencia o inexistencia del estado de invalidez alegado, garantizando así un pronunciamiento fundamentado en prueba objetiva y no únicamente en presunciones derivadas de la conducta procesal de las partes.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2014757

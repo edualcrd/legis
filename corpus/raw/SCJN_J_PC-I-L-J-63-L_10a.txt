@@ -1,0 +1,20 @@
+RUBRO: FONDO DE AHORRO PREVISTO EN EL ARTÍCULO 7 DEL RÉGIMEN DE JUBILACIONES Y PENSIONES DEL INSTITUTO MEXICANO DEL SEGURO SOCIAL (IMSS). NO PROCEDE SU PAGO A LOS BENEFICIARIOS DE LOS EX TRABAJADORES FALLECIDOS A QUIENES SE LES HUBIERE OTORGADO UNA PENSIÓN DE VIUDEZ U ORFANDAD.
+
+CLAVE DE TESIS: PC.I.L. J/63 L (10a.)
+LOCALIZACIÓN: [J]; 10a. Época; Plenos de Circuito; Gaceta S.J.F.; Libro 75, Febrero de 2020; Tomo II; Pág. 1401
+INSTANCIA: PLENO EN MATERIA DE TRABAJO DEL PRIMER CIRCUITO. (Plenos de Circuito)
+ÉPOCA: 10a. Época
+FECHA DE PUBLICACIÓN: 2020-02-21T10:23:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2021655
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: El supuesto jurídico que resuelve es la procedencia del pago del fondo de ahorro previsto en el artículo 7 del Régimen de Jubilaciones y Pensiones del IMSS a los beneficiarios de trabajadores fallecidos que ya percibían pensión de viudez u orfandad. El criterio establecido es que no procede el pago de dicho fondo de ahorro a tales beneficiarios, toda vez que la pensión de viudez u orfandad ya constituye la prestación que la ley otorga para proteger a los deudos del trabajador fallecido, siendo incompatible con el derecho a recibir adicionalmente el fondo de ahorro. El artículo 7 del Régimen de Jubilaciones y Pensiones del IMSS es la norma que regula esta materia.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2021655

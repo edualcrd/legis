@@ -1,0 +1,20 @@
+RUBRO: PROCEDIMIENTO LABORAL BUROCRÁTICO. AL NO ESTAR PREVISTA LA ETAPA DE CONCILIACIÓN EN LA LEY DEL TRABAJO DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE TAMAULIPAS, ES IMPROCEDENTE DECRETARLA, SIENDO INAPLICABLE SUPLETORIAMENTE LA LEY FEDERAL DEL TRABAJO, EN SU TEXTO ANTERIOR A LA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN EL 1 DE MAYO DE 2019.
+
+CLAVE DE TESIS: PC.XIX. J/1 L (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; Plenos de Circuito; Gaceta S.J.F.; Libro 18, Octubre de 2022; Tomo III; Pág. 3179
+INSTANCIA: PLENO DEL DECIMONOVENO CIRCUITO. (Plenos de Circuito)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2022-10-21T10:31:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2025394
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: El supuesto jurídico que resuelve es la procedencia de la etapa de conciliación en los procedimientos laborales burocráticos de servidores públicos del Estado de Tamaulipas cuando la ley local no la contempla. El criterio establecido es que resulta improcedente decretar la etapa de conciliación si no se encuentra expresamente prevista en la Ley del Trabajo de los Servidores Públicos del Estado de Tamaulipas, siendo inaplicable la supletoriedad de la Ley Federal del Trabajo en su versión anterior a la reforma del 1 de mayo de 2019, lo que implica que la ausencia de regulación local no puede suplirse con disposiciones federales que tampoco contemplan tal etapa en el régimen burocrático.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2025394

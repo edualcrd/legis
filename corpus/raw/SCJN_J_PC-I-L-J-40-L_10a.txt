@@ -1,0 +1,20 @@
+RUBRO: CONDICIONES GENERALES DE TRABAJO. SON APLICABLES A TODOS LOS TRABAJADORES DE BASE DE LA DEPENDENCIA DE QUE SE TRATE, INDEPENDIENTEMENTE DE QUE SE ENCUENTREN AFILIADOS O NO AL SINDICATO MAYORITARIO.
+
+CLAVE DE TESIS: PC.I.L. J/40 L (10a.)
+LOCALIZACIÓN: [J]; 10a. Época; Plenos de Circuito; Gaceta S.J.F.; Libro 57, Agosto de 2018; Tomo II; Pág. 1565
+INSTANCIA: PLENO EN MATERIA DE TRABAJO DEL PRIMER CIRCUITO. (Plenos de Circuito)
+ÉPOCA: 10a. Época
+FECHA DE PUBLICACIÓN: 2018-08-31T10:39:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2017733
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: Las condiciones generales de trabajo negociadas por el sindicato mayoritario resultan aplicables a la totalidad de los trabajadores de base de una dependencia, sin importar su afiliación sindical, ya que estas constituyen normas que rigen las relaciones laborales en el centro de trabajo y generan efectos erga omnes. El criterio establecido reconoce que las condiciones generales de trabajo tienen carácter normativo y vinculante para todos los trabajadores de la categoría o dependencia de que se trate, independientemente de que se encuentren afiliados o no al sindicato que las negoció, garantizando así la igualdad en las prestaciones y derechos laborales dentro de la misma unidad administrativa.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2017733

@@ -1,0 +1,20 @@
+RUBRO: COMISIÓN FEDERAL DE COMPETENCIA ECONÓMICA. LAS COMUNICACIONES GENERADAS EN HERRAMIENTAS DE TRABAJO QUE COMPRENDEN INFORMACIÓN DE LOS AGENTES ECONÓMICOS RELACIONADAS CON ACTIVIDADES Y OPERACIONES DE SU OBJETO SOCIAL, NO ESTÁN AMPARADAS POR EL DERECHO A LA INVIOLABILIDAD DE LAS COMUNICACIONES PRIVADAS.
+
+CLAVE DE TESIS: 2a./J. 17/2025 (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; 2a. Sala; Gaceta S.J.F.; Libro 49, Mayo de 2025; Tomo II, Volumen 1; Pág. 339
+INSTANCIA: Segunda Sala (S.C.J.N.)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2025-05-16T10:21:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2030393
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: La Comisión Federal de Competencia Económica puede acceder a las comunicaciones generadas en herramientas de trabajo que contengan información sobre actividades y operaciones de los agentes económicos relacionadas con su objeto social, ya que estas no gozan de protección bajo el derecho a la inviolabilidad de las comunicaciones privadas. El criterio establece que cuando las comunicaciones versan sobre asuntos empresariales y operacionales de una entidad económica, pierden su carácter de privadas y pueden ser utilizadas como medio de prueba en procedimientos de competencia económica. Esta distinción reconoce que la confidencialidad de las comunicaciones privadas no puede extenderse a aquellas que documentan actividades comerciales y operativas que son objeto de regulación y supervisión por parte de las autoridades competentes.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2030393

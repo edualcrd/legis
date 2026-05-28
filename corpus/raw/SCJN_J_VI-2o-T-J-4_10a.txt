@@ -1,0 +1,20 @@
+RUBRO: PROCEDIMIENTO LABORAL (ABIERTA DILACIÓN O SU PARALIZACIÓN TOTAL). PARÁMETROS QUE DEBEN CONSIDERARSE EN CADA CASO PARA DETERMINAR SU CONFIGURACIÓN.
+
+CLAVE DE TESIS: VI.2o.T. J/4 (10a.)
+LOCALIZACIÓN: [J]; 10a. Época; T.C.C.; Gaceta S.J.F.; Libro 49, Diciembre de 2017; Tomo IV; Pág. 1905
+INSTANCIA: SEGUNDO TRIBUNAL COLEGIADO EN MATERIA DE TRABAJO DEL SEXTO CIRCUITO. (T.C.C.)
+ÉPOCA: 10a. Época
+FECHA DE PUBLICACIÓN: 2017-12-01T10:13:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2015780
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: El supuesto jurídico que resuelve este criterio es la determinación de cuándo existe una abierta dilación o paralización total del procedimiento laboral, situación que puede afectar el derecho fundamental a la tutela judicial efectiva de las partes. El criterio establece que para configurar esta causal de nulidad procesal no basta la mera existencia de retrasos, sino que es necesario analizar parámetros específicos en cada caso concreto, considerando factores como la duración total del procedimiento, las causas de los retrasos, la complejidad del asunto, la conducta de las partes y las autoridades, así como el impacto real en los derechos de los litigantes, a fin de determinar si existe una dilación manifiesta e injustificada que vulnere el derecho a un proceso sin dilaciones indebidas.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2015780

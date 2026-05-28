@@ -1,0 +1,20 @@
+RUBRO: VACACIONES GENERADAS Y NO DISFRUTADAS DE LOS TRABAJADORES AL SERVICIO DEL ESTADO DE VERACRUZ. TIENEN DERECHO A DEMANDAR SU PAGO SI CONTINÚA LA RELACIÓN LABORAL POR HABER PROCEDIDO SU REINSTALACIÓN, AL EXISTIR IMPOSIBILIDAD JURÍDICA PARA GOZAR DE ELLAS.
+
+CLAVE DE TESIS: VII.2o.T. J/2 L (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; T.C.C.; Gaceta S.J.F.; Libro 13, Mayo de 2022; Tomo IV; Pág. 4444
+INSTANCIA: SEGUNDO TRIBUNAL COLEGIADO EN MATERIA DE TRABAJO DEL SÉPTIMO CIRCUITO. (T.C.C.)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2022-05-20T10:25:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2024687
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: Cuando un trabajador al servicio del Estado de Veracruz es reinstalado en su puesto tras una controversia laboral y continúa la relación de trabajo, pero le resulta jurídicamente imposible disfrutar de las vacaciones que generó antes de su separación, tiene derecho a demandar el pago de esas vacaciones no gozadas, ya que la imposibilidad de su disfrute no puede ser imputable al trabajador ni puede privarlo del beneficio económico correspondiente a un derecho ya devengado.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2024687

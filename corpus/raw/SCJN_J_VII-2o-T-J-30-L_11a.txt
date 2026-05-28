@@ -1,0 +1,20 @@
+RUBRO: ACTAS ADMINISTRATIVAS LEVANTADAS PARA HACER CONSTAR FALTAS COMETIDAS POR EL TRABAJADOR. SU INCOMPARECENCIA EN EL PROCEDIMIENTO LLEVADO A CABO POR EL PATRÓN NO GENERA LA PRESUNCIÓN DEL RECONOCIMIENTO DE LOS HECHOS IMPUTADOS, QUE HAGA INNECESARIA SU RATIFICACIÓN EN SEDE JUDICIAL.
+
+CLAVE DE TESIS: VII.2o.T. J/30 L (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; T.C.C.; Gaceta S.J.F.; Libro 51, Julio de 2025; Tomo I, Volumen 1; Pág. 855
+INSTANCIA: SEGUNDO TRIBUNAL COLEGIADO EN MATERIA DE TRABAJO DEL SÉPTIMO CIRCUITO. (T.C.C.)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2025-07-04T10:11:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2030663
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: El supuesto jurídico que resuelve es la validez probatoria de las actas administrativas levantadas por el patrón para documentar faltas del trabajador cuando éste no comparece al procedimiento administrativo previo. El criterio establecido es que la incomparecencia del trabajador a dicho procedimiento no genera presunción alguna de reconocimiento de los hechos imputados, por lo que la ratificación de tales hechos resulta necesaria en la sede judicial para que el acta tenga plena eficacia probatoria en el juicio laboral. De esta manera, se protege el derecho de defensa del trabajador al exigir que los hechos contenidos en el acta sean debidamente acreditados ante los tribunales del trabajo, sin que la falta de comparecencia administrativa implique una aceptación tácita de las imputaciones.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2030663

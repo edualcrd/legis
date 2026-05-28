@@ -1,0 +1,20 @@
+RUBRO: PENSIÓN DE CESANTÍA EN EDAD AVANZADA. SU CUANTÍA DEBE ACTUALIZARSE ANUALMENTE CONFORME AL ÍNDICE NACIONAL DE PRECIOS AL CONSUMIDOR.
+
+CLAVE DE TESIS: 2a./J. 71/2024 (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; 2a. Sala; Gaceta S.J.F.; Libro 41, Septiembre de 2024; Tomo III, Volumen 2; Pág. 1431
+INSTANCIA: Segunda Sala (S.C.J.N.)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2024-09-20T10:29:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2029402
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: La pensión de cesantía en edad avanzada debe actualizarse anualmente conforme al Índice Nacional de Precios al Consumidor para mantener el poder adquisitivo del trabajador jubilado y garantizar que la prestación conserve su valor real a lo largo del tiempo. Este criterio establece que la cuantía de la pensión no puede permanecer estática, sino que debe ajustarse periódicamente de acuerdo con la inflación medida por el índice oficial, asegurando así que el beneficiario reciba una prestación que corresponda efectivamente a sus necesidades económicas en cada ejercicio fiscal.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2029402

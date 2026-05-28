@@ -1,0 +1,20 @@
+RUBRO: ADMINISTRADORAS DE FONDOS PARA EL RETIRO (AFORES). LAS IMPRESIONES DIGITALES APORTADAS EN EL JUICIO LABORAL QUE REPORTAN DETALLES DE SALDOS O MOVIMIENTOS DE LAS SUBCUENTAS DE RETIRO QUE ADMINISTRAN, NO SON IDÓNEAS PARA DEMOSTRAR LA EXCEPCIÓN DE PAGO.
+
+CLAVE DE TESIS: 2a./J. 172/2017 (10a.)
+LOCALIZACIÓN: [J]; 10a. Época; 2a. Sala; Gaceta S.J.F.; Libro 52, Marzo de 2018; Tomo II; Pág. 1211
+INSTANCIA: Segunda Sala (S.C.J.N.)
+ÉPOCA: 10a. Época
+FECHA DE PUBLICACIÓN: 2018-03-02T10:05:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2016316
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: Las administradoras de fondos para el retiro enfrentan el supuesto de que pretendan acreditar el pago de prestaciones de seguridad social mediante impresiones digitales que reportan saldos o movimientos de subcuentas de retiro. El criterio establecido es que tales documentos no constituyen prueba idónea para demostrar la excepción de pago, ya que no generan certeza sobre el cumplimiento de las obligaciones laborales derivadas de las aportaciones obligatorias. Esta resolución protege los derechos de los trabajadores al exigir que las AFORES aporten pruebas más robustas y confiables para acreditar el pago de sus obligaciones en materia de seguridad social.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2016316

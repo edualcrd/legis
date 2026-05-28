@@ -1,0 +1,20 @@
+RUBRO: TRABAJADORA EMBARAZADA. SI EL PATRÓN SE EXCEPCIONA ADUCIENDO QUE LA ACTORA RENUNCIÓ Y ÉSTA DEMUESTRA QUE AL MOMENTO DE CONCLUIR EL VÍNCULO LABORAL ESTABA EMBARAZADA, EL SOLO ESCRITO DE RENUNCIA ES INSUFICIENTE PARA DEMOSTRAR QUE FUE LIBRE Y ESPONTÁNEA.
+
+CLAVE DE TESIS: 2a./J. 96/2019 (10a.)
+LOCALIZACIÓN: [J]; 10a. Época; 2a. Sala; Gaceta S.J.F.; Libro 68, Julio de 2019; Tomo II; Pág. 998
+INSTANCIA: Segunda Sala (S.C.J.N.)
+ÉPOCA: 10a. Época
+FECHA DE PUBLICACIÓN: 2019-07-12T10:19:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2020317
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: Cuando un patrón se excepciona argumentando que la trabajadora renunció voluntariamente, pero la actora demuestra que al momento de concluir la relación laboral se encontraba embarazada, el criterio establecido por la jurisprudencia es que el simple escrito de renuncia resulta insuficiente para acreditar que ésta fue libre y espontánea, toda vez que existe una presunción de que el embarazo pudo haber sido el móvil determinante de la terminación del vínculo laboral, lo que obliga al patrón a aportar pruebas adicionales que demuestren la voluntariedad genuina de la trabajadora en su decisión de separarse del empleo.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2020317

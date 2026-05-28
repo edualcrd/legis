@@ -1,0 +1,20 @@
+RUBRO: TRABAJADORES DE CONFIANZA DE LIBRE DESIGNACIÓN Y PERTENECIENTES AL SERVICIO PROFESIONAL DE CARRERA DE BAJA CALIFORNIA SUR. PRESTACIONES QUE INTEGRAN SU INDEMNIZACIÓN EN CASO DE DESPIDO INJUSTIFICADO.
+
+CLAVE DE TESIS: XXVI. J/3 (10a.)
+LOCALIZACIÓN: [J]; 10a. Época; T.C.C.; Gaceta S.J.F.; Libro 73, Diciembre de 2019; Tomo II; Pág. 990
+INSTANCIA: TRIBUNAL COLEGIADO DEL VIGÉSIMO SEXTO CIRCUITO. (T.C.C.)
+ÉPOCA: 10a. Época
+FECHA DE PUBLICACIÓN: 2019-12-13T10:25:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2021314
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: En caso de despido injustificado de trabajadores de confianza de libre designación que pertenecen al servicio profesional de carrera en Baja California Sur, la indemnización debe integrar las prestaciones que corresponden a su categoría laboral, considerando tanto su naturaleza como trabajadores de confianza como su participación en el sistema de carrera profesional, lo que implica que no pueden ser excluidos arbitrariamente de beneficios que la ley establece para los servidores públicos en esa entidad, garantizando así una protección integral ante el despido sin causa justificada.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2021314

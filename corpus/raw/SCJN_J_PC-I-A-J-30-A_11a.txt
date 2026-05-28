@@ -1,0 +1,20 @@
+RUBRO: FIANZAS PARA GARANTIZAR OBLIGACIONES DERIVADAS DE LA RESCISIÓN ADMINISTRATIVA DE LOS CONTRATOS DE OBRA PÚBLICA. EN EL REQUERIMIENTO DE PAGO NO RESULTA NECESARIO QUE SE ACOMPAÑE EL FINIQUITO, ADEMÁS DE LOS DOCUMENTOS QUE SEÑALA EL REGLAMENTO DEL ARTÍCULO 95 DE LA LEY FEDERAL DE INSTITUCIONES DE FIANZAS.
+
+CLAVE DE TESIS: PC.I.A. J/30 A (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; Plenos de Circuito; Gaceta S.J.F.; Libro 21, Enero de 2023; Tomo IV; Pág. 3757
+INSTANCIA: PLENO EN MATERIA ADMINISTRATIVA DEL PRIMER CIRCUITO. (Plenos de Circuito)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2023-01-13T10:14:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2025757
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: La jurisprudencia resuelve el supuesto de las fianzas constituidas para garantizar obligaciones derivadas de la rescisión administrativa de contratos de obra pública, estableciendo como criterio que en el requerimiento de pago dirigido al fiador no es necesario acompañar el finiquito, siendo suficientes los documentos que expresamente señala el Reglamento del artículo 95 de la Ley Federal de Instituciones de Fianzas, lo que simplifica el procedimiento de cobro de la garantía al no exigir documentación adicional a la regulada en dicho ordenamiento.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2025757

@@ -1,0 +1,20 @@
+RUBRO: PRESTACIONES DE SEGURIDAD SOCIAL. LA PENSIÓN POR CESANTÍA EN EDAD AVANZADA Y VEJEZ, ASÍ COMO LA DEVOLUCIÓN Y PAGO DE APORTACIONES DE SEGURIDAD SOCIAL, NO SE CONSIDERAN EXCEPCIONES PARA AGOTAR LA INSTANCIA CONCILIATORIA PREJUDICIAL, EN TÉRMINOS DEL ARTÍCULO 685 TER, FRACCIÓN III, DE LA LEY FEDERAL DEL TRABAJO.
+
+CLAVE DE TESIS: 2a./J. 19/2022 (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; 2a. Sala; Gaceta S.J.F.; Libro 12, Abril de 2022; Tomo II; Pág. 1672
+INSTANCIA: Segunda Sala (S.C.J.N.)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2022-04-29T10:33:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2024532
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: La Suprema Corte de Justicia de la Nación resuelve que las prestaciones de seguridad social, específicamente la pensión por cesantía en edad avanzada y vejez, así como la devolución y pago de aportaciones de seguridad social, no constituyen excepciones que permitan omitir el agotamiento de la instancia conciliatoria prejudicial en los conflictos laborales. El criterio establece que estos asuntos deben sujetarse al procedimiento conciliatorio previo conforme a lo dispuesto en el artículo 685 ter, fracción III, de la Ley Federal del Trabajo, sin que la naturaleza de las prestaciones de seguridad social involucradas justifique prescindir de este requisito procesal obligatorio.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2024532

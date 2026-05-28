@@ -1,0 +1,20 @@
+RUBRO: COMPETENCIA POR RAZÓN DE TERRITORIO EN MATERIA LABORAL. DEBE PRIVILEGIARSE LA ELECCIÓN DE QUIEN DEMANDA LA DECLARACIÓN DE BENEFICIARIO DE UNA PERSONA TRABAJADORA FALLECIDA.
+
+CLAVE DE TESIS: PR.P.T.CS. J/49 L (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; Plenos Regionales; Gaceta S.J.F.; Libro 51, Julio de 2025; Tomo I, Volumen 1; Pág. 706
+INSTANCIA: PLENO REGIONAL EN MATERIAS PENAL Y DE TRABAJO DE LA REGIÓN CENTRO-SUR, CON RESIDENCIA EN LA CIUDAD DE MÉXICO. (Plenos Regionales)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2025-07-04T10:11:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2030672
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: En los casos de competencia territorial en materia laboral cuando se demanda la declaración de beneficiario de una persona trabajadora fallecida, debe privilegiarse la elección del demandante respecto de la jurisdicción competente, reconociendo así su derecho a elegir el tribunal que considere más conveniente para ejercer su acción. Este criterio establece que la regla general de competencia territorial no debe aplicarse de manera rígida en estos supuestos, sino que debe ceder ante el derecho del demandante de seleccionar el fuero que mejor proteja sus intereses en la determinación de quién es el beneficiario legítimo de los derechos laborales del trabajador fallecido. La flexibilización de la competencia territorial en este contexto responde a la naturaleza especial de estas controversias y a la necesidad de garantizar el acceso a la justicia laboral de quienes reclaman su calidad de beneficiarios.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2030672

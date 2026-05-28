@@ -1,0 +1,20 @@
+RUBRO: CAJAS DE AHORRO DE TRABAJADORES. SU NATURALEZA JURÍDICA.
+
+CLAVE DE TESIS: 1a./J. 59/2017 (10a.)
+LOCALIZACIÓN: [J]; 10a. Época; 1a. Sala; Gaceta S.J.F.; Libro 45, Agosto de 2017; Tomo I; Pág. 256
+INSTANCIA: Primera Sala (S.C.J.N.)
+ÉPOCA: 10a. Época
+FECHA DE PUBLICACIÓN: 2017-08-25T10:33:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2014953
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: Las cajas de ahorro de trabajadores constituyen asociaciones civiles de carácter mutual cuya naturaleza jurídica se define por su propósito de fomentar el ahorro entre los empleados mediante la aportación voluntaria de recursos, sin que generen relaciones laborales entre la caja y sus miembros ni se consideren prestaciones derivadas del contrato de trabajo. El criterio establecido determina que estas instituciones, aunque operan en el ámbito empresarial, se rigen por las normas del derecho civil aplicables a las asociaciones civiles y no por la legislación laboral, toda vez que su funcionamiento responde a un acuerdo de voluntades independiente de la relación laboral principal y su objeto es exclusivamente de naturaleza económica y mutual entre los participantes.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2014953

@@ -1,0 +1,20 @@
+RUBRO: COMPETENCIA PARA CONOCER DEL AMPARO PROMOVIDO CONTRA LA OMISIÓN DE DAR RESPUESTA A UNA PETICIÓN DIRIGIDA A LA SECRETARÍA DEL TRABAJO Y PREVISIÓN SOCIAL O A UNA DE SUS DEPENDENCIAS, EN LA QUE SE SOLICITA QUE SE PROVEAN MEDIDAS COERCITIVAS PARA QUE EL PATRÓN CUMPLA CON EL PAGO DE PRESTACIONES LABORALES. CORRESPONDE A UN JUZGADO DE DISTRITO EN MATERIA ADMINISTRATIVA.
+
+CLAVE DE TESIS: PC.I.L. J/45 L (10a.)
+LOCALIZACIÓN: [J]; 10a. Época; Plenos de Circuito; Gaceta S.J.F.; Libro 62, Enero de 2019; Tomo II; Pág. 748
+INSTANCIA: PLENO EN MATERIA DE TRABAJO DEL PRIMER CIRCUITO. (Plenos de Circuito)
+ÉPOCA: 10a. Época
+FECHA DE PUBLICACIÓN: 2019-01-25T10:26:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2019061
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: Cuando un trabajador promueve amparo contra la omisión de la Secretaría del Trabajo y Previsión Social o sus dependencias de dar respuesta a una petición en la que solicita medidas coercitivas para que el patrón cumpla con el pago de prestaciones laborales, el criterio establecido es que la competencia para conocer de dicho amparo corresponde a un Juzgado de Distrito en materia administrativa, toda vez que se trata de un acto u omisión de una autoridad administrativa federal en el ejercicio de sus funciones de vigilancia y cumplimiento de las obligaciones laborales.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2019061

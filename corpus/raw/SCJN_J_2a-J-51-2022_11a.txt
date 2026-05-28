@@ -1,0 +1,20 @@
+RUBRO: PRUEBAS EN EL JUICIO DE AMPARO INDIRECTO. SE ACTUALIZA EL SUPUESTO DE EXCEPCIÓN PARA OFRECERLAS PREVISTO EN EL ARTÍCULO 75, PÁRRAFO SEGUNDO, DE LA LEY DE AMPARO, CUANDO EL ACTO RECLAMADO CONSISTA EN EL ACUERDO POR EL QUE SE APRUEBA UN CONVENIO CELEBRADO EN TÉRMINOS DEL ARTÍCULO 987 DE LA LEY FEDERAL DEL TRABAJO.
+
+CLAVE DE TESIS: 2a./J. 51/2022 (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; 2a. Sala; Gaceta S.J.F.; Libro 19, Noviembre de 2022; Tomo II; Pág. 2078
+INSTANCIA: Segunda Sala (S.C.J.N.)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2022-11-04T10:15:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2025436
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: Cuando el acto reclamado en un juicio de amparo indirecto consiste en el acuerdo de aprobación de un convenio celebrado conforme al artículo 987 de la Ley Federal del Trabajo, se actualiza la excepción prevista en el artículo 75, párrafo segundo, de la Ley de Amparo para ofrecer pruebas, permitiendo que las partes presenten elementos de convicción respecto de la validez y legalidad del convenio laboral aprobado, toda vez que la naturaleza de este acto requiere un análisis probatorio más exhaustivo que el de otros actos administrativos, a fin de garantizar la protección de los derechos fundamentales de los trabajadores involucrados en la negociación colectiva.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2025436

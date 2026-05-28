@@ -1,0 +1,20 @@
+RUBRO: CONTRATO DE CRÉDITO OTORGADO POR EL INFONAVIT. EL ARTÍCULO 49, PÁRRAFO PRIMERO, DE LA LEY RELATIVA, SIRVE DE FUNDAMENTO PARA EJERCER LA ACCIÓN DE RESCISIÓN Y VENCIMIENTO ANTICIPADO.
+
+CLAVE DE TESIS: 1a./J. 34/2019 (10a.)
+LOCALIZACIÓN: [J]; 10a. Época; 1a. Sala; Gaceta S.J.F.; Libro 66, Mayo de 2019; Tomo II; Pág. 904
+INSTANCIA: Primera Sala (S.C.J.N.)
+ÉPOCA: 10a. Época
+FECHA DE PUBLICACIÓN: 2019-05-24T10:29:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2019908
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: El supuesto jurídico que resuelve es la procedencia de la acción de rescisión y vencimiento anticipado de un contrato de crédito otorgado por el Infonavit cuando se incumple lo establecido en dicho contrato. El criterio establecido es que el artículo 49, párrafo primero, de la Ley del Infonavit sirve como fundamento legal para que la institución ejercite tanto la acción de rescisión como la de vencimiento anticipado del crédito hipotecario, permitiendo a la institución hacer exigible la totalidad de la deuda cuando el deudor incurre en incumplimientos contractuales graves.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2019908

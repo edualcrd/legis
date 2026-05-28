@@ -1,0 +1,20 @@
+RUBRO: CONTRATO DE TRABAJO POR TIEMPO DETERMINADO. PROCEDE ANALIZAR SU VALIDEZ CUANDO EL PATRÓN OPONE COMO EXCEPCIÓN LA TERMINACIÓN DE LA RELACIÓN LABORAL POR VENCIMIENTO DEL TÉRMINO PACTADO, AUN CUANDO EL TRABAJADOR NO HAYA DEMANDADO SU PRÓRROGA O NULIDAD.
+
+CLAVE DE TESIS: 2a./J. 164/2016 (10a.)
+LOCALIZACIÓN: [J]; 10a. Época; 2a. Sala; Gaceta S.J.F.; Libro 37, Diciembre de 2016; Tomo I; Pág. 808
+INSTANCIA: Segunda Sala (S.C.J.N.)
+ÉPOCA: 10a. Época
+FECHA DE PUBLICACIÓN: 2016-12-09T10:21:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2013285
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: Cuando un patrón opone como excepción la terminación de una relación laboral por vencimiento del término pactado en un contrato de trabajo por tiempo determinado, el juzgador debe analizar la validez de dicho contrato, independientemente de que el trabajador no haya demandado expresamente su prórroga o nulidad. Este criterio establece que la validez del contrato de duración determinada es justiciable de oficio por el tribunal, ya que su legalidad constituye un presupuesto esencial para que la excepción del patrón sea procedente y pueda servir como defensa válida en el juicio laboral.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2013285

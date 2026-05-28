@@ -1,0 +1,20 @@
+RUBRO: TRABAJADORES DE PETRÓLEOS MEXICANOS (PEMEX) Y ORGANISMOS SUBSIDIARIOS. CUANDO DEMANDAN EL RECONOCIMIENTO DE LA ANTIGÜEDAD GENÉRICA PARA OBTENER SU PENSIÓN JUBILATORIA, DEBE TOMARSE EN CUENTA LA GENERADA EN LOS PERIODOS QUE LA INTEGRAN, AUNQUE SEAN DISCONTINUOS.
+
+CLAVE DE TESIS: 2a./J. 62/2020 (10a.)
+LOCALIZACIÓN: [J]; 10a. Época; 2a. Sala; Gaceta S.J.F.; Libro 84, Marzo de 2021; Tomo II; Pág. 1863
+INSTANCIA: Segunda Sala (S.C.J.N.)
+ÉPOCA: 10a. Época
+FECHA DE PUBLICACIÓN: 2021-03-12T10:15:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2022846
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: Cuando los trabajadores de Petróleos Mexicanos y sus organismos subsidiarios demandan el reconocimiento de antigüedad genérica para obtener pensión jubilatoria, el criterio establecido por la jurisprudencia es que debe considerarse la antigüedad generada en todos los periodos que la integran, incluso cuando estos sean discontinuos, permitiendo así que los lapsos no consecutivos de prestación de servicios se sumen para efectos del cálculo de la antigüedad requerida para acceder al derecho pensionario.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2022846

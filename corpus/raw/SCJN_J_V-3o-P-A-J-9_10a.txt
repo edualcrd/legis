@@ -1,0 +1,20 @@
+RUBRO: COMPETENCIA PARA CONOCER DEL JUICIO DE AMPARO PROMOVIDO CONTRA LA NEGATIVA A LA DEVOLUCIÓN DE LOS DEPÓSITOS EXISTENTES EN LA SUBCUENTA DE VIVIENDA DEL FONDO DE LA VIVIENDA DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO DE SONORA (FOVISSSTESON). AL SER UN ACTO MERAMENTE DECLARATIVO, CORRESPONDE AL JUEZ DE DISTRITO ANTE QUIEN SE PRESENTÓ LA DEMANDA.
+
+CLAVE DE TESIS: V.3o.P.A. J/9 (10a.)
+LOCALIZACIÓN: [J]; 10a. Época; T.C.C.; Gaceta S.J.F.; Libro 53, Abril de 2018; Tomo III; Pág. 1743
+INSTANCIA: TERCER TRIBUNAL COLEGIADO EN MATERIAS PENAL Y ADMINISTRATIVA DEL QUINTO CIRCUITO. (T.C.C.)
+ÉPOCA: 10a. Época
+FECHA DE PUBLICACIÓN: 2018-04-27T10:31:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2016706
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: La competencia para conocer del juicio de amparo promovido contra la negativa a la devolución de los depósitos existentes en la subcuenta de vivienda del Fondo de la Vivienda del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado de Sonora corresponde al juez de distrito ante quien se presentó la demanda, toda vez que se trata de un acto meramente declarativo que no implica la ejecución de actos materiales que requieran la intervención de un juez de amparo especializado. El criterio establece que cuando la pretensión del demandante se limita a obtener una declaración de derechos respecto a los depósitos en la subcuenta de vivienda, sin que medie la necesidad de ejecutar actos posteriores de entrega o restitución que trasciendan la esfera declarativa, la competencia radica en la jurisdicción ordinaria de amparo del juez de distrito.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2016706

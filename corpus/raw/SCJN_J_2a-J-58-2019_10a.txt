@@ -1,0 +1,20 @@
+RUBRO: CONTRATOS COLECTIVOS DE TRABAJO. EN ELLOS NO SE PUEDEN PACTAR CONDICIONES GENERALES DE TRABAJO INFERIORES A LAS ESTABLECIDAS EN EL ARTÍCULO 123 CONSTITUCIONAL, EN LA LEY FEDERAL DEL TRABAJO, NI CONTRARIAR LOS DERECHOS HUMANOS.
+
+CLAVE DE TESIS: 2a./J. 58/2019 (10a.)
+LOCALIZACIÓN: [J]; 10a. Época; 2a. Sala; Gaceta S.J.F.; Libro 64, Marzo de 2019; Tomo II; Pág. 1580
+INSTANCIA: Segunda Sala (S.C.J.N.)
+ÉPOCA: 10a. Época
+FECHA DE PUBLICACIÓN: 2019-03-15T10:18:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2019494
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: Los contratos colectivos de trabajo no pueden incluir condiciones generales de trabajo que sean inferiores a las establecidas en la Constitución Política de los Estados Unidos Mexicanos ni en la Ley Federal del Trabajo, ni tampoco pueden contravenir los derechos humanos reconocidos en el ordenamiento jurídico. El criterio establece que cualquier pacto colectivo que pretenda reducir o limitar los derechos laborales fundamentales carece de validez, ya que estos constituyen un piso mínimo de protección que no puede ser disminuido por acuerdo de las partes. Esta regla asegura que la negociación colectiva, aunque es un derecho de los trabajadores, no puede ser utilizada como instrumento para vulnerar sus garantías constitucionales y legales, ni para afectar los derechos humanos que les corresponden.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2019494

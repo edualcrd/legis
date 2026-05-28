@@ -1,0 +1,20 @@
+RUBRO: RECURSO DE REVISIÓN FISCAL. ES IMPROCEDENTE CONTRA LAS SENTENCIAS QUE DECLARAN LA NULIDAD POR VICIOS FORMALES DE LA RESOLUCIÓN EMITIDA POR EL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO (ISSSTE), RECAÍDA A UNA SOLICITUD DE INCREMENTO DE LA CUOTA DIARIA PENSIONARIA, AUN CUANDO SE RECONOZCA LA EXISTENCIA DE UN DERECHO SUBJETIVO, CONSISTENTE EN EL PAGO DE LAS DIFERENCIAS QUE RESULTEN DE LOS INCREMENTOS A LA CUOTA DIARIA PENSIONARIA.
+
+CLAVE DE TESIS: XVI.1o.A. J/15 A (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; T.C.C.; Gaceta S.J.F.; Libro 36, Abril de 2024; Tomo V; Pág. 4332
+INSTANCIA: PRIMER TRIBUNAL COLEGIADO EN MATERIA ADMINISTRATIVA DEL DÉCIMO SEXTO CIRCUITO. (T.C.C.)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2024-04-12T10:16:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2028597
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: El recurso de revisión fiscal resulta improcedente cuando se interpone contra sentencias que declaran la nulidad por vicios formales de resoluciones del ISSSTE emitidas en respuesta a solicitudes de incremento de la cuota diaria pensionaria, incluso en aquellos casos donde se reconoce la existencia de un derecho subjetivo al pago de las diferencias derivadas de tales incrementos. El criterio establecido por la jurisprudencia es que la procedencia del recurso de revisión fiscal no se configura únicamente por la existencia de un derecho económico reconocido, sino que requiere que la sentencia impugnada haya resuelto sobre cuestiones de legalidad sustantiva que afecten directamente la determinación de obligaciones fiscales, siendo insuficiente que se trate de la nulidad de actos administrativos por defectos en su forma.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2028597

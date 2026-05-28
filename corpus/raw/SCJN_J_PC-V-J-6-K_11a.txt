@@ -1,0 +1,20 @@
+RUBRO: JUICIO DE NULIDAD ANTE EL TRIBUNAL FEDERAL DE JUSTICIA ADMINISTRATIVA. EL CÁLCULO, CUANTIFICACIÓN Y PAGO DE LA PENSIÓN JUBILATORIA A CARGO DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO (ISSSTE) CON BASE EN LA APLICACIÓN DE LA UNIDAD DE MEDIDA Y ACTUALIZACIÓN (UMA), SIN GESTIÓN O INSTANCIA DEL INTERESADO, NO CONSTITUYE UNA RESOLUCIÓN DEFINITIVA IMPUGNABLE A TRAVÉS DE DICHO JUICIO, POR LO QUE NO PUEDE EXIGIRSE AGOTARLO PREVIO A LA PRESENTACIÓN DE LA DEMANDA DE AMPARO [ALCANCE DE LA JURISPRUDENCIA 2a./J. 84/2018 (10a.)].
+
+CLAVE DE TESIS: PC.V. J/6 K (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; Plenos de Circuito; Gaceta S.J.F.; Libro 14, Junio de 2022; Tomo VI; Pág. 5796
+INSTANCIA: PLENO DEL QUINTO CIRCUITO (Plenos de Circuito)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2022-06-03T10:09:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2024756
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: El supuesto jurídico que resuelve es si el cálculo, cuantificación y pago de la pensión jubilatoria realizado por el ISSSTE mediante la aplicación de la Unidad de Medida y Actualización (UMA) sin solicitud del interesado constituye una resolución definitiva impugnable ante el Tribunal Federal de Justicia Administrativa. El criterio establecido es que tales actos administrativos no configuran resoluciones definitivas susceptibles de ser combatidas a través del juicio de nulidad, por lo que no puede exigirse el agotamiento previo de dicho juicio como requisito para la procedencia de la demanda de amparo.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2024756

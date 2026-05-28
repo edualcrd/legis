@@ -1,0 +1,20 @@
+RUBRO: COMPETENCIA POR RAZÓN DE FUERO EN MATERIA LABORAL. PARA DETERMINARLA DEBE ANALIZARSE LA ESCRITURA PÚBLICA QUE CONTENGA EL OBJETO SOCIAL DE LA EMPRESA DEMANDADA, CONCATENADA CON LAS DEMÁS PRUEBAS APORTADAS.
+
+CLAVE DE TESIS: PR.P.T.CS. J/68 L (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; Plenos Regionales; Gaceta S.J.F.; Libro 53, Septiembre de 2025; Tomo I, Volumen 1; Pág. 566
+INSTANCIA: PLENO REGIONAL EN MATERIAS PENAL Y DE TRABAJO DE LA REGIÓN CENTRO-SUR, CON RESIDENCIA EN LA CIUDAD DE MÉXICO. (Plenos Regionales)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2025-09-05T10:14:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2031142
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: La competencia por razón de fuero en materia laboral se determina mediante el análisis integral de la escritura pública que contiene el objeto social de la empresa demandada, considerada en conjunto con las demás pruebas aportadas al juicio. Este criterio establece que no puede resolverse la cuestión de competencia basándose únicamente en la escritura constitutiva, sino que es necesario examinar la documentación probatoria en su totalidad para verificar si la actividad real desarrollada por la empresa corresponde efectivamente a lo señalado en su objeto social, a fin de determinar correctamente la jurisdicción competente para conocer del asunto laboral.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2031142

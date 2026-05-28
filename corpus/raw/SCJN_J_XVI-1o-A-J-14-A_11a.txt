@@ -1,0 +1,20 @@
+RUBRO: RECURSO DE REVISIÓN FISCAL. ES IMPROCEDENTE CONTRA LAS SENTENCIAS QUE DECLARAN LA NULIDAD DE LA RESOLUCIÓN EMITIDA POR EL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO (ISSSTE), RECAÍDA A UNA SOLICITUD DE INCREMENTO DE LA CUOTA DIARIA PENSIONARIA, AL CONSIDERAR QUE NO CUMPLIÓ CON LA CARGA DE PROBAR QUE LO REALIZÓ CONFORME AL SUELDO BÁSICO DE LOS TRABAJADORES EN ACTIVO O, EN SU CASO, CONFORME AL AUMENTO DEL ÍNDICE NACIONAL DE PRECIOS AL CONSUMIDOR (INPC), AL CONSTITUIR UN VICIO DE FORMA.
+
+CLAVE DE TESIS: XVI.1o.A. J/14 A (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; T.C.C.; Gaceta S.J.F.; Libro 36, Abril de 2024; Tomo V; Pág. 4329
+INSTANCIA: PRIMER TRIBUNAL COLEGIADO EN MATERIA ADMINISTRATIVA DEL DÉCIMO SEXTO CIRCUITO. (T.C.C.)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2024-04-12T10:16:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2028596
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: El supuesto jurídico que resuelve es la procedencia del recurso de revisión fiscal en contra de sentencias que declaran la nulidad de resoluciones del ISSSTE sobre solicitudes de incremento de cuota diaria pensionaria cuando la institución no acredita haber realizado el cálculo conforme al sueldo básico de trabajadores en activo o al Índice Nacional de Precios al Consumidor. El criterio establecido es que el recurso de revisión fiscal es improcedente en estos casos, toda vez que la falta de prueba respecto al cumplimiento de los parámetros legales para el incremento pensionario constituye un vicio de forma que no puede ser subsanado a través de este medio de impugnación, quedando firme la sentencia que declara la nulidad de la resolución administrativa.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2028596

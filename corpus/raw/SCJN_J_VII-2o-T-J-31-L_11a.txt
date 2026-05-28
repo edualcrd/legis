@@ -1,0 +1,20 @@
+RUBRO: SENTENCIAS EN MATERIA LABORAL. SON VÁLIDAS LAS FIRMADAS ÚNICAMENTE POR EL JUEZ SIN LA ASISTENCIA DEL SECRETARIO INSTRUCTOR.
+
+CLAVE DE TESIS: VII.2o.T. J/31 L (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; T.C.C.; Gaceta S.J.F.; Libro 50, Junio de 2025; Tomo IV, Volumen 2; Pág. 1345
+INSTANCIA: SEGUNDO TRIBUNAL COLEGIADO EN MATERIA DE TRABAJO DEL SÉPTIMO CIRCUITO. (T.C.C.)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2025-06-27T10:33:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2030658
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: Las sentencias en materia laboral suscritas exclusivamente por el juez, sin la participación del secretario instructor, son válidas y producen todos sus efectos legales, siempre que cumplan con los requisitos sustanciales de motivación y fundamentación exigidos por la ley. El criterio establecido reconoce que la firma del juez es el elemento esencial para la validez de la sentencia, siendo la intervención del secretario instructor un requisito formal cuya ausencia no vicia el acto jurisdiccional cuando la resolución contiene los elementos de fondo necesarios para su validez. Esta interpretación flexibiliza los requisitos procedimentales en materia laboral, priorizando la efectividad de la administración de justicia sobre formalismos que no afecten la esencia de la decisión judicial.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2030658

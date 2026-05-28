@@ -1,0 +1,20 @@
+RUBRO: FOVISSSTE. ES COMPETENTE UN JUEZ DE DISTRITO EN MATERIA ADMINISTRATIVA PARA CONOCER DEL JUICIO DE AMPARO EN EL QUE SE RECLAMAN LOS DESCUENTOS POR CONCEPTO DE PAGO DEL CRÉDITO DE VIVIENDA DEL SALARIO DE AGENTES DE LA POLICÍA DE INVESTIGACIÓN DE LA PROCURADURÍA GENERAL DE JUSTICIA DE LA CIUDAD DE MÉXICO, EN ACTIVO.
+
+CLAVE DE TESIS: PC.I.A. J/151 A (10a.)
+LOCALIZACIÓN: [J]; 10a. Época; Plenos de Circuito; Gaceta S.J.F.; Libro 69, Agosto de 2019; Tomo IV; Pág. 3745
+INSTANCIA: PLENO EN MATERIA ADMINISTRATIVA DEL PRIMER CIRCUITO. (Plenos de Circuito)
+ÉPOCA: 10a. Época
+FECHA DE PUBLICACIÓN: 2019-08-02T10:10:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2020330
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: La competencia para conocer de amparos que reclaman descuentos salariales por créditos de vivienda otorgados por el FOVISSSTE a agentes de policía en activo corresponde a un juez de distrito en materia administrativa, quien debe resolver si tales descuentos vulneran derechos fundamentales de los trabajadores, considerando que se trata de actos de autoridad que afectan prestaciones laborales derivadas de una relación de trabajo en el sector público.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2020330

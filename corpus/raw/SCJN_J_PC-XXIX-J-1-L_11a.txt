@@ -1,0 +1,20 @@
+RUBRO: COMPETENCIA PARA CONOCER DE LA ACCIÓN QUE EJERCE UN BENEFICIARIO PARA EXIGIR EL PAGO DE LA PRESTACIÓN DE AYUDA SINDICAL POR DEFUNCIÓN AL SINDICATO NACIONAL DE TRABAJADORES DEL SEGURO SOCIAL (SNTSS). AL DERIVAR SÓLO DEL REGLAMENTO RELATIVO Y NO DEL CONTRATO COLECTIVO DE TRABAJO CELEBRADO ENTRE EL INSTITUTO MEXICANO DEL SEGURO SOCIAL (IMSS) Y LA CITADA AGRUPACIÓN OBRERA, CORRESPONDE A LAS AUTORIDADES LABORALES DEL ESTADO DE HIDALGO.
+
+CLAVE DE TESIS: PC.XXIX. J/1 L (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; Plenos de Circuito; Gaceta S.J.F.; Libro 14, Junio de 2022; Tomo VI; Pág. 5338
+INSTANCIA: PLENO DEL VIGÉSIMO NOVENO CIRCUITO. (Plenos de Circuito)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2022-06-17T10:23:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2024828
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: La competencia para conocer de la acción que ejerce un beneficiario para exigir el pago de la prestación de ayuda sindical por defunción al Sindicato Nacional de Trabajadores del Seguro Social corresponde a las autoridades laborales del estado de Hidalgo, toda vez que esta prestación deriva exclusivamente del reglamento relativo y no del contrato colectivo de trabajo celebrado entre el Instituto Mexicano del Seguro Social y la agrupación obrera, lo que determina que se trata de una controversia de naturaleza administrativa y no laboral contractual, por lo que debe ser conocida por las autoridades locales competentes en materia laboral del estado donde se ejercita la acción.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2024828

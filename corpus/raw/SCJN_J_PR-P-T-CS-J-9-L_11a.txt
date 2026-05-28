@@ -1,0 +1,20 @@
+RUBRO: “PAGO ADICIONAL (CONVENIO)” ESTABLECIDO EN LA CIRCULAR DGPE/045/2020 DE LA UNIVERSIDAD NACIONAL AUTÓNOMA DE MÉXICO. DEBE CUBRIRSE SÓLO CON EL “SUELDO TABULAR” SEGÚN LA ESCALA DE SALARIOS DEL CONTRATO COLECTIVO DE TRABAJO APLICABLE.
+
+CLAVE DE TESIS: PR.P.T.CS. J/9 L (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; Plenos Regionales; Gaceta S.J.F.; Libro 40, Agosto de 2024; Tomo IV, Volumen 1; Pág. 697
+INSTANCIA: PLENO REGIONAL EN MATERIAS PENAL Y DE TRABAJO DE LA REGIÓN CENTRO-SUR, CON RESIDENCIA EN LA CIUDAD DE MÉXICO. (Plenos Regionales)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2024-08-23T10:31:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2029298
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: El supuesto jurídico que resuelve es la determinación de la base salarial sobre la cual debe calcularse el "pago adicional (convenio)" establecido en la Circular DGPE/045/2020 de la Universidad Nacional Autónoma de México. El criterio establecido es que dicho pago adicional debe cubrirse exclusivamente con el "sueldo tabular" conforme a la escala de salarios del contrato colectivo de trabajo aplicable, excluyendo otros conceptos salariales que pudieran considerarse como parte de la remuneración total del trabajador.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2029298

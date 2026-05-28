@@ -1,0 +1,20 @@
+RUBRO: DERECHOS LABORALES DE LAS PERSONAS TRABAJADORAS DEL CAMPO. ES IMPROCEDENTE LA SUSPENSIÓN PROVISIONAL EN AMPARO INDIRECTO CONTRA EL DECRETO DE REFORMA DE LOS ARTÍCULOS 279 Y 283, FRACCIONES IV, VII Y X, DE LA LEY FEDERAL DEL TRABAJO (DIARIO OFICIAL DE LA FEDERACIÓN DE 24 DE ENERO DE 2024).
+
+CLAVE DE TESIS: PR.P.T.CN. J/23 L (11a.)
+LOCALIZACIÓN: [J]; 12a. Época; Plenos Regionales; Gaceta S.J.F.; Libro 2, Octubre de 2025; Tomo I, Volumen 1; Pág. 430
+INSTANCIA: PLENO REGIONAL EN MATERIAS PENAL Y DE TRABAJO DE LA REGIÓN CENTRO-NORTE, CON RESIDENCIA EN LA CIUDAD DE MÉXICO. (Plenos Regionales)
+ÉPOCA: 12a. Época
+FECHA DE PUBLICACIÓN: 2025-10-03T10:13:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2031312
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: La suspensión provisional en amparo indirecto resulta improcedente cuando se cuestiona el Decreto de reforma de los artículos 279 y 283, fracciones IV, VII y X, de la Ley Federal del Trabajo publicado el 24 de enero de 2024, que amplía los derechos laborales de las personas trabajadoras del campo, toda vez que la medida cautelar no puede otorgarse para paralizar normas que reconocen y protegen derechos fundamentales, siendo que el criterio establecido es que la suspensión provisional no procede cuando su otorgamiento implicaría obstaculizar la vigencia de disposiciones que mejoran las condiciones de trabajo y garantías de los trabajadores agrícolas.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2031312

@@ -1,0 +1,20 @@
+RUBRO: PRUEBA DE INSPECCIÓN EN EL JUICIO LABORAL. POR REGLA GENERAL, NO ES IDÓNEA PARA ACREDITAR LAS SEMANAS COTIZADAS NI EL SALARIO PROMEDIO DE LAS ÚLTIMAS 250 SEMANAS DE COTIZACIÓN PARA LA OBTENCIÓN Y CUANTIFICACIÓN DE LAS PENSIONES POR INVALIDEZ, VEJEZ Y CESANTÍA EN EDAD AVANZADA, EXCEPTO CUANDO DE SU DESAHOGO SE ADVIERTE INFORMACIÓN APTA Y SUFICIENTE QUE DEMUESTRE ESOS ELEMENTOS [INTERRUPCIÓN DE LA JURISPRUDENCIA VII.2o.T. J/9 (10a.)].
+
+CLAVE DE TESIS: VII.2o.T. J/67 L (10a.)
+LOCALIZACIÓN: [J]; 11a. Época; T.C.C.; Gaceta S.J.F.; Libro 5, Septiembre de 2021; Tomo II; Pág. 2943
+INSTANCIA: SEGUNDO TRIBUNAL COLEGIADO EN MATERIA DE TRABAJO DEL SÉPTIMO CIRCUITO. (T.C.C.)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2021-09-24T10:33:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2023593
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: La prueba de inspección en el juicio laboral no es idónea por regla general para acreditar las semanas cotizadas ni el salario promedio de las últimas 250 semanas de cotización necesarios para la obtención y cuantificación de pensiones por invalidez, vejez y cesantía en edad avanzada, salvo en aquellos casos excepcionales en que del desahogo de dicha prueba se advierte información apta y suficiente que demuestre fehacientemente esos elementos constitutivos del derecho pensionario.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2023593

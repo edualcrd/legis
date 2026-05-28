@@ -1,0 +1,20 @@
+RUBRO: SUSPENSIÓN PROVISIONAL EN EL AMPARO. NO PROCEDE CONCEDERLA RESPECTO DE LA APLICACIÓN DEL ACUERDO POR EL CUAL SE ESTABLECEN CRITERIOS DE INSPECCIÓN EN MATERIA DE SUBCONTRATACIÓN RELACIONADOS CON LA AGROINDUSTRIA DE EXPORTACIÓN, PUBLICADO EN EL DIARIO OFICIAL DE LA FEDERACIÓN EL 14 DE NOVIEMBRE DE 2022.
+
+CLAVE DE TESIS: PR.L.CS. J/23 L (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; Plenos Regionales; Gaceta S.J.F.; Libro 26, Junio de 2023; Tomo VI; Pág. 5979
+INSTANCIA: PLENO REGIONAL EN MATERIA DE TRABAJO DE LA REGIÓN CENTRO-SUR, CON RESIDENCIA EN LA CIUDAD DE MÉXICO. (Plenos Regionales)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2023-06-16T10:22:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2026732
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: La suspensión provisional en amparo no procede cuando se cuestiona la aplicación de un acuerdo administrativo que establece criterios de inspección en materia de subcontratación en la agroindustria de exportación, publicado en el Diario Oficial de la Federación el 14 de noviembre de 2022, toda vez que tal medida cautelar requiere que exista un daño irreparable y que la aplicación de la norma impugnada genere un perjuicio de difícil o imposible reparación; en este caso, los criterios de inspección constituyen directrices administrativas cuya aplicación no produce necesariamente un daño irreparable, permitiendo que el amparo resuelva de fondo la controversia sin necesidad de paralizar preventivamente su ejecución.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2026732

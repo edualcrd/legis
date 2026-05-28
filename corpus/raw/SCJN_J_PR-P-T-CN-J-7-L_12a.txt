@@ -1,0 +1,20 @@
+RUBRO: COMPETENCIA POR TERRITORIO PARA CONOCER DEL AMPARO DIRECTO CONTRA EL PRIMER LAUDO DICTADO POR UNA JUNTA LABORAL QUE CON MOTIVO DE UN ACUERDO ADMINISTRATIVO FUE SUSTITUIDA Y SU COMPETENCIA FUE MODIFICADA Y ASIGNADA A OTRA UBICADA EN DISTINTO CIRCUITO JUDICIAL. CORRESPONDE AL TRIBUNAL COLEGIADO DE CIRCUITO QUE EJERCE JURISDICCIÓN SOBRE LA JUNTA SUSTITUTA.
+
+CLAVE DE TESIS: PR.P.T.CN. J/7 L (12a.)
+LOCALIZACIÓN: [J]; 12a. Época; Plenos Regionales; Semanario Judicial de la Federación
+INSTANCIA: PLENO REGIONAL EN MATERIAS PENAL Y DE TRABAJO DE LA REGIÓN CENTRO-NORTE, CON RESIDENCIA EN LA CIUDAD DE MÉXICO (Plenos Regionales)
+ÉPOCA: 12a. Época
+FECHA DE PUBLICACIÓN: 2026-05-15T10:20:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2032120
+FUENTE: Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: Cuando una junta laboral es sustituida por acuerdo administrativo y su competencia territorial es modificada y asignada a otra junta ubicada en distinto circuito judicial, la competencia para conocer del amparo directo contra el primer laudo dictado por la junta original corresponde al tribunal colegiado de circuito que ejerce jurisdicción sobre la junta sustituta, ya que el criterio establece que la competencia se determina conforme a la situación jurídica vigente al momento de la promoción del amparo y no conforme a la estructura que existía cuando se dictó la sentencia impugnada.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2032120

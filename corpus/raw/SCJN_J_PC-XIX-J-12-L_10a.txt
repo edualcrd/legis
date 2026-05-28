@@ -1,0 +1,20 @@
+RUBRO: NOTIFICACIONES PERSONALES AL DEMANDADO EN EL JUICIO LABORAL. DEBEN REALIZARSE POR BOLETÍN O POR ESTRADOS SI OMITIÓ SEÑALAR DOMICILIO PARA TAL EFECTO (LEY FEDERAL DEL TRABAJO EN SU TEXTO ANTERIOR A LA REFORMA PUBLICADA EN EL DIARIO OFICIAL DE LA FEDERACIÓN EL 1 DE MAYO DE 2019).
+
+CLAVE DE TESIS: PC.XIX. J/12 L (10a.)
+LOCALIZACIÓN: [J]; 10a. Época; Plenos de Circuito; Gaceta S.J.F.; Libro 74, Enero de 2020; Tomo II; Pág. 1549
+INSTANCIA: PLENO DEL DECIMONOVENO CIRCUITO. (Plenos de Circuito)
+ÉPOCA: 10a. Época
+FECHA DE PUBLICACIÓN: 2020-01-03T10:04:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2021344
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: Cuando el demandado en un juicio laboral omite señalar domicilio para recibir notificaciones personales, el criterio establecido es que éstas deben realizarse por boletín o por estrados, conforme a lo dispuesto en la Ley Federal del Trabajo en su texto anterior a la reforma del 1 de mayo de 2019. Este supuesto jurídico resuelve la situación procesal en la que la falta de domicilio designado por el demandado impide la notificación personal ordinaria, por lo que la ley autoriza estos medios sustitutos para garantizar que el demandado tenga conocimiento de los actos procesales y se respete su derecho de defensa en el procedimiento laboral.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2021344

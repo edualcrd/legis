@@ -1,0 +1,20 @@
+RUBRO: TRABAJADORES EXTRANJEROS. TIENEN DERECHO A LA DEVOLUCIÓN DE LOS RECURSOS ACUMULADOS EN SU CUENTA INDIVIDUAL DEPOSITADA EN LA ADMINISTRADORA DE FONDOS PARA EL RETIRO (AFORE), ASÍ COMO DE LAS APORTACIONES AL FONDO DE LA SUBCUENTA DE VIVIENDA, CUANDO VUELVAN EN FORMA DEFINITIVA A SU PAÍS DE ORIGEN, SIN QUE LES SEAN EXIGIBLES LOS REQUISITOS PREVISTOS EN LA LEY.
+
+CLAVE DE TESIS: PC.I.L. J/67 L (10a.)
+LOCALIZACIÓN: [J]; 10a. Época; Plenos de Circuito; Gaceta S.J.F.; Libro 80, Noviembre de 2020; Tomo II; Pág. 1813
+INSTANCIA: PLENO EN MATERIA DE TRABAJO DEL PRIMER CIRCUITO. (Plenos de Circuito)
+ÉPOCA: 10a. Época
+FECHA DE PUBLICACIÓN: 2020-11-13T10:24:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2022422
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: Los trabajadores extranjeros que retornan de forma definitiva a su país de origen tienen derecho a recuperar los recursos acumulados en su cuenta individual de la Administradora de Fondos para el Retiro (AFORE), así como las aportaciones a la subcuenta de vivienda, sin estar obligados a cumplir con los requisitos ordinariamente exigidos por la ley para acceder a estos beneficios. Este criterio reconoce una excepción al régimen general de retiro, considerando la condición especial de los trabajadores extranjeros cuya relación laboral en México concluye con su regreso permanente al extranjero, permitiéndoles disponer de sus ahorros previsionales sin las restricciones que se aplican a los trabajadores nacionales.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2022422

@@ -1,0 +1,20 @@
+RUBRO: DOCUMENTO DE ELECCIÓN PREVISTO EN EL REGLAMENTO PARA EL EJERCICIO DEL DERECHO DE OPCIÓN QUE TIENEN LOS TRABAJADORES DE CONFORMIDAD CON LOS ARTÍCULOS QUINTO Y SÉPTIMO TRANSITORIOS DEL DECRETO POR EL QUE SE EXPIDE LA LEY DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO. EL ARTÍCULO 26 DE ESE ORDENAMIENTO NO SÓLO ESTABLECE LOS DATOS QUE DEBE CONTENER EL FORMATO RELATIVO, SINO TAMBIÉN AQUELLOS QUE DEBEN OBSERVARSE EN SU LLENADO, COMO LA FECHA EN QUE LA DEPENDENCIA PATRONAL LO RECIBIÓ.
+
+CLAVE DE TESIS: V.2o.P.A. J/4 A (10a.)
+LOCALIZACIÓN: [J]; 11a. Época; T.C.C.; Gaceta S.J.F.; Libro 4, Agosto de 2021; Tomo V; Pág. 4633
+INSTANCIA: SEGUNDO TRIBUNAL COLEGIADO EN MATERIAS PENAL Y ADMINISTRATIVA DEL QUINTO CIRCUITO. (T.C.C.)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2021-08-20T10:28:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2023452
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: El supuesto jurídico que resuelve es la validez y requisitos del documento de elección que deben cumplimentar los trabajadores del Estado para ejercer su derecho de opción conforme a los artículos quinto y séptimo transitorios del Decreto que expide la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado. El criterio establecido es que el artículo 26 de ese ordenamiento no solamente prescribe los datos que debe contener el formato de elección, sino también aquellos que deben observarse en su llenado, incluyendo la fecha en que la dependencia patronal lo recibió, lo que constituye un requisito esencial para la validez del ejercicio del derecho de opción.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2023452

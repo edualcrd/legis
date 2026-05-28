@@ -1,0 +1,20 @@
+RUBRO: TRABAJADORES DE LAS INSTITUCIONES DE SEGURIDAD PÚBLICA Y DE PROCURACIÓN DE JUSTICIA DEL ESTADO DE VERACRUZ. POR DISPOSICIÓN LEGAL, LOS QUE REALIZAN FUNCIONES ADMINISTRATIVAS SON DE CONFIANZA.
+
+CLAVE DE TESIS: VII.2o.T. J/59 (10a.)
+LOCALIZACIÓN: [J]; 10a. Época; T.C.C.; Gaceta S.J.F.; Libro 73, Diciembre de 2019; Tomo II; Pág. 1013
+INSTANCIA: SEGUNDO TRIBUNAL COLEGIADO EN MATERIA DE TRABAJO DEL SÉPTIMO CIRCUITO. (T.C.C.)
+ÉPOCA: 10a. Época
+FECHA DE PUBLICACIÓN: 2019-12-06T10:18:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2021268
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: Los trabajadores de las instituciones de seguridad pública y procuración de justicia del estado de Veracruz que desempeñan funciones administrativas tienen la calidad de empleados de confianza por disposición legal, lo que implica que su relación laboral se rige por reglas especiales respecto a estabilidad en el empleo y procedimientos de terminación. El criterio establecido reconoce que la naturaleza de las funciones administrativas en estas instituciones justifica la clasificación como personal de confianza, independientemente de otras consideraciones sobre la naturaleza específica de cada puesto. Esta determinación legal afecta directamente los derechos y obligaciones derivados de la relación laboral de estos trabajadores.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2021268

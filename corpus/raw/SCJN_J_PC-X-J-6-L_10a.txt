@@ -1,0 +1,20 @@
+RUBRO: INDEMNIZACIÓN POR RIESGO DE TRABAJO. CARGA DE LA PRUEBA CUANDO SE RECLAMA SU INCREMENTO POR CAUSA INEXCUSABLE DEL PATRÓN EN TÉRMINOS DEL ARTÍCULO 490 DE LA LEY FEDERAL DEL TRABAJO.
+
+CLAVE DE TESIS: PC.X. J/6 L (10a.)
+LOCALIZACIÓN: [J]; 10a. Época; Plenos de Circuito; Gaceta S.J.F.; Libro 57, Agosto de 2018; Tomo II; Pág. 1887
+INSTANCIA: PLENO DEL DECIMO CIRCUITO. (Plenos de Circuito)
+ÉPOCA: 10a. Época
+FECHA DE PUBLICACIÓN: 2018-08-17T10:25:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2017623
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: Cuando el trabajador reclama el incremento de la indemnización por riesgo de trabajo alegando causa inexcusable del patrón, le corresponde al demandante acreditar los elementos constitutivos de dicha causa inexcusable, es decir, que el patrón conocía el peligro derivado de sus actos u omisiones, que tenía la posibilidad de evitarlo y que no lo hizo, conforme a lo establecido en el artículo 490 de la Ley Federal del Trabajo. La carga probatoria recae en quien reclama el incremento indemnizatorio, siendo insuficiente la mera alegación de negligencia o incumplimiento de normas de seguridad sin demostrar específicamente que el patrón actuó con conocimiento y voluntad de no prevenir el riesgo que se materializó en el accidente.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2017623

@@ -1,0 +1,20 @@
+RUBRO: DECLARACIÓN DE BENEFICIARIOS. LAS PERSONAS DESCENDIENTES MAYORES DE EDAD QUE EN TÉRMINOS DEL ARTÍCULO 193, PÁRRAFO ÚLTIMO, DE LA LEY DEL SEGURO SOCIAL SOLICITAN LA DEVOLUCIÓN DE LOS SALDOS ACUMULADOS EN LA CUENTA INDIVIDUAL DE LA PERSONA TRABAJADORA FALLECIDA, NO NECESITAN ACREDITAR DEPENDENCIA ECONÓMICA.
+
+CLAVE DE TESIS: P./J. 8/2025 (12a.)
+LOCALIZACIÓN: [J]; 12a. Época; Pleno; Gaceta S.J.F.; Libro 5, Enero de 2026; Tomo I, Volumen 1; Pág. 10
+INSTANCIA: Pleno (S.C.J.N.)
+ÉPOCA: 12a. Época
+FECHA DE PUBLICACIÓN: 2026-01-02T10:03:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2031615
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: La declaración de beneficiarios en el contexto de la devolución de saldos acumulados en la cuenta individual del seguro social resuelve el supuesto de personas descendientes mayores de edad que solicitan acceder a dichos fondos tras el fallecimiento del trabajador. El criterio establecido es que estas personas no están obligadas a acreditar dependencia económica de la persona trabajadora fallecida para ejercer su derecho a la devolución, conforme a lo dispuesto en el artículo 193, párrafo último, de la Ley del Seguro Social. Esta interpretación reconoce que la calidad de descendiente mayor de edad es suficiente para ser considerado beneficiario sin necesidad de demostrar una relación de dependencia económica previa.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2031615

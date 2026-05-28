@@ -1,0 +1,20 @@
+RUBRO: DELEGADOS DEL INSTITUTO MEXICANO DEL SEGURO SOCIAL (IMSS). LOS ABOGADOS DE LA JEFATURA DE SERVICIOS JURÍDICOS QUE ACTÚAN EN REPRESENTACIÓN DE AQUÉLLOS NO SE ENCUENTRAN OBLIGADOS A DEMOSTRAR SU CARÁCTER DE FUNCIONARIOS ADSCRITOS A ELLA.
+
+CLAVE DE TESIS: 2a./J. 3/2020 (10a.)
+LOCALIZACIÓN: [J]; 10a. Época; 2a. Sala; Gaceta S.J.F.; Libro 75, Febrero de 2020; Tomo I; Pág. 798
+INSTANCIA: Segunda Sala (S.C.J.N.)
+ÉPOCA: 10a. Época
+FECHA DE PUBLICACIÓN: 2020-02-14T10:16:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2021608
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: Los abogados de la Jefatura de Servicios Jurídicos que actúan en representación de los delegados del Instituto Mexicano del Seguro Social no están obligados a acreditar su carácter de funcionarios adscritos a dicha dependencia, ya que su actuación en juicio se presume válida por su intervención en tal calidad. El criterio establece que la representación de estos abogados goza de una presunción de legitimidad derivada de su función institucional, sin que sea necesario que demuestren documentalmente su adscripción a la Jefatura de Servicios Jurídicos del IMSS. Esta regla facilita la actuación procesal de los representantes del organismo de seguridad social al eximirlos de cargas probatorias adicionales respecto a su capacidad para actuar en juicio.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2021608

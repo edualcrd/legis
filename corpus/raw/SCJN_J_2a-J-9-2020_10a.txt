@@ -1,0 +1,20 @@
+RUBRO: ACCIÓN DE REINSTALACIÓN O DE INDEMNIZACIÓN. CUANDO EL TRABAJADOR AFIRME QUE EL DESPIDO OCURRIÓ EN UN DÍA DE DESCANSO OBLIGATORIO POR LEY O INHÁBIL PARA ÉL SIN JUSTIFICAR SU PRESENCIA EN LA FUENTE DE TRABAJO, ESE SIMPLE HECHO, POR SÍ MISMO, PODRÍA SER SUFICIENTE PARA HACER PRESUMIBLE LA INVEROSIMILITUD DE AQUÉL (LEY FEDERAL DEL TRABAJO Y LEY ESTATAL DEL SERVICIO CIVIL DE VERACRUZ).
+
+CLAVE DE TESIS: 2a./J. 9/2020 (10a.)
+LOCALIZACIÓN: [J]; 10a. Época; 2a. Sala; Gaceta S.J.F.; Libro 75, Febrero de 2020; Tomo I; Pág. 705
+INSTANCIA: Segunda Sala (S.C.J.N.)
+ÉPOCA: 10a. Época
+FECHA DE PUBLICACIÓN: 2020-02-21T10:23:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2021638
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: Cuando un trabajador demanda reinstalación o indemnización por despido alegando que éste ocurrió en un día de descanso obligatorio por ley o inhábil para él, sin justificar su presencia en la fuente de trabajo, ese simple hecho puede ser suficiente para presumir la inverosimilitud de tal afirmación, conforme a lo establecido en la Ley Federal del Trabajo y la Ley Estatal del Servicio Civil de Veracruz. El criterio reconoce que la ausencia de justificación sobre por qué el trabajador se encontraba laborando en un día que legalmente debería ser de descanso genera una presunción en contra de la credibilidad de su versión de los hechos. Esta presunción opera como un mecanismo probatorio que permite al juzgador cuestionar la veracidad del despido alegado, sin que sea necesario que la parte demandada aporte prueba adicional para desvirtuar la demanda.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2021638

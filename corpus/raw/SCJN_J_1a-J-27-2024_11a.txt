@@ -1,0 +1,20 @@
+RUBRO: TRABAJO PENITENCIARIO. LOS ARTÍCULOS 91, FRACCIÓN II, Y 98 DE LA LEY NACIONAL DE EJECUCIÓN PENAL, QUE PREVÉN EL MARCO NORMATIVO REGULATORIO DEL TRABAJO CON FINES DE REINSERCIÓN SOCIAL EN SU VERTIENTE NO REMUNERADA, COMO SON LAS ACTIVIDADES DE MANTENIMIENTO DEL CENTRO CARCELARIO POR PARTE DE LAS PERSONAS PRIVADAS DE LA LIBERTAD, NO VIOLAN LOS ARTÍCULOS 5o. Y 21 CONSTITUCIONALES.
+
+CLAVE DE TESIS: 1a./J. 27/2024 (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; 1a. Sala; Gaceta S.J.F.; Libro 34, Febrero de 2024; Tomo II; Pág. 1351
+INSTANCIA: Primera Sala (S.C.J.N.)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2024-02-23T10:25:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2028292
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: El supuesto jurídico que resuelve es la constitucionalidad del trabajo penitenciario no remunerado realizado por personas privadas de la libertad en actividades de mantenimiento del centro carcelario conforme a los artículos 91, fracción II, y 98 de la Ley Nacional de Ejecución Penal. El criterio establecido es que dicho trabajo con fines de reinserción social no viola los artículos 5o. y 21 de la Constitución Política de los Estados Unidos Mexicanos, toda vez que el trabajo penitenciario constituye un elemento fundamental del proceso de reinserción social y no configura trabajo forzado prohibido constitucionalmente, siendo compatible con los derechos fundamentales de las personas privadas de la libertad.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2028292

@@ -1,0 +1,20 @@
+RUBRO: PROCEDIMIENTO LABORAL DEL NUEVO SISTEMA DE JUSTICIA EN LA MATERIA. EL JUEZ DE LA CAUSA, COMO RECTOR QUE ES DE ÉL, TIENE A SU ALCANCE UN AMPLIO ABANICO DE POSIBILIDADES PARA REGULARIZARLO CUANDO ADVIERTA LA NECESIDAD DE CORREGIR O SUBSANAR CUALQUIER IRREGULARIDAD U OMISIÓN QUE APRECIE EN SU SUSTANCIACIÓN, A FIN DE PONERLO EN ESTADO DE RESOLUCIÓN, SALVO AQUELLAS QUE REQUIERAN DEL RECURSO PREVISTO EN LA LEY PARA ACTUAR EN CONSECUENCIA.
+
+CLAVE DE TESIS: PR.L.CN. J/25 L (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; Plenos Regionales; Gaceta S.J.F.; Libro 34, Febrero de 2024; Tomo III; Pág. 2573
+INSTANCIA: PLENO REGIONAL EN MATERIA DE TRABAJO DE LA REGIÓN CENTRO-NORTE, CON RESIDENCIA EN MONTERREY, NUEVO LEÓN. (Plenos Regionales)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2024-02-02T10:04:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2028126
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: El rubro establece que en el procedimiento laboral del nuevo sistema de justicia, el juez de la causa, en su calidad de rector del procedimiento, posee amplias facultades para regularizar, corregir u subsanar irregularidades u omisiones que advierta durante la sustanciación del juicio, con el propósito de llevarlo a estado de resolución, excepto en aquellos casos en que la ley expresamente prevea un recurso específico para actuar en consecuencia. Este criterio reconoce la potestad discrecional del juzgador para mantener el orden procesal y garantizar que el procedimiento se desarrolle conforme a derecho, sin que ello implique vulnerar las garantías de las partes cuando existan mecanismos legales establecidos para impugnar determinadas actuaciones.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2028126

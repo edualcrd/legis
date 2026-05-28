@@ -1,0 +1,20 @@
+RUBRO: PENSIÓN POR JUBILACIÓN. EN SU MONTO DIARIO DEBE INCLUIRSE EL BENEFICIO DE "AÑOS ADICIONALES DE SERVICIO", PREVISTO EN EL ARTÍCULO 69 DEL REGLAMENTO DE PRESTACIONES DEL INSTITUTO DE SEGURIDAD SOCIAL DEL ESTADO DE MÉXICO Y MUNICIPIOS, CUANDO EL ÚLTIMO INGRESO AL SERVICIO PÚBLICO SEA ANTERIOR AL 1 DE JULIO DE 2002 Y NO SE HAYA EJERCIDO EL DERECHO AL ESTÍMULO DE PERMANENCIA.
+
+CLAVE DE TESIS: II.1o.A. J/3 A (10a.)
+LOCALIZACIÓN: [J]; 11a. Época; T.C.C.; Gaceta S.J.F.; Libro 3, Julio de 2021; Tomo II; Pág. 2248
+INSTANCIA: PRIMER TRIBUNAL COLEGIADO EN MATERIA ADMINISTRATIVA DEL SEGUNDO CIRCUITO. (T.C.C.)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2021-07-09T10:16:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2023370
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: La pensión por jubilación debe incluir en su cálculo diario el beneficio de "años adicionales de servicio" conforme al artículo 69 del Reglamento de Prestaciones del Instituto de Seguridad Social del Estado de México y Municipios, siempre que el último ingreso al servicio público sea anterior al 1 de julio de 2002 y el trabajador no haya ejercido previamente el derecho al estímulo de permanencia. Este criterio establece que el monto de la pensión jubilaria debe reconocer y compensar los años de servicio adicionales acumulados por el trabajador, garantizando que la prestación refleje fielmente su trayectoria laboral en el sector público.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2023370

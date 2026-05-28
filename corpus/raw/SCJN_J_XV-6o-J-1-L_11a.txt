@@ -1,0 +1,20 @@
+RUBRO: COMPETENCIA PARA CONOCER DE LOS CONFLICTOS LABORALES SUSCITADOS ENTRE EL ORGANISMO PÚBLICO DESCENTRALIZADO DENOMINADO INSTITUTO DE SERVICIOS DE SALUD PÚBLICA DEL ESTADO DE BAJA CALIFORNIA (ISESALUD) Y SUS TRABAJADORES. CORRESPONDE AL TRIBUNAL DE ARBITRAJE DE ESA ENTIDAD.
+
+CLAVE DE TESIS: XV.6o. J/1 L (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; T.C.C.; Gaceta S.J.F.; Libro 16, Agosto de 2022; Tomo IV; Pág. 4027
+INSTANCIA: SEXTO TRIBUNAL COLEGIADO DEL DÉCIMO QUINTO CIRCUITO. (T.C.C.)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2022-08-19T10:27:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2025113
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: La competencia para conocer de los conflictos laborales entre el Instituto de Servicios de Salud Pública del Estado de Baja California (ISESALUD) y sus trabajadores corresponde al Tribunal de Arbitraje de esa entidad, estableciendo que los organismos públicos descentralizados de carácter estatal deben someter sus controversias laborales a los tribunales arbitrales locales conforme a su naturaleza jurídica y régimen administrativo, en lugar de acudir a la jurisdicción federal o a otras instancias, garantizando así que las disputas se resuelvan ante la autoridad competente territorialmente designada para conocer de tales asuntos.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2025113

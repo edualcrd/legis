@@ -1,0 +1,20 @@
+RUBRO: SUSPENSIÓN PROVISIONAL EN EL JUICIO DE AMPARO. NO PROCEDE CONCEDERLA RESPECTO DE LA APLICACIÓN DEL ARTÍCULO 185 DE LA LEY DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO, QUE PREVÉ LA ACTUALIZACIÓN PERIÓDICA DEL SALDO INSOLUTO DE LOS CRÉDITOS HIPOTECARIOS OTORGADOS POR EL FONDO DE LA VIVIENDA DE ESE INSTITUTO.
+
+CLAVE DE TESIS: PR.L.CS. J/35 L (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; Plenos Regionales; Gaceta S.J.F.; Libro 28, Agosto de 2023; Tomo IV; Pág. 3847
+INSTANCIA: PLENO REGIONAL EN MATERIA DE TRABAJO DE LA REGIÓN CENTRO-SUR, CON RESIDENCIA EN LA CIUDAD DE MÉXICO. (Plenos Regionales)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2023-08-18T10:26:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2027040
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: La suspensión provisional en el juicio de amparo no procede cuando se cuestiona la aplicación del artículo 185 de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado, que establece la actualización periódica del saldo insoluto de los créditos hipotecarios otorgados por el Fondo de la Vivienda, toda vez que esta medida cautelar requiere que exista un daño de difícil reparación y que la aplicación de la norma no genera por sí misma un perjuicio irreparable que justifique la paralización de su ejecución durante el procedimiento de amparo.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2027040

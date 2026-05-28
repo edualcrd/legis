@@ -1,0 +1,20 @@
+RUBRO: PRIMA DE ANTIGÜEDAD. EL ARTÍCULO 55, FRACCIÓN X, DE LA LEY DE LOS TRABAJADORES AL SERVICIO DE LOS TRES PODERES DEL ESTADO DE DURANGO, VIGENTE A PARTIR DEL 26 DE DICIEMBRE DE 2014, QUE SUPRIMIÓ LA OBLIGACIÓN DE LAS DEPENDENCIAS PÚBLICAS DE OTORGAR AQUELLA PRESTACIÓN, NO TRANSGREDE EL PRINCIPIO DE IRRETROACTIVIDAD DE LA LEY.
+
+CLAVE DE TESIS: PC.XXV. J/9 L (10a.)
+LOCALIZACIÓN: [J]; 10a. Época; Plenos de Circuito; Gaceta S.J.F.; Libro 62, Enero de 2019; Tomo III; Pág. 1456
+INSTANCIA: PLENO DEL VIGESIMO QUINTO CIRCUITO. (Plenos de Circuito)
+ÉPOCA: 10a. Época
+FECHA DE PUBLICACIÓN: 2019-01-04T10:05:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2018909
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: El supuesto jurídico que resuelve es si la supresión de la obligación de otorgar prima de antigüedad a los trabajadores al servicio de los poderes del estado de Durango, mediante reforma a la Ley de los Trabajadores al Servicio de los Tres Poderes del Estado de Durango vigente desde el 26 de diciembre de 2014, viola el principio de irretroactividad de la ley. El criterio establecido es que dicha supresión no transgrede el principio de irretroactividad, lo que implica que la reforma puede aplicarse a situaciones futuras sin afectar derechos ya consolidados bajo la ley anterior. El rubro cita el artículo 55, fracción X, de la Ley de los Trabajadores al Servicio de los Tres Poderes del Estado de Durango.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2018909

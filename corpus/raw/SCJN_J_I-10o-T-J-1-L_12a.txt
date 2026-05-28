@@ -1,0 +1,20 @@
+RUBRO: LIMITANTE DE LAS PENSIONES OTORGADAS CONFORME A LOS ARTÍCULOS 4 Y 5 DEL RÉGIMEN DE JUBILACIONES Y PENSIONES DE LOS TRABAJADORES DEL INSTITUTO MEXICANO DEL SEGURO SOCIAL. LA SUMA DE DOS PENSIONES NO PUEDE SER SUPERIOR AL 100 % DEL SALARIO QUE PERCIBÍA EL TRABAJADOR CUANDO ERA EMPLEADO EN ACTIVO, PUES ELLO CONTRAVENDRÍA LOS PRINCIPIOS FUNDAMENTALES DE LA SEGURIDAD SOCIAL.
+
+CLAVE DE TESIS: I.10o.T. J/1 L (12a.)
+LOCALIZACIÓN: [J]; 12a. Época; T.C.C.; Gaceta S.J.F.; Libro 7, Marzo de 2026; Tomo IV, Volumen 2; Pág. 1505
+INSTANCIA: DÉCIMO TRIBUNAL COLEGIADO EN MATERIA DE TRABAJO DEL PRIMER CIRCUITO. (T.C.C.)
+ÉPOCA: 12a. Época
+FECHA DE PUBLICACIÓN: 2026-03-27T10:30:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2031970
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: El supuesto jurídico que resuelve es la acumulación de dos pensiones otorgadas conforme a los artículos 4 y 5 del Régimen de Jubilaciones y Pensiones de los Trabajadores del Instituto Mexicano del Seguro Social. El criterio establecido es que la suma de dos pensiones no puede exceder el 100% del salario que percibía el trabajador cuando era empleado en activo, ya que rebasarlo contravendría los principios fundamentales de la seguridad social. Esta limitante busca mantener el equilibrio entre la protección del trabajador y la sostenibilidad del sistema de seguridad social, evitando que el asegurado obtenga prestaciones que superen su ingreso laboral anterior.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2031970

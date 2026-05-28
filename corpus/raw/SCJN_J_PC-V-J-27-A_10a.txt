@@ -1,0 +1,20 @@
+RUBRO: PENSIONADOS O JUBILADOS. LOS EFECTOS DE LA SENTENCIA QUE LES OTORGA LA PROTECCIÓN CONSTITUCIONAL RESPECTO DEL ARTÍCULO 25, FRACCIÓN I, DE LA LEY DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO DE SONORA, DEBEN ACOTARSE A LA DEVOLUCIÓN DE LAS CANTIDADES DESCONTADAS A PARTIR DEL ACTO DE APLICACIÓN QUE MOTIVÓ LA PROMOCIÓN DEL JUICIO DE AMPARO.
+
+CLAVE DE TESIS: PC.V. J/27 A (10a.)
+LOCALIZACIÓN: [J]; 10a. Época; Plenos de Circuito; Gaceta S.J.F.; Libro 72, Noviembre de 2019; Tomo II; Pág. 1553
+INSTANCIA: PLENO DEL QUINTO CIRCUITO (Plenos de Circuito)
+ÉPOCA: 10a. Época
+FECHA DE PUBLICACIÓN: 2019-11-15T10:26:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2021065
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: La sentencia que otorga protección constitucional a pensionados o jubilados en contra de lo dispuesto en el artículo 25, fracción I, de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado de Sonora, resuelve el supuesto de descuentos indebidos realizados a sus prestaciones. El criterio establecido determina que los efectos de dicha sentencia deben limitarse exclusivamente a la devolución de las cantidades que fueron descontadas a partir del acto de aplicación específico que motivó la promoción del juicio de amparo, evitando así efectos retroactivos más amplios que pudieran afectar el sistema de seguridad social.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2021065

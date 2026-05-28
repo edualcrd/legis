@@ -1,0 +1,20 @@
+RUBRO: ANTIGÜEDAD GENERAL DE EMPRESA DE LOS TRABAJADORES DE LA COMISIÓN FEDERAL DE ELECTRICIDAD (CFE). TIENEN DERECHO A SU RECONOCIMIENTO, NO OBSTANTE QUE SE LES HAYA PAGADO EL PERIODO EN QUE LABORARON COMO TEMPORALES.
+
+CLAVE DE TESIS: VII.2o.T. J/14 L (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; T.C.C.; Gaceta S.J.F.; Libro 26, Junio de 2023; Tomo VII; Pág. 6328
+INSTANCIA: SEGUNDO TRIBUNAL COLEGIADO EN MATERIA DE TRABAJO DEL SÉPTIMO CIRCUITO. (T.C.C.)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2023-06-16T10:22:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2026685
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: Los trabajadores de la Comisión Federal de Electricidad que laboraron como temporales tienen derecho al reconocimiento de su antigüedad general de empresa, aun cuando hayan recibido el pago correspondiente al período en que prestaron servicios en esa condición. El criterio establece que el pago del salario durante la etapa de trabajo temporal no extingue ni cancela el derecho a que dicho tiempo sea computado como antigüedad dentro de la empresa, ya que la antigüedad constituye un derecho independiente del pago de remuneraciones y se acumula por el simple transcurso del tiempo de servicios prestados. Esta interpretación reconoce que la antigüedad es un factor determinante para diversos derechos laborales y no puede ser negada por el hecho de que el trabajador haya recibido compensación económica durante su desempeño como personal temporal.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2026685

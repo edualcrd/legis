@@ -1,0 +1,20 @@
+RUBRO: COMPETENCIA LABORAL PARA CONOCER DE LOS ASUNTOS PRESENTADOS ANTE LAS JUNTAS DE CONCILIACIÓN Y ARBITRAJE CUANDO YA HABÍA INICIADO LA IMPLEMENTACIÓN DE LA REFORMA EN MATERIA LABORAL. CORRESPONDE A LOS TRIBUNALES LABORALES FEDERALES.
+
+CLAVE DE TESIS: PR.L.CS. J/57 L (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; Plenos Regionales; Gaceta S.J.F.; Libro 33, Enero de 2024; Tomo IV; Pág. 3746
+INSTANCIA: PLENO REGIONAL EN MATERIA DE TRABAJO DE LA REGIÓN CENTRO-SUR, CON RESIDENCIA EN LA CIUDAD DE MÉXICO. (Plenos Regionales)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2024-01-26T10:27:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2028054
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: Cuando ya se encontraba en proceso de implementación la reforma en materia laboral, los asuntos presentados ante las juntas de conciliación y arbitraje deben ser conocidos por los tribunales laborales federales, quienes ostentan la competencia laboral para resolver tales controversias. Este criterio establece que la transición normativa no genera vacíos de competencia, sino que los nuevos órganos jurisdiccionales asumen el conocimiento de los asuntos conforme avanza la implementación de la reforma, garantizando la continuidad en la administración de justicia laboral y evitando que las partes queden sin protección jurisdiccional durante el período de cambio institucional.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2028054

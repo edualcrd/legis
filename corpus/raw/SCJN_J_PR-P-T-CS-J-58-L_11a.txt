@@ -1,0 +1,20 @@
+RUBRO: JORNADA ESPECIAL DE VEINTICUATRO HORAS DE TRABAJO POR VEINTICUATRO HORAS DE DESCANSO DE LOS TRABAJADORES DE LA SECRETARÍA DE MEDIO AMBIENTE Y RECURSOS NATURALES (SEMARNAT). ESTÁ SUJETA AL MÁXIMO DE CUARENTA Y OCHO HORAS SEMANALES Y EL EXCEDENTE ES TIEMPO EXTRAORDINARIO [JURISPRUDENCIA PC.III.L. J/6 L (10a.) SUPERADA].
+
+CLAVE DE TESIS: PR.P.T.CS. J/58 L (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; Plenos Regionales; Gaceta S.J.F.; Libro 52, Agosto de 2025; Tomo II, Volumen 2; Pág. 1365
+INSTANCIA: PLENO REGIONAL EN MATERIAS PENAL Y DE TRABAJO DE LA REGIÓN CENTRO-SUR, CON RESIDENCIA EN LA CIUDAD DE MÉXICO. (Plenos Regionales)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2025-08-08T10:16:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2030835
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: La jurisprudencia resuelve el supuesto de trabajadores de la SEMARNAT que laboran bajo una jornada especial de veinticuatro horas de trabajo por veinticuatro horas de descanso, estableciendo como criterio que esta modalidad de jornada se encuentra sujeta al máximo de cuarenta y ocho horas semanales establecido en la ley, por lo que cualquier tiempo laborado que exceda este límite debe ser considerado y pagado como tiempo extraordinario, sin que la naturaleza especial de la jornada exima al patrón de cumplir con los límites legales de jornada ordinaria.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2030835

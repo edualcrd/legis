@@ -1,0 +1,20 @@
+RUBRO: AGUINALDO SIN DEDUCCIÓN IMPOSITIVA ALGUNA. EL ARTÍCULO 54, SEGUNDO PÁRRAFO, DE LA LEY PARA LOS SERVIDORES PÚBLICOS DEL ESTADO DE JALISCO Y SUS MUNICIPIOS, NO VIOLA LA PROHIBICIÓN DE EXENCIÓN O CONDONACIÓN DE IMPUESTOS, LA OBLIGACIÓN DE CONTRIBUIR AL GASTO PÚBLICO, NI LA FACULTAD DEL CONGRESO DE LA UNIÓN DE IMPONER CONTRIBUCIONES.
+
+CLAVE DE TESIS: 2a./J. 104/2024 (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; 2a. Sala; Gaceta S.J.F.; Libro 43, Noviembre de 2024; Tomo III, Volumen 1; Pág. 165
+INSTANCIA: Segunda Sala (S.C.J.N.)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2024-11-15T10:26:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2029499
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: El supuesto jurídico que resuelve es la constitucionalidad de una norma estatal que establece el pago de aguinaldo sin deducción impositiva alguna para servidores públicos. El criterio establecido es que dicha disposición no viola la prohibición de exención o condonación de impuestos, ni la obligación de contribuir al gasto público, ni la facultad exclusiva del Congreso de la Unión para imponer contribuciones, toda vez que el aguinaldo constituye una prestación laboral cuya exención no implica condonación de impuestos sino una forma legítima de determinación de la base gravable. El artículo 54, segundo párrafo, de la Ley para los Servidores Públicos del Estado de Jalisco y sus Municipios, es conforme a la Constitución Política de los Estados Unidos Mexicanos.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2029499

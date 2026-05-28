@@ -1,0 +1,20 @@
+RUBRO: DISCAPACIDAD SENSORIAL AUDITIVA. DERECHOS A LA PROTECCIÓN DE LA SALUD Y A LA SEGURIDAD SOCIAL DE NIÑAS, NIÑOS Y ADOLESCENTES. EL ARTÍCULO 42, FRACCIÓN II, DEL REGLAMENTO DE PRESTACIONES MÉDICAS DEL INSTITUTO MEXICANO DEL SEGURO SOCIAL VULNERA ESOS DERECHOS FUNDAMENTALES AL EXCLUIR DEL SEGURO DE ENFERMEDADES Y MATERNIDAD, ENTRE OTROS INSUMOS, LOS IMPLANTES COCLEARES.
+
+CLAVE DE TESIS: 2a./J. 60/2023 (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; 2a. Sala; Gaceta S.J.F.; Libro 31, Noviembre de 2023; Tomo III; Pág. 2495
+INSTANCIA: Segunda Sala (S.C.J.N.)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2023-11-10T10:21:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2027571
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: El supuesto jurídico que resuelve es la vulneración de derechos fundamentales a la protección de la salud y a la seguridad social de niñas, niños y adolescentes con discapacidad sensorial auditiva cuando se les excluye del acceso a implantes cocleares y otros insumos médicos necesarios. El criterio establecido es que el artículo 42, fracción II, del Reglamento de Prestaciones Médicas del Instituto Mexicano del Seguro Social resulta inconstitucional al negar cobertura a estos tratamientos, ya que tal exclusión vulnera los derechos fundamentales de protección de la salud y seguridad social reconocidos constitucionalmente para la población infantil y adolescente.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2027571

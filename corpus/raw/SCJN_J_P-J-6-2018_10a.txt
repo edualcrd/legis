@@ -1,0 +1,20 @@
+RUBRO: ADQUISICIONES, ARRENDAMIENTOS Y SERVICIOS DEL SECTOR PÚBLICO. DIFERENCIAS ENTRE LA RESCISIÓN ADMINISTRATIVA Y LA TERMINACIÓN ANTICIPADA DE LOS CONTRATOS ADMINISTRATIVOS REGULADOS POR LA LEY RELATIVA.
+
+CLAVE DE TESIS: P./J.  6/2018 (10a.)
+LOCALIZACIÓN: [J]; 10a. Época; Pleno; Gaceta S.J.F.; Libro 53, Abril de 2018; Tomo I; Pág. 7
+INSTANCIA: Pleno (S.C.J.N.)
+ÉPOCA: 10a. Época
+FECHA DE PUBLICACIÓN: 2018-04-20T10:24:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2016650
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: La rescisión administrativa y la terminación anticipada de los contratos administrativos regulados por la Ley de Adquisiciones, Arrendamientos y Servicios del Sector Público constituyen dos figuras jurídicas distintas con efectos y procedimientos diferentes: la rescisión es una sanción que la administración pública puede ejercer unilateralmente cuando el contratista incumple sus obligaciones, mientras que la terminación anticipada es un acuerdo bilateral o una facultad administrativa que opera cuando concurren circunstancias que hacen imposible o innecesaria la continuación del contrato. El criterio establecido distingue que en la rescisión existe responsabilidad del contratista y puede generar consecuencias patrimoniales para éste, en tanto que la terminación anticipada no necesariamente implica incumplimiento ni sanción, sino la conclusión del vínculo contractual por causas ajenas al desempeño del contratista.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2016650

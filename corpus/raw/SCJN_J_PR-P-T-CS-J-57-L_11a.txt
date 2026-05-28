@@ -1,0 +1,20 @@
+RUBRO: COMPETENCIA POR MATERIA PARA CONOCER DEL AMPARO EN REVISIÓN CONTRA LA MULTA IMPUESTA POR EL CENTRO FEDERAL DE CONCILIACIÓN Y REGISTRO LABORAL POR NO COMPARECER A LA AUDIENCIA DE CONCILIACIÓN. CORRESPONDE AL TRIBUNAL COLEGIADO DE CIRCUITO EN MATERIA DE TRABAJO.
+
+CLAVE DE TESIS: PR.P.T.CS. J/57 L (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; Plenos Regionales; Gaceta S.J.F.; Libro 51, Julio de 2025; Tomo I, Volumen 1; Pág. 603
+INSTANCIA: PLENO REGIONAL EN MATERIAS PENAL Y DE TRABAJO DE LA REGIÓN CENTRO-SUR, CON RESIDENCIA EN LA CIUDAD DE MÉXICO. (Plenos Regionales)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2025-07-04T10:11:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2030671
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: El supuesto jurídico que resuelve este rubro es la determinación de la competencia material para conocer del amparo en revisión interpuesto contra una multa impuesta por el Centro Federal de Conciliación y Registro Laboral derivada del incumplimiento de comparecencia a una audiencia de conciliación. El criterio establecido es que la competencia para conocer de este tipo de amparos corresponde al Tribunal Colegiado de Circuito en materia de trabajo, toda vez que la controversia surge en el contexto de un procedimiento laboral y la sanción impugnada está directamente vinculada con obligaciones derivadas de la materia laboral.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2030671

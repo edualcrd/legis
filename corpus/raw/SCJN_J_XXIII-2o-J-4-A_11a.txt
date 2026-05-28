@@ -1,0 +1,20 @@
+RUBRO: RECURSO DE REVISIÓN FISCAL. PROCEDE CONTRA LAS SENTENCIAS DEL TRIBUNAL FEDERAL DE JUSTICIA ADMINISTRATIVA QUE DECLARAN LA NULIDAD DE LAS RESOLUCIONES DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO (ISSSTE) RELACIONADAS CON EL PAGO DE LOS INCREMENTOS ANUALES DE LA CUOTA PENSIONARIA DE LAS PERSONAS JUBILADAS.
+
+CLAVE DE TESIS: XXIII.2o. J/4 A (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; T.C.C.; Gaceta S.J.F.; Libro 35, Marzo de 2024; Tomo VII; Pág. 6309
+INSTANCIA: SEGUNDO TRIBUNAL COLEGIADO DEL VIGÉSIMO TERCER CIRCUITO. (T.C.C.)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2024-03-15T10:18:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2028443
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: El recurso de revisión fiscal procede en contra de las sentencias dictadas por el Tribunal Federal de Justicia Administrativa que declaran la nulidad de las resoluciones emitidas por el ISSSTE respecto al pago de los incrementos anuales de la cuota pensionaria de personas jubiladas, estableciendo que este medio de impugnación es procedente para controvertir decisiones jurisdiccionales que anulan actos administrativos relacionados con prestaciones pensionarias, permitiendo que la administración pública cuestione ante la SCJN aquellas sentencias que afecten sus facultades en materia de seguridad social.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2028443

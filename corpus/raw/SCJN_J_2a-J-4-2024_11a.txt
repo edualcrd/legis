@@ -1,0 +1,20 @@
+RUBRO: ACCESO A LA ETAPA JURISDICCIONAL EN EL NUEVO SISTEMA DE JUSTICIA LABORAL, LA CONSTANCIA QUE DEJA A SALVO LOS DERECHOS DEL SOLICITANTE DE LA CONCILIACIÓN PARA PROMOVER JUICIO ANTE EL TRIBUNAL COMPETENTE, FACULTA AL TRIBUNAL LABORAL PARA ANALIZAR LOS ACTOS DE NOTIFICACIÓN PREVIOS A LA EXPEDICIÓN DE LA CONSTANCIA EN COMENTO.
+
+CLAVE DE TESIS: 2a./J. 4/2024 (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; 2a. Sala; Gaceta S.J.F.; Libro 34, Febrero de 2024; Tomo II; Pág. 1609
+INSTANCIA: Segunda Sala (S.C.J.N.)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2024-02-09T10:11:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2028142
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: La jurisprudencia resuelve el supuesto de si la constancia que deja a salvo los derechos del solicitante en la etapa de conciliación del nuevo sistema de justicia laboral faculta al tribunal laboral para revisar los actos de notificación previos a su expedición, estableciendo como criterio que dicha constancia, al permitir el acceso a la etapa jurisdiccional, habilita al tribunal competente para analizar la regularidad de las notificaciones realizadas antes de su emisión, garantizando así que el procedimiento conciliatorio se haya desarrollado conforme a las formalidades legales requeridas.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2028142

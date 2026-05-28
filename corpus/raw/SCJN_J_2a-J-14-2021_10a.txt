@@ -1,0 +1,20 @@
+RUBRO: CONTRATOS COLECTIVOS DE TRABAJO. LA EXIGENCIA DE QUE PARA SU CELEBRACIÓN INICIAL, O PARA SU REVISIÓN, SEA NECESARIA LA APROBACIÓN DE LA MAYORÍA DE LOS TRABAJADORES CUBIERTOS POR AQUÉLLOS, NO CONTRAVIENE EL DERECHO DE LIBERTAD DE NEGOCIACIÓN COLECTIVA (LEGISLACIÓN VIGENTE A PARTIR DEL 1 DE MAYO DE 2019).
+
+CLAVE DE TESIS: 2a./J. 14/2021 (10a.)
+LOCALIZACIÓN: [J]; 10a. Época; 2a. Sala; Gaceta S.J.F.; Libro 84, Marzo de 2021; Tomo II; Pág. 1545
+INSTANCIA: Segunda Sala (S.C.J.N.)
+ÉPOCA: 10a. Época
+FECHA DE PUBLICACIÓN: 2021-03-26T10:29:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2022878
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: El supuesto jurídico que resuelve es si la exigencia de aprobación mayoritaria de los trabajadores para la celebración inicial o revisión de contratos colectivos de trabajo vulnera el derecho de libertad de negociación colectiva. El criterio establecido es que tal exigencia no contraviene dicho derecho fundamental, sino que constituye un mecanismo legítimo de protección de los intereses de la mayoría de los trabajadores cubiertos por el contrato colectivo, conforme a la legislación vigente a partir del 1 de mayo de 2019.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2022878

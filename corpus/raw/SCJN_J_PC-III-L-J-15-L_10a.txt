@@ -1,0 +1,20 @@
+RUBRO: TIEMPO EXTRAORDINARIO LABORADO POR SERVIDORES PÚBLICOS DE AGENCIAS DEL MINISTERIO PÚBLICO FORÁNEAS DE LA FISCALÍA GENERAL DEL ESTADO DE JALISCO. NO PUEDE CONSIDERARSE INVEROSÍMIL LA PRETENSIÓN DE SU PAGO CUANDO DERIVE DE GUARDIAS QUE IMPLICAN ESTAR A DISPOSICIÓN DE LA FUENTE DE TRABAJO DURANTE UNA SEMANA AL MES, SEGUIDA DE PERIODOS EN LOS QUE SE CUBRE ÚNICAMENTE LA JORNADA ORDINARIA, POR RESULTAR ACORDES CON LA NATURALEZA HUMANA.
+
+CLAVE DE TESIS: PC.III.L. J/15 L (10a.)
+LOCALIZACIÓN: [J]; 10a. Época; Plenos de Circuito; Gaceta S.J.F.; Libro 35, Octubre de 2016; Tomo III; Pág. 2448
+INSTANCIA: PLENO EN MATERIA DE TRABAJO DEL TERCER CIRCUITO. (Plenos de Circuito)
+ÉPOCA: 10a. Época
+FECHA DE PUBLICACIÓN: 2016-10-28T10:38:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2012950
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: El supuesto jurídico que resuelve es la pretensión de pago de tiempo extraordinario laborado por servidores públicos del Ministerio Público que realizan guardias semanales mensuales en agencias foráneas, cuestionando si tal demanda resulta inverosímil conforme a los criterios de valoración de prueba. El criterio establecido es que no puede considerarse inverosímil la pretensión de pago de tiempo extraordinario cuando este derive de guardias que implican estar a disposición de la fuente de trabajo durante una semana al mes, seguida de periodos en los que se cubre únicamente la jornada ordinaria, por resultar tales condiciones acordes con la naturaleza humana y la realidad de las operaciones de instituciones como el Ministerio Público en localidades foráneas.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2012950

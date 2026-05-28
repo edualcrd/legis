@@ -1,0 +1,20 @@
+RUBRO: AMPARO INDIRECTO PROMOVIDO CONTRA DIVERSOS PRECEPTOS DE LA LEY DE PENSIONES PARA LOS TRABAJADORES AL SERVICIO DEL ESTADO DE NAYARIT. NO SE ACTUALIZA UNA CAUSA MANIFIESTA E INDUDABLE DE IMPROCEDENCIA POR EXTEMPORANEIDAD DE LA DEMANDA, SI EXISTE CONTROVERSIA EN CUANTO A LA FECHA EN QUE EL QUEJOSO TUVO CONOCIMIENTO DE LA APLICACIÓN DE AQUÉLLOS.
+
+CLAVE DE TESIS: XXIV.2o. J/3 (10a.)
+LOCALIZACIÓN: [J]; 10a. Época; T.C.C.; Gaceta S.J.F.; Libro 58, Septiembre de 2018; Tomo III; Pág. 2132
+INSTANCIA: SEGUNDO TRIBUNAL COLEGIADO DEL VIGÉSIMO CUARTO CIRCUITO. (T.C.C.)
+ÉPOCA: 10a. Época
+FECHA DE PUBLICACIÓN: 2018-09-28T10:37:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2017976
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: El supuesto jurídico que resuelve este criterio es la determinación de cuándo se actualiza la extemporaneidad en un amparo indirecto promovido contra preceptos de una ley de pensiones estatal, específicamente cuando existe discrepancia sobre la fecha en que el demandante tuvo conocimiento de la aplicación de tales disposiciones. El criterio establecido es que no se configura una causa manifiesta e indudable de improcedencia por extemporaneidad cuando existe controversia respecto al momento en que el quejoso conoció la aplicación de los preceptos impugnados, lo que implica que el tribunal debe analizar las pruebas y circunstancias del caso concreto antes de desestimar la demanda por este motivo, evitando un rechazo automático basado únicamente en la apariencia de extemporaneidad.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2017976

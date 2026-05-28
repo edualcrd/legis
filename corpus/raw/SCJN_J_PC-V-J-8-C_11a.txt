@@ -1,0 +1,20 @@
+RUBRO: PRÉSTAMOS PERSONALES OTORGADOS POR EL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO (ISSSTE). LA ACCIÓN PROMOVIDA POR ÉSTE CONTRA EL ACREDITADO PARA OBTENER SU PAGO, DEBE VENTILARSE ANTE LOS TRIBUNALES DE NATURALEZA MERCANTIL.
+
+CLAVE DE TESIS: PC.V. J/8 C (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; Plenos de Circuito; Gaceta S.J.F.; Libro 17, Septiembre de 2022; Tomo IV; Pág. 4308
+INSTANCIA: PLENO DEL QUINTO CIRCUITO (Plenos de Circuito)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2022-09-02T10:11:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2025196
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: El supuesto jurídico que resuelve es la determinación de la competencia jurisdiccional para conocer de las acciones que promueve el ISSSTE en contra de sus acreditados para obtener el pago de préstamos personales otorgados por dicha institución. El criterio establecido establece que tales controversias deben ventilarse ante los tribunales de naturaleza mercantil, reconociendo así el carácter mercantil de las operaciones crediticias realizadas por el ISSSTE, independientemente de su naturaleza como institución de seguridad social, lo que implica que estas acciones no deben conocerse ante tribunales laborales sino ante la jurisdicción mercantil competente.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2025196

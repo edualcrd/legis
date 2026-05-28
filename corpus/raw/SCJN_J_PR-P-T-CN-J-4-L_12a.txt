@@ -1,0 +1,20 @@
+RUBRO: CAMBIO DE INTEGRACIÓN DEL PLENO DEL TRIBUNAL DE JUSTICIA LABORAL BUROCRÁTICA DEL ESTADO DE ZACATECAS. DEBE NOTIFICARSE A LAS PARTES, PUES SU OMISIÓN PUEDE CONSTITUIR UNA VIOLACIÓN PROCESAL QUE TRASCIENDA AL RESULTADO DEL FALLO (APLICACIÓN SUPLETORIA DE LA LEY FEDERAL DEL TRABAJO A LA LEY DEL SERVICIO CIVIL LOCAL).
+
+CLAVE DE TESIS: PR.P.T.CN. J/4 L (12a.)
+LOCALIZACIÓN: [J]; 12a. Época; Plenos Regionales; Gaceta S.J.F.; Libro 6, Febrero de 2026; Tomo II, Volumen 1; Pág. 359
+INSTANCIA: PLENO REGIONAL EN MATERIAS PENAL Y DE TRABAJO DE LA REGIÓN CENTRO-NORTE, CON RESIDENCIA EN LA CIUDAD DE MÉXICO. (Plenos Regionales)
+ÉPOCA: 12a. Época
+FECHA DE PUBLICACIÓN: 2026-02-13T10:15:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2031751
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: Cuando se produce un cambio en la integración del Pleno del Tribunal de Justicia Laboral Burocrática del Estado de Zacatecas, existe la obligación procesal de notificar a las partes interesadas, ya que la omisión de esta notificación puede constituir una violación procesal que afecte sustancialmente el resultado del fallo y vulnere el derecho de defensa de los litigantes. El criterio establecido reconoce que, en materia de procedimientos ante tribunales laborales burocráticos locales, resulta aplicable de manera supletoria la Ley Federal del Trabajo cuando la legislación local del servicio civil presenta vacíos o insuficiencias normativas, garantizando así que los principios fundamentales de debido proceso y notificación se respeten en todas las instancias jurisdiccionales laborales.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2031751

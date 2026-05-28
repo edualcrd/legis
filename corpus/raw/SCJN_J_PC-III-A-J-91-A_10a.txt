@@ -1,0 +1,20 @@
+RUBRO: ABOGADO PATRONO. EL DESIGNADO EN TÉRMINOS DEL ARTÍCULO 7 DE LA LEY DE JUSTICIA ADMINISTRATIVA DEL ESTADO DE JALISCO, CARECE DE LEGITIMACIÓN PARA PROMOVER AMPARO DIRECTO [ALCANCE Y APLICACIÓN DE LA JURISPRUDENCIA 2a./J. 90/2012 (10a.)].
+
+CLAVE DE TESIS: PC.III.A. J/91 A (10a.)
+LOCALIZACIÓN: [J]; 10a. Época; Plenos de Circuito; Gaceta S.J.F.; Libro 81, Diciembre de 2020; Tomo I; Pág. 504
+INSTANCIA: PLENO EN MATERIA ADMINISTRATIVA DEL TERCER CIRCUITO. (Plenos de Circuito)
+ÉPOCA: 10a. Época
+FECHA DE PUBLICACIÓN: 2020-12-04T10:16:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2022496
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: El supuesto jurídico que resuelve es la legitimación procesal del abogado patrono designado conforme al artículo 7 de la Ley de Justicia Administrativa del Estado de Jalisco para promover amparo directo. El criterio establecido es que dicho abogado patrono carece de legitimación activa para interponer este tipo de juicio de garantías, ya que no ostenta la calidad de parte agraviada por el acto reclamado, siendo que la legitimación en el amparo requiere que quien lo promueva sea quien sufra directamente las consecuencias del acto que se impugna. Esta resolución aplica y delimita el alcance de la jurisprudencia 2a./J. 90/2012 (10a.), precisando que la representación legal en materia administrativa no confiere por sí sola la legitimación necesaria para ejercitar acciones de amparo cuando el representante no es titular de los derechos fundamentales que se alegan vulnerados.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2022496

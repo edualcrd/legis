@@ -1,0 +1,20 @@
+RUBRO: CONFLICTOS INDIVIDUALES DE SEGURIDAD SOCIAL. LA FALTA DE EXHIBICIÓN DE LA CONSTANCIA DE OTORGAMIENTO O NEGATIVA DE PENSIÓN, PREVISTA EN LA FRACCIÓN VI DEL ARTÍCULO 899-C DE LA LEY FEDERAL DEL TRABAJO, NO CONDUCE AL DESECHAMIENTO DE LA DEMANDA.
+
+CLAVE DE TESIS: PR.L.CS. J/11 L (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; Plenos Regionales; Gaceta S.J.F.; Libro 24, Abril de 2023; Tomo III; Pág. 2102
+INSTANCIA: PLENO REGIONAL EN MATERIA DE TRABAJO DE LA REGIÓN CENTRO-SUR, CON RESIDENCIA EN LA CIUDAD DE MÉXICO. (Plenos Regionales)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2023-04-21T10:25:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2026329
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: La falta de exhibición de la constancia de otorgamiento o negativa de pensión no constituye un requisito de procedibilidad que conduzca al desechamiento de la demanda en conflictos individuales de seguridad social. El criterio establece que aunque el artículo 899-C, fracción VI de la Ley Federal del Trabajo prevé la presentación de dicha constancia como requisito formal, su omisión no impide que el tribunal continúe conociendo del asunto, permitiendo que la controversia sea resuelta en el fondo sin que la falta de este documento sea motivo para rechazar la demanda de plano.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2026329

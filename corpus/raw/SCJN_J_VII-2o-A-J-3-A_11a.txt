@@ -1,0 +1,20 @@
+RUBRO: PENSIÓN POR CONCUBINATO OTORGADA POR EL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO (ISSSTE). LA APLICACIÓN DEL PUNTO 3 DE LAS "POLÍTICAS PARA EL REGISTRO DE PROBABLES DEUDOS CON FECHA POSTERIOR AL FALLECIMIENTO DEL TRABAJADOR Y PENSIONADO DIRECTO FINADO", EL CUAL DISPONE QUE LA SOLICITUD PARA SU OTORGAMIENTO DEBERÁ PRESENTARSE DENTRO DEL PERIODO QUE NO EXCEDA DE 18 MESES POSTERIORES AL FALLECIMIENTO DEL (DE LA) TRABAJADOR (A) O PENSIONADO (A) DIRECTO (A), ES ILEGAL.
+
+CLAVE DE TESIS: VII.2o.A. J/3 A (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; T.C.C.; Gaceta S.J.F.; Libro 27, Julio de 2023; Tomo III; Pág. 2299
+INSTANCIA: SEGUNDO TRIBUNAL COLEGIADO EN MATERIA ADMINISTRATIVA DEL SÉPTIMO CIRCUITO. (T.C.C.)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2023-07-07T10:14:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2026853
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: La aplicación del punto 3 de las políticas del ISSSTE que establece un plazo de 18 meses posteriores al fallecimiento del trabajador o pensionado directo para solicitar la pensión por concubinato resulta ilegal, ya que impone una limitación temporal que vulnera el derecho a la seguridad social de la concubina o concubinario al condicionar el otorgamiento de prestaciones derivadas de la relación de concubinato a un requisito de oportunidad que no encuentra fundamento legal en la normatividad aplicable, impidiendo así el acceso a derechos que corresponden por ley independientemente del momento en que se formule la solicitud.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2026853

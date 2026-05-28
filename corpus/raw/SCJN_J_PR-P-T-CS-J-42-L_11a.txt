@@ -1,0 +1,20 @@
+RUBRO: RESPONSABILIDAD SOLIDARIA EN MATERIA LABORAL. NO SE ACTUALIZA ENTRE EL INSTITUTO MEXICANO DEL SEGURO SOCIAL (IMSS) Y EL PARTICULAR CON QUIEN CELEBRE UN CONTRATO DE PRESTACIÓN DE SERVICIOS DE GUARDERÍA.
+
+CLAVE DE TESIS: PR.P.T.CS. J/42 L (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; Plenos Regionales; Gaceta S.J.F.; Libro 48, Abril de 2025; Tomo III, Volumen 1; Pág. 690
+INSTANCIA: PLENO REGIONAL EN MATERIAS PENAL Y DE TRABAJO DE LA REGIÓN CENTRO-SUR, CON RESIDENCIA EN LA CIUDAD DE MÉXICO. (Plenos Regionales)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2025-04-25T10:29:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2030313
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: La responsabilidad solidaria en materia laboral no se configura entre el Instituto Mexicano del Seguro Social y el particular con quien celebra un contrato de prestación de servicios de guardería, ya que la relación contractual entre ambos no genera una situación de patrón-trabajador respecto de los empleados del prestador de servicios, sino que se trata de un contrato mercantil o administrativo donde el IMSS adquiere un servicio específico sin asumir el control y dirección de la actividad laboral del personal del contratista, elementos esenciales para configurar la responsabilidad solidaria patronal.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2030313

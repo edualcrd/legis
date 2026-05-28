@@ -1,0 +1,20 @@
+RUBRO: PRUEBA DE INSPECCIÓN OFRECIDA PARA DESVIRTUAR EL CERTIFICADO DE DERECHOS EXPEDIDO POR EL INSTITUTO MEXICANO DEL SEGURO SOCIAL. LA CIRCUNSTANCIA DE QUE AL DESAHOGARLA NO SE EXHIBAN LOS DOCUMENTOS FÍSICOS RELATIVOS, NO ACTUALIZA LA PRESUNCIÓN DE TENER POR CIERTOS LOS HECHOS ADUCIDOS POR LA PERSONA ASEGURADA, ESTABLECIDA EN LOS ARTÍCULOS 828 Y 899-D DE LA LEY FEDERAL DEL TRABAJO.
+
+CLAVE DE TESIS: 2a./J. 35/2023 (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; 2a. Sala; Gaceta S.J.F.; Libro 26, Junio de 2023; Tomo V; Pág. 4154
+INSTANCIA: Segunda Sala (S.C.J.N.)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2023-06-16T10:22:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2026721
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: La prueba de inspección ofrecida para desvirtuar un certificado de derechos expedido por el Instituto Mexicano del Seguro Social no genera la presunción de veracidad de los hechos alegados por la persona asegurada cuando, al desahogarse, no se exhiben los documentos físicos relativos, conforme a lo establecido en los artículos 828 y 899-D de la Ley Federal del Trabajo. El criterio determina que la ausencia de documentación física durante el desahogo de esta prueba impide que se actualice la presunción legal de certeza respecto de los hechos aducidos por el asegurado, requiriéndose la presentación efectiva de los documentos para que dicha presunción opere.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2026721

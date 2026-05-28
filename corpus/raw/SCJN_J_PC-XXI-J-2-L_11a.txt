@@ -1,0 +1,20 @@
+RUBRO: COMPETENCIA TERRITORIAL DE LOS JUECES DE DISTRITO. LAS OMISIONES O ABSTENCIONES EN EL DICTADO DE LAS RESOLUCIONES EN MATERIA LABORAL NO CONLLEVAN UNA EJECUCIÓN MATERIAL PARA EFECTOS DE SU FIJACIÓN.
+
+CLAVE DE TESIS: PC.XXI. J/2 L (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; Plenos de Circuito; Gaceta S.J.F.; Libro 6, Octubre de 2021; Tomo II; Pág. 2406
+INSTANCIA: PLENO DEL VIGÉSIMO PRIMER CIRCUITO. (Plenos de Circuito)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2021-10-15T10:25:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2023679
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: Las omisiones o abstenciones de los jueces de distrito en el dictado de resoluciones en materia laboral no generan una ejecución material que permita fijar la competencia territorial conforme a los criterios tradicionales de ejecución de actos procesales. El criterio establece que la competencia territorial en estos casos debe determinarse por otros elementos procesales relevantes, tales como el domicilio de las partes o la ubicación del centro de trabajo, y no por la materialización de actos ejecutivos derivados de la inactividad judicial. Esta distinción es fundamental para evitar que la falta de diligencia procesal de los juzgadores genere consecuencias sobre la competencia territorial que debería haberse establecido desde el inicio del procedimiento laboral.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2023679

@@ -1,0 +1,20 @@
+RUBRO: AMPARO INDIRECTO. CASO DE EXCEPCIÓN A LA REGLA GENERAL DE IMPROCEDENCIA DEL JUICIO CONSTITUCIONAL CUANDO SE RECLAMA LA OMISIÓN DE PROVEER RESPECTO DE LA ADMISIÓN DE UNA DEMANDA LABORAL.
+
+CLAVE DE TESIS: PC.III.L. J/24 L (10a.)
+LOCALIZACIÓN: [J]; 10a. Época; Plenos de Circuito; Gaceta S.J.F.; Libro 49, Diciembre de 2017; Tomo III; Pág. 928
+INSTANCIA: PLENO EN MATERIA DE TRABAJO DEL TERCER CIRCUITO. (Plenos de Circuito)
+ÉPOCA: 10a. Época
+FECHA DE PUBLICACIÓN: 2017-12-08T10:20:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2015842
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: El amparo indirecto procede excepcionalmente cuando se reclama la omisión de proveer respecto de la admisión de una demanda laboral, constituyendo un caso de excepción a la regla general de improcedencia del juicio constitucional en estos supuestos. El criterio establece que cuando la autoridad laboral incurre en una omisión de proveer en materia de admisión de demandas, vulnerando el derecho de acceso a la justicia, el amparo indirecto es la vía idónea para proteger este derecho fundamental, permitiendo que el quejoso cuestione constitucionalmente la inactividad de la autoridad responsable en la tramitación de su demanda laboral.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2015842

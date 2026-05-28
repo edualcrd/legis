@@ -1,0 +1,20 @@
+RUBRO: PENSIONES. EL AUMENTO ANUAL PREVISTO EN EL ARTÍCULO 57 DE LA LEY DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO (ABROGADA) NO DEBE INCLUIR EL MONTO INDEPENDIENTE DE RECUPERACIÓN (MIR).
+
+CLAVE DE TESIS: PR.A.CN. J/9 A (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; Plenos Regionales; Gaceta S.J.F.; Libro 28, Agosto de 2023; Tomo III; Pág. 2945
+INSTANCIA: PLENO REGIONAL EN MATERIA ADMINISTRATIVA DE LA REGIÓN CENTRO-NORTE, CON RESIDENCIA EN LA CIUDAD DE MÉXICO. (Plenos Regionales)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2023-08-11T10:19:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2026989
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: El supuesto jurídico que resuelve es la determinación del alcance del aumento anual de pensiones conforme al artículo 57 de la Ley del Instituto de Seguridad y Servicios Sociales de los Trabajadores del Estado (abrogada), específicamente si dicho incremento debe aplicarse al Monto Independiente de Recuperación (MIR). El criterio establecido es que el aumento anual previsto en el artículo 57 de la ley citada no debe incluir el MIR, lo que significa que este componente de la pensión permanece fijo y no se beneficia del ajuste anual que sí aplica al resto de la prestación pensionaria.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2026989

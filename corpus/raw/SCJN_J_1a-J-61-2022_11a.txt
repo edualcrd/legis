@@ -1,0 +1,20 @@
+RUBRO: CONSULTA PREVIA A LOS PUEBLOS Y COMUNIDADES INDÍGENAS. DEBE REALIZARSE PREVIO A LA EXPEDICIÓN DE LOS TÍTULOS DE CONCESIONES MINERAS QUE SE VINCULEN CON ELLOS, EN TÉRMINOS DE LA CONSTITUCIÓN GENERAL Y DEL CONVENIO 169 SOBRE PUEBLOS INDÍGENAS Y TRIBALES EN PAÍSES INDEPENDIENTES, DE LA ORGANIZACIÓN INTERNACIONAL DEL TRABAJO (OIT).
+
+CLAVE DE TESIS: 1a./J. 61/2022 (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; 1a. Sala; Gaceta S.J.F.; Libro 14, Junio de 2022; Tomo V; Pág. 4024
+INSTANCIA: Primera Sala (S.C.J.N.)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2022-06-03T10:09:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2024740
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: La consulta previa a los pueblos y comunidades indígenas constituye un requisito obligatorio que debe cumplirse antes de expedir títulos de concesiones mineras que afecten sus territorios o derechos, conforme a lo establecido en la Constitución General y el Convenio 169 de la OIT sobre Pueblos Indígenas y Tribales en Países Independientes. El criterio jurisprudencial reconoce que esta consulta no es un mero trámite administrativo, sino un derecho fundamental de participación que busca garantizar que los pueblos indígenas puedan expresar su consentimiento o rechazo informado respecto a proyectos que impacten sus territorios ancestrales y recursos naturales. La omisión de esta consulta previa vicia de nulidad los actos administrativos relativos a la concesión minera, por violar derechos constitucionales y compromisos internacionales adquiridos por el Estado mexicano.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2024740

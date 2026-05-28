@@ -1,0 +1,20 @@
+RUBRO: RECURSO DE REVISIÓN FISCAL. LA PERSONA TITULAR DE LA JEFATURA DE DEPARTAMENTO DE LA DIRECCIÓN NORMATIVA DE PROCEDIMIENTOS LEGALES Y COMISIONADA PARA DESEMPEÑAR LAS FUNCIONES COMO TITULAR DE LA UNIDAD JURÍDICA EN SINALOA DEL INSTITUTO DE SEGURIDAD Y SERVICIOS SOCIALES DE LOS TRABAJADORES DEL ESTADO (ISSSTE), CARECE DE LEGITIMACIÓN PARA INTERPONERLO.
+
+CLAVE DE TESIS: PR.A.C.CN. J/91 A (11a.)
+LOCALIZACIÓN: [J]; 12a. Época; Plenos Regionales; Gaceta S.J.F.; Libro 2, Octubre de 2025; Tomo III, Volumen 1; Pág. 351
+INSTANCIA: PLENO REGIONAL EN MATERIAS ADMINISTRATIVA Y CIVIL DE LA REGIÓN CENTRO-NORTE, CON RESIDENCIA EN LA CIUDAD DE MÉXICO. (Plenos Regionales)
+ÉPOCA: 12a. Época
+FECHA DE PUBLICACIÓN: 2025-10-17T10:27:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2031355
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: La persona titular de la Jefatura de Departamento de la Dirección Normativa de Procedimientos Legales y comisionada para desempeñar funciones como titular de la Unidad Jurídica del ISSSTE en Sinaloa carece de legitimación para interponer un recurso de revisión fiscal, toda vez que dicho recurso requiere que quien lo promueva ostente la calidad de parte agraviada por un acto de autoridad fiscal, condición que no se configura cuando se actúa en representación de una institución pública en asuntos de carácter administrativo interno, sin que exista un acto de imposición tributaria que afecte directamente los derechos o intereses de la persona que lo interpone.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2031355

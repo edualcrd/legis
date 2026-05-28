@@ -1,0 +1,20 @@
+RUBRO: VACACIONES Y PRIMA VACACIONAL. PARA QUE EL TRIBUNAL FEDERAL DE CONCILIACIÓN Y ARBITRAJE EMPRENDA EL ESTUDIO DE PRESCRIPCIÓN PREVISTO EN EL ARTÍCULO 112 DE LA LEY FEDERAL DE LOS TRABAJADORES AL SERVICIO DEL ESTADO, RESPECTO DE SU DISFRUTE Y PAGO, ES NECESARIO QUE LA INSTITUCIÓN O DEPENDENCIA, AL OPONERLA, PROPORCIONE LOS ELEMENTOS MÍNIMOS.
+
+CLAVE DE TESIS: PC.I.L. J/4 L (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; Plenos de Circuito; Gaceta S.J.F.; Libro 5, Septiembre de 2021; Tomo II; Pág. 2860
+INSTANCIA: PLENO EN MATERIA DE TRABAJO DEL PRIMER CIRCUITO. (Plenos de Circuito)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2021-09-03T10:12:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2023516
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: El supuesto jurídico que resuelve este criterio es la oposición de la prescripción en materia de vacaciones y prima vacacional ante el Tribunal Federal de Conciliación y Arbitraje conforme al artículo 112 de la Ley Federal de los Trabajadores al Servicio del Estado. El criterio establecido señala que para que dicho tribunal pueda emprender el estudio de la prescripción respecto del disfrute y pago de vacaciones, la institución o dependencia que la opone debe proporcionar los elementos mínimos que demuestren el cumplimiento de los requisitos legales de prescripción, evitando así que la excepción se formule de manera genérica o sin sustento probatorio suficiente.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2023516

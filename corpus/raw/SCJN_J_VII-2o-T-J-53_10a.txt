@@ -1,0 +1,20 @@
+RUBRO: CONFLICTO COMPETENCIAL. EL HECHO DE QUE UNA JUNTA DE CONCILIACIÓN Y ARBITRAJE HUBIESE ACEPTADO LA COMPETENCIA PARA CONOCER DE UN ASUNTO, NO IMPIDE QUE, POSTERIORMENTE, DE UNA NUEVA REFLEXIÓN O POR NUEVOS ELEMENTOS, OFICIOSAMENTE LA DECLINE, SIEMPRE QUE LO HAGA ANTES DE LA AUDIENCIA DE DESAHOGO DE PRUEBAS.
+
+CLAVE DE TESIS: VII.2o.T. J/53 (10a.)
+LOCALIZACIÓN: [J]; 10a. Época; T.C.C.; Gaceta S.J.F.; Libro 69, Agosto de 2019; Tomo IV; Pág. 4183
+INSTANCIA: SEGUNDO TRIBUNAL COLEGIADO EN MATERIA DE TRABAJO DEL SÉPTIMO CIRCUITO. (T.C.C.)
+ÉPOCA: 10a. Época
+FECHA DE PUBLICACIÓN: 2019-08-23T10:31:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2020449
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: El supuesto jurídico que resuelve es la posibilidad de que una junta de conciliación y arbitraje decline su competencia de manera oficiosa después de haberla aceptado inicialmente, siempre que tal decisión se adopte antes de la audiencia de desahogo de pruebas. El criterio establecido es que la aceptación previa de competencia no constituye un impedimento para que la junta, mediante una nueva reflexión o ante nuevos elementos de prueba, pueda reconsiderar su competencia y declinarla de oficio, reconociendo así la facultad de las juntas para revisar sus propias determinaciones competenciales en esta etapa procesal.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2020449

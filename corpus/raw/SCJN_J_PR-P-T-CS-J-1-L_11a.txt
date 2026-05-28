@@ -1,0 +1,20 @@
+RUBRO: SALARIOS CAÍDOS. AL CUANTIFICARLOS NO DEBEN DESCONTARSE LOS PERCIBIDOS CON MOTIVO DE UNA DIVERSA CONTRATACIÓN CON LA MISMA PARTE PATRONAL DURANTE EL PERIODO QUE ABARCA LA CONDENA.
+
+CLAVE DE TESIS: PR.P.T.CS. J/1 L (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; Plenos Regionales; Gaceta S.J.F.; Libro 36, Abril de 2024; Tomo IV; Pág. 3710
+INSTANCIA: PLENO REGIONAL EN MATERIAS PENAL Y DE TRABAJO DE LA REGIÓN CENTRO-SUR, CON RESIDENCIA EN LA CIUDAD DE MÉXICO. (Plenos Regionales)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2024-04-12T10:16:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2028598
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: La cuantificación de salarios caídos en casos de despido injustificado debe realizarse sin descontar los ingresos que el trabajador haya percibido por una contratación diferente con el mismo patrón durante el período comprendido en la condena, ya que tales percepciones no constituyen un beneficio derivado del cumplimiento de la obligación laboral incumplida, sino ingresos provenientes de una relación contractual distinta. El criterio establece que la indemnización por salarios caídos debe calcularse de manera íntegra considerando únicamente el salario que dejó de percibir por la relación laboral terminada, sin que puedan efectuarse compensaciones con otros ingresos obtenidos simultáneamente, incluso si provienen del mismo empleador, a fin de garantizar la reparación integral del daño causado al trabajador.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2028598

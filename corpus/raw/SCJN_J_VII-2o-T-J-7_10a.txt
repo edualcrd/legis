@@ -1,0 +1,20 @@
+RUBRO: INDEMNIZACIÓN POR RIESGO DE TRABAJO DEL PERSONAL DE CONFIANZA DE PETRÓLEOS MEXICANOS Y ORGANISMOS SUBSIDIARIOS. LOS AUMENTOS AL SALARIO BASE PARA SU PAGO DEBEN COMPUTARSE CONFORME A LO PREVISTO EN EL REGLAMENTO APLICABLE PARA DICHO PERSONAL Y NO EN TÉRMINOS DE LA LEY FEDERAL DEL TRABAJO, AL RESULTAR AQUÉL MÁS BENÉFICO AL TRABAJADOR.
+
+CLAVE DE TESIS: VII.2o.T. J/7 (10a.)
+LOCALIZACIÓN: [J]; 10a. Época; T.C.C.; Gaceta S.J.F.; Libro 39, Febrero de 2017; Tomo III; Pág. 1904
+INSTANCIA: SEGUNDO TRIBUNAL COLEGIADO EN MATERIA DE TRABAJO DEL SÉPTIMO CIRCUITO. (T.C.C.)
+ÉPOCA: 10a. Época
+FECHA DE PUBLICACIÓN: 2017-02-10T10:12:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2013640
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: Cuando el personal de confianza de Petróleos Mexicanos y sus organismos subsidiarios tiene derecho a indemnización por riesgo de trabajo, el cálculo de los aumentos al salario base debe realizarse conforme a lo establecido en el reglamento específico aplicable a ese personal y no conforme a las disposiciones de la Ley Federal del Trabajo, toda vez que el criterio jurisprudencial reconoce que la aplicación del reglamento particular resulta más benéfica para el trabajador y, por tanto, debe prevalecer en virtud del principio de protección al trabajador que rige el derecho laboral mexicano.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2013640

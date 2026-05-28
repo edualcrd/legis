@@ -1,0 +1,20 @@
+RUBRO: AMPLIACIÓN DE LA DEMANDA EN EL JUICIO LABORAL BUROCRÁTICO EN EL ESTADO DE JALISCO. ETAPA PROCESAL OPORTUNA PARA PRESENTARLA.
+
+CLAVE DE TESIS: PC.III.L. J/3 L (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; Plenos de Circuito; Gaceta S.J.F.; Libro 14, Junio de 2022; Tomo VI; Pág. 5067
+INSTANCIA: PLENO EN MATERIA DE TRABAJO DEL TERCER CIRCUITO. (Plenos de Circuito)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2022-06-24T10:30:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2024870
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: La ampliación de la demanda en el juicio laboral burocrático constituye un acto procesal mediante el cual el demandante incorpora nuevas pretensiones o hechos a su demanda inicial, y conforme al criterio establecido, esta debe presentarse en la etapa procesal oportuna, es decir, antes de que se cierre la etapa de ofrecimiento de pruebas o en el momento procesal que la ley local de Jalisco señale como admisible, evitando así que se dilate innecesariamente el procedimiento y se respete el derecho de defensa de la parte demandada.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2024870

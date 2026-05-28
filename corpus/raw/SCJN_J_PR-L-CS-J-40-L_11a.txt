@@ -1,0 +1,20 @@
+RUBRO: EXCEPCIÓN DE PRESCRIPCIÓN GENÉRICA PREVISTA EN EL ARTÍCULO 516 DE LA LEY FEDERAL DEL TRABAJO. PARA QUE EL TRIBUNAL LABORAL EMPRENDA SU ESTUDIO, BASTA QUE LA PARTE DEMANDADA SEÑALE QUE LA OPONE POR LO QUE HACE A UN AÑO ANTES DE LA PRESENTACIÓN DE LA DEMANDA, Y NO POR LO QUE VE A UN AÑO ANTES DE LA PRESENTACIÓN DE LA SOLICITUD DE CONCILIACIÓN.
+
+CLAVE DE TESIS: PR.L.CS. J/40 L (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; Plenos Regionales; Gaceta S.J.F.; Libro 29, Septiembre de 2023; Tomo III; Pág. 3409
+INSTANCIA: PLENO REGIONAL EN MATERIA DE TRABAJO DE LA REGIÓN CENTRO-SUR, CON RESIDENCIA EN LA CIUDAD DE MÉXICO. (Plenos Regionales)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2023-09-22T10:31:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2027243
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: La excepción de prescripción genérica prevista en el artículo 516 de la Ley Federal del Trabajo se configura cuando la parte demandada alega que los hechos generadores de la acción ocurrieron más de un año antes de la presentación de la demanda ante el tribunal laboral, siendo innecesario que la prescripción se compute desde la solicitud de conciliación previa. El criterio establecido determina que para que el tribunal laboral emprenda el estudio de esta excepción, es suficiente que la demandada la oponga refiriéndose al plazo de un año anterior a la presentación de la demanda, sin que sea requisito que la prescripción se haya consumado un año antes de la presentación de la solicitud de conciliación ante la Junta de Conciliación y Arbitraje.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2027243

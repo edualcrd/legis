@@ -1,0 +1,20 @@
+RUBRO: PROCEDIMIENTO DE EJECUCIÓN DE CONVENIOS CELEBRADOS EN LA ETAPA PREJUDICIAL. LA CITACIÓN A LAS PARTES PREVISTA EN EL ARTÍCULO 704 DE LA LEY FEDERAL DEL TRABAJO, DEBE EFECTUARSE EN EL AUTO DE REQUERIMIENTO DE PAGO Y EMBARGO.
+
+CLAVE DE TESIS: PR.L.CS. J/64 L (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; Plenos Regionales; Gaceta S.J.F.; Libro 35, Marzo de 2024; Tomo V; Pág. 5182
+INSTANCIA: PLENO REGIONAL EN MATERIA DE TRABAJO DE LA REGIÓN CENTRO-SUR, CON RESIDENCIA EN LA CIUDAD DE MÉXICO. (Plenos Regionales)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2024-03-22T10:25:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2028483
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: El supuesto jurídico que resuelve es la forma en que debe ejecutarse un convenio celebrado durante la etapa prejudicial ante la Junta de Conciliación y Arbitraje. El criterio establecido es que la citación a las partes, conforme a lo previsto en el artículo 704 de la Ley Federal del Trabajo, debe efectuarse necesariamente en el auto de requerimiento de pago y embargo, garantizando así que ambas partes tengan conocimiento formal del procedimiento de ejecución y puedan ejercer sus derechos de defensa dentro de este trámite.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2028483

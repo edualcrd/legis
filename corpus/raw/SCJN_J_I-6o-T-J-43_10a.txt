@@ -1,0 +1,20 @@
+RUBRO: TRABAJADORES AL SERVICIO DE LAS INSTITUCIONES POLICIALES EN LOS TRES ÓRDENES DE GOBIERNO QUE NO PERTENEZCAN A LA CARRERA POLICIAL. POR DISPOSICIÓN LEGAL EXPRESA, SE CONSIDERAN DE CONFIANZA.
+
+CLAVE DE TESIS: I.6o.T. J/43 (10a.)
+LOCALIZACIÓN: [J]; 10a. Época; T.C.C.; Gaceta S.J.F.; Libro 45, Agosto de 2017; Tomo IV; Pág. 2744
+INSTANCIA: SEXTO TRIBUNAL COLEGIADO EN MATERIA DE TRABAJO DEL PRIMER CIRCUITO. (T.C.C.)
+ÉPOCA: 10a. Época
+FECHA DE PUBLICACIÓN: 2017-08-11T10:19:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2014877
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: La disposición legal establece que los trabajadores al servicio de instituciones policiales en los tres órdenes de gobierno que no pertenezcan a la carrera policial se consideran de confianza por mandato expreso de la ley, lo que implica que están excluidos del régimen ordinario de protección laboral y están sujetos a las reglas especiales aplicables a los empleados de confianza, incluyendo la posibilidad de terminación de la relación laboral sin necesidad de causa justificada ni procedimiento previo, conforme a lo establecido en la legislación laboral mexicana para este tipo de trabajadores.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2014877

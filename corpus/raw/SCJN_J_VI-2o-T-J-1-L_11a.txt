@@ -1,0 +1,20 @@
+RUBRO: PRIMA DE ANTIGÜEDAD. AL NO ESTAR PREVISTA EN LA LEY DE LOS TRABAJADORES AL SERVICIO DEL ESTADO DE PUEBLA, ÉSTOS NO TIENEN DERECHO A SU PAGO, SIN QUE ELLO VIOLE EL DERECHO FUNDAMENTAL DE IGUALDAD Y EL PRINCIPIO DE NO DISCRIMINACIÓN, ESTABLECIDOS EN EL ARTÍCULO 1o. DE LA CONSTITUCIÓN GENERAL (INAPLICABILIDAD SUPLETORIA DEL ARTÍCULO 162 DE LA LEY FEDERAL DEL TRABAJO).
+
+CLAVE DE TESIS: VI.2o.T. J/1 L (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; T.C.C.; Gaceta S.J.F.; Libro 11, Marzo de 2022; Tomo IV; Pág. 2891
+INSTANCIA: SEGUNDO TRIBUNAL COLEGIADO EN MATERIA DE TRABAJO DEL SEXTO CIRCUITO. (T.C.C.)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2022-03-25T10:28:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2024354
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: El supuesto jurídico que resuelve es si los trabajadores al servicio del Estado de Puebla tienen derecho a la prima de antigüedad cuando esta prestación no se encuentra prevista en su ley laboral aplicable, y si la negativa de su pago constituye una violación al derecho fundamental de igualdad y al principio de no discriminación. El criterio establecido es que la ausencia de previsión de la prima de antigüedad en la Ley de los Trabajadores al Servicio del Estado de Puebla no genera derecho a su pago, y que esta situación no viola los derechos fundamentales de igualdad y no discriminación consagrados en el artículo 1o. de la Constitución General, toda vez que el artículo 162 de la Ley Federal del Trabajo no es supletoriamente aplicable a los trabajadores estatales cuando su legislación específica no lo contempla.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2024354

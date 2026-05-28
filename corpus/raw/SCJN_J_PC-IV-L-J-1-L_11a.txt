@@ -1,0 +1,20 @@
+RUBRO: PRESCRIPCIÓN DE LA ACCIÓN DE REINSTALACIÓN POR DESPIDO INJUSTIFICADO DEL PERSONAL AL SERVICIO DEL ESTADO DE NUEVO LEÓN O DE SUS MUNICIPIOS. ES APLICABLE EL TÉRMINO DE UN AÑO PREVISTO EN EL ARTÍCULO 78 DE LA LEY DEL SERVICIO CIVIL DEL ESTADO DE NUEVO LEÓN.
+
+CLAVE DE TESIS: PC.IV.L. J/1 L (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; Plenos de Circuito; Gaceta S.J.F.; Libro 19, Noviembre de 2022; Tomo III; Pág. 2915
+INSTANCIA: PLENO EN MATERIA DE TRABAJO DEL CUARTO CIRCUITO. (Plenos de Circuito)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2022-11-25T10:36:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2025549
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: La prescripción de la acción de reinstalación por despido injustificado del personal al servicio del Estado de Nuevo León o de sus municipios se rige por el término de un año establecido en el artículo 78 de la Ley del Servicio Civil del Estado de Nuevo León, siendo este el plazo dentro del cual el trabajador debe ejercitar su derecho a la reinstalación una vez que ha sido despedido sin causa justificada. El criterio establece que esta acción prescribe al vencimiento del año señalado en la normativa local aplicable, por lo que la inactividad del trabajador durante este período extingue su derecho de acción ante los tribunales competentes.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2025549

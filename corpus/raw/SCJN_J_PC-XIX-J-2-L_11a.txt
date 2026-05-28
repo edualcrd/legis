@@ -1,0 +1,20 @@
+RUBRO: PRUEBA PERICIAL MÉDICA EN EL PROCEDIMIENTO LABORAL. LA OMISIÓN DEL PERITO DE CITAR EN EL DICTAMEN LOS DATOS DE IDENTIFICACIÓN DEL ACTOR CONSTITUYE UNA VIOLACIÓN PROCESAL, POR LO QUE EL AMPARO QUE SE CONCEDA DEBE TENER COMO EFECTO QUE SE REPONGA EL PROCEDIMIENTO Y SE ORDENE EL CORRECTO DESAHOGO DE LA PRUEBA.
+
+CLAVE DE TESIS: PC.XIX. J/2 L (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; Plenos de Circuito; Gaceta S.J.F.; Libro 17, Septiembre de 2022; Tomo V; Pág. 4473
+INSTANCIA: PLENO DEL DECIMONOVENO CIRCUITO. (Plenos de Circuito)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2022-09-23T10:32:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2025282
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: La omisión del perito de incluir los datos de identificación del actor en el dictamen médico constituye una violación procesal que afecta la validez de la prueba pericial en el procedimiento laboral, ya que impide verificar la identidad de la persona examinada y genera incertidumbre sobre la correspondencia entre el dictamen y el sujeto procesal. El criterio establecido es que cuando se concede el amparo por esta deficiencia, la sentencia debe ordenar la reposición del procedimiento y el correcto desahogo de la prueba pericial, garantizando que se cumplan los requisitos formales necesarios para que la prueba sea válida y vinculante en la resolución de la controversia laboral.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2025282

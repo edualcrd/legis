@@ -1,0 +1,20 @@
+RUBRO: SUSPENSIÓN CON EFECTOS RESTITUTORIOS. PROCEDE CONTRA LA OMISIÓN DEL INSTITUTO MEXICANO DEL SEGURO SOCIAL (IMSS) DE PAGAR LA PENSIÓN JUBILATORIA POR CESANTÍA EN EDAD AVANZADA.
+
+CLAVE DE TESIS: PR.A.C.CS. J/1 K (12a.)
+LOCALIZACIÓN: [J]; 12a. Época; Plenos Regionales; Gaceta S.J.F.; Libro 4, Diciembre de 2025; Tomo I, Volumen 1; Pág. 310
+INSTANCIA: PLENO REGIONAL EN MATERIAS ADMINISTRATIVA Y CIVIL DE LA REGIÓN CENTRO-SUR, CON RESIDENCIA EN LA CIUDAD DE MÉXICO. (Plenos Regionales)
+ÉPOCA: 12a. Época
+FECHA DE PUBLICACIÓN: 2025-12-05T10:17:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2031560
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: La suspensión con efectos restitutorios procede cuando el Instituto Mexicano del Seguro Social incurre en la omisión de pagar la pensión jubilatoria por cesantía en edad avanzada a un trabajador que tiene derecho a ella, estableciéndose como criterio que este medio de control constitucional es procedente para restituir al afectado en el goce de su derecho prestacional, ordenando al organismo de seguridad social el cumplimiento de sus obligaciones de pago de manera retroactiva desde que debió haberse iniciado el otorgamiento de la prestación.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2031560

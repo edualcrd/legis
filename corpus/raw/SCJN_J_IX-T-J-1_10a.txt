@@ -1,0 +1,20 @@
+RUBRO: CONTESTACIÓN DE DEMANDA EN SENTIDO AFIRMATIVO Y CONFESIÓN FICTA DEL PATRÓN EN MATERIA LABORAL. NO SON EQUIPARABLES.
+
+CLAVE DE TESIS: IX.T. J/1 (10a.)
+LOCALIZACIÓN: [J]; 10a. Época; T.C.C.; Gaceta S.J.F.; Libro 55, Junio de 2018; Tomo IV; Pág. 2544
+INSTANCIA: TRIBUNAL COLEGIADO EN MATERIA DE TRABAJO DEL NOVENO CIRCUITO. (T.C.C.)
+ÉPOCA: 10a. Época
+FECHA DE PUBLICACIÓN: 2018-06-22T10:28:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2017218
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: La contestación de demanda en sentido afirmativo y la confesión ficta del patrón en materia laboral constituyen instituciones procesales distintas que no pueden equipararse entre sí. Mientras que la contestación afirmativa implica que el demandado reconoce los hechos alegados por el actor pero los niega jurídicamente o presenta excepciones, la confesión ficta opera como una presunción legal que se genera por el incumplimiento de la obligación procesal de contestar la demanda dentro del término establecido. El criterio establece que estas figuras tienen naturaleza, efectos y consecuencias procesales diferentes, por lo que no pueden ser tratadas como equivalentes en los procedimientos laborales, siendo necesario distinguir claramente cuándo se está ante una u otra para aplicar correctamente las reglas probatorias y de carga de la prueba correspondientes.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2017218

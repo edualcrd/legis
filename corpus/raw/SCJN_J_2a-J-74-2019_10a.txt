@@ -1,0 +1,20 @@
+RUBRO: COMPETENCIA PARA CONOCER DEL JUICIO DE AMPARO INDIRECTO PROMOVIDO CONTRA LA ORDEN DEL ISSSTE DE INCREMENTAR LOS DESCUENTOS POR CONCEPTO DE PAGO DE CRÉDITO HIPOTECARIO DEL 30% AL 50% DEL SALARIO DE LOS MIEMBROS DE LAS INSTITUCIONES DE SEGURIDAD PÚBLICA. CORRESPONDE A UN JUZGADO DE DISTRITO EN MATERIA ADMINISTRATIVA.
+
+CLAVE DE TESIS: 2a./J. 74/2019 (10a.)
+LOCALIZACIÓN: [J]; 10a. Época; 2a. Sala; Gaceta S.J.F.; Libro 67, Junio de 2019; Tomo III; Pág. 2050
+INSTANCIA: Segunda Sala (S.C.J.N.)
+ÉPOCA: 10a. Época
+FECHA DE PUBLICACIÓN: 2019-06-07T10:13:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2019990
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: La competencia para conocer del juicio de amparo indirecto promovido contra la orden del ISSSTE de incrementar los descuentos por concepto de pago de crédito hipotecario del 30% al 50% del salario de los miembros de las instituciones de seguridad pública corresponde a un Juzgado de Distrito en materia administrativa, ya que el acto reclamado constituye una medida de carácter administrativo que afecta derechos laborales y patrimoniales de los servidores públicos, siendo esta la jurisdicción competente para conocer de amparos indirectos contra actos de autoridades administrativas que inciden en la relación laboral y en las prestaciones derivadas de la seguridad social.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2019990

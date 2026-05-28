@@ -1,0 +1,20 @@
+RUBRO: PROCEDIMIENTO LABORAL. EL ARTÍCULO 873-A, PÁRRAFO SÉPTIMO, DE LA LEY FEDERAL DEL TRABAJO, AL ESTABLECER LA POSIBILIDAD DE OFRECER PRUEBAS PARA DEMOSTRAR QUE EL ACTOR NO ERA TRABAJADOR, QUE NO EXISTIÓ EL DESPIDO O QUE NO SON CIERTOS LOS HECHOS AFIRMADOS POR LA ACTORA EN SU DEMANDA, CUANDO EL DEMANDADO NO LA CONTESTA O LO HACE FUERA DEL PLAZO CONCEDIDO, RESULTA RAZONABLE EN EL NUEVO MODELO DE JUSTICIA LABORAL.
+
+CLAVE DE TESIS: 2a./J. 75/2023 (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; 2a. Sala; Gaceta S.J.F.; Libro 32, Diciembre de 2023; Tomo III; Pág. 2275
+INSTANCIA: Segunda Sala (S.C.J.N.)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2023-12-08T10:20:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2027814
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: El supuesto jurídico que resuelve es la validez de permitir al demandado ofrecer pruebas para desvirtuarse de los hechos alegados por el actor cuando no contesta la demanda o lo hace extemporáneamente en el procedimiento laboral. El criterio establecido es que el artículo 873-A, párrafo séptimo, de la Ley Federal del Trabajo resulta razonable y compatible con el nuevo modelo de justicia laboral, ya que posibilita al demandado demostrar que no era trabajador, que no existió despido o que los hechos afirmados por la actora no son ciertos, evitando que la falta de contestación o su presentación fuera de plazo implique una condena automática sin oportunidad de defensa.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2027814

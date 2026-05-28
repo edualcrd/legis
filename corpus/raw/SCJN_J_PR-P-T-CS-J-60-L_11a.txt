@@ -1,0 +1,20 @@
+RUBRO: SENTENCIAS DICTADAS EN CONFLICTOS INDIVIDUALES EN MATERIA LABORAL. PARA SU VALIDEZ BASTA QUE LAS FIRME LA PERSONA JUZGADORA.
+
+CLAVE DE TESIS: PR.P.T.CS. J/60 L (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; Plenos Regionales; Gaceta S.J.F.; Libro 51, Julio de 2025; Tomo II, Volumen 1; Pág. 547
+INSTANCIA: PLENO REGIONAL EN MATERIAS PENAL Y DE TRABAJO DE LA REGIÓN CENTRO-SUR, CON RESIDENCIA EN LA CIUDAD DE MÉXICO. (Plenos Regionales)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2025-07-11T10:18:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2030764
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: Las sentencias dictadas en conflictos individuales en materia laboral requieren para su validez únicamente la firma de la persona juzgadora, sin necesidad de cumplir con formalidades adicionales que pudieran exigirse en otros procedimientos. Este criterio establece que la autenticidad y eficacia de la resolución judicial se acredita mediante la rúbrica del juzgador competente, lo que garantiza que la decisión emana de la autoridad facultada para resolver el conflicto laboral. De esta manera, se simplifica el procedimiento de validación de sentencias en materia laboral, priorizando la certeza sobre la identidad del emisor de la resolución.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2030764

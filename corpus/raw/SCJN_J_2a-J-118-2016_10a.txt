@@ -1,0 +1,20 @@
+RUBRO: DERECHO DE HUELGA. LOS TRABAJADORES DE CONFIANZA NO PUEDEN EJERCERLO.
+
+CLAVE DE TESIS: 2a./J. 118/2016 (10a.)
+LOCALIZACIÓN: [J]; 10a. Época; 2a. Sala; Gaceta S.J.F.; Libro 35, Octubre de 2016; Tomo I; Pág. 840
+INSTANCIA: Segunda Sala (S.C.J.N.)
+ÉPOCA: 10a. Época
+FECHA DE PUBLICACIÓN: 2016-10-07T10:17:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2012720
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: El supuesto jurídico que resuelve es si los trabajadores de confianza tienen derecho a ejercer la huelga. El criterio establecido es que los trabajadores de confianza no pueden ejercer el derecho de huelga, en razón de la naturaleza especial de su relación laboral que implica una posición de representación de los intereses del patrón. Esta restricción se fundamenta en la incompatibilidad entre la función de confianza que desempeñan y el ejercicio de acciones colectivas de conflicto laboral.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2012720

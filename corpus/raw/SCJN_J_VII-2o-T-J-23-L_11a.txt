@@ -1,0 +1,20 @@
+RUBRO: COMPETENCIA POR RAZÓN DE MATERIA. CORRESPONDE A LOS TRIBUNALES LABORALES FEDERALES DE ASUNTOS INDIVIDUALES CONOCER DEL JUICIO CONTRA UNA ADMINISTRADORA DE FONDOS PARA EL RETIRO (AFORE), EN EL QUE SE DEMANDA LA ENTREGA DE LOS RENDIMIENTOS O INTERESES QUE DEBIERON GENERAR LAS CANTIDADES DEPOSITADAS EN LA CUENTA INDIVIDUAL DEL SISTEMA DE AHORRO PARA EL RETIRO DE UNA PERSONA PENSIONADA DURANTE SU VIDA LABORAL.
+
+CLAVE DE TESIS: VII.2o.T. J/23 L (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; T.C.C.; Gaceta S.J.F.; Libro 46, Febrero de 2025; Tomo III, Volumen 1; Pág. 575
+INSTANCIA: SEGUNDO TRIBUNAL COLEGIADO EN MATERIA DE TRABAJO DEL SÉPTIMO CIRCUITO. (T.C.C.)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2025-02-21T10:23:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2029948
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: Los tribunales laborales federales de asuntos individuales son competentes para conocer de demandas en contra de administradoras de fondos para el retiro (AFORE) cuando se reclama la entrega de rendimientos o intereses que debieron generarse en la cuenta individual del sistema de ahorro para el retiro de una persona pensionada durante su vida laboral, toda vez que tales controversias constituyen asuntos de naturaleza laboral que se derivan de derechos y obligaciones inherentes al régimen de seguridad social en materia de pensiones, siendo esta materia de competencia exclusiva de la jurisdicción laboral federal.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2029948

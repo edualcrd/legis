@@ -1,0 +1,20 @@
+RUBRO: PENSIÓN ALIMENTICIA. CUANDO SU INCREMENTO SE PACTA EN LA MISMA PROPORCIÓN QUE EL SALARIO MÍNIMO, PARA SU CÁLCULO DEBEN TOMARSE EN CUENTA TODOS LOS FACTORES QUE LO COMPONEN, INCLUIDO EL MONTO INDEPENDIENTE DE RECUPERACIÓN (MIR).
+
+CLAVE DE TESIS: 1a./J. 152/2024 (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; 1a. Sala; Gaceta S.J.F.; Libro 43, Noviembre de 2024; Tomo III, Volumen 1; Pág. 137
+INSTANCIA: Primera Sala (S.C.J.N.)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2024-11-15T10:26:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2029528
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: Cuando las partes pactan que la pensión alimenticia se incrementará en la misma proporción que el salario mínimo, el cálculo de dicho aumento debe considerar la totalidad de los componentes que integran el salario mínimo, incluyendo específicamente el Monto Independiente de Recuperación (MIR), de modo que el incremento de la pensión refleje fielmente el aumento real del salario mínimo y no solo una parte del mismo, garantizando así que la obligación alimentaria se mantenga proporcional a la capacidad económica del deudor conforme a lo pactado por las partes.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2029528

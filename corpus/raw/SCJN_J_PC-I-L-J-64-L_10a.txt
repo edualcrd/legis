@@ -1,0 +1,20 @@
+RUBRO: TRABAJADORES DE CONFIANZA DE PETRÓLEOS MEXICANOS Y ORGANISMOS SUBSIDIARIOS. CUANDO DEMANDAN EL RECONOCIMIENTO DE LA ANTIGÜEDAD GENÉRICA PARA OBTENER SU PENSIÓN JUBILATORIA, DEBE TOMARSE EN CUENTA LA GENERADA EN LOS PERIODOS QUE LA INTEGRAN AUNQUE SEAN DISCONTINUOS.
+
+CLAVE DE TESIS: PC.I.L. J/64 L (10a.)
+LOCALIZACIÓN: [J]; 10a. Época; Plenos de Circuito; Gaceta S.J.F.; Libro 75, Febrero de 2020; Tomo II; Pág. 1989
+INSTANCIA: PLENO EN MATERIA DE TRABAJO DEL PRIMER CIRCUITO. (Plenos de Circuito)
+ÉPOCA: 10a. Época
+FECHA DE PUBLICACIÓN: 2020-02-21T10:23:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2021679
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: Cuando los trabajadores de confianza de Petróleos Mexicanos y sus organismos subsidiarios demandan el reconocimiento de antigüedad genérica para obtener pensión jubilatoria, el criterio establecido por la jurisprudencia es que debe considerarse la antigüedad acumulada en todos los periodos que integran tal antigüedad genérica, incluso cuando estos periodos sean discontinuos, permitiendo así que se sume la totalidad del tiempo laborado sin que las interrupciones en la relación laboral impidan el reconocimiento de la antigüedad completa para efectos de la jubilación.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2021679

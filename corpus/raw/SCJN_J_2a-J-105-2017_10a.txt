@@ -1,0 +1,20 @@
+RUBRO: SALARIOS VENCIDOS. EL ARTÍCULO 48 DE LA LEY FEDERAL DEL TRABAJO NO ES APLICABLE SUPLETORIAMENTE A LA LEY LABORAL DE LOS SERVIDORES PÚBLICOS DEL ESTADO DE TLAXCALA Y SUS MUNICIPIOS (VIGENTE EN 2013).
+
+CLAVE DE TESIS: 2a./J. 105/2017 (10a.)
+LOCALIZACIÓN: [J]; 10a. Época; 2a. Sala; Gaceta S.J.F.; Libro 46, Septiembre de 2017; Tomo I; Pág. 665
+INSTANCIA: Segunda Sala (S.C.J.N.)
+ÉPOCA: 10a. Época
+FECHA DE PUBLICACIÓN: 2017-09-01T10:10:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2015052
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: El supuesto jurídico que resuelve es la aplicabilidad supletoria del artículo 48 de la Ley Federal del Trabajo a la legislación laboral de los servidores públicos del estado de Tlaxcala y sus municipios. El criterio establecido es que dicho artículo no resulta aplicable de manera supletoria a la Ley Laboral de los Servidores Públicos del Estado de Tlaxcala y sus Municipios, toda vez que esta última constituye un régimen jurídico autónomo y especializado que cuenta con sus propias disposiciones para regular materias como los salarios vencidos, por lo que no procede acudir a la legislación federal laboral para suplir sus lagunas normativas. El artículo 48 de la Ley Federal del Trabajo es el que se menciona en el rubro.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2015052

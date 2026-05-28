@@ -1,0 +1,20 @@
+RUBRO: PROYECTO DE RESOLUCIÓN EN FORMA DE LAUDO Y ACTA DE SU DISCUSIÓN Y VOTACIÓN. LA CIRCUNSTANCIA DE QUE NO OBREN DE MANERA SIMULTÁNEA EN EL SUMARIO DE UN JUICIO LABORAL, NO CONSTITUYE UNA VIOLACIÓN A LAS NORMAS QUE RIGEN EL PROCEDIMIENTO LABORAL, NI RESTA VALIDEZ AL LAUDO.
+
+CLAVE DE TESIS: PC.III.L. J/30 L (10a.)
+LOCALIZACIÓN: [J]; 10a. Época; Plenos de Circuito; Gaceta S.J.F.; Libro 60, Noviembre de 2018; Tomo II; Pág. 1777
+INSTANCIA: PLENO EN MATERIA DE TRABAJO DEL TERCER CIRCUITO. (Plenos de Circuito)
+ÉPOCA: 10a. Época
+FECHA DE PUBLICACIÓN: 2018-11-09T10:20:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2018340
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: El supuesto jurídico que resuelve es la validez del laudo cuando en el sumario del juicio laboral no obran de manera simultánea todos los documentos o pruebas. El criterio establecido es que la falta de simultaneidad en la presentación de documentos en el sumario no constituye una violación a las normas procedimentales laborales ni afecta la validez del laudo dictado, siempre que se respeten los requisitos esenciales del procedimiento. Esta resolución reconoce que la exigencia de simultaneidad no es un requisito indispensable para la validez de la resolución final, permitiendo mayor flexibilidad en la tramitación del procedimiento laboral.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2018340

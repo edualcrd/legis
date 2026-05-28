@@ -1,0 +1,20 @@
+RUBRO: RELACIÓN LABORAL. SI SE TIENE POR CONTESTADA LA DEMANDA EN SENTIDO AFIRMATIVO POR LA INASISTENCIA DEL PATRÓN A LA ETAPA DE DEMANDA Y EXCEPCIONES, ELLO ES INSUFICIENTE PARA CONDENARLO AL PAGO DE LAS PRESTACIONES EXIGIDAS, MÁXIME SI OBRAN DATOS QUE CONTRADICEN LA CONFESIÓN FICTA.
+
+CLAVE DE TESIS: I.6o.T. J/1 L (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; T.C.C.; Gaceta S.J.F.; Libro 22, Febrero de 2023; Tomo III; Pág. 3364
+INSTANCIA: SEXTO TRIBUNAL COLEGIADO EN MATERIA DE TRABAJO DEL PRIMER CIRCUITO. (T.C.C.)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2023-02-17T10:19:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2025974
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: Cuando el patrón no comparece a la etapa de demanda y excepciones en un juicio laboral, su inasistencia genera una confesión ficta que se tiene por contestada la demanda en sentido afirmativo; sin embargo, este criterio establece que tal confesión ficta es insuficiente por sí sola para condenar al patrón al pago de las prestaciones reclamadas, especialmente cuando existen datos o pruebas en el expediente que contradicen o desvirtuán el contenido de esa confesión ficta, requiriéndose un análisis integral de las pruebas aportadas para determinar la procedencia de las prestaciones demandadas.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2025974

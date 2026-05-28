@@ -1,0 +1,20 @@
+RUBRO: COMPETENCIA PARA CONOCER DE LOS JUICIOS LABORALES SUSCITADOS ENTRE UNA INSTITUCIÓN DE ASISTENCIA PRIVADA Y SUS TRABAJADORES. CORRESPONDE A LOS TRIBUNALES DE LAS ENTIDADES FEDERATIVAS DE LA MATERIA.
+
+CLAVE DE TESIS: 2a./J. 16/2022 (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; 2a. Sala; Gaceta S.J.F.; Libro 12, Abril de 2022; Tomo II; Pág. 1598
+INSTANCIA: Segunda Sala (S.C.J.N.)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2022-04-08T10:12:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2024419
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: La competencia para conocer de los juicios laborales que surjan entre una institución de asistencia privada y sus trabajadores corresponde a los tribunales laborales de las entidades federativas, no a la jurisdicción federal, estableciendo que estas instituciones, aunque realicen funciones de interés público, mantienen su naturaleza de empleadores privados sujetos a la legislación laboral local. El criterio resuelve el supuesto de conflicto de competencia territorial y jurisdiccional cuando trabajadores de instituciones de asistencia privada promueven demandas laborales, determinando que los tribunales estatales de la materia son los órganos competentes para conocer y resolver estas controversias.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2024419

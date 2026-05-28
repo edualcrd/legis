@@ -1,0 +1,20 @@
+RUBRO: ORGANISMOS DESCENTRALIZADOS DE CARÁCTER FEDERAL. EL RÉGIMEN LABORAL PACTADO A TRAVÉS DE NEGOCIACIONES INDIVIDUALES O COLECTIVAS, CON ANTERIORIDAD A LA FECHA EN QUE SE CONSIDERA DE APLICACIÓN OBLIGATORIA LA JURISPRUDENCIA P./J. 10/2021 (11a.), DEBE REGIR LAS RELACIONES CON SUS PERSONAS TRABAJADORAS.
+
+CLAVE DE TESIS: 2a./J. 54/2023 (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; 2a. Sala; Gaceta S.J.F.; Libro 30, Octubre de 2023; Tomo III; Pág. 3083
+INSTANCIA: Segunda Sala (S.C.J.N.)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2023-10-06T10:16:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2027348
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: Los organismos descentralizados de carácter federal que hayan pactado un régimen laboral específico mediante negociaciones individuales o colectivas antes de la entrada en vigor de la jurisprudencia P./J. 10/2021 (11a.) deben continuar aplicando ese régimen laboral a sus relaciones con los trabajadores, sin que la nueva jurisprudencia afecte retroactivamente los acuerdos ya celebrados. El criterio establece que los pactos laborales suscritos con anterioridad a la fecha de aplicación obligatoria de dicha jurisprudencia conservan su validez y eficacia, prevaleciendo la autonomía de la voluntad de las partes sobre la aplicación retroactiva de nuevos criterios jurisprudenciales. Esta solución protege la seguridad jurídica de las relaciones laborales ya constituidas y respeta los compromisos contractuales adquiridos antes del cambio jurisprudencial.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2027348

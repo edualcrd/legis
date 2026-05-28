@@ -1,0 +1,20 @@
+RUBRO: SECRETARIO INSTRUCTOR. CARECE DE FACULTADES PARA EMITIR RESOLUCIONES QUE RESUELVAN EN DEFINITIVA EL PROCEDIMIENTO LABORAL O LO DEN POR CONCLUIDO.
+
+CLAVE DE TESIS: XXVIII.1o. J/1 L (11a.)
+LOCALIZACIÓN: [J]; 11a. Época; T.C.C.; Gaceta S.J.F.; Libro 18, Octubre de 2022; Tomo IV; Pág. 3386
+INSTANCIA: PRIMER TRIBUNAL COLEGIADO DEL VIGÉSIMO OCTAVO CIRCUITO. (T.C.C.)
+ÉPOCA: 11a. Época
+FECHA DE PUBLICACIÓN: 2022-10-21T10:31:00Z
+TIPO: Jurisprudencia OBLIGATORIA
+REGISTRO DIGITAL (IUS): 2025398
+FUENTE: Gaceta del Semanario Judicial de la Federación
+
+TEXTO_SINTETICO: El secretario instructor carece de facultades para emitir resoluciones que resuelvan en definitiva el procedimiento laboral o lo den por concluido, ya que sus funciones se limitan a tareas de instrucción y tramitación del expediente. El criterio establecido por la jurisprudencia determina que únicamente el juez laboral competente tiene la autoridad para dictar resoluciones que cierren o terminen definitivamente el procedimiento, siendo nulas aquellas que emita el secretario instructor que pretendan resolver el fondo del asunto o dar por terminado el juicio.
+
+NOTA: Esta tesis fue extraída del API público del Semanario Judicial
+de la Federación (sjf2.scjn.gob.mx). El cuerpo completo de la tesis
+NO está disponible en el listing endpoint — solo el rubro y los
+metadatos. El bloque TEXTO_SINTETICO (si está presente) es una
+síntesis del rubro generada con IA para mejorar la recuperación; NO es
+el texto oficial de la tesis. Para verificar el texto íntegro consultar:
+  https://sjf2.scjn.gob.mx/detalle/tesis/2025398
