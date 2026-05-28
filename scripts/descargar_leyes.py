@@ -3,10 +3,15 @@ Descarga el corpus base de leyes federales y criterios IMSS.
 
 Fuentes (todas son PDFs digitales estables, sin auth, sin JS):
     - Cámara de Diputados (diputados.gob.mx):
-        * LFT (Ley Federal del Trabajo)
-        * LSS (Ley del Seguro Social)
-        * LFTSE (Ley Federal de los Trabajadores al Servicio del Estado)
-        * CPEUM (Constitución Política)
+        * Leyes y códigos (bajo /LeyesBiblio/pdf/): LFT, CPEUM, LSS, LFTSE,
+          Ley del INFONAVIT, Ley del ISSSTE, Ley Federal para Prevenir y
+          Eliminar la Discriminación, Ley General para la Inclusión de las
+          Personas con Discapacidad, Ley General de Acceso de las Mujeres a
+          una Vida Libre de Violencia, Código Civil Federal y Ley Federal de
+          Procedimiento Administrativo.
+        * Reglamentos (rutas distintas, /LeyesBiblio/regla/ y /regley/):
+          Reglamento Federal de Seguridad y Salud en el Trabajo y Reglamento
+          de la LSS en materia de afiliación (RACERF).
     - IMSS (imss.gob.mx): criterios normativos descubiertos dinámicamente
       desde la página índice imss.gob.mx/patrones/criterios-normativos
 
@@ -51,13 +56,37 @@ USER_AGENT: str = (
 TIMEOUT_SECONDS: int = 60
 CHUNK_BYTES: int = 64 * 1024
 
-# Leyes federales — URLs verificadas el 2026-05-17 contra diputados.gob.mx
+# Leyes federales y códigos — URLs verificadas contra diputados.gob.mx
+# (las 4 base el 2026-05-17; las añadidas el 2026-05-28, todas 200 application/pdf).
+# OJO: la 1ª columna (source_code) es el código INTERNO de Legis y debe coincidir
+# con SOURCE_TO_TYPE de src/ingest.py y SOURCE_LABELS de src/rag.py. El nombre del
+# PDF en diputados puede diferir del código (p. ej. INFONAVIT vive en LIFNVT.pdf).
 LEYES_FEDERALES: list[tuple[str, str, str]] = [
     # (source_code, output_basename, url)
-    ("LFT",   "LFT_completa",   "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFT.pdf"),
-    ("CPEUM", "CPEUM_completa", "https://www.diputados.gob.mx/LeyesBiblio/pdf/CPEUM.pdf"),
-    ("LSS",   "LSS_completa",   "https://www.diputados.gob.mx/LeyesBiblio/pdf/LSS.pdf"),
-    ("LFTSE", "LFTSE_completa", "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFTSE.pdf"),
+    ("LFT",        "LFT_completa",        "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFT.pdf"),
+    ("CPEUM",      "CPEUM_completa",      "https://www.diputados.gob.mx/LeyesBiblio/pdf/CPEUM.pdf"),
+    ("LSS",        "LSS_completa",        "https://www.diputados.gob.mx/LeyesBiblio/pdf/LSS.pdf"),
+    ("LFTSE",      "LFTSE_completa",      "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFTSE.pdf"),
+    ("LINFONAVIT", "LINFONAVIT_completa", "https://www.diputados.gob.mx/LeyesBiblio/pdf/LIFNVT.pdf"),
+    ("LISSSTE",    "LISSSTE_completa",    "https://www.diputados.gob.mx/LeyesBiblio/pdf/LISSSTE.pdf"),
+    ("LFPED",      "LFPED_completa",      "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPED.pdf"),
+    ("LGIPD",      "LGIPD_completa",      "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGIPD.pdf"),
+    ("LGAMVLV",    "LGAMVLV_completa",    "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGAMVLV.pdf"),
+    ("CCF",        "CCF_completo",        "https://www.diputados.gob.mx/LeyesBiblio/pdf/CCF.pdf"),
+    ("LFPA",       "LFPA_completa",       "https://www.diputados.gob.mx/LeyesBiblio/pdf/LFPA.pdf"),
+    # Opcional, fuera del foco laboral — URL verificada (200 OK) pero NO se
+    # descarga por defecto. Para activarla: descomenta esta línea y añade
+    # "LGSNA" a SOURCE_TO_TYPE (src/ingest.py) y SOURCE_LABELS (src/rag.py).
+    # ("LGSNA",    "LGSNA_completa",      "https://www.diputados.gob.mx/LeyesBiblio/pdf/LGSNA_200521.pdf"),
+]
+
+# Reglamentos laborales — en diputados viven en rutas DISTINTAS de las leyes
+# (no bajo /pdf/): el RFSST en /LeyesBiblio/regla/ y el RACERF en /regley/.
+# URLs verificadas el 2026-05-28 (200 application/pdf).
+REGLAMENTOS: list[tuple[str, str, str]] = [
+    # (source_code, output_basename, url)
+    ("RFSST",  "RFSST_completo",  "https://www.diputados.gob.mx/LeyesBiblio/regla/n152.pdf"),
+    ("RACERF", "RACERF_completo", "https://www.diputados.gob.mx/LeyesBiblio/regley/Reg_LSS_MACERF.pdf"),
 ]
 
 IMSS_INDEX_URL: str = "https://www.imss.gob.mx/patrones/criterios-normativos"
@@ -195,18 +224,33 @@ def main() -> int:
 
     resultados: list[DownloadResult] = []
 
-    # === Leyes federales ===
+    # === Leyes federales y códigos ===
     logger.info("")
-    logger.info("[1/2] Leyes federales (diputados.gob.mx)")
+    logger.info("[1/3] Leyes federales y códigos (diputados.gob.mx)")
+    antes = len(resultados)
     for i, (source, basename, url) in enumerate(LEYES_FEDERALES, start=1):
         logger.info(" %d/%d %s", i, len(LEYES_FEDERALES), source)
         destino = CORPUS_RAW_DIR / f"{basename}_{fecha_iso}.pdf"
         resultados.append(descargar_pdf(url, destino, session))
         time.sleep(0.5)  # cortesía con el servidor
+    ok_leyes = sum(1 for r in resultados[antes:] if r.ok)
+    logger.info("  → %d/%d leyes/códigos descargados", ok_leyes, len(LEYES_FEDERALES))
+
+    # === Reglamentos ===
+    logger.info("")
+    logger.info("[2/3] Reglamentos laborales (diputados.gob.mx)")
+    antes = len(resultados)
+    for i, (source, basename, url) in enumerate(REGLAMENTOS, start=1):
+        logger.info(" %d/%d %s", i, len(REGLAMENTOS), source)
+        destino = CORPUS_RAW_DIR / f"{basename}_{fecha_iso}.pdf"
+        resultados.append(descargar_pdf(url, destino, session))
+        time.sleep(0.5)  # cortesía con el servidor
+    ok_regl = sum(1 for r in resultados[antes:] if r.ok)
+    logger.info("  → %d/%d reglamentos descargados", ok_regl, len(REGLAMENTOS))
 
     # === Criterios IMSS ===
     logger.info("")
-    logger.info("[2/2] Criterios normativos IMSS (imss.gob.mx)")
+    logger.info("[3/3] Criterios normativos IMSS (imss.gob.mx)")
     urls_imss = descubrir_pdfs_imss(session)
     for i, url in enumerate(urls_imss, start=1):
         logger.info(" %d/%d", i, len(urls_imss))

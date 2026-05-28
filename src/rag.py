@@ -1146,6 +1146,28 @@ def answer_query(
     }
 
 
+# Nombres legibles para el campo `leyes` de /api/stats (sidebar de la SPA).
+# Solo fuentes statutarias (leyes, códigos, reglamentos): SCJN (tesis/
+# jurisprudencia) e IMSS (criterios) NO van aquí — la UI los muestra como
+# filas aparte. El orden de este dict define el orden de aparición en el
+# sidebar. Los códigos deben coincidir con SOURCE_TO_TYPE de src/ingest.py.
+SOURCE_LABELS: dict[str, str] = {
+    "LFT": "Ley Federal del Trabajo",
+    "CPEUM": "Constitución — Art. 123",
+    "LSS": "Ley del Seguro Social",
+    "LFTSE": "Ley Federal de los Trabajadores al Servicio del Estado",
+    "LINFONAVIT": "Ley del INFONAVIT",
+    "LISSSTE": "Ley del ISSSTE",
+    "LFPED": "Ley Federal para Prevenir y Eliminar la Discriminación",
+    "LGIPD": "Ley General para la Inclusión de las Personas con Discapacidad",
+    "LGAMVLV": "Ley General de Acceso de las Mujeres a una Vida Libre de Violencia",
+    "CCF": "Código Civil Federal",
+    "LFPA": "Ley Federal de Procedimiento Administrativo",
+    "RFSST": "Reglamento Federal de Seguridad y Salud en el Trabajo",
+    "RACERF": "Reglamento de la Ley del Seguro Social (afiliación)",
+}
+
+
 def get_corpus_stats() -> dict[str, Any]:
     """
     Lee estadísticas agregadas del corpus indexado en ChromaDB.
@@ -1161,17 +1183,20 @@ def get_corpus_stats() -> dict[str, Any]:
             - 'tesis': documentos cuyo type == 'tesis'
             - 'sources': lista ordenada de códigos de fuente presentes
               (LFT, SCJN, IMSS, etc.)
+            - 'leyes': nombres legibles de las leyes/reglamentos/códigos
+              indexados (vía SOURCE_LABELS), en orden curado. Excluye SCJN
+              e IMSS, que no son leyes.
         Si ChromaDB no está inicializado o la colección está vacía,
         devuelve la misma estructura con ceros y lista vacía.
     """
     try:
         collection = _get_collection()
     except RuntimeError:
-        return {"chunks": 0, "documents": 0, "juris": 0, "tesis": 0, "sources": []}
+        return {"chunks": 0, "documents": 0, "juris": 0, "tesis": 0, "sources": [], "leyes": []}
 
     chunks_total = collection.count()
     if chunks_total == 0:
-        return {"chunks": 0, "documents": 0, "juris": 0, "tesis": 0, "sources": []}
+        return {"chunks": 0, "documents": 0, "juris": 0, "tesis": 0, "sources": [], "leyes": []}
 
     data = collection.get(include=["metadatas"])
     metas = data.get("metadatas", []) or []
@@ -1195,12 +1220,17 @@ def get_corpus_stats() -> dict[str, Any]:
         if src:
             sources.add(src)
 
+    # Nombres legibles, en el orden curado de SOURCE_LABELS, solo de las
+    # fuentes statutarias realmente presentes en el corpus.
+    leyes = [nombre for code, nombre in SOURCE_LABELS.items() if code in sources]
+
     return {
         "chunks": chunks_total,
         "documents": len(doc_ids),
         "juris": len(juris_docs),
         "tesis": len(tesis_docs),
         "sources": sorted(sources),
+        "leyes": leyes,
     }
 
 

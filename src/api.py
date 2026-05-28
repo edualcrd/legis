@@ -27,6 +27,7 @@ from pathlib import Path
 from typing import Literal
 
 from fastapi import Depends, FastAPI, Header, HTTPException, Query
+from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import FileResponse
 from fastapi.staticfiles import StaticFiles
 from pydantic import BaseModel, Field
@@ -99,6 +100,9 @@ class StatsResponse(BaseModel):
     juris: int
     tesis: int
     sources: list[str]
+    # Nombres legibles de leyes/reglamentos/códigos indexados (sin SCJN ni IMSS),
+    # para poblar dinámicamente "Fuentes activas" en el sidebar de la SPA.
+    leyes: list[str] = []
 
 
 class ErrorResponse(BaseModel):
@@ -168,6 +172,19 @@ app = FastAPI(
     docs_url="/api/docs",
     redoc_url=None,
     openapi_url="/api/openapi.json",
+)
+
+ALLOWED_ORIGINS: list[str] = [
+    "https://legis-psi.vercel.app",
+    "https://legis.mx",
+    "http://localhost:8000",
+]
+
+app.add_middleware(
+    CORSMiddleware,
+    allow_origins=ALLOWED_ORIGINS,
+    allow_methods=["GET", "POST", "OPTIONS"],
+    allow_headers=["Content-Type", "Authorization"],
 )
 
 

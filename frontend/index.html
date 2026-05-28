@@ -1188,14 +1188,14 @@
     }
 
     function formatSourcesList(stats) {
-      if (!stats || !Array.isArray(stats.sources)) return [];
-      const set = new Set(stats.sources);
-      const items = [];
-      if (set.has("LFT")) items.push(`Ley Federal del Trabajo (${VIGENCIA_ANYO})`);
-      if (set.has("CPEUM")) items.push("Constitución — Art. 123");
-      if (set.has("LSS")) items.push(`Ley del Seguro Social (${VIGENCIA_ANYO})`);
-      if (set.has("LFTSE")) items.push(`LFTSE (${VIGENCIA_ANYO})`);
-      if (set.has("LINFONAVIT")) items.push(`Ley del INFONAVIT (${VIGENCIA_ANYO})`);
+      if (!stats) return [];
+      const set = new Set(Array.isArray(stats.sources) ? stats.sources : []);
+      // Los nombres de leyes/reglamentos/códigos llegan ya formateados desde el
+      // backend (campo `leyes` de /api/stats), así el sidebar se actualiza solo
+      // al ampliar el corpus, sin tocar este archivo.
+      const items = Array.isArray(stats.leyes) ? [...stats.leyes] : [];
+      // IMSS y SCJN no son "leyes": se muestran como filas especiales (IMSS como
+      // fuente; SCJN como conteo agregado de tesis).
       if (set.has("IMSS")) items.push(`Criterios normativos IMSS (${VIGENCIA_ANYO})`);
       if (set.has("SCJN")) {
         const total = (stats.juris || 0) + (stats.tesis || 0);
@@ -2152,7 +2152,7 @@
           .then(setStats)
           .catch((e) => {
             console.error("Error al cargar stats:", e);
-            setStats({ chunks: 0, documents: 0, juris: 0, tesis: 0, sources: [] });
+            setStats({ chunks: 0, documents: 0, juris: 0, tesis: 0, sources: [], leyes: [] });
           });
       }, []);
 

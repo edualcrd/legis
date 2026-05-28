@@ -1499,7 +1499,7 @@ h3 { font-size: clamp(18px, 1.7vw, 21px); font-weight: 600; }
           <span class="app-dot"></span>
           <span class="app-dot"></span>
           <span class="app-dot"></span>
-          <span class="app-url">app.legis.mx</span>
+          <span class="app-url">legis-8abw.onrender.com</span>
         </div>
         <div class="app-body">
           <aside class="app-side">
@@ -1935,13 +1935,13 @@ h3 { font-size: clamp(18px, 1.7vw, 21px); font-weight: 600; }
   setInterval(() => { body.innerHTML = original; }, 10500);
 })();
 
-/* Stats reales del corpus desde /api/stats. Si no hay API, mantiene los
- * valores estáticos del HTML (que ya reflejan el corpus actual). */
+/* Stats reales del corpus desde la app desplegada. Si no hay API
+ * (CORS, red caída, etc.), mantiene los valores estáticos del HTML. */
 (function () {
   const targets = document.querySelectorAll('[data-stat]');
   if (!targets.length) return;
   const nf = new Intl.NumberFormat('es-MX');
-  fetch('/api/stats', { headers: { 'Accept': 'application/json' } })
+  fetch('https://legis-8abw.onrender.com/api/stats', { headers: { 'Accept': 'application/json' } })
     .then(r => r.ok ? r.json() : null)
     .then(stats => {
       if (!stats || typeof stats !== 'object') return;

@@ -62,6 +62,18 @@ SOURCE_TO_TYPE: dict[str, str] = {
     "LSS": "ley_federal",
     "LFTSE": "ley_federal",
     "LINFONAVIT": "ley_federal",
+    # Leyes y códigos añadidos al ampliar el corpus laboral (2026-05-28).
+    "LISSSTE": "ley_federal",
+    "LFPED": "ley_federal",
+    "LGIPD": "ley_federal",
+    "LGAMVLV": "ley_federal",
+    "CCF": "ley_federal",
+    "LFPA": "ley_federal",
+    # Reglamentos: están estructurados por artículo igual que una ley, así que
+    # usan el tipo "ley_federal" para entrar al carril de recuperación
+    # (rag.LAW_TYPES) y al perfil de chunking por artículo.
+    "RFSST": "ley_federal",
+    "RACERF": "ley_federal",
     "CPEUM": "constitucion",
     "IMSS": "criterio_imss",
     "STPS": "laudo",
